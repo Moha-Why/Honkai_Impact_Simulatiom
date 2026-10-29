@@ -224,10 +224,56 @@ Start: you are the man she has been ordered to quietly eliminate.
 - **The Will of Honkai** treats high Fate Deviation as an anomaly and may begin targeting him *in the real world*.
 - **The first merged heroine** walking into Schicksal and calling him by name: the moment the lie breaks.
 
-## 7. Open decisions
+## 7. Part One — Rita Rossweisse
 
-Decided: birthplace (Thessaloniki, Greek/Chinese), Earth death (overwork, missing last day), System voice (cold, rare slips), activation (lab breach, 2012), no Hyperion (stays at HQ and grows in secret), ages (AU), Theresa (petite adult), no merge cost.
+**Why Rita first**
+- She is at HQ, so first contact happens naturally.
+- Her mission is on a human scale, which suits a weak Eros. Few soul attacks means his memory is fairly safe.
+- She is the perfect first heroine for him to treat as "just a game": polite, teasing, dangerous, and she reads people for a living.
+- Her merge can break the System's lie in the most unsettling way possible.
+
+**First contact (2012):** after the lab breach, Otto sends Rita to the infirmary to "check on the survivor". It's a short, very polite conversation. Eros fanboys hard inside and says nothing outside. The System pings:
+```
+【First contact established: Rita Rossweisse】
+【Bond Mission unlocked: "Thirty Days"】
+【Reminder: simulations are deductions. Nothing inside them is real.】
+```
+
+**Bond Mission: "Thirty Days"**
+- **Branch:** Thessaloniki, 2011. His own past, one year before the draft. In this branch his cryptography research accidentally exposed a Schicksal communication channel, and Rita has been sent to "quietly resolve" the security risk. The System calls it "a deduction of an alternative past".
+- **Start (bad):** he wakes up already under watch. She is posing as the new tenant across the hall: charming, helpful, and lethal.
+- **Routes:**
+  - **Survive** (base clear): live through 30 days.
+  - **Heart:** she disobeys the order *of her own free will*.
+  - **Fall:** she lies to Otto for him, and keeps lying.
+  - **Equal:** she can never quite outmaneuver him, and she starts to enjoy that.
+  - **Chain:** she kills someone else to protect him, and can't explain to herself why.
+  - **Hidden:** ???
+- **Deaths:** mostly ordinary (poison, "accidents", a Schicksal cleanup team). Small bites only. That's what tempts him into deliberate resets, so it's a good place to show the "is it worth it?" calculation.
+- **Balance check:** a mortal, untrained engineer against Rita works only through brains: his code, his foreknowledge, and reading her.
+
+**The merge, and the lie cracking (end of Part One)**
+- The branch merges, and **the real past rewrites around Eros.** Now, in 2011, Rita *was* sent to assess him, chose to spare him, and **her report is the reason Schicksal drafted him.** His own memory says otherwise. Everyone else, and every file, says it's true. It's a merge conflict in his own life.
+- Rita meets him in an HQ corridor, smiles, and says something only the woman from those thirty days could know.
+- **Consequences:** Otto now has a report in his files where Rita protected a civilian from his orders. Depending on which routes Eros cleared, Rita arrives warmer, more corrupted, or more possessive. Her dreams of watching him die start.
+
+**Rita's voice (working notes)**
+- Unfailingly polite and formal. Calm, unhurried service-speech, with a soft laugh ("fufu") when she's amused.
+- Teasing, with a sadistic edge (腹黑): she enjoys watching people squirm, especially when she can do it with perfect manners.
+- Her real loyalty is to **Durandal**, not Otto. She is dangerous to anyone who threatens her captain.
+- She hides her own feelings behind service. A crack in that mask is a big moment.
+- *To verify through research:* exact forms of address (e.g. how she addresses Durandal and Otto), signature lines, and her later-canon arcs.
+
+## 8. The planned failed mission — Elysia
+
+- **When:** after Part One, **once he knows the simulations are real.** That makes the failure devastating. If he fails, the real Elysia stays dead.
+- **Why it fails:** he goes in trying to *play* her with game knowledge and a perfect "Elysia strategy", and she sees through scripted people better than anyone. Then the pre-era Herrscher war hits him with soul attacks. His lore goes first, and then everything else does too, all the way to **Ejection**.
+- **Result:** the branch **resets.** She remembers nothing, and he remembers everything. The mission goes on cooldown.
+- **The retry (a later arc):** a new starting point, and an Eros who has stopped performing. This becomes one of the high points of the whole story. It ties the failure to his hidden **Sincerity** meter.
+
+## 9. Open decisions
+
+Decided: birthplace (Thessaloniki, Greek/Chinese), Earth death (overwork, missing last day), System voice (cold, rare slips), activation (lab breach, 2012), no Hyperion (stays at HQ and grows in secret), ages (AU), Theresa (petite adult), no merge cost, **Part One: Rita**, **failed mission: Elysia**.
 
 1. What the System's creator wants (later)
-2. Which heroine gets the planned failed mission
-3. **First heroine for Part One** (once chosen: research Chinese fanfics for her voice and characterisation)
+2. Research pass on Rita (needs access to zh.moegirl.org.cn / wiki.biligame.com)
