@@ -54,6 +54,8 @@ each run writes a branch into the Imaginary Tree.
 - **Living heroines:** a completed run collapses into her as echoes (dreams,
   déjà vu, a sense she knows him), stronger with each objective completed.
   The echoes only surface once the real timeline reaches the run's start.
+  Mei's run is set in her third year, which is already happening when the
+  System binds, so her echoes can surface at once.
   People Eros was close to in the run (Kiana in Mei's run) may get fainter
   echoes.
 

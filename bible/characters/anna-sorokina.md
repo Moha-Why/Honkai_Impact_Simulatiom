@@ -15,5 +15,5 @@ the alternative is worse. Not unkind, just finished with arguing.
 - "Request denied. Next."
 - "Your contract is two years, Technician. You will serve two years."
 
-**In Chapter 1 (Run 1):** denies Eros's transfer request. Appears mostly in
+**In Chapter 2 (Run 1):** denies Eros's transfer request. Appears mostly in
 log lines.

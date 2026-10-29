@@ -36,5 +36,9 @@ Schicksal instead of against it.
 **Later:** his reports on Eros go up the chain. He's one of the first people
 who might notice that Eros knows things he shouldn't.
 
+**By 2014:** 49. Has coffee with Eros every March. Asked in 2010 why he
+said yes so fast. In 2013: "You know, Eros, you're very boring." The
+closest he has come to smiling.
+
 **In Chapter 1:** waits in Eros's room, makes the offer, takes him to the
 Far East Branch.

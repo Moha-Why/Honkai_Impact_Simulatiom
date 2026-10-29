@@ -34,5 +34,11 @@ public data. He doesn't care how, only whether he can code.
 **Later:** Eros's mentor and his access to Valkyrie combat data and
 battlesuit firmware.
 
-**In Chapter 1:** gives Eros the backlog; takes him to the computing core,
-where the System activates.
+**By 2014:** 53. Gave Eros the anomaly watch project (2010) and made him
+senior engineer (2012). Still sleeps on the cot.
+
+**In Chapter 1:** gives Eros the backlog; registers him on the computing
+core (a shock, nothing else).
+
+**In Chapter 2:** calls Eros down at 2 a.m. on January 14, 2014 for a
+biometric hold during the core surge, when the System binds.

@@ -2,14 +2,14 @@
 
 Where things stand. Update after every chapter.
 
-## As of: end of Chapter 1 (spring 2009, his second morning at the Far East Branch)
+## As of: end of Chapter 2 (January 15, 2014, the morning after Run 1)
 
 ### Eros's System
 
 ```
 [Status]
 Name: Eros
-Age: 18
+Age: 22
 Combat Rating: Civilian
 Honkai Adaptability: F
 Soul: Frayed
@@ -33,23 +33,33 @@ Stomach, Steady Hands, Cold Tolerance.
 
 ### What Eros holds
 
-- The original note reading "Eros" (in his wallet, behind his student card).
-- His Schicksal badge: SOFTWARE ENGINEER, COMBAT SIMULATION AND BATTLESUIT
-  SYSTEMS.
-- Dr. Mori's binder of three years of bugs.
-- Schicksal kept his laptop and his server.
+- The original note reading "Eros" (in his wallet, behind his old student
+  card).
+- The coded timeline: every game date he remembers, written as a scheduling
+  function (in his wallet). Since autumn 2013 it has a line noting the
+  heroines are older than in the game.
+- His badge: SENIOR ENGINEER (since 2012).
+- Theresa's strawberry candy, uneaten, in his desk drawer (since August
+  2009).
+- He runs the Far East Branch's anomaly watch code and gets Nagazora alerts
+  on his phone.
 
 ### Who knows what
 
 - **Nobody** knows about the System.
 - **Brenner** knows about the anomaly program and believes Eros had never
-  heard of Honkai before the draft. He noticed Eros said yes very fast and
-  wrote something down about it.
-- **Asami** thinks he's a weird genius who asked about operas.
-- **Dr. Mori** thinks he's the weather data kid who got a static shock.
+  heard of Honkai before the draft. He asked in 2010 why Eros said yes so
+  fast. Coffee every March. Thinks Eros is very boring.
+- **Asami** is his friend. Still D-rank by choice. Thinks his running is
+  funny and smart.
+- **Dr. Mori** is his boss and made him senior engineer. Thinks the core
+  surge on January 14, 2014 gave Eros a static shock.
+- **Theresa** knows his name and face, that he's "the weather data boy",
+  and that he fixed her students' actuator bug in eleven minutes.
 - **Professor Han** will be told Eros took a scholarship abroad. He warned
   Eros not to publish.
-- **Eros** pretended not to know the words Honkai and Valkyrie.
+- **Eros** pretended not to know the words Honkai and Valkyrie. He has told
+  no one that he expects the Third Eruption in Nagazora in February 2014.
 
 ### Run 1 people (inside the run only)
 

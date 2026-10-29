@@ -30,5 +30,9 @@ vehicle.
 **Later:** a friendly face at the branch, and his window into ordinary
 Valkyrie life: the D and C ranks nobody writes songs about.
 
+**By 2014:** 30. Eros's friend; drags him to the harbor bar once a month.
+Still D-rank; turned down C twice because C means combat support. "I've
+seen what comes back. I fly them back. I'm fine where I am."
+
 **In Chapter 1:** escort during the draft; tells him what D-rank logistics
 means on the plane; runs his Honkai Adaptability test.

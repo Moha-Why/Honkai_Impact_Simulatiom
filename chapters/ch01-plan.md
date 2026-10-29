@@ -2,10 +2,11 @@
 
 - **Length:** about 13,000 to 14,000 words.
 - **Narration:** first person, past tense.
-- **Covers:** Eros's last night on Earth to his second morning at Schicksal
-  (spring 2009), including Run 1.
-- **Change after planning:** the chapter was extended to include Run 1 and
-  its settlement (scenes 10 to 13 below).
+- **Covers:** Eros's last night on Earth to the end of his first day at
+  Schicksal (March 2009).
+- **Change after planning:** the System and Run 1 moved to Chapter 2, which
+  skips ahead almost five years. In this chapter the core only gives him a
+  shock.
 
 ## What the chapter has to do
 
@@ -153,77 +154,19 @@
 - His badge: Software Engineer, Combat Simulation and Battlesuit Systems. A
   dorm room with a bed, a desk, and a window facing a wall.
 
-### 8. Three years of bugs, about 1,500 words
+### 8. Three years of bugs
 
-- Dr. Mori: empty coffee cans stacked into a pyramid, a cot in his office,
-  three monitors. "You found us with weather data. Fine. Here's three years
-  of bugs."
-- Eros looks at the backlog, the cot and the coffee, and recognizes how he
-  died.
-- The work is Valkyrie training simulations and battlesuit firmware. In the
-  file tree he sees a locked folder labeled "Apocalypse, T." He has to fake
-  a cough.
-- The server room. The computing core hums and gives off a faint light.
-  "Runs on Honkai energy. Don't lick it." He puts his palm on the panel to
-  register his biometrics, and a jolt runs up his arm.
-- [Ding!] in his head. Mori sees nothing. Eros says it was static. "Does
-  that. Welcome to Schicksal."
+- Dr. Mori, the binder, the cot and the coffee-can pyramid. The locked
+  folder labeled "Apocalypse, T." The core: "Don't lick it." His palm on the
+  panel gives a jolt, the light flickers, and nothing else happens.
 
-### 9. Host, about 1,500 words
+### 9. The plan
 
-- Night, in his dorm room. He says hello to the ceiling and feels stupid,
-  and then it answers.
-- The System's voice: soft, polite, hard to place as a man's or a woman's.
-- His panel: Eros, 18, Civilian, Honkai Adaptability F, soul Whole, no
-  gifts, 0 Fate Fragments. Civilian stings twice in one day.
-- He asks what a programmer would ask: what a run is, how he gets in
-  (sleep), what he gets out (gifts, items, skills), and whether his
-  Adaptability can go up (rewards might do it). It answers the mechanics
-  exactly and nothing else.
-- "Imaginary." The lore nerd thinks of the Imaginary Tree straight away and
-  asks. "It's only a name, Host."
-- He asks if the simulations are real, and if he could hurt someone in
-  there. "No, Host. The simulations are not real. Nothing you do inside them
-  can hurt anyone. ♪" He believes it, and he's relieved.
-- "Heroine simulations will unlock when conditions are met." He asks what a
-  heroine is. It doesn't explain. He lies there grinning at the ceiling like
-  an idiot.
-- He asks if it brought him here. "I don't understand the question, Host."
-  He takes the note out of his wallet and looks at it.
-- Starter pack: a free first run, one free gift reroll, 100 Fate Fragments.
-- [Begin first simulation? Yes / No]. He sets an alarm for six because it's
-  his first week, then presses Yes.
-
-### 10. The draw
-
-- Five cards: Light Sleeper, Iron Stomach, Steady Hands, Cold Tolerance (all
-  White), Quick Learner (Green). He keeps Quick Learner and Light Sleeper and
-  saves the reroll ("you don't spend your only reroll on the tutorial").
-- The scenario: Siberian Branch, Outpost 7, March 1999. He has just thrown
-  away Cold Tolerance.
-
-### 11. Outpost 7
-
-- Arrival, Major Sorokina, Grisha and the felt boots. Log lines for the fog
-  of ordinary days. Transfer denied. New Year's Eve 1999, Grisha's photo of
-  his wife and daughter, "Here it comes every winter." The stash in the
-  snowmobile shed. The research city's wall.
-
-### 12. The Second Eruption
-
-- Light Sleeper wakes him. The hole in the sky. Grisha drives north for the
-  people on foot and gives Eros his hat. Baradiel fly past toward the
-  outpost. Grisha's radio cuts out. A Frost Chariot flips the snowmobile;
-  Honkai energy in the air; lights fighting in the north. He dies.
-
-### 13. Settlement and morning
-
-- One whole memory lost. Grade C. He takes Quick Learner permanently over
-  cold-weather experience and a multitool. Soul Frayed, 140 Fate Fragments.
-- He wakes at six, throws up, gets the memory back (learning to ride a
-  bike). "None of that was real ♪." He remembers the news in the common
-  room. Shower until the hot water runs out. Mori asleep on the cot; Eros
-  opens the binder.
+- That night he works out the date of the Third Eruption from the game
+  (Nagazora, February 2014): a little under five years. His plan: be boring,
+  be useful, learn how the place works, and be far from Nagazora when it
+  comes. He writes the timeline as code on a page from the binder and puts
+  it in his wallet with the note. Instant noodles, alarm for six.
 
 ## New characters
 
@@ -237,15 +180,11 @@ Profiles are in `bible/characters/`.
 - **Asami Kudo:** D-rank logistics Valkyrie. Chews gum and calls him
   "genius".
 - **Dr. Kenji Mori:** his overworked boss.
-- **The System:** soft voice; answers everything except questions about
-  itself.
 
 ## End-of-chapter state
 
-- **System:** Civilian, Adaptability F, soul Whole, no gifts, 100 Fate
-  Fragments, free first run used on Run 1, one free gift reroll unused.
-- **Eros holds:** the note (in his wallet) and his Schicksal badge. His
-  laptop was taken.
-- **Who knows what:** nobody knows about the System. Brenner knows about the
-  anomaly program and believes Eros knows nothing about Honkai beyond his
-  data.
+- **No System yet.**
+- **Eros holds:** the note and the coded timeline (in his wallet), his
+  Schicksal badge, Dr. Mori's binder. His laptop was taken.
+- **Who knows what:** Brenner knows about the anomaly program and believes
+  Eros knows nothing about Honkai beyond his data.

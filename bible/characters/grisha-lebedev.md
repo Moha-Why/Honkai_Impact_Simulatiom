@@ -30,6 +30,6 @@ while he works.
 **What he knows:** generators, engines and outpost rumors. Nothing about
 Honkai beyond "the special project" at the research city.
 
-**In Chapter 1 (Run 1):** gives Eros felt boots on day one; laughs off his
+**In Chapter 2 (Run 1):** gives Eros felt boots on day one; laughs off his
 warning to take leave at the end of 2000; goes back to the outpost radio
 during the eruption instead of running.

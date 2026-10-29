@@ -15,8 +15,11 @@
 - Since 2007 he keeps the original note in his wallet.
 - A child prodigy with an adult mind. University at 15; at 17 his
   anomaly-detection software exposes Honkai events Schicksal covered up.
-- Drafted by Schicksal in 2009, at 18. With no family, nobody asks where he
-  went.
+- Drafted by Schicksal in March 2009, at 18. With no family, nobody asks
+  where he went.
+- Works at the Far East Branch technical center for nearly five years
+  before the System binds to him in mid-January 2014, at 22, a few weeks
+  before the Third Eruption.
 - **Looks:** handsome, tall and slim, black hair worn a little too long
   because he forgets haircuts, dark eyes, the tired look of someone who
   codes until 3 a.m. Seems harmless, and uses that.

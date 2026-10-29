@@ -1,7 +1,10 @@
 # The Imaginary Simulation System
 
-**Role:** Eros's System. Bound to him on his first day at Schicksal, when he
-touches the Honkai-powered computing core.
+**Role:** Eros's System. Binds to him in mid-January 2014, nearly five years
+after he joined Schicksal, when he puts his hand on the Honkai-powered
+computing core during a surge, as Honkai readings climb around Nagazora a
+few weeks before the Third Eruption. On his first day in 2009, the same
+panel only gave him a shock.
 
 **Voice:** soft and even, hard to place as a man's or a woman's. Polite,
 warm, and a bit too reassuring.
@@ -33,6 +36,6 @@ stronger.
 straight away); it always knew his name; it dodges every question about
 where it came from.
 
-**In Chapter 1:** activates at the core; that night it introduces itself,
-shows his status, gives the starter pack, tells the lie, and offers the
-first run.
+**In Chapter 2:** binds at the core during the surge; that night it
+introduces itself, shows his status, gives the starter pack, tells the lie,
+and offers the first run.
