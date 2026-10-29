@@ -38,6 +38,83 @@ described as childlike.
 
 When in doubt, keep the focus on feelings, not physicality.
 
+## Power Scale
+
+Canon HI3 power levels are inconsistent. These are this story's rulings.
+
+### Stats
+Physique, Strength, Agility and Intellect share one scale. It is not linear:
+each band is a big jump over the last.
+
+| Value | Meaning |
+|---|---|
+| 10 | Average adult |
+| 20 | Peak human (Olympic athlete, world-class genius) |
+| 25–40 | D-rank Valkyrie |
+| 40–70 | C-rank Valkyrie |
+| 70–150 | B-rank Valkyrie |
+| 150–400 | A-rank Valkyrie |
+| 400–1000 | S-rank Valkyrie |
+| 1000+ | Herrscher |
+
+### Valkyrie ranks
+D and C ranks are logistics: medics, comms, drone operators, transport
+pilots, battlesuit technicians. They are still trained Valkyries with
+stigmata and can fight when they must.
+
+| Rank | Role | Power | Environmental damage in a full fight |
+|---|---|---|---|
+| D | Logistics | Survives being hit by a car; kills Honkai zombies and lesser beasts with a weapon | Breaks doors, cracks concrete |
+| C | Logistics / combat support | Flips a car, fires heavy weapons by hand, holds a corridor against a pack | Punches through brick walls, wrecks a room |
+| B | Frontline | Fast enough to dodge small-arms fire; a squad brings down large beasts | Levels a house, craters a road |
+| A | Elite, ace of a branch | Solos large beasts, cuts through a tank, brief bursts past the speed of sound | Destroys a building or a city block |
+| S | A handful in the world | Can hold off a Herrscher for a while as a team | Devastates a district; craters hundreds of meters wide |
+| Herrscher | — | Wields an authority over reality | City-level and up (the Third Eruption levels Nagazora); the strongest are continental or worse |
+
+A few canon figures (Kevin, Otto, Fu Hua) sit outside the ranks entirely.
+
+### Honkai Adaptability
+How much Honkai energy a body can take. It sets a hard cap on every
+physical stat. Women adapt far more easily than men; most men stay at F
+for life.
+
+| Grade | Stat cap | What it allows |
+|---|---|---|
+| F | 20 | Normal human. Honkai energy only harms him. |
+| E | 25 | Survives mild exposure. |
+| D | 40 | Basic battlesuits and weak stigmata. |
+| C | 70 | Standard battlesuits and stigmata. |
+| B | 150 | Frontline gear. |
+| A | 400 | Elite gear. |
+| S | 1000 | Top-tier gear; can touch a Divine Key without dying. |
+| Beyond S | None | The Herrscher threshold. |
+
+Stats gained above the cap are **stored**, not lost. They unlock the moment
+the cap rises.
+
+**Ways to raise it:** Purple-or-higher gifts that touch Honkai energy,
+special heroine-run rewards, and rare items (Honkai crystals, core
+fragments), which are risky to use.
+
+### Gear
+- **Battlesuits:** combat suits that amplify the wearer. Each needs a
+  minimum Adaptability grade.
+- **Stigmata:** imprints that grant a figure's strengths. Each needs a
+  minimum Adaptability grade.
+- **Divine Keys:** pre-era weapons, the strongest gear that exists. They
+  kill anyone below S-grade Adaptability who tries to use one.
+
+### Honkai threats
+
+| Threat | Handled by |
+|---|---|
+| Honkai zombies (infected humans) | D |
+| Lesser beasts | C |
+| Standard beasts | B |
+| Elite beasts | A, or a B squad |
+| Titan-class | S, or an A squad |
+| Herrscher | S team at minimum |
+
 ## Simulation System
 
 The Imaginary Simulation System tells Eros the simulations aren't real. They are:
@@ -71,22 +148,40 @@ each run writes a branch into the Imaginary Tree.
 - Once at least one objective is complete, his next death ends the run as a
   success instead of resetting it.
 
-### Talents
-Ranked F, E, D, C, B, A, S, SS, SSS. He draws talents at the start of each
-run and keeps one at the end; a duplicate raises its rank.
-
 ### Death and the soul
-- Ordinary deaths take a small piece of his soul. Repeating the same death
-  changes nothing.
-- Soul attacks (Herrschers, Honkai mental attacks, certain pre-era enemies)
-  take large chunks.
-- Inside a run, soul damage costs memories: past-life memories, things
-  learned during the run, and memories of earlier loops. It never touches
-  his foreknowledge of the game.
-- Leaving a run restores those memories. Soul Integrity only recovers over
-  real time.
-- If Soul Integrity drops too low, the System ejects him and the run fails.
-- He can die on purpose to force a reset, at the usual soul cost.
+Soul Integrity starts at 100%.
+
+| Death | Soul Integrity cost |
+|---|---|
+| Ordinary (fall, bullet, zombie, beast) | 1–3% |
+| Honkai-tainted (Honkai energy exposure, corrupted beasts) | 3–8% |
+| Minor soul attack (mental attacks, soul-targeting Honkai weapons) | 8–15% |
+| Herrscher-level soul attack | 15–40% |
+
+- Repeating the same death changes nothing.
+- Inside a run, soul damage costs memories in proportion to the damage:
+  past-life memories, things learned during the run, and memories of
+  earlier loops. It never touches his foreknowledge of the game.
+- Leaving a run restores those memories. Soul Integrity recovers about 1%
+  per real day.
+- Below 50% he can't start heroine runs; below 30%, no runs at all.
+- If he drops below 20% inside a run, the System ejects him and the run
+  fails.
+- He can die on purpose to force a reset, at the usual cost.
+
+### Fate Deviation
+**Per run (0–100):**
+
+| Range | State | Effect |
+|---|---|---|
+| 0–30 | Stable | None |
+| 30–60 | Disturbed | Honkai activity rises |
+| 60–90 | Unstable | Enemies grow stronger; events come early |
+| 90–100 | Collapse risk | The branch pushes back with correction events |
+
+**Global (real world):** rises with revivals, echoes and real-world changes.
+As it climbs it draws attention: first Otto, then Kevin and the World
+Serpent, and eventually the Will of Honkai itself.
 
 ### Aftermath
 - After a heroine run, Eros's identity in it is treated as dead or missing.
@@ -103,31 +198,76 @@ run and keeps one at the end; a duplicate raises its rank.
 - A floating panel only Eros can see, plus the System's voice, which opens
   notices with "[Ding!]". The voice is polite, warm, and a bit too
   reassuring.
-- **Status panel:** name, age, Physique, Strength, Agility, Intellect,
-  Honkai Adaptability, Soul Integrity, talents, Fate Fragments.
-  Honkai Adaptability starts at F; most men barely tolerate Honkai energy,
-  and the runs are how he breaks that ceiling.
+- **Status panel:** name, age, Combat Rating, Physique, Strength, Agility,
+  Intellect, Honkai Adaptability, Soul Integrity, gifts, Fate Fragments.
+- **Combat Rating:** his overall strength shown as a Valkyrie rank
+  equivalent. He starts as Civilian (unranked).
+- **Starting panel:** Physique 9, Strength 9, Agility 10, Intellect 28,
+  Honkai Adaptability F, Soul Integrity 100%.
 
-### Newbie gift
-A free first run, one free talent reroll, and a small batch of Fate
-Fragments.
+### Starter pack
+A free first run, one free gift reroll, and 100 Fate Fragments.
 
-### Talent draw
-He draws 5 talents at the start of a run and keeps 2. A rare hidden talent
-shows its rank as ???.
+### Gifts
+Gifts are traits. Items use the same color tiers.
+
+| Color | Meaning | Draw rate | Examples |
+|---|---|---|---|
+| White | A normal human trait | 50% | Light Sleeper, Iron Stomach |
+| Green | A talented human trait, top 1% | 28% | Quick Learner, Perfect Pitch |
+| Blue | Peak human, borderline superhuman | 14% | Photographic Memory, Pain Tolerance |
+| Purple | Superhuman, Valkyrie-tier | 6% | Honkai Resistance, Danger Sense, Minor Regeneration |
+| Gold | Exceptional, S-rank-adjacent; defines a fighting style | 1.8% | Lightning Affinity, Sword Saint's Eye |
+| Red | Herrscher-adjacent; touches reality itself, usually with a drawback | 0.2% | A fragment of an authority, Imaginary Sense |
+
+- **Hidden gifts** show as ??? until a trigger reveals their color.
+- **Draws:** 5 at the start of each run; he keeps 2 for that run.
+- **Permanent slots:** gifts kept after a run go into permanent slots. He
+  starts with 3.
+- **Upgrades:** merging two copies of the same gift raises it one color.
+  Merging can reach Gold but never Red; Red can only be drawn.
+- **The male ceiling:** physical gifts still obey his Adaptability cap; the
+  excess is stored.
 
 ### Settlement
-- **Normal runs:** scored on lifespan, achievements and hidden events. He
-  picks 1 reward out of 3; a high score adds picks.
-- **Heroine runs:** one reward for each objective completed, at higher
-  rarity.
-- **Reward types:** keep a talent, an experience package (skills learned),
-  a physical template (a percentage of his simulated body's stats), a rare
-  item, Fate Fragments.
+Every run is graded E, D, C, B, A or S.
 
-### Shop
-Fate Fragments buy talent rerolls, extra runs, and soul repair. Soul repair
-is expensive and limited, so it never replaces real recovery time.
+| Grade | Picks | Rarity bias |
+|---|---|---|
+| E–C | 1 of 3 | Mostly White and Green |
+| B–A | 2 of 3 | Blue and Purple appear |
+| S | 3 of 3 | Purple and up; Gold possible |
+
+- **Normal runs** are graded on lifespan, achievements and hidden events.
+- **Heroine runs** give one pick per objective completed, and every pick is
+  at least Blue.
+
+### Reward types
+- **Keep a gift:** move one gift from the run into a permanent slot.
+- **Experience package:** skills and knowledge from the run (swordsmanship,
+  languages, combat instinct) arrive as muscle memory. Technique can exceed
+  what his body can actually execute.
+- **Physical template:** 10–30% (by grade) of his simulated body's stat
+  advantage over his real body. Subject to the Adaptability cap; the excess
+  is stored.
+- **Item:** an object pulled out of the run. One per pick, nothing alive,
+  nothing larger than he can carry. Divine Keys and Herrscher cores can't be
+  taken.
+- **Fate Fragments:** currency. A normal run pays 20–200; a heroine run
+  pays 300 or more per objective.
+- **Heroine-run exclusives:** a **bond gift** unique to that heroine (its
+  color rises with objectives completed), her personal item, or an
+  Adaptability raise.
+
+### Shop (Fate Fragments)
+
+| Item | Price |
+|---|---|
+| Gift reroll | 50 |
+| Extra normal run | 100 |
+| Choose a normal run's scenario | 300 |
+| Soul repair (+5%, once a week) | 500 |
+| Extra permanent gift slot | 1000, rising each time |
 
 ### Entering a run
 - He enters through sleep. His body stays put, and one run takes about one
