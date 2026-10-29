@@ -1,5 +1,10 @@
 # Story Bible
 
+## Style
+
+- Written in English. No Chinese text; genre terms are written in English
+  (for example, "[Ding!]" for System notices).
+
 ## Content Rules
 
 ### Romance involving minors
@@ -30,7 +35,7 @@ When in doubt, keep the focus on feelings, not physicality.
 
 ## Simulation System
 
-The System (虚数模拟系统) tells Eros the simulations aren't real. They are:
+The Imaginary Simulation System tells Eros the simulations aren't real. They are:
 each run writes a branch into the Imaginary Tree.
 
 ### Simulation types
@@ -88,3 +93,87 @@ run and keeps one at the end; a duplicate raises its rank.
 - **Living heroines:** a completed run collapses into her as echoes (dreams,
   déjà vu, a sense she knows him), stronger with each objective completed.
   The echoes only surface once the real timeline reaches the run's start.
+
+### Interface
+- A floating panel only Eros can see, plus the System's voice, which opens
+  notices with "[Ding!]". The voice is polite, warm, and a bit too
+  reassuring.
+- **Status panel:** name, age, Physique, Strength, Agility, Intellect,
+  Honkai Adaptability, Soul Integrity, talents, Fate Fragments.
+  Honkai Adaptability starts at F; most men barely tolerate Honkai energy,
+  and the runs are how he breaks that ceiling.
+
+### Newbie gift
+A free first run, one free talent reroll, and a small batch of Fate
+Fragments.
+
+### Talent draw
+He draws 5 talents at the start of a run and keeps 2. A rare hidden talent
+shows its rank as ???.
+
+### Settlement
+- **Normal runs:** scored on lifespan, achievements and hidden events. He
+  picks 1 reward out of 3; a high score adds picks.
+- **Heroine runs:** one reward for each objective completed, at higher
+  rarity.
+- **Reward types:** keep a talent, an experience package (skills learned),
+  a physical template (a percentage of his simulated body's stats), a rare
+  item, Fate Fragments.
+
+### Shop
+Fate Fragments buy talent rerolls, extra runs, and soul repair. Soul repair
+is expensive and limited, so it never replaces real recovery time.
+
+### Entering a run
+- He enters through sleep. His body stays put, and one run takes about one
+  night however many years pass inside.
+- One normal run per day is free.
+- Heroine runs unlock when the System decides and announces it.
+
+## Eros (draft)
+
+### Basics
+- Named Eros in both lives. An orphan in both lives.
+- **Earth:** software engineer and die-hard HI3 player; died of overwork at
+  32 during a crunch, with an HI3 event still running on his second monitor.
+- **HI3:** born in 1991, left as a baby at an orphanage in Hangzhou with
+  nothing but a note reading "Eros". Who left it is an open question.
+- A child prodigy with an adult mind. University at 15; at 17 his
+  anomaly-detection software exposes Honkai events Schicksal covered up.
+- Drafted by Schicksal in 2009, at 18. With no family, nobody asks where he
+  went.
+- **Looks:** handsome, tall and slim, black hair, dark eyes, the tired look
+  of someone who codes until 3 a.m. Seems harmless, and uses that.
+
+### Personality
+- **Min-maxer:** treats every problem as a system to optimize: find the
+  rules, find the exploit, take the best route.
+- **Harmless on the surface:** easygoing, polite, a little lazy-looking at
+  work. People underestimate him, which suits his plan to stay invisible.
+- **Fan at heart:** he genuinely loves these characters and knows every
+  tragedy waiting for them. His inner voice still fanboys ("That's Mei. That
+  is actually Mei.").
+- **Shameless dreamer:** completely open with himself about wanting a harem.
+  Patient and charming in practice, not pushy.
+- **Lonely:** two lives without a family. He wants, more than anything, to be
+  someone people can't do without, which is why the objectives tempt him.
+
+### Flaws
+- **Arrogant about foreknowledge:** he assumes he knows how things go, and
+  is caught off guard when they don't.
+- **Treats people as routes:** while he believes the runs are fake, he sees
+  the heroines as flags and meters. Learning they are real turns this into
+  his guilt.
+- **Hides behind jokes:** deflects feelings with humor, even with himself.
+- **Physically ordinary:** knows he dies easily and plays it safe until the
+  System changes that.
+
+### Voice and habits
+- Casual and dry, full of programmer and gamer jargon (bug, patch, RNG,
+  speedrun). Professional and polite at work.
+- Talks to the System the way a programmer talks to a rubber duck.
+- Keeps the whole canon timeline in an encrypted file, written in code
+  nobody else would think to read.
+- Lives on instant noodles.
+- **Moral line:** gray. Willing to go dark inside the runs while he thinks
+  they're fake; more careful in the real world. A soft spot for orphans.
