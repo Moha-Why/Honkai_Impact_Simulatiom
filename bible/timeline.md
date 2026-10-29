@@ -15,7 +15,8 @@ story reaches them.
 | 2007 | Director Zhou dies of a stroke. She leaves Eros the original note. |
 | 2008 | Eros starts the anomaly program. |
 | 2009, spring | Eros, eighteen, uploads his findings. Schicksal drafts him the next evening and flies him to the Far East Branch that night. The System activates on his first day at work. Run 1 that night (Siberia, March 1999 to the Second Eruption). |
-| 2009, June 21 | Canon: Theresa transfers to the Far East Branch and founds St. Freya (some sources say St. Freya is older). |
+| 2009 | Theresa (S-rank) and her grandfather Otto are at odds. |
+| 2009, June 21 | Canon: Theresa transfers to the Far East Branch, away from Otto, and founds St. Freya (some sources say St. Freya is older). |
 | 2014 | The four heroines turn 18. |
 | February 2015 | Third Eruption, Nagazora, after Mei's partial awakening as the Herrscher of Thunder. Canon date is February 2014; moved one year so the heroines are 18. Mei's run is set before it: Chiba, Nagazora, her third year of high school, after her 18th birthday. |
 

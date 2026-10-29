@@ -28,9 +28,10 @@ A few canon figures (Kevin, Otto, Fu Hua) sit outside the ladder entirely.
 Canon lists very few S-rank Valkyries: Cecilia Schariac (dead in the Second
 Eruption, 2000), Reanna Brigantia (dead), and, later in the story, Bianka
 "Durandal" Ataegina, Rita Rossweisse and Li Sushang. Durandal and Rita are
-**not** S-rank in 2009; they're too young. In 2009 there may be no active
-S-rank at all. Theresa's rank isn't settled in canon sources; leave it
-unstated.
+**not** S-rank in 2009; they're too young.
+
+**Theresa Apocalypse is S-rank.** In 2009 she is the one active S-rank the
+story needs to account for.
 
 ## Valkyrie ranks
 
