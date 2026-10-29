@@ -2,9 +2,10 @@
 
 - **Length:** about 13,000 to 14,000 words.
 - **Narration:** first person, past tense.
-- **Covers:** Eros's last night on Earth to his first night at Schicksal
-  (spring 2009). It ends when he accepts the first simulation. Run 1 is
-  Chapter 2.
+- **Covers:** Eros's last night on Earth to his second morning at Schicksal
+  (spring 2009), including Run 1.
+- **Change after planning:** the chapter was extended to include Run 1 and
+  its settlement (scenes 10 to 13 below).
 
 ## What the chapter has to do
 
@@ -192,8 +193,37 @@
 - Starter pack: a free first run, one free gift reroll, 100 Fate Fragments.
 - [Begin first simulation? Yes / No]. He sets an alarm for six because it's
   his first week, then presses Yes.
-- **Notes:** no one-liner ending. The chapter ends on the alarm, a small
-  ordinary action.
+
+### 10. The draw
+
+- Five cards: Light Sleeper, Iron Stomach, Steady Hands, Cold Tolerance (all
+  White), Quick Learner (Green). He keeps Quick Learner and Light Sleeper and
+  saves the reroll ("you don't spend your only reroll on the tutorial").
+- The scenario: Siberian Branch, Outpost 7, March 1999. He has just thrown
+  away Cold Tolerance.
+
+### 11. Outpost 7
+
+- Arrival, Major Sorokina, Grisha and the felt boots. Log lines for the fog
+  of ordinary days. Transfer denied. New Year's Eve 1999, Grisha's photo of
+  his wife and daughter, "Here it comes every winter." The stash in the
+  snowmobile shed. The research city's wall.
+
+### 12. The Second Eruption
+
+- Light Sleeper wakes him. The hole in the sky. Grisha drives north for the
+  people on foot and gives Eros his hat. Beast-class beasts run past toward
+  the outpost. Grisha's radio cuts out. A Charger flips the snowmobile;
+  Honkai energy in the air; lights fighting in the north. He dies.
+
+### 13. Settlement and morning
+
+- One whole memory lost. Grade C. He takes Quick Learner permanently over
+  cold-weather experience and a multitool. Soul Frayed, 140 Fate Fragments.
+- He wakes at six, throws up, gets the memory back (learning to ride a
+  bike). "None of that was real ♪." He remembers the news in the common
+  room. Shower until the hot water runs out. Mori asleep on the cot; Eros
+  opens the binder.
 
 ## New characters
 

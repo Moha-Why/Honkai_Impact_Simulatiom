@@ -3,7 +3,8 @@
 ## System notices and speech
 
 The System's notices and its speech go in square brackets, each line on its
-own line. A notice that sounds in Eros's head starts with [Ding!] on its own
+own line. When a dialogue tag is needed, the bracketed speech can share a
+line with it, like normal speech: [Good morning, Host,] the System said. A notice that sounds in Eros's head starts with [Ding!] on its own
 line.
 
 ```

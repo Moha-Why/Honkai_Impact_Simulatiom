@@ -13,7 +13,7 @@ story reaches them.
 | 2006 | Eros starts university in Hangzhou at fifteen. Professor Han becomes his advisor. |
 | 2007 | Director Zhou dies of a stroke. She leaves Eros the original note. |
 | 2008 | Eros starts the anomaly program. |
-| 2009, spring | Eros, eighteen, uploads his findings. Schicksal drafts him the next evening. The System activates on his first day at work. Run 1 that night. |
+| 2009, spring | Eros, eighteen, uploads his findings. Schicksal drafts him the next evening and flies him to the Far East Branch that night. The System activates on his first day at work. Run 1 that night (Siberia, March 1999 to the Second Eruption). |
 | 2014 | The four heroines turn 18. |
 | Early 2015 | Third Eruption, Nagazora (moved so the heroines are 18). Mei's run is set before it: Chiba, Nagazora, her third year of high school, after her 18th birthday. |
 
