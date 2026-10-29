@@ -110,7 +110,8 @@ Bond Missions: locked (requires: first contact)
 - **Fully immersive.** He lives it in first person in real time (subjectively). The real world sees only one night's sleep.
 - **The start is normal or bad, but the timeline always holds a path to her.** The System places him somewhere that is rough now but *can* lead to the heroine if he finds and follows the right route (e.g. Rita: he starts as an orphan in her childhood, and one path makes him her childhood friend; years later they are the perfect maid and the perfect butler).
 - **Missions can span years.** He can grow up alongside her.
-- **Childhood segments are strictly platonic** (friendship, rivalry, family). Romance-related objectives and scenes only begin once both are adults.
+- **Under-18 rule:** nothing romantic or explicit is ever written while a heroine is under 18. She **can** develop feelings for Eros early (a crush, admiration, attachment), but Eros keeps it platonic, and romance-route conditions only count once she is 18+. Even after 18, intimacy stays non-graphic.
+- **Branch timing:** a Bond Mission's branch can run **up to the real present date, never beyond it.**
 - **Core goal of every mission: become irreplaceable in her life, by any method.** Light or dark, it all counts.
 - **Several objective routes are open at once.** Completing **one** clears the mission, and each extra route raises the grade (see 3g).
 - **Death → RESET** to the mission's start, with a cost (Memory Integrity, below).
@@ -227,50 +228,58 @@ Start: you are the man she has been ordered to quietly eliminate.
 - **The Will of Honkai** treats high Fate Deviation as an anomaly and may begin targeting him *in the real world*.
 - **The first merged heroine** walking into Schicksal and calling him by name: the moment the lie breaks.
 
-## 7. Part One — Durandal (Bianka Ataegina)
+## 7. Part One — Raiden Mei
 
-**Why Durandal first**
-- **The natural first contact is his own work.** She is HQ's strongest Valkyrie, and in 2012 she is assigned to stress-test his new combat simulator. She breaks it on day one.
-- **She is the only HQ heroine who believes in Schicksal completely.** That gives every route real weight: Fall (losing faith), Salvation (finding the truth without being broken), Heart (choosing him over her duty).
-- **Her mission can be human-scale for most of its length**, with the soul-attack danger arriving late (Herrscher-class battles in her adult years).
-- **Rita is her adjutant.** Part One plants Rita, which sets up Rita's own childhood-friend mission later and a natural rivalry.
+**Why Mei first**
+- She is **not** a "big gun" yet in 2014: just a civilian student in Changkong who doesn't know what's inside her. The mission is grounded and small until its climax.
+- It plays to Eros's job (a Schicksal engineer on a joint tech project).
+- The branch ends **before** Kiana arrives in Changkong, so the canon Kiana–Mei bond stays intact and becomes a dynamic later.
+- She has a strong "favorable path" built into her life: a lonely girl who looks after everything and everyone, and that no one looks after in return.
 
-**First contact (2012):** Durandal walks into the simulator lab, asks politely whether the system can handle "full output", and ten seconds later it can't. She apologises sincerely, Rita smiles behind her, and Eros quietly dies inside. The System pings:
+**Timing:** Part One happens in **2014**. Eros has spent two years quietly grinding Standard Simulations, sticking to his "get stronger first" plan. Mei is 19.
+
+**First contact (2014, Changkong):** Schicksal sends Eros to audit Honkai-sensor data at Raiden Ryoma's company. In the lobby, a polite young woman is asking reception to pass a lunchbox to her father, who is "too busy" to come down, again. Eros recognises her immediately and says nothing. The System pings:
 ```
-【First contact established: Bianka "Durandal" Ataegina】
-【Bond Mission unlocked: "The Blade's Keeper"】
+【First contact established: Raiden Mei】
+【Bond Mission unlocked: "Two Lunchboxes"】
 【Reminder: simulations are deductions. Nothing inside them is real.】
 ```
 
-**Bond Mission: "The Blade's Keeper"**
-- **Start (bad):** a branch where he is born as an orphan and taken into a Schicksal facility as a child. He has zero Valkyrie compatibility, so he is classed as **disposable support staff.** Young Bianka trains in the same facility, already the program's prodigy.
-- **The path:** the kid who repairs the broken training dummies → an engineering apprentice → the technician who maintains, then **designs**, her weapons and battlesuits → **the man who forged the blade she is named for.** Childhood is pure friendship and rivalry; anything romantic waits until both are adults.
+**Bond Mission: "Two Lunchboxes" (branch 2010 → 2014)**
+- **Start (bad):** he is a 15-year-old scholarship transfer to Mei's private academy. He is poor, an outsider, and on day one he gets on the wrong side of the school's elite.
+- **The path:**
+  - Mei is the student-council president who steps in.
+  - He becomes her vice-president.
+  - He is the one who notices she is carrying everything alone.
+  - Every day she makes a lunchbox for her absent father, and it comes back uneaten. **One path makes him the one who eats it.**
+- **Age rule in practice:** from 15 to 17 it's friendship and closeness. Her feelings can bud; his response stays platonic. Romance-route conditions only count once she's 18+ (2013–2014).
+- **Climax (2014):** an accident in her father's Honkai lab. A core inside Mei starts to stir: the first spark of the Herrscher of Thunder, years before canon.
 - **Routes:**
-  - **Heart:** she chooses him over a direct order, freely.
-  - **Fall:** her faith in Schicksal breaks, *because of him*, and she follows him instead.
-  - **Equal:** a man with no Valkyrie talent makes her admit that he is her equal (through his weapons, tactics, or mind).
-  - **Chain:** she cannot step onto a battlefield unless he tuned her blade himself.
-  - **Salvation:** she learns the truth about Otto and Schicksal without it breaking her.
+  - **Heart:** Mei, who never asks anyone for anything, asks him for help, and later chooses him freely.
+  - **Fall:** she reaches for the lightning *for him*, and accepts the power on her own terms.
+  - **Chain:** she cannot let him out of her sight. This is the 黑化芽衣 (dark Mei) direction the Chinese fandom loves.
+  - **Salvation:** he protects her from her father's experiment and its consequences without her losing herself.
   - **Hidden:** ???
-- **Deaths:** accidents, failed experiments and field missions early on (small bites); Herrscher-class battles later (soul attacks, the real danger).
+- **Deaths:**
+  - Mostly ordinary early on (accidents, the lab incident's debris and infected): small bites.
+  - **Herrscher lightning in the climax counts as a soul attack, and this is where the real danger is.**
 
 **The merge, and the lie cracking (end of Part One)**
-- Under the vanished-boy rule, the real Durandal now remembers **a boy at the facility who grew up beside her, built her blade, and then vanished.** Schicksal's records list him as missing, presumed dead.
-- She walks into his lab, sees his face, and her composure breaks for the first time anyone at HQ has ever seen.
+- Under the vanished-boy rule, real records now show a **2014 accident at Raiden Ryoma's lab with one missing student**: the vice-president who vanished saving the president.
+- Real Mei remembers four years with him. A few days later, at the company, she sees Eros, the same face and name. She doesn't run up to him. She comes back the next day with **two lunchboxes.**
 - **Consequences:**
-  - Otto now has a file on a vanished technician who looks exactly like his new engineer.
-  - Rita, who has never seen her captain like this, starts watching Eros very closely.
-  - Depending on which routes he cleared, Durandal comes back steadier, less faithful to Schicksal, or more dependent.
+  - Schicksal's report on the 2014 accident now contains a missing student who looks exactly like their engineer.
+  - Raiden Ryoma notices his daughter has stopped waiting for *him*.
+  - The Herrscher core is now stirring a year early.
+  - Depending on routes, Mei comes back warmer, darker, or possessive.
 
-**Durandal's voice (working notes, to verify through research)**
-- Earnest, upright and straightforward. She speaks plainly and means everything literally.
-- Proud of her strength and duty but not arrogant. Sincerely polite.
-- Socially a little out of step: sheltered and serious, often unaware of how she affects people.
-- Strong sense of justice, which is the root of everything in her arc.
+**Mei's voice (working notes, to verify through research)**
+- Gentle, polite and mature: the dependable one who cooks, cleans and organises everyone.
+- Hides her loneliness and her own wants behind responsibility.
+- Underneath, a very strong will and intense feelings. When she decides something, nothing moves her.
+- Practises kendo and is calm under pressure, until the people she cares about are threatened.
 
-**Alternates considered:** Theresa (visits HQ; her mission would start in the lab where Otto raised her), Mobius (pre-era; harder, better saved for later).
-
-**Later mission, Rita — "Perfect Service":** starts in her childhood as an orphan; one path makes Eros her childhood friend, and they grow up into the perfect maid and the perfect butler.
+**Later missions (not now):** Durandal ("The Blade's Keeper"), Rita ("Perfect Service": childhood friend → perfect maid and perfect butler).
 
 ## 8. The planned failed mission — Elysia
 
@@ -281,7 +290,7 @@ Start: you are the man she has been ordered to quietly eliminate.
 
 ## 9. Open decisions
 
-Decided: birthplace (Thessaloniki, Greek/Chinese), Earth death (overwork, missing last day), System voice (cold, rare slips), activation (lab breach, 2012), no Hyperion (stays at HQ and grows in secret), ages (AU), Theresa (petite adult), no merge cost, **Part One: Durandal**, **failed mission: Elysia**.
+Decided: birthplace (Thessaloniki, Greek/Chinese), Earth death (overwork, missing last day), System voice (cold, rare slips), activation (lab breach, 2012), no Hyperion (stays at HQ and grows in secret), ages (AU), Theresa (petite adult), no merge cost, **Part One: Mei**, **failed mission: Elysia**.
 
 1. What the System's creator wants (later)
-2. Research pass on Durandal (needs access to zh.moegirl.org.cn / wiki.biligame.com)
+2. Research pass on Mei (needs access to zh.moegirl.org.cn / wiki.biligame.com)
