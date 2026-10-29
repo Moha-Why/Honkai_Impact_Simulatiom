@@ -31,11 +31,11 @@ stigmata and can fight when they must.
 
 | Rank | Role | Power | Environmental damage in a full fight |
 |---|---|---|---|
-| D | Logistics | Survives being hit by a car; kills Honkai zombies and Minion-class beasts with a weapon | Breaks doors, cracks concrete |
+| D | Logistics | Survives being hit by a car; kills Honkai zombies and Beast-class beasts with a weapon | Breaks doors, cracks concrete |
 | C | Logistics / combat support | Flips a car, fires heavy weapons by hand, holds a corridor against a pack | Punches through brick walls, wrecks a room |
-| B | Frontline | Fast enough to dodge small-arms fire; a squad brings down Cavalier-class beasts | Levels a house, craters a road |
-| A | Elite, ace of a branch | Solos Elite-class beasts; the standard answer to an Emperor-class | Destroys a building or a city block |
-| S | A handful in the world | Handles Judgement-class; a team can hold off a Herrscher for a while | Devastates a district; craters hundreds of meters wide |
+| B | Frontline | Fast enough to dodge small-arms fire; a squad brings down Chariot-class beasts | Levels a house, craters a road |
+| A | Elite, ace of a branch | Solos Warlord-class beasts; the standard answer to an Emperor-class | Destroys a building or a city block |
+| S | A handful in the world | Handles Judgment-class; a team can hold off a Herrscher for a while | Devastates a district; craters hundreds of meters wide |
 | Herrscher | — | Wields an authority over reality | City-level and up (the Third Eruption levels Nagazora); the strongest are continental or worse |
 
 Eros starts as **Civilian**: a desk worker below Peak Human.

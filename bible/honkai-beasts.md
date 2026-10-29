@@ -1,7 +1,7 @@
 # Honkai Beasts
 
-Built from canon sources (the official artbook glossary, the HI3 wikis, and
-Chinese community guides) with this story's rulings where canon is vague or
+Built from canon sources (Baidu's entry, the HI3 wikis, and Chinese
+community guides) with this story's rulings where canon is vague or
 contradicts itself.
 
 ## What they are
@@ -24,10 +24,13 @@ contradicts itself.
 
 ## Classes
 
-The official artbook glossary lists the classes as Minion, Radical,
-Cavalier, Elite, Emperor, Judgement and Celestial. Chinese sources group
-them in two tiers: **lower beasts**, ranked by form, and **upper beasts**
-(Emperor-class and Judgement-class), which sit above them.
+Sources disagree on the class list. This story uses the Chinese canon order
+(Baidu's entry), from weakest to strongest. Beasts are classed by
+destructive power; the lower class names come from a beast's form.
+
+The official English wiki glossary uses a different list (Chariot,
+Archangel, Knight, Templar, Emperor, Judgment, Vipralopa). Where its names
+differ, they are treated as regional names for the same tiers.
 
 ### Not beasts: Honkai zombies
 
@@ -39,18 +42,25 @@ clears a street of them.
 
 | Class | What it is | Handled by |
 |---|---|---|
-| Minion | Small beasts and possessed animals. Swarm fodder. | D; trained soldiers in groups |
-| Radical | Fast, aggressive mid-size beasts that hunt in packs. | C |
-| Cavalier | Armored humanoid forms, the Knight and Paladin types. Disciplined and tough. | Low to Mid B; a B squad for several |
-| Elite | Heavy forms such as the Chariot and Catapult types: siege-sized, armored, built to break lines. The ceiling of the lower beasts. | High B to Low A |
+| Beast | Possessed animals and small spawn. Swarm fodder. | D; trained soldiers in groups |
+| Charger | Fast beasts that charge in packs. | Low to Mid C |
+| Knight | Armored humanoid forms. Disciplined and tough. | High C to Low B |
+| Ballista | Ranged siege forms that shell from a distance. | Mid B |
+| Chariot | Heavy armored forms built to break lines. | Mid to High B |
+| Sanctuary | Fortress-like forms (the English wiki's Templar). Very hard to kill. | High B; a B squad |
+| Warlord | Commanders that lead other beasts. The top of the lower beasts. | Low A |
 
 ### Upper beasts (have a core)
 
 | Class | What it is | Handled by |
 |---|---|---|
 | Emperor | Huge, cored beasts with power far beyond any lower beast. Each one is a named event. | An A-rank Valkyrie or several Valkyries together |
-| Judgement | The strongest true beasts. Rare, intelligent, and able to threaten a city on their own. | S |
-| Celestial | Story ruling: beasts at the edge of Herrscher level, almost never seen. One community guide names Chiyou, sealed in ancient times, as a beast at this level. | An S team, or a Herrscher |
+| Judgment | The strongest standard class. Can threaten a city alone. Canon: Benares, which died fighting Kiana's Herrscher of the Void form in Nagazora. | S |
+| End | A special class above Judgment. Canon examples: Mahasthamaprapta and Vishnu. | An S team, or a Herrscher |
+
+**Vishnu shows the "class at assessment" rule:** it is listed as Emperor in
+the current era and as Judgment or higher in the pre-era, depending on the
+source.
 
 ### Canon Emperor-class examples
 
@@ -58,7 +68,6 @@ clears a street of them.
 - **Pavati:** appeared in 1973. Theresa, then rated B, killed it alone
   after refusing an order to retreat. In this story that counts as a
   legendary feat, far above her rank at the time.
-- **Vishnu:** devours other beasts and takes their power.
 - **Tlaloc:** the "Gatekeeper" guarding the Eye of the Deep.
 
 ## Using beasts in the story
