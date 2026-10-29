@@ -2,36 +2,67 @@
 
 ## Death and the soul
 
-Soul Integrity starts at 100%.
+Every death wears away part of Eros's soul, and soul damage shows up as lost
+memory. Nothing is measured in numbers; his soul's condition is described
+by what he has lost.
 
-| Death | Soul Integrity cost |
+### What a death costs
+
+| Death | What it takes |
 |---|---|
-| Ordinary (fall, bullet, zombie, beast) | 1–3% |
-| Honkai-tainted (Honkai energy exposure, corrupted beasts) | 3–8% |
-| Minor soul attack (mental attacks, soul-targeting Honkai weapons) | 8–15% |
-| Herrscher-level soul attack | 15–40% |
+| Ordinary (fall, bullet, zombie, beast) | A scattered detail: a minor name, a face, a small part of an earlier loop |
+| Honkai-tainted (Honkai energy exposure, corrupted beasts) | A whole memory: a day, a conversation, one loop's key event |
+| Minor soul attack (mental attacks, soul-targeting Honkai weapons) | A stretch: weeks of a loop, a skill learned in the run, a chapter of his Earth life |
+| Herrscher-level soul attack | A large chunk, enough to drop him a whole stage at once |
 
 - Repeating the same death changes nothing.
-- Inside a run, soul damage costs memories in proportion to the damage:
-  past-life memories, things learned during the run, and memories of
-  earlier loops. It never touches his foreknowledge of the game.
-- Leaving a run restores those memories. Soul Integrity recovers about 1%
-  per real day.
-- Below 50% he can't start heroine runs; below 30%, no runs at all.
-- If he drops below 20% inside a run, the System ejects him and the run
-  fails.
-- He can die on purpose to force a reset, at the usual cost.
+- His **foreknowledge** of the game is never lost. His name goes last.
+
+### Stages of the soul
+
+| Stage | What he has lost |
+|---|---|
+| Whole | Nothing. |
+| Frayed | Small, scattered things: minor names, what he did on a given day, small details of earlier loops. |
+| Worn | Whole events: big parts of earlier loops, minor skills learned in the run, pieces of his Earth life (his apartment, his coworkers). |
+| Torn | Most of his earlier loops, so he can forget what killed him. His Earth life is mostly gone and his childhood in this life is fading. He remembers facts but not experiences. |
+| Hollow | Everything except his foreknowledge and his name. He knows HI3's future like a book he can't remember reading, and has no idea why he's here. |
+
+- When he hits **Hollow**, he gets **one final attempt** with no memories.
+  If he dies or fails in it, the System ejects him and the run fails.
+  Winning it is possible, and the most dramatic outcome.
+- He can die on purpose to force a reset. The question is always whether
+  the memory it costs is worth it.
+
+### Inside and outside the runs
+
+- Inside a run, the memory loss is real.
+- Leaving a run returns those memories to him in the real world, but the
+  soul itself stays damaged and heals slowly.
+- If he enters a new run before he has healed, the gaps reappear inside it.
+  He starts already missing what his stage has taken.
+
+### Healing and limits
+
+| Stage after a run | Healing time | What he can do |
+|---|---|---|
+| Frayed | A few days | Any run |
+| Worn | A couple of weeks | Any run, starting with gaps |
+| Torn | Months | Normal runs only |
+| Hollow (after ejection) | A long recovery | No runs at all |
 
 ## Fate Deviation
 
-**Per run (0–100):**
+Fate Deviation measures how much Eros has changed history.
 
-| Range | State | Effect |
-|---|---|---|
-| 0–30 | Stable | None |
-| 30–60 | Disturbed | Honkai activity rises |
-| 60–90 | Unstable | Enemies grow stronger; events come early |
-| 90–100 | Collapse risk | The branch pushes back with correction events |
+**Per run:**
+
+| State | Effect |
+|---|---|
+| Stable | None |
+| Disturbed | Honkai activity rises |
+| Unstable | Enemies grow stronger; events come early |
+| Collapse risk | The branch pushes back with correction events |
 
 **Global (real world):** rises with revivals, echoes and real-world changes.
 As it climbs it draws attention: first Otto, then Kevin and the World

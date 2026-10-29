@@ -19,8 +19,8 @@ Gifts are traits. Items use the same color tiers.
   starts with 3.
 - **Upgrades:** merging two copies of the same gift raises it one color.
   Merging can reach Gold but never Red; Red can only be drawn.
-- **The male ceiling:** physical gifts still obey his Adaptability cap; the
-  excess is stored.
+- **The male ceiling:** physical gifts can't push him past the rank his
+  Adaptability allows.
 
 ## Settlement
 
@@ -42,9 +42,6 @@ Every run is graded E, D, C, B, A or S.
 - **Experience package:** skills and knowledge from the run (swordsmanship,
   languages, combat instinct) arrive as muscle memory. Technique can exceed
   what his body can actually execute.
-- **Physical template:** 10–30% (by grade) of his simulated body's stat
-  advantage over his real body. Subject to the Adaptability cap; the excess
-  is stored.
 - **Item:** an object pulled out of the run. One per pick, nothing alive,
   nothing larger than he can carry. Divine Keys and Herrscher cores can't be
   taken.
@@ -61,5 +58,5 @@ Every run is graded E, D, C, B, A or S.
 | Gift reroll | 50 |
 | Extra normal run | 100 |
 | Choose a normal run's scenario | 300 |
-| Soul repair (+5%, once a week) | 500 |
+| Soul repair (mends small damage, from Frayed back to Whole; can't fix Torn; once a week) | 500 |
 | Extra permanent gift slot | 1000, rising each time |
