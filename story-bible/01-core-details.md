@@ -37,7 +37,26 @@ Status: details are still being chosen. No premise yet. Items marked **[DECIDE]*
 
 Alternatives: *Quantum Sea Simulator*, *Paradise Simulator*. **[DECIDE]**
 
-**Origin (lore-friendly, kept vague):** each simulation is built from "dead branches" and echoes of the Imaginary Tree and the Sea of Quanta. The people he meets inside are **echoes** made from the world's records. They are not the real people, but they aren't entirely fake either. That ambiguity will matter later, with Elysia and the Elysian Realm in particular.
+**What the System says:** "Simulations are deductions. Nothing inside them is real."
+
+**The truth: it is lying.**
+- **Standard Simulations** really are dead branches (lives Eros *could* have lived). This half-truth makes the lie believable.
+- **Bond Missions** run on **live branches** of the Imaginary Tree. When a mission is completed, the branch **merges** into the main timeline. Eros will eventually describe it in software terms: *branch, commit, merge, merge conflict.*
+- **Why it lies:** if Eros knew it was real he would hold back, and the System wants to see what he does when he thinks nothing counts. The moral gut-punch is that every dark method he used "because it's fake" turns out to have happened to a real woman. A second layer: whoever (or whatever) built the System has its own agenda. **[DECIDE later]**
+- **The reveal:** the first time a merged heroine shows up in the present and calls him by name.
+
+**Merge rules (balancing pre-era heroines coming back):**
+1. **The recorded past is not overwritten.** The history of the Flame-Chasers stays the same. Her death becomes a *disappearance* (sealed in an MEI Lab cryo-vault, drifting in the Sea of Quanta, preserved inside the Elysian Realm, etc.), and she **wakes in the present**.
+2. **There is a delay.** A merge "compiles" over days or weeks, so returns happen at dramatically useful moments rather than right away.
+3. **She returns weakened.** Her Herrscher core, Flame-Chaser powers or body are sealed or damaged, and recovering them becomes her own arc. Nobody comes back at full power.
+4. **The meters carry over.** She returns as the woman the branch made her. A high Corruption heroine arrives corrupted. A high Obsession heroine arrives obsessed. *How* he won her decides who comes home.
+5. **Memory:** she fully remembers the **final, successful loop**. The failed loops leak through as nightmares: she has seen him die in front of her, and she doesn't know why.
+6. **Merge conflicts:** high Fate Deviation means the world pushes back. The Will of Honkai takes notice, and paradox side effects appear (a person who no longer exists, a battle that went differently).
+7. **She is a strategic asset and a target.** Otto, Kevin (who *will* recognise Elysia and MEI) and Anti-Entropy will all want to know why pre-era women are walking around. Every heroine he brings back makes Eros more valuable and more hunted.
+8. **The heroines know about each other.** Pre-era heroines knew one another, and each remembers a version of him. "You told *me* that too."
+9. **The cost to Eros [DECIDE]:** each merge permanently erases a piece of his Earth-life game knowledge. The more heroines he brings back, the less of the future he can foresee.
+
+**Present-day heroines** follow the same rule. A completed mission set in a living heroine's past (or a what-if branch) merges, and she now *remembers* a man she knew back then.
 
 **Activation:** the first time he is exposed to concentrated Honkai energy after joining Schicksal (or the moment he understands which world he is in). **[DECIDE]**
 
@@ -52,7 +71,7 @@ Bond Missions: locked (requires: first contact)
 
 ### 3a. Standard Simulations (the classic 模拟器流 loop)
 
-- At the start, 3 random **talent cards** are drawn (rarity B / A / S / SS, after HI3's grades). He picks one.
+- At the start, 3 random **talent cards** are drawn, ranked **F → E → D → C → B → A → S → SS → SSS**. He picks one.
 - The simulation plays as a **fast text log**: *"Year 1: You wake up in a refugee camp outside…"*. He gets choices only at key nodes.
 - **Death ends it normally.** There is no penalty beyond the run being over.
 - **Settlement:** pick **1 of 3** rewards. Examples: knowledge from that life, skill proficiency (marksmanship, swordwork, field medicine), talent cards, small physical-fragment rewards (locked at first).
@@ -62,7 +81,8 @@ Bond Missions: locked (requires: first contact)
 
 - **Fully immersive.** He lives it in first person in real time (subjectively). The real world sees only one night's sleep.
 - **The start is never favourable.** Usually neutral, often bad. Examples: a pre-era conscript bleeding in a trench, a man someone was ordered to kill, a test subject.
-- **Each mission has one stated objective**, which is not always romantic: "Make her remember your name", "Survive 30 days", "Change one decision she will make".
+- **Core goal of every mission: become irreplaceable in her life, by any method.** Light or dark, it all counts.
+- **Several objective routes are open at once.** Completing **one** clears the mission, and each extra route raises the grade (see 3g).
 - **Death → RESET** to the mission's start, with a cost (Memory Integrity, below).
 - **Failing the objective without dying** → choose **[End Simulation]** (settle at a reduced grade) or **[Restart]** (costs Charge).
 
@@ -81,17 +101,18 @@ Bond Missions: locked (requires: first contact)
 - **Memory Integrity** (starts at 100%)
 - **Honkai Erosion**, his own infection level in high-Honkai eras
 
-### 3d. The death cost: Memory Integrity
+### 3d. The death cost: Memory Integrity (softened)
 
-Each death removes a chunk (suggested: −15% to −20%) **for the rest of that simulation**. It is lost in this order:
-
-1. **Game lore from Earth.** His biggest advantage goes first.
-2. **Details of previous loops.** The conclusions survive as gut feelings ("Don't take the left corridor"; he doesn't know why).
-3. **His current-life memories** (Schicksal, family, his real name and job).
-4. **His Earth identity.**
-5. **0%:** he forgets it is a simulation and lives on as a native until the simulation ends naturally. Then he is forcibly ejected with an empty reward pool, plus **real-world aftereffects** (days of memory fog, nightmares, flashes of a life he didn't live).
-
-When a mission ends, his memories come back, **but the deaths stay as vivid dreams.** Trauma carries over.
+- **−5% per death** for the rest of that simulation. Reaching 0% takes 20 deaths.
+- **Clearing an objective route mid-mission restores +10%.**
+- Losses come in threshold tiers:
+  - **75%:** his game lore starts to blur (names stay, details go).
+  - **50%:** details of earlier loops become gut feelings only.
+  - **25%:** his current life fades (Schicksal, family, his job).
+  - **10%:** his Earth identity slips.
+  - **0%: Ejection.** He lives on as a native until the branch closes, then gets thrown out with no reward, plus days of memory fog in the real world.
+- **The branch does not merge, but it isn't wiped either.** The heroine is left with the memory of a man who lived and died beside her without ever being "him". **This is reserved for one planned failed mission.**
+- When a mission ends his memories come back, and the deaths stay as nightmares.
 
 ### 3e. Rewards and what they bring back
 
@@ -99,7 +120,22 @@ Settlement grade **S / A / B / C / F**, based on the final meter values. Then pi
 - **Skills or knowledge** from that era (pre-era technology, swordsmanship, Honkai theory)
 - **Stigmata imprints**, abilities shaped by the heroine or the era (fits HI3's stigmata system)
 - **Physique fragments**, the slow fix for his "normal man" body (locked until a later System level)
-- **Bond Imprint:** the *real* woman feels an unexplained familiarity or déjà vu around him. **Only familiarity, never feelings.** He still has to earn affection in reality.
+- (Replaced) There is no "Bond Imprint". A completed Bond Mission **merges**, and the heroine herself is the reward (see the merge rules).
+
+### 3g. Objective routes (several open per mission)
+
+| Route | Clear condition (general form) | What she brings home after the merge |
+|---|---|---|
+| **Heart** 心 | She chooses him, freely, over her deepest attachment or duty | Love, and a stable bond |
+| **Fall** 堕 | She abandons her core ideal *because of him* | A darker, reshaped version of herself |
+| **Chain** 锁 | She can no longer function without him: he is her crutch, her reason, her cage | Dependence, and dangerous Obsession |
+| **Salvation** 救 | He breaks or rewrites the tragedy that defines her | Gratitude and a debt; she is freer |
+| **Equal** 衡 | She sees him as her peer or rival, the one person at her level | Respect, partnership, friction |
+| **Hidden** ？ | Unknown until he stumbles onto it | ??? |
+
+**Grade:** 1 route = **C**; 2 = **B**; 3 = **A**; 4 = **S**; all open routes (including Hidden) = **SS "Perfect Merge"**. Both the grade and the reward pool scale with it.
+
+**Conflicting routes:** Heart and Chain, and Fall and Salvation, pull against each other. Clearing both in one run is possible but extremely hard.
 
 ### 3f. Charge and progression
 
@@ -109,30 +145,43 @@ Settlement grade **S / A / B / C / F**, based on the final meter values. Then pi
 
 ## 4. Roster and the age line
 
-Romance (any meter beyond friendship) is **only with characters who are adults at that point in the story.**
+**AU age shift:** Kiana, Mei, Bronya and Seele are born **before 2000** and are **18+ when the real story begins** (main story start ~2017–2018; Eros is ~24–25). The Second Eruption stays in 2000; they lived through it as young children.
 
-**Adult heroines (eligible from the start):** Himeko, Rita, Durandal/Bianka, Fu Hua (adult-appearing immortal), Tesla, Einstein, pre-era: **Elysia, Dr. MEI, Mobius, Aponia, Eden, Vill-V, Pardofelis, Sakura**.
+Romance is only ever with characters who are adults *at that moment in the story*:
+- **Kiana, Mei, Bronya, Seele:** full heroines. Their Bond Missions are set in their adult years, or in **what-if branches** where they are already adults (e.g. "a branch where Changkong happened four years later"). There are no missions in their childhood.
+- **Other adults:** Himeko, Rita, Durandal/Bianka, Fu Hua, Tesla, Einstein; pre-era: Elysia, Dr. MEI, Mobius, Aponia, Eden, Vill-V, Pardofelis, Sakura.
+- **Never romance targets:** Theresa (child body, works as boss/comedic aunt), Griseo, Sirin, and any child.
 
-**Minors in canon during Part 1 (Kiana, Mei, Bronya, Seele, etc.):** non-romantic roles only (friend, mentor, big-brother figure) for as long as they are minors. Romance is possible only once they are adults later in the timeline. **[DECIDE]** whether to include them at that point.
+## 5. Sample Bond Missions (deeper, multi-route)
 
-**Never romance targets:** Theresa (child body, so she works as boss/comedic aunt figure), Griseo, Sirin, and anyone else who is a child.
+**Elysia — "Before the Thirteenth Flame"**
+Start: you are the last survivor of a wiped-out conscript squad on a Collapse front, bleeding out.
+- Heart: in the final war, she names *you* as the reason she wants to come back.
+- Fall: she breaks her "everyone is beautiful" ideal for you, and hates or abandons someone because of you.
+- Chain: she can't bring herself to go to her final fight without seeing you first.
+- Salvation: she enters her last battle with something to live for, so her ending becomes a disappearance instead of a death.
+- Hidden: ???
 
-## 5. Sample Bond Missions (examples of bad starts)
+**Mobius — "Specimen"**
+Start: you are her test subject.
+- Equal: she admits your mind is as interesting as her research.
+- Fall: she gives up an experiment, or her pursuit of "evolution", for you.
+- Chain: she refuses to let any other researcher near you. (Obsession spikes, and so does the danger.)
+- Salvation: her fear of being ordinary is answered, and *you* are the answer.
 
-- **Elysia (pre-era):** you are a conscript, the last survivor of a wiped-out squad on the 10th Collapse front. *Objective: make her remember your name when the war ends.*
-- **Dr. MEI (pre-era):** you are a junior software engineer at MEI Lab (your real job, in the worst era). *Objective: get her to look at something other than Kevin, just once.* Difficulty: extreme.
-- **Rita Rossweisse:** you are the man she has been ordered to quietly eliminate. *Objective: survive 30 days.* Trust starts at 0 and Affection is irrelevant until it isn't.
-- **Durandal:** a rookie in her unit during a Herrscher-class incident. *Objective: earn the right to spar with her, then make her call you by name.*
-- **Fu Hua (ancient Shenzhou):** a soldier in a city that will fall. *Objective: be one person an immortal doesn't forget.*
-- **Mobius:** test subject #… in her lab. *Objective: escape, or become "interesting".* Corruption and Obsession are both dangerous here.
-- **Himeko:** the Changkong-era evacuation, with you as a civilian she has to protect. *Objective: keep her alive past a night she shouldn't survive.*
+**Rita — "The Mark"**
+Start: you are the man she has been ordered to quietly eliminate.
+- Heart: she disobeys the order of her own free will.
+- Fall: she lies to Otto for you.
+- Equal: she can never quite out-maneuver you, and she enjoys that.
+- Chain: she kills someone else to protect you, then can't explain why to herself.
 
 ## 6. Big hooks for later
 
 - **The Elysian Realm** is itself a pre-era simulation. What happens when his simulated pre-era meets the Realm's Elysia, who may *remember*?
 - **Otto and Kallen:** the man who would burn the world to see the past again finds someone who can simulate it.
 - **The Will of Honkai** treats high Fate Deviation as an anomaly and may begin targeting him *in the real world*.
-- **Echoes vs. real people:** can a simulated echo ever cross over? (Keep this ambiguous.)
+- **The first merged heroine** walking into Schicksal and calling him by name: the moment the lie breaks.
 
 ## 7. Open decisions
 
@@ -141,5 +190,8 @@ Romance (any meter beyond friendship) is **only with characters who are adults a
 3. System name and voice (cold UI vs. one with hidden personality)
 4. Activation trigger
 5. Hyperion posting: yes or no, and when
-6. Whether canon-minor heroines join the romance roster once they are adults
+6. ~~Canon-minor heroines~~: decided. AU ages, 18+ at story start.
+8. What the System's creator wants (later)
+9. Whether each merge costs him Earth-life game knowledge
+10. Which heroine gets the planned failed / ejected mission
 7. **First heroine for Part One** (once chosen: research Chinese fanfics for her voice and characterisation)
