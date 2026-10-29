@@ -55,7 +55,7 @@ clears a street of them.
 | Class | What it is | Handled by |
 |---|---|---|
 | Emperor | Huge, cored beasts with power far beyond any lower beast. Each one is a named event. | An A-rank Valkyrie or several Valkyries together |
-| Judgment | The strongest standard class. Can threaten a city alone. Canon: Benares, which died fighting Kiana's Herrscher of the Void form in Nagazora. | S |
+| Judgment | The strongest standard class. Can threaten a city alone. Canon: Benares, which died fighting Husk: Nihilius (a Herrscher of the Void form) in Nagazora. | S |
 | End | A special class above Judgment. Canon examples: Mahasthamaprapta and Vishnu. | An S team, or a Herrscher |
 
 **Vishnu shows the "class at assessment" rule:** it is listed as Emperor in

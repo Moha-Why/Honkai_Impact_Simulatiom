@@ -172,7 +172,7 @@ She picked her spoon back up. "Finish your porridge."
 
 ---
 
-The winter I was nine, the news showed a disaster in Russia.
+In February 2000, a month before I turned nine, the news showed a disaster in Russia.
 
 We had one television, an old set in the common room with a coat hanger stuck in the back where the antenna had been. In the evenings the older kids were allowed to watch it for an hour, and the news came on before the cartoons, so we sat through the news.
 
@@ -186,7 +186,7 @@ The Second Eruption happened in Siberia in 2000. I'd read about it a hundred tim
 
 Then I laughed out loud. One of the little ones turned around and stared at me.
 
-I'd spent nine years in this world. I had been to school and the market and the dentist, and I'd stood in line for train tickets at the Lunar New Year with Director Zhou and two hundred thousand other people. Nobody had a sword. Nothing had come out of the sky. The worst monster I had ever seen was the dentist. Russia was a big country with a lot of factories, and things blew up.
+I'd spent almost nine years in this world. I had been to school and the market and the dentist, and I'd stood in line for train tickets at the Lunar New Year with Director Zhou and two hundred thousand other people. Nobody had a sword. Nothing had come out of the sky. The worst monster I had ever seen was the dentist. Russia was a big country with a lot of factories, and things blew up.
 
 "Who's on dishes?" the cook shouted from the kitchen.
 
@@ -466,7 +466,7 @@ She stared at me. "What opera?"
 
 "D-rank," I said. "Is that bad?"
 
-"It's the bottom," she said cheerfully. "D and C are support. B and up are the ones who go in first. A-ranks are the aces. S-ranks..." She waved a hand. "There's like five of them. You'll never meet one. If you ever do, be polite."
+"It's the bottom," she said cheerfully. "D and C are support. B and up are the ones who go in first. A-ranks are the aces. S-ranks..." She waved a hand. "S-ranks are basically a story they tell recruits. There's maybe one or two in the whole world at a time, and some years there's none. You'll never meet one. If you ever do, be polite."
 
 "What do the ones who go in first fight?"
 
@@ -484,9 +484,9 @@ It was big, in a gold frame, lit from above. It showed a man in white and gold r
 
 I slowed down without meaning to.
 
-The fan in me was thrilled. This was the man. The man who'd been running Schicksal for five hundred years, who had schemed his way through the whole history of the series, whose name came up in half the arguments I'd ever had on the forums. I knew the color of his eyes. I knew things about him that the people in this building would never know.
+The fan in me was thrilled. This was the man. The man who'd been running Schicksal for nearly five hundred years, who had schemed his way through the whole history of the series, whose name came up in half the arguments I'd ever had on the forums. I knew the color of his eyes. I knew things about him that the people in this building would never know.
 
-And because I knew those things, I knew the other part too. Otto collected interesting people. He had labs. He had experiments. He had, if I remembered right, clones growing in tanks somewhere, and he did what he wanted with the people who caught his attention, and nobody in five hundred years had stopped him.
+And because I knew those things, I knew the other part too. Otto collected interesting people. He had labs. He had experiments. He had, if I remembered right, clones growing in tanks somewhere, and he did what he wanted with the people who caught his attention, and nobody in all those centuries had stopped him.
 
 I decided right there in the corridor that I was going to be the most boring employee Schicksal had ever hired.
 
@@ -830,7 +830,7 @@ The other three cards faded out.
 
 I read it twice.
 
-Siberia. March 1999. I knew what happened in Siberia less than two years after that, and so did everyone who had ever played the game for more than a week.
+Siberia. March 1999. I knew what happened in Siberia less than a year after that, and so did everyone who had ever played the game for more than a week.
 
 I'd also just thrown away Cold Tolerance.
 
@@ -884,11 +884,11 @@ The simulation didn't make me live every minute. Most of the days went by in a k
 
 The theories were mostly stupid. Grisha thought it was a new kind of tank. The cook thought it was aliens. One of the radio operators had heard from a truck driver who'd heard from a guard that there were children there, a lot of them, and that the trucks that went north at night had their windows covered so you couldn't see who was inside.
 
-I listened to all of it and kept my mouth shut. I knew roughly what the research city was doing, and I knew roughly how it ended, and I didn't know nearly as much as I wanted to. The game had given me the shape of it in cutscenes and flashbacks, years after the fact. It hadn't given me a date.
+I listened to all of it and kept my mouth shut. I knew roughly what the research city was doing, and I knew roughly how it ended, and I didn't know nearly as much as I wanted to. The game had given me the shape of it in cutscenes and flashbacks, years after the fact. I knew it happened early in 2000. I didn't know the day.
 
 In July I tried to leave.
 
-I'd thought about it for weeks. This was a normal simulation, and the System had told me how normal simulations were graded. The longer I lived, the better. Staying at Outpost 7 until the end of 2000 was the worst possible plan for living a long time.
+I'd thought about it for weeks. This was a normal simulation, and the System had told me how normal simulations were graded. The longer I lived, the better. Staying at Outpost 7 into the new year was the worst possible plan for living a long time.
 
 Major Sorokina read my transfer request in about four seconds.
 
@@ -934,7 +934,7 @@ He thought this was the funniest thing anyone had ever said. Later, when the oth
 
 "Mm."
 
-I'd had two glasses by then, and it made it easier to say. "Take leave next winter. Next November, December. Go home to them for a while."
+I'd had two glasses by then, and it made it easier to say. "Take leave. Now, in January, as soon as you can. Go home to them for a few weeks."
 
 He laughed. "Leave! From here? You've met the major."
 
@@ -948,21 +948,17 @@ I told myself it wasn't real. I told myself that several times that night, sitti
 
 [2000, January. The computers do not explode. The coffee machine breaks. Grisha blames you.]
 
-[2000, February. You start a stash behind the fuel drums in the snowmobile shed. Two jerry cans of fuel. Tinned food. A map. A compass. Matches.]
+[2000, January. Grisha asks the major for two weeks' leave. She denies it. He tells you about it as a joke.]
 
-[2000, March. You add a second map.]
+[2000, January. You start a stash behind the fuel drums in the snowmobile shed. Two jerry cans of fuel. Tinned food. A map. A compass. Matches.]
 
-[2000, April. Grisha asks the major for leave in December. She denies it. He tells you about it as a joke.]
-
-[2000, June. The research city asks for two extra generators. You and Grisha drive them north. You are not allowed past the outer gate.]
+[2000, February. The research city asks for two extra generators. You and Grisha drive them north. You are not allowed past the outer gate.]
 
 I remembered that one. It was the closest I got. The research city was a gray wall three stories high in the middle of the snow, with guard towers on it and lights that stayed on during the day. Behind the wall I could see the tops of buildings, one of them much taller than the rest, with no windows on its upper floors. The guards at the gate took the generators off our truck with a forklift and signed for them and told us to leave, and we left. Grisha didn't say anything on the drive back, which wasn't like him.
 
-[2000, August. Radio traffic from the research city doubles.]
+[2000, February. Radio traffic from the research city doubles.]
 
-[2000, September. Radio traffic from the research city stops almost completely. The officers say it's equipment trouble.]
-
-[2000. The heavy snow comes early this year.]
+[2000, February. Radio traffic from the research city stops almost completely. The officers say it's equipment trouble.]
 
 ---
 
@@ -972,7 +968,7 @@ I didn't know what had done it. I was just awake, all at once, lying in my bunk 
 
 The glass of water on the shelf next to my bunk was shivering. Little rings were moving across the surface, over and over, and I could hear the glass making a faint high sound against the shelf.
 
-I could feel it too, now that I was paying attention. A hum coming up through the floor and into the frame of the bunk. It was very low, too low to hear properly, the same kind of hum I'd felt in the basement of the Far East Branch, standing in front of a cylinder full of light, a year and a half ago and also yesterday.
+I could feel it too, now that I was paying attention. A hum coming up through the floor and into the frame of the bunk. It was very low, too low to hear properly, the same kind of hum I'd felt in the basement of the Far East Branch, standing in front of a cylinder full of light, almost a year ago and also yesterday.
 
 I got up and went to the window.
 
@@ -1070,7 +1066,7 @@ The air tasted wrong. It tasted of metal, of the smell of a battery when you tou
 
 Honkai energy. I was breathing it. A body graded F, breathing the air next to a Honkai beast in the middle of an eruption.
 
-Far away to the north, behind the Charger, under the hole in the sky, there was light moving. Little flashes of it, very bright, very fast, moving against the black. Something up there was fighting. I couldn't see what. I didn't need to see. I knew who was supposed to be up there that night, and I knew how it ended for her, and I knelt in the snow with blood on my glove and watched the little lights move, because it was the only thing I could think of to do.
+Far away to the north, behind the Charger, under the hole in the sky, there was light moving. Little flashes of it, very bright, very fast, moving against the black. Something up there was fighting. I couldn't see what. I knew how that night ended for almost everyone under that sky, and I knelt in the snow with blood on my glove and watched the little lights move, because it was the only thing I could think of to do.
 
 The Charger lowered its head. I didn't dodge. My body was too broken to dodge. I watched it come across the snow toward me, the steam on its back and the light between its plates and the snow flying up from its feet, and my head stayed clear right up to the end. It noticed that there was frost on the tips of the horns. It noticed that the thing was much faster than it looked in the game. The last thing it noticed was Grisha's hat lying in the snow next to my hand, with the flaps still untied.
 
@@ -1157,7 +1153,7 @@ When I finally did, I sat up, and my chest hurt on the left side, a sharp pain w
 
 I went to the bathroom and threw up in the sink.
 
-Then I stood there holding on to the edges of it, looking at myself in the mirror. My face was gray. My eyes were red. I looked like I'd been awake for a year and a half, which I suppose I had.
+Then I stood there holding on to the edges of it, looking at myself in the mirror. My face was gray. My eyes were red. I looked like I'd been awake for most of a year, which I suppose I had.
 
 The memory had come back. I could tell, because I knew what it was now. It was the night I'd learned to ride a bicycle, when I was about ten, in my first life. A neighbor had held the back of the seat and run behind me and let go without telling me. It was a small memory. I hadn't thought about it in twenty years.
 

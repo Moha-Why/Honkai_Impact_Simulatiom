@@ -23,6 +23,15 @@ The ladder, from bottom to top:
 
 A few canon figures (Kevin, Otto, Fu Hua) sit outside the ladder entirely.
 
+### Canon S-ranks
+
+Canon lists very few S-rank Valkyries: Cecilia Schariac (dead in the Second
+Eruption, 2000), Reanna Brigantia (dead), and, later in the story, Bianka
+"Durandal" Ataegina, Rita Rossweisse and Li Sushang. Durandal and Rita are
+**not** S-rank in 2009; they're too young. In 2009 there may be no active
+S-rank at all. Theresa's rank isn't settled in canon sources; leave it
+unstated.
+
 ## Valkyrie ranks
 
 D and C ranks are logistics: medics, comms, drone operators, transport
@@ -35,8 +44,8 @@ stigmata and can fight when they must.
 | C | Logistics / combat support | Flips a car, fires heavy weapons by hand, holds a corridor against a pack | Punches through brick walls, wrecks a room |
 | B | Frontline | Fast enough to dodge small-arms fire; a squad brings down Chariot-class beasts | Levels a house, craters a road |
 | A | Elite, ace of a branch | Solos Warlord-class beasts; the standard answer to an Emperor-class | Destroys a building or a city block |
-| S | A handful in the world | Handles Judgment-class; a team can hold off a Herrscher for a while | Devastates a district; craters hundreds of meters wide |
-| Herrscher | — | Wields an authority over reality | City-level and up (the Third Eruption levels Nagazora); the strongest are continental or worse |
+| S | Extremely rare: one or two at a time at most, some years none | Handles Judgment-class; can hold off a Herrscher for a while | Devastates a district; craters hundreds of meters wide |
+| Herrscher | — | Wields an authority over reality | City-level and up; the strongest are continental or worse |
 
 Eros starts as **Civilian**: a desk worker below Peak Human.
 
