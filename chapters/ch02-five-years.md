@@ -194,13 +194,15 @@ In the autumn of 2013 I looked up Raiden Mei.
 
 I'd told myself for four years that I wouldn't. I had a plan, and the plan was to be boring and somewhere else. Looking her up was not boring. But the anomaly watch was mine, and Nagazora was on it like every other city in the region, and when you spend your whole working life watching numbers you start to wonder about the people behind them.
 
-I didn't use anything from Schicksal. I did it the way I'd done it at seventeen, from public data. A regional high school kendo tournament in the spring. Third place, girls' individual, Raiden Mei, third year, a high school in the Chiba district of Nagazora. A local newspaper's list of top exam results. Raiden Industries' annual report, with a photograph of her father on the second page.
+I didn't use anything from Schicksal. I did it the way I'd done it at seventeen, from public data. A regional high school kendo tournament in the spring. First place, girls' individual, Raiden Mei, third year, Chiba Academy, Nagazora. A local newspaper's list of top exam results. ME Corp's annual report, with a photograph of its chief executive, Raiden Ryoma, her father, on the second page.
 
 Third year. Born in 1995.
 
 In the game, the girls had been younger when the Third Eruption happened. Kiana and Mei and Bronya had all been born around 2000. I was sure of that, as sure as I was of anything about the story. Here, Mei was eighteen. I went looking for the others and couldn't find them in public records, which made sense, because Kiana and Bronya had never lived the kind of lives that end up in newspapers. But I found enough, in the margins of other things, to guess that it was the same for all of them.
 
 So it was Theresa's face, and now this. The world matched the game in almost everything that mattered, in every date and name and event I'd been able to check. But it had its own ages for some people, and its own faces, and I didn't know how many other small things were different that I hadn't found yet. I took the folded timeline out of my wallet and added a line to it, a function with a name that sounded like a database migration, and I didn't sleep well for a week.
+
+In November the business pages reported that Raiden Ryoma, chief executive of ME Corp, had been arrested for fraud. I read the article twice. I knew who had arranged that too, and I knew what it would do to his daughter, and there was nothing in the world I could do about either.
 
 ---
 
@@ -210,7 +212,7 @@ It was small at first. Little spikes that came and went, the same sharp shape I'
 
 These didn't go away. Through December and into January they kept coming, a little bigger each time.
 
-I knew what it was. Somewhere in Nagazora, a girl in her third year of high school who had come third in a kendo tournament was carrying something inside her that was starting to wake up. In a few weeks it would wake up properly, and the city would come apart.
+I knew what it was. Somewhere in Nagazora, a girl in her third year at Chiba Academy who had won a kendo tournament in the spring was carrying something inside her that was starting to wake up. In a few weeks it would wake up properly, and the city would come apart.
 
 I didn't tell anyone. I thought about it every night, lying in bed looking at the ceiling. I could have walked into Dr. Mori's office or the duty officer's room and said, that city is about to be hit by the worst Honkai event since Siberia. And they would have asked me how I knew. The anomaly watch already told them everything the data could tell them. Anything I added would have to come from somewhere, and the only place it could come from was a game on a different planet. I thought about the portrait of the man in white and gold in the corridor downstairs, and the folder Brenner never opened in front of me. It wasn't a difficult decision. I made it in about a minute and spent the next three weeks feeling sick about how easy it had been.
 
@@ -1558,7 +1560,7 @@ I sat very still on the edge of the bed with the phone in my hand and the screen
 
 The words sat in the middle of my vision, glowing softly. Outside the window, the concrete wall was lit by its lamp, the same as every night for five years.
 
-I thought about Mei. Not the one from the game, the one in the cutscenes with the lightning coming off her. The one in the kendo results, who'd come third in the spring and was in her third year of high school in the Chiba district of Nagazora, and was eighteen, and was somewhere in that city right now with something inside her waking up. I thought about Siberia and the hospital and the church. I thought about Fumi.
+I thought about Mei. Not the one from the game, the one in the cutscenes with the lightning coming off her. The one in the kendo results, who'd won in the spring and was in her third year at Chiba Academy in Nagazora, and was eighteen, and was somewhere in that city right now with something inside her waking up. I thought about Siberia and the hospital and the church. I thought about Fumi.
 
 My soul was Frayed, still, and heroine simulations didn't end when I died. They reset, and the resets cost.
 

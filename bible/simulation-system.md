@@ -24,7 +24,11 @@ each run writes a branch into the Imaginary Tree.
 
 ## Meters
 
-- Heroine: **Affection**, **Trust**, **Corruption**
+- Heroine: **Affection**, **Trust**, **Corruption**, shown as named levels,
+  not numbers:
+  - **Affection:** Stranger, Noticed, Friendly, Close, Fond, In Love
+  - **Trust:** Wary, Polite, Open, Confides, Relies
+  - **Corruption:** Untouched, Bending, Compromised, Fallen
 - World: **Fate Deviation**, which measures how much he has changed
   history. The higher it climbs, the harder the world pushes back.
 

@@ -31,7 +31,7 @@
    anomaly watch (2011). Senior engineer (2012). Ganesha appears in India
    (2012); he writes its simulation's movement code.
 8. **Mei (autumn 2013).** From public records: Raiden Mei, third year,
-   Chiba district, born 1995. Older than in the game. He adds a line to the
+   Chiba Academy, born 1995. Older than in the game. He adds a line to the
    coded timeline.
 9. **The readings (December 2013 to January 2014).** Nagazora spikes keep
    growing. He tells no one; he can't explain how he knows, and he thinks
