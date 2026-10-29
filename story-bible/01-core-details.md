@@ -191,7 +191,7 @@ Start: you are the man she has been ordered to quietly eliminate.
 4. Activation trigger
 5. Hyperion posting: yes or no, and when
 6. ~~Canon-minor heroines~~: decided. AU ages, 18+ at story start.
-8. What the System's creator wants (later)
-9. Whether each merge costs him Earth-life game knowledge
-10. Which heroine gets the planned failed / ejected mission
-7. **First heroine for Part One** (once chosen: research Chinese fanfics for her voice and characterisation)
+7. What the System's creator wants (later)
+8. Whether each merge costs him Earth-life game knowledge
+9. Which heroine gets the planned failed / ejected mission
+10. **First heroine for Part One** (once chosen: research Chinese fanfics for her voice and characterisation)
