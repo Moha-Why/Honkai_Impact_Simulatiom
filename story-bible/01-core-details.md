@@ -22,7 +22,7 @@ Status: details are still being chosen. No premise yet. Items marked **[DECIDE]*
 
 **Personality**
 - Composed and polite on the outside. Inside, his narration is a constant stream of fan commentary.
-- Confident and a bit of a schemer, as you'd expect from someone who has "read the script".
+- Confident and a bit of a schemer, as you'd expect from someone who has "read the script". He plans long-term: get stronger first, then get close.
 - **Arc:** he starts with "collect the heroines" and has to face the fact that they were never characters. The System's lie forces that moment on him (see 3).
 
 **Timeline anchor**
@@ -30,17 +30,23 @@ Status: details are still being chosen. No premise yet. Items marked **[DECIDE]*
 - 1995–1997: Mei (1995), Kiana (1996), Bronya and Seele (1997) born
 - 2000: Second Eruption (Eros 9)
 - 2012: drafted (Eros 21); System activates
-- 2014: posted to the Hyperion
+- 2014: turns down a transfer to the Hyperion; stays at HQ
 - ~2015: main story begins (Eros ~24; Mei ~20, Kiana ~19, Bronya/Seele ~18)
 
 ## 2. His Schicksal role
 
 - **Schicksal HQ, Technology Department, Combat Simulation Section.** He writes the software for the Valkyrie VR training simulators: combat data pipelines, Honkai-energy sensor firmware, battlesuit telemetry.
 - The irony carries the theme: he builds fake battle simulations for Schicksal during the day, and at night he runs real ones inside his own head.
-- **Hyperion posting (2014): Chief Systems Officer.** His rebuild of the Valkyrie combat simulator impresses Theresa, and she poaches him for the Far East Branch to overhaul the Hyperion's bridge AI, sensor suite and training deck. He serves under Captain Himeko.
-  - This keeps him **away from Otto's direct gaze while still within his reach**, and puts him on the ship right before the main story begins.
-  - He has natural daily contact with Himeko and Theresa, and through them the Part 1 cast, without attending St. Freya.
-  - Later hook: the Hyperion's "Captain" seat (canon's player role). Eros could end up taking it.
+- **He refuses the Hyperion on purpose.** He knows what is going to happen aboard it, and he doesn't want to be swept into canon before he is ready. His plan:
+  1. **Stay at HQ and keep a low profile.** He is a useful engineer, nothing more.
+  2. **Use his "harmless" System to grow strong in secret.** He believes it's all fake, so it's a risk-free training ground.
+  3. **Only then move toward the heroines, on his own terms**, before the big canon events hit.
+- **Why HQ still gives him contact:**
+  - **Rita** serves Otto at HQ.
+  - **Durandal** is HQ's top Valkyrie, and his simulators are her training tools.
+  - **Theresa** and other branch Valkyries visit for evaluations and simulator time.
+  - The **HQ archives** hold pre-era relics and records, which unlock pre-era Bond Missions.
+- **The cost of this plan:** it keeps him right under Otto's nose.
 - **Danger:** Otto Apocalypse reads everyone. A self-taught prodigy with oddly accurate intuitions about classified projects will catch Otto's attention. If Otto ever learned that Eros can *simulate the past*, Otto would do anything to get it (Kallen). That is a slow-burn threat that lasts the whole story.
 - Anti-Entropy (Tesla, Einstein, Welt) might also try to poach a software genius. This is a possible subplot.
 
@@ -124,20 +130,14 @@ Bond Missions: locked (requires: first contact)
 
 ### 3d. The death cost: Soul Damage → Memory Loss
 
-There is no fixed number per death. **What he loses depends on how badly his soul is damaged, which depends on how he died and who killed him.**
+There is no fixed number per death. Memory loss comes from **damage to his soul**, and the damage depends on **how** he died.
 
-| Death type | Soul damage | Memory loss |
-|---|---|---|
-| Accident, exposure, a common soldier, a small fight | Scratch | A sliver: a face, a name, one afternoon |
-| Honkai beasts, ordinary Honkai infection | Wound | A scene or a skill-memory |
-| Elite enemies: Valkyrie-, Templar- or Flame-Chaser-level | Deep wound | A whole chapter of his life |
-| **A Herrscher** | Tear | **A large chunk**: entire stretches of lore or his life |
-| Soul-targeting powers (Void, Imaginary, Sea of Quanta erosion, Kevin-tier) | Rupture | Massive and unpredictable |
+**Ordinary deaths: a small bite, every time.**
+Blades, bullets, falls, beasts, starvation, a Herrscher crushing him physically: any death that only destroys his body takes **a small, steady bite** of his soul. It's the same every time, however he died and however often.
+- **Dying on purpose is allowed.** Suicide to force a reset costs the same small bite. Whether it's *worth it* is Eros's own calculation: one more piece of his memory against a better run.
 
-**Modifiers:**
-- **Killed by the heroine herself:** heavier. The emotional wound cuts deeper.
-- **A death he chooses on purpose (suicide to reset):** **heavily penalised.** This stops "save-scumming".
-- **Dying the same way again:** the old wound reopens, so the loss is a little larger.
+**Soul attacks: the real danger.**
+Anything that strikes the soul itself takes **large chunks**. That includes a Herrscher's authority aimed at him, Void and Imaginary powers, Sea of Quanta erosion, Honkai erosion of the mind, and Kevin-tier existence-level attacks. The stronger the attacker's hold over souls or existence, the bigger the chunk. One bad soul-death can cost more than a dozen ordinary ones.
 
 **Order of loss** (as integrity falls):
 1. Game lore
@@ -226,7 +226,7 @@ Start: you are the man she has been ordered to quietly eliminate.
 
 ## 7. Open decisions
 
-Decided: birthplace (Thessaloniki, Greek/Chinese), Earth death (overwork, missing last day), System voice (cold, rare slips), activation (lab breach, 2012), Hyperion posting (Chief Systems Officer, 2014), ages (AU), Theresa (petite adult), no merge cost.
+Decided: birthplace (Thessaloniki, Greek/Chinese), Earth death (overwork, missing last day), System voice (cold, rare slips), activation (lab breach, 2012), no Hyperion (stays at HQ and grows in secret), ages (AU), Theresa (petite adult), no merge cost.
 
 1. What the System's creator wants (later)
 2. Which heroine gets the planned failed mission
