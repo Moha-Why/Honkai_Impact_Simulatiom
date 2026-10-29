@@ -31,5 +31,5 @@ while he works.
 Honkai beyond "the special project" at the research city.
 
 **In Chapter 2 (Run 1):** gives Eros felt boots on day one; laughs off his
-warning to take leave at the end of 2000; goes back to the outpost radio
+warning to take leave in January 2000; drives north for the survivors
 during the eruption instead of running.
