@@ -110,7 +110,7 @@ Bond Missions: locked (requires: first contact)
 - **Fully immersive.** He lives it in first person in real time (subjectively). The real world sees only one night's sleep.
 - **The start is normal or bad, but the timeline always holds a path to her.** The System places him somewhere that is rough now but *can* lead to the heroine if he finds and follows the right route (e.g. Rita: he starts as an orphan in her childhood, and one path makes him her childhood friend; years later they are the perfect maid and the perfect butler).
 - **Missions can span years.** He can grow up alongside her.
-- **Under-18 rule:** nothing romantic or explicit is ever written while a heroine is under 18. She **can** develop feelings for Eros early (a crush, admiration, attachment), but Eros keeps it platonic, and romance-route conditions only count once she is 18+. Even after 18, intimacy stays non-graphic.
+- **Under-18 rule (strict):** no character who is under 18 appears in any dating, romantic, or kissing scene, in missions, cutscenes, or branch text. This applies to minors paired with each other too, not only to Eros. Eros never initiates or takes part in romantic or physical contact with a heroine under 18. No route condition, meter, or reward may be tied to romance with a minor. A heroine's early attachment to Eros is written only as admiration, loyalty, or friendship, never as romance. Romance-route conditions count only once she is 18+, and even after 18, intimacy stays non-graphic.
 - **Branch timing:** a Bond Mission's branch can run **up to the real present date, never beyond it.**
 - **Core goal of every mission: become irreplaceable in her life, by any method.** Light or dark, it all counts.
 - **Several objective routes are open at once.** Completing **one** clears the mission, and each extra route raises the grade (see 3g).
@@ -252,7 +252,7 @@ Start: you are the man she has been ordered to quietly eliminate.
   - He becomes her vice-president.
   - He is the one who notices she is carrying everything alone.
   - Every day she makes a lunchbox for her absent father, and it comes back uneaten. **One path makes him the one who eats it.**
-- **Age rule in practice:** from 15 to 17 it's friendship and closeness. Her feelings can bud; his response stays platonic. Romance-route conditions only count once she's 18+ (2013–2014).
+- **Age rule in practice:** from 15 to 17 it's friendship, mentorship and closeness only. Her feelings are written as admiration or loyalty, never as romance, and no romance-route condition is tracked. Romance-route conditions count only once she's 18+ (2013–2014).
 - **Climax (2014):** an accident in her father's Honkai lab. A core inside Mei starts to stir: the first spark of the Herrscher of Thunder, years before canon.
 - **Routes:**
   - **Heart:** Mei, who never asks anyone for anything, asks him for help, and later chooses him freely.
