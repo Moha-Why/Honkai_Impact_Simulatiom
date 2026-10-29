@@ -7,35 +7,47 @@ Status: details are still being chosen. No premise yet. Items marked **[DECIDE]*
 ## 1. Eros — the protagonist
 
 **Previous life (our Earth)**
-- Software engineer and a long-time Honkai Impact 3rd player who knew the lore well. His dream was to win every heroine.
-- How he died: **[DECIDE]**. Options: overwork, an accident on the way to a version livestream, or something he can't remember at all (a hook for later).
+- Software engineer, 29, and a long-time Honkai Impact 3rd player who knew the lore well. His dream was to win every heroine.
+- **Death:** he collapsed at his desk at ~3 AM during a release crunch, with HI3 open on the second monitor. Overwork, heart failure.
+- **The hook:** the **last ~24 hours before his death are missing** from his memory. He can't remember that day at all. That gap is connected to the System and its creator, and it pays off much later.
 
 **New life (the Honkai world)**
-- **Born ~1993.** That makes him about 7 at the Second Eruption (Siberia, 2000) and early twenties when Part 1 begins in the mid-2010s.
-- **He believes this is a normal Earth.** Honkai events are hidden behind cover stories like "industrial disaster" or "meteor strike". He notices small differences (brands that don't exist, a slightly different history) and writes them off as a Mandela effect.
-- He never wrote any game notes as a child, because he didn't know he was in the game. So when the truth hits, he has to dig up 20-year-old memories of the lore. They are patchy and sometimes wrong, and that unreliability is useful for the story.
-- **The genius path:** an adult mind in a child's body. He skips grades, starts university at around 15 in computer science, and builds a real reputation (competition wins, a well-known open-source distributed-systems or cryptography project). That reputation is what Schicksal finds.
-- **The draft (~2011, age ~18):** a recruitment offer arrives from a shell company. During the interview he sees the Schicksal eagle crest. Inner monologue: *"Oh no." …then… "Oh. YES."*
-- **Body:** handsome, physically ordinary. Training gives him normal-person gains and nothing more. He is not a Valkyrie and can't become one. The System is what eventually changes that, much later.
-- **The Secret:** a running gag for now (medical intake exams, combat-suit fitting problems, and the fact that he can't just tell anyone what the System is either). Nothing explicit.
-- **Birthplace / heritage: [DECIDE]**. Options: (a) Southern Europe, which keeps the Greek name natural and puts him close to Schicksal HQ; (b) China, near the Far East Branch and Changkong; (c) mixed heritage.
+- **Born 1991 in Thessaloniki, Greece.** Father is a Greek structural engineer; mother is a Chinese translator. He grows up bilingual (Greek/English + Mandarin), which later makes him useful to both Schicksal HQ in Europe and the Far East Branch. The mixed heritage also helps explain the looks.
+- **Age 9 at the Second Eruption (Siberia, 2000).** The public only gets a cover story. **He believes this is a normal Earth**, and the odd differences (brands that don't exist, slightly different history) he writes off as a Mandela effect.
+- He never wrote down any notes about the game. When the truth hits, he has to dig up 20-year-old memories of the lore. They are patchy and sometimes wrong.
+- **The genius path:** university at 14 (computer science), a master's degree by 18, and by 20 he is known for an open-source distributed-systems / cryptography project and a string of competition wins.
+- **The draft (2012, age 21):** a recruitment offer arrives from a shell company. During the interview he sees the Schicksal eagle crest. Inner monologue: *"Oh no." …then… "Oh. YES."*
+- **Body:** handsome, physically ordinary. Training gives him normal-person gains and nothing more. The System changes that, later.
+- **The Secret:** a running gag for now (medical intake exams, combat-suit fitting problems).
 
-**Personality (proposed)**
-- Composed and polite on the outside. Inside, his narration is a constant stream of fan commentary ("that's her S-rank pose, I'd know it anywhere").
+**Personality**
+- Composed and polite on the outside. Inside, his narration is a constant stream of fan commentary.
 - Confident and a bit of a schemer, as you'd expect from someone who has "read the script".
-- **Arc:** he starts with "collect the heroines" and moves toward "I can't treat them as characters." The System quietly tests this (see the hidden *Sincerity* meter).
+- **Arc:** he starts with "collect the heroines" and has to face the fact that they were never characters. The System's lie forces that moment on him (see 3).
+
+**Timeline anchor**
+- 1991: Eros born
+- 1995–1997: Mei (1995), Kiana (1996), Bronya and Seele (1997) born
+- 2000: Second Eruption (Eros 9)
+- 2012: drafted (Eros 21); System activates
+- 2014: posted to the Hyperion
+- ~2015: main story begins (Eros ~24; Mei ~20, Kiana ~19, Bronya/Seele ~18)
 
 ## 2. His Schicksal role
 
 - **Schicksal HQ, Technology Department, Combat Simulation Section.** He writes the software for the Valkyrie VR training simulators: combat data pipelines, Honkai-energy sensor firmware, battlesuit telemetry.
 - The irony carries the theme: he builds fake battle simulations for Schicksal during the day, and at night he runs real ones inside his own head.
-- **Later posting [DECIDE]:** seconded to the Hyperion as systems/bridge officer. This gives natural contact with Himeko and Theresa and through them the Part 1 cast, all without him attending St. Freya.
+- **Hyperion posting (2014): Chief Systems Officer.** His rebuild of the Valkyrie combat simulator impresses Theresa, and she poaches him for the Far East Branch to overhaul the Hyperion's bridge AI, sensor suite and training deck. He serves under Captain Himeko.
+  - This keeps him **away from Otto's direct gaze while still within his reach**, and puts him on the ship right before the main story begins.
+  - He has natural daily contact with Himeko and Theresa, and through them the Part 1 cast, without attending St. Freya.
+  - Later hook: the Hyperion's "Captain" seat (canon's player role). Eros could end up taking it.
 - **Danger:** Otto Apocalypse reads everyone. A self-taught prodigy with oddly accurate intuitions about classified projects will catch Otto's attention. If Otto ever learned that Eros can *simulate the past*, Otto would do anything to get it (Kallen). That is a slow-burn threat that lasts the whole story.
 - Anti-Entropy (Tesla, Einstein, Welt) might also try to poach a software genius. This is a possible subplot.
 
 ## 3. The System — working name: **Imaginary Branch Simulator** (虚数枝模拟器)
 
-Alternatives: *Quantum Sea Simulator*, *Paradise Simulator*. **[DECIDE]**
+**Voice:** a cold web-novel UI. Terse brackets, no personality, purely matter-of-fact. That flatness is what makes "Nothing inside is real" believable.
+- **But it slips, very rarely.** Once in a long while it shows a line it shouldn't have: `【…Interesting.】`, or a reward note phrased a little too kindly. These are hints that someone is behind it (and they tie into his missing last day on Earth).
 
 **What the System says:** "Simulations are deductions. Nothing inside them is real."
 
@@ -54,11 +66,20 @@ Alternatives: *Quantum Sea Simulator*, *Paradise Simulator*. **[DECIDE]**
 6. **Merge conflicts:** high Fate Deviation means the world pushes back. The Will of Honkai takes notice, and paradox side effects appear (a person who no longer exists, a battle that went differently).
 7. **She is a strategic asset and a target.** Otto, Kevin (who *will* recognise Elysia and MEI) and Anti-Entropy will all want to know why pre-era women are walking around. Every heroine he brings back makes Eros more valuable and more hunted.
 8. **The heroines know about each other.** Pre-era heroines knew one another, and each remembers a version of him. "You told *me* that too."
-9. **The cost to Eros [DECIDE]:** each merge permanently erases a piece of his Earth-life game knowledge. The more heroines he brings back, the less of the future he can foresee.
+9. **No foreknowledge cost.** Merges do not erase his game knowledge. The balancing comes from rules 3–8.
 
 **Present-day heroines** follow the same rule. A completed mission set in a living heroine's past (or a what-if branch) merges, and she now *remembers* a man she knew back then.
 
-**Activation:** the first time he is exposed to concentrated Honkai energy after joining Schicksal (or the moment he understands which world he is in). **[DECIDE]**
+**Activation (2012, first month at Schicksal):** a containment failure during a live test of his combat simulator. A captured Honkai beast sample breaks loose in the lab and Eros is caught in the burst of Honkai energy. He is dying on the lab floor, his soul starting to come apart, when the System boots:
+
+```
+【Abnormal soul fluctuation detected.】
+【Imaginary Branch Simulator — binding…】
+【Binding complete. Host: Eros.】
+【Reminder: simulations are deductions. Nothing inside them is real.】
+```
+
+He survives, barely, and wakes in the infirmary with a blue panel only he can see.
 
 **Interface:** the classic Chinese-web-novel log style, cold and matter-of-fact:
 
@@ -101,18 +122,36 @@ Bond Missions: locked (requires: first contact)
 - **Memory Integrity** (starts at 100%)
 - **Honkai Erosion**, his own infection level in high-Honkai eras
 
-### 3d. The death cost: Memory Integrity (softened)
+### 3d. The death cost: Soul Damage → Memory Loss
 
-- **−5% per death** for the rest of that simulation. Reaching 0% takes 20 deaths.
-- **Clearing an objective route mid-mission restores +10%.**
-- Losses come in threshold tiers:
-  - **75%:** his game lore starts to blur (names stay, details go).
-  - **50%:** details of earlier loops become gut feelings only.
-  - **25%:** his current life fades (Schicksal, family, his job).
-  - **10%:** his Earth identity slips.
-  - **0%: Ejection.** He lives on as a native until the branch closes, then gets thrown out with no reward, plus days of memory fog in the real world.
-- **The branch does not merge, but it isn't wiped either.** The heroine is left with the memory of a man who lived and died beside her without ever being "him". **This is reserved for one planned failed mission.**
-- When a mission ends his memories come back, and the deaths stay as nightmares.
+There is no fixed number per death. **What he loses depends on how badly his soul is damaged, which depends on how he died and who killed him.**
+
+| Death type | Soul damage | Memory loss |
+|---|---|---|
+| Accident, exposure, a common soldier, a small fight | Scratch | A sliver: a face, a name, one afternoon |
+| Honkai beasts, ordinary Honkai infection | Wound | A scene or a skill-memory |
+| Elite enemies: Valkyrie-, Templar- or Flame-Chaser-level | Deep wound | A whole chapter of his life |
+| **A Herrscher** | Tear | **A large chunk**: entire stretches of lore or his life |
+| Soul-targeting powers (Void, Imaginary, Sea of Quanta erosion, Kevin-tier) | Rupture | Massive and unpredictable |
+
+**Modifiers:**
+- **Killed by the heroine herself:** heavier. The emotional wound cuts deeper.
+- **A death he chooses on purpose (suicide to reset):** **heavily penalised.** This stops "save-scumming".
+- **Dying the same way again:** the old wound reopens, so the loss is a little larger.
+
+**Order of loss** (as integrity falls):
+1. Game lore
+2. Details of earlier loops (which shrink to gut feelings)
+3. His current life
+4. His Earth identity
+
+**Recovery:** clearing an objective route mid-mission mends part of the damage.
+
+**Integrity 0 → Ejection.** He lives on as a native until the branch closes, then gets thrown out with no reward, plus days of memory fog in the real world.
+
+**Failed branches reset.** An ejection, or choosing **[End]** after failing, **wipes the branch clean.** Nothing merges and the heroine remembers nothing. The mission goes on **cooldown**. When he retries it later, **his starting point is different** (a new role, place or moment in her timeline). A choice of **[Restart]** right after an objective failure keeps the original start.
+
+When a mission ends his memories come back, and the deaths stay as nightmares.
 
 ### 3e. Rewards and what they bring back
 
@@ -145,12 +184,14 @@ Settlement grade **S / A / B / C / F**, based on the final meter values. Then pi
 
 ## 4. Roster and the age line
 
-**AU age shift:** Kiana, Mei, Bronya and Seele are born **before 2000** and are **18+ when the real story begins** (main story start ~2017–2018; Eros is ~24–25). The Second Eruption stays in 2000; they lived through it as young children.
+**AU age shift:** Mei (1995), Kiana (1996), Bronya and Seele (1997) are all **18+ when the main story begins (~2015)**. Eros (1991) is ~24.
+
+**AU Theresa:** an **adult woman with a petite, short build**. She is clearly grown up in body and face, just small. She is a full heroine.
 
 Romance is only ever with characters who are adults *at that moment in the story*:
 - **Kiana, Mei, Bronya, Seele:** full heroines. Their Bond Missions are set in their adult years, or in **what-if branches** where they are already adults (e.g. "a branch where Changkong happened four years later"). There are no missions in their childhood.
-- **Other adults:** Himeko, Rita, Durandal/Bianka, Fu Hua, Tesla, Einstein; pre-era: Elysia, Dr. MEI, Mobius, Aponia, Eden, Vill-V, Pardofelis, Sakura.
-- **Never romance targets:** Theresa (child body, works as boss/comedic aunt), Griseo, Sirin, and any child.
+- **Other adults:** Theresa (AU), Himeko, Rita, Durandal/Bianka, Fu Hua, Tesla, Einstein; pre-era: Elysia, Dr. MEI, Mobius, Aponia, Eden, Vill-V, Pardofelis, Sakura.
+- **Never romance targets:** Griseo, Sirin, and any child.
 
 ## 5. Sample Bond Missions (deeper, multi-route)
 
@@ -185,13 +226,8 @@ Start: you are the man she has been ordered to quietly eliminate.
 
 ## 7. Open decisions
 
-1. Birthplace / heritage
-2. How he died on Earth
-3. System name and voice (cold UI vs. one with hidden personality)
-4. Activation trigger
-5. Hyperion posting: yes or no, and when
-6. ~~Canon-minor heroines~~: decided. AU ages, 18+ at story start.
-7. What the System's creator wants (later)
-8. Whether each merge costs him Earth-life game knowledge
-9. Which heroine gets the planned failed / ejected mission
-10. **First heroine for Part One** (once chosen: research Chinese fanfics for her voice and characterisation)
+Decided: birthplace (Thessaloniki, Greek/Chinese), Earth death (overwork, missing last day), System voice (cold, rare slips), activation (lab breach, 2012), Hyperion posting (Chief Systems Officer, 2014), ages (AU), Theresa (petite adult), no merge cost.
+
+1. What the System's creator wants (later)
+2. Which heroine gets the planned failed mission
+3. **First heroine for Part One** (once chosen: research Chinese fanfics for her voice and characterisation)
