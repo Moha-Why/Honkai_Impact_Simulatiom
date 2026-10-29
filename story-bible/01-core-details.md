@@ -75,6 +75,7 @@ Status: details are still being chosen. No premise yet. Items marked **[DECIDE]*
 9. **No foreknowledge cost.** Merges do not erase his game knowledge. The balancing comes from rules 3–8.
 
 **Present-day heroines** follow the same rule. A completed mission set in a living heroine's past (or a what-if branch) merges, and she now *remembers* a man she knew back then.
+- **The "vanished boy" rule:** if the mission had him growing up in her past, the merge does **not** overwrite Eros's real life in Greece. Instead, the world now holds a **boy with his name and face who existed in her past and then vanished** (missing, presumed dead). The real heroine meets the real Eros and sees *him*.
 
 **Activation (2012, first month at Schicksal):** a containment failure during a live test of his combat simulator. A captured Honkai beast sample breaks loose in the lab and Eros is caught in the burst of Honkai energy. He is dying on the lab floor, his soul starting to come apart, when the System boots:
 
@@ -107,7 +108,9 @@ Bond Missions: locked (requires: first contact)
 ### 3b. Bond Missions (the special heroine missions)
 
 - **Fully immersive.** He lives it in first person in real time (subjectively). The real world sees only one night's sleep.
-- **The start is never favourable.** Usually neutral, often bad. Examples: a pre-era conscript bleeding in a trench, a man someone was ordered to kill, a test subject.
+- **The start is normal or bad, but the timeline always holds a path to her.** The System places him somewhere that is rough now but *can* lead to the heroine if he finds and follows the right route (e.g. Rita: he starts as an orphan in her childhood, and one path makes him her childhood friend; years later they are the perfect maid and the perfect butler).
+- **Missions can span years.** He can grow up alongside her.
+- **Childhood segments are strictly platonic** (friendship, rivalry, family). Romance-related objectives and scenes only begin once both are adults.
 - **Core goal of every mission: become irreplaceable in her life, by any method.** Light or dark, it all counts.
 - **Several objective routes are open at once.** Completing **one** clears the mission, and each extra route raises the grade (see 3g).
 - **Death → RESET** to the mission's start, with a cost (Memory Integrity, below).
@@ -224,45 +227,50 @@ Start: you are the man she has been ordered to quietly eliminate.
 - **The Will of Honkai** treats high Fate Deviation as an anomaly and may begin targeting him *in the real world*.
 - **The first merged heroine** walking into Schicksal and calling him by name: the moment the lie breaks.
 
-## 7. Part One — Rita Rossweisse
+## 7. Part One — Durandal (Bianka Ataegina)
 
-**Why Rita first**
-- She is at HQ, so first contact happens naturally.
-- Her mission is on a human scale, which suits a weak Eros. Few soul attacks means his memory is fairly safe.
-- She is the perfect first heroine for him to treat as "just a game": polite, teasing, dangerous, and she reads people for a living.
-- Her merge can break the System's lie in the most unsettling way possible.
+**Why Durandal first**
+- **The natural first contact is his own work.** She is HQ's strongest Valkyrie, and in 2012 she is assigned to stress-test his new combat simulator. She breaks it on day one.
+- **She is the only HQ heroine who believes in Schicksal completely.** That gives every route real weight: Fall (losing faith), Salvation (finding the truth without being broken), Heart (choosing him over her duty).
+- **Her mission can be human-scale for most of its length**, with the soul-attack danger arriving late (Herrscher-class battles in her adult years).
+- **Rita is her adjutant.** Part One plants Rita, which sets up Rita's own childhood-friend mission later and a natural rivalry.
 
-**First contact (2012):** after the lab breach, Otto sends Rita to the infirmary to "check on the survivor". It's a short, very polite conversation. Eros fanboys hard inside and says nothing outside. The System pings:
+**First contact (2012):** Durandal walks into the simulator lab, asks politely whether the system can handle "full output", and ten seconds later it can't. She apologises sincerely, Rita smiles behind her, and Eros quietly dies inside. The System pings:
 ```
-【First contact established: Rita Rossweisse】
-【Bond Mission unlocked: "Thirty Days"】
+【First contact established: Bianka "Durandal" Ataegina】
+【Bond Mission unlocked: "The Blade's Keeper"】
 【Reminder: simulations are deductions. Nothing inside them is real.】
 ```
 
-**Bond Mission: "Thirty Days"**
-- **Branch:** Thessaloniki, 2011. His own past, one year before the draft. In this branch his cryptography research accidentally exposed a Schicksal communication channel, and Rita has been sent to "quietly resolve" the security risk. The System calls it "a deduction of an alternative past".
-- **Start (bad):** he wakes up already under watch. She is posing as the new tenant across the hall: charming, helpful, and lethal.
+**Bond Mission: "The Blade's Keeper"**
+- **Start (bad):** a branch where he is born as an orphan and taken into a Schicksal facility as a child. He has zero Valkyrie compatibility, so he is classed as **disposable support staff.** Young Bianka trains in the same facility, already the program's prodigy.
+- **The path:** the kid who repairs the broken training dummies → an engineering apprentice → the technician who maintains, then **designs**, her weapons and battlesuits → **the man who forged the blade she is named for.** Childhood is pure friendship and rivalry; anything romantic waits until both are adults.
 - **Routes:**
-  - **Survive** (base clear): live through 30 days.
-  - **Heart:** she disobeys the order *of her own free will*.
-  - **Fall:** she lies to Otto for him, and keeps lying.
-  - **Equal:** she can never quite outmaneuver him, and she starts to enjoy that.
-  - **Chain:** she kills someone else to protect him, and can't explain to herself why.
+  - **Heart:** she chooses him over a direct order, freely.
+  - **Fall:** her faith in Schicksal breaks, *because of him*, and she follows him instead.
+  - **Equal:** a man with no Valkyrie talent makes her admit that he is her equal (through his weapons, tactics, or mind).
+  - **Chain:** she cannot step onto a battlefield unless he tuned her blade himself.
+  - **Salvation:** she learns the truth about Otto and Schicksal without it breaking her.
   - **Hidden:** ???
-- **Deaths:** mostly ordinary (poison, "accidents", a Schicksal cleanup team). Small bites only. That's what tempts him into deliberate resets, so it's a good place to show the "is it worth it?" calculation.
-- **Balance check:** a mortal, untrained engineer against Rita works only through brains: his code, his foreknowledge, and reading her.
+- **Deaths:** accidents, failed experiments and field missions early on (small bites); Herrscher-class battles later (soul attacks, the real danger).
 
 **The merge, and the lie cracking (end of Part One)**
-- The branch merges, and **the real past rewrites around Eros.** Now, in 2011, Rita *was* sent to assess him, chose to spare him, and **her report is the reason Schicksal drafted him.** His own memory says otherwise. Everyone else, and every file, says it's true. It's a merge conflict in his own life.
-- Rita meets him in an HQ corridor, smiles, and says something only the woman from those thirty days could know.
-- **Consequences:** Otto now has a report in his files where Rita protected a civilian from his orders. Depending on which routes Eros cleared, Rita arrives warmer, more corrupted, or more possessive. Her dreams of watching him die start.
+- Under the vanished-boy rule, the real Durandal now remembers **a boy at the facility who grew up beside her, built her blade, and then vanished.** Schicksal's records list him as missing, presumed dead.
+- She walks into his lab, sees his face, and her composure breaks for the first time anyone at HQ has ever seen.
+- **Consequences:**
+  - Otto now has a file on a vanished technician who looks exactly like his new engineer.
+  - Rita, who has never seen her captain like this, starts watching Eros very closely.
+  - Depending on which routes he cleared, Durandal comes back steadier, less faithful to Schicksal, or more dependent.
 
-**Rita's voice (working notes)**
-- Unfailingly polite and formal. Calm, unhurried service-speech, with a soft laugh ("fufu") when she's amused.
-- Teasing, with a sadistic edge (腹黑): she enjoys watching people squirm, especially when she can do it with perfect manners.
-- Her real loyalty is to **Durandal**, not Otto. She is dangerous to anyone who threatens her captain.
-- She hides her own feelings behind service. A crack in that mask is a big moment.
-- *To verify through research:* exact forms of address (e.g. how she addresses Durandal and Otto), signature lines, and her later-canon arcs.
+**Durandal's voice (working notes, to verify through research)**
+- Earnest, upright and straightforward. She speaks plainly and means everything literally.
+- Proud of her strength and duty but not arrogant. Sincerely polite.
+- Socially a little out of step: sheltered and serious, often unaware of how she affects people.
+- Strong sense of justice, which is the root of everything in her arc.
+
+**Alternates considered:** Theresa (visits HQ; her mission would start in the lab where Otto raised her), Mobius (pre-era; harder, better saved for later).
+
+**Later mission, Rita — "Perfect Service":** starts in her childhood as an orphan; one path makes Eros her childhood friend, and they grow up into the perfect maid and the perfect butler.
 
 ## 8. The planned failed mission — Elysia
 
@@ -273,7 +281,7 @@ Start: you are the man she has been ordered to quietly eliminate.
 
 ## 9. Open decisions
 
-Decided: birthplace (Thessaloniki, Greek/Chinese), Earth death (overwork, missing last day), System voice (cold, rare slips), activation (lab breach, 2012), no Hyperion (stays at HQ and grows in secret), ages (AU), Theresa (petite adult), no merge cost, **Part One: Rita**, **failed mission: Elysia**.
+Decided: birthplace (Thessaloniki, Greek/Chinese), Earth death (overwork, missing last day), System voice (cold, rare slips), activation (lab breach, 2012), no Hyperion (stays at HQ and grows in secret), ages (AU), Theresa (petite adult), no merge cost, **Part One: Durandal**, **failed mission: Elysia**.
 
 1. What the System's creator wants (later)
-2. Research pass on Rita (needs access to zh.moegirl.org.cn / wiki.biligame.com)
+2. Research pass on Durandal (needs access to zh.moegirl.org.cn / wiki.biligame.com)
