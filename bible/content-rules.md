@@ -25,3 +25,7 @@ in the text. Their age is not left ambiguous, and they are not written or
 described as childlike.
 
 When in doubt, keep the focus on feelings, not physicality.
+
+## Sexual content
+
+Adults only. Never explicit; it happens off the page.

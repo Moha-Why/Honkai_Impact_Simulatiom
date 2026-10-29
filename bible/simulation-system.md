@@ -41,11 +41,21 @@ each run writes a branch into the Imaginary Tree.
   A later run with the same heroine continues from there.
 - Failed runs reset completely. He can retry later from a different start.
 - **Pre-era heroines:** a completed run brings her back to the present with
-  memories of the final loop only. The edit is local to her own thread. She
-  arrives after a delay, often somewhere dangerous, and weak at first.
+  memories of the final loop only. She arrives after a delay, often
+  somewhere dangerous, and weak at first.
+- **Rewritten history:** a completed pre-era run rewrites the history of
+  everyone Eros dealt with in it, not only the heroine. They remember him
+  from the final loop. Kevin lived through the pre-era, so he will know
+  Eros, and will recognize his face when they meet in the present. The same
+  goes for Otto if a run ever touches his past.
+- **What holds:** the big events of history still happen as in canon unless
+  Eros changed them directly. What changes is the heroine's fate and who
+  remembers him.
 - **Living heroines:** a completed run collapses into her as echoes (dreams,
   déjà vu, a sense she knows him), stronger with each objective completed.
   The echoes only surface once the real timeline reaches the run's start.
+  People Eros was close to in the run (Kiana in Mei's run) may get fainter
+  echoes.
 
 ## Entering a run
 

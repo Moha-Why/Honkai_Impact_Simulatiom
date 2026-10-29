@@ -64,6 +64,10 @@ Fate Deviation measures how much Eros has changed history.
 | Unstable | Enemies grow stronger; events come early |
 | Collapse risk | The branch pushes back with correction events |
 
-**Global (real world):** rises with revivals, echoes and real-world changes.
-As it climbs it draws attention: first Otto, then Kevin and the World
-Serpent, and eventually the Will of Honkai itself.
+**Global (real world):** how far the real present has drifted from canon.
+It rises with revivals, echoes and real-world changes. The higher it climbs,
+the less Eros can trust his foreknowledge.
+
+It doesn't draw anyone's attention by itself. When a run rewrites someone's
+history, that person simply remembers Eros (see
+[simulation-system.md](simulation-system.md)).

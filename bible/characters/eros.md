@@ -6,14 +6,20 @@
 - **Earth:** software engineer and die-hard HI3 fan, of both the characters
   and the power system and lore; died of overwork at
   32 during a crunch, with an HI3 event still running on his second monitor.
-- **HI3:** born in 1991, left as a baby at an orphanage in Hangzhou with
-  nothing but a note reading "Eros". Who left it is an open question.
+- **Earth nationality** is never stated. He didn't speak Mandarin before he
+  was reborn and picked it up as a baby.
+- **HI3:** found as a newborn in March 1991 at the gate of the Willow Street
+  Children's Home in Hangzhou, with nothing but a note reading "Eros" in
+  Latin letters. The day he was found counts as his birthday. Director Zhou
+  registered the note's word as his name. Who left it is an open question.
+- Since 2007 he keeps the original note in his wallet.
 - A child prodigy with an adult mind. University at 15; at 17 his
   anomaly-detection software exposes Honkai events Schicksal covered up.
 - Drafted by Schicksal in 2009, at 18. With no family, nobody asks where he
   went.
-- **Looks:** handsome, tall and slim, black hair, dark eyes, the tired look
-  of someone who codes until 3 a.m. Seems harmless, and uses that.
+- **Looks:** handsome, tall and slim, black hair worn a little too long
+  because he forgets haircuts, dark eyes, the tired look of someone who
+  codes until 3 a.m. Seems harmless, and uses that.
 
 ## Personality arc
 
