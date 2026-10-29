@@ -35,20 +35,35 @@ story needs to account for.
 
 ## Valkyrie ranks
 
+Canon: Valkyries are women with high Honkai resistance and natural or
+artificial stigmata. Only B-rank and above fight on the front lines. D-rank
+Valkyries do support and logistics far from the real fighting. Valkyries
+with poor Honkai adaptability die young, and any Valkyrie risks the
+**Honkai cascade**, turning into a mindless zombie.
+
 D and C ranks are logistics: medics, comms, drone operators, transport
 pilots, battlesuit technicians. They are still trained Valkyries with
 stigmata and can fight when they must.
 
 | Rank | Role | Power | Environmental damage in a full fight |
 |---|---|---|---|
-| D | Logistics | Survives being hit by a car; kills Honkai zombies and Beast-class beasts with a weapon | Breaks doors, cracks concrete |
-| C | Logistics / combat support | Flips a car, fires heavy weapons by hand, holds a corridor against a pack | Punches through brick walls, wrecks a room |
-| B | Frontline | Fast enough to dodge small-arms fire; a squad brings down Chariot-class beasts | Levels a house, craters a road |
-| A | Elite, ace of a branch | Solos Warlord-class beasts; the standard answer to an Emperor-class | Destroys a building or a city block |
-| S | Extremely rare: one or two at a time at most, some years none | Handles Judgment-class; can hold off a Herrscher for a while | Devastates a district; craters hundreds of meters wide |
+| D | Logistics, far from the fighting | Survives being hit by a car; can kill a lone Honkai zombie with a weapon | Breaks doors, cracks concrete |
+| C | Logistics / combat support | Flips a car, fires heavy weapons by hand; dispatches Honkai zombies easily | Punches through brick walls, wrecks a room |
+| B | Frontline | Fast enough to dodge small-arms fire; handles Archangel types and Chariots; fights Templars as a squad | Levels a house, craters a road |
+| A | Elite, ace of a branch | Handles a Templar alone; a lineup of A-ranks takes on an Emperor-class | Destroys a building or a city block |
+| S | Extremely rare: one or two at a time at most, some years none | Can handle an Emperor-class; Judgment-class needs a team with a few S-ranks and Divine Key-level weapons | Devastates a district; craters hundreds of meters wide |
 | Herrscher | — | Wields an authority over reality | City-level and up; the strongest are continental or worse |
 
 Eros starts as **Civilian**: a desk worker below Peak Human.
+
+## Men, Knights and Paladins
+
+- Honkai adaptability is uncommon in men, but in rare cases it happens.
+  Those men become **Schicksal Knights** (Chevaliers), like Siegfried
+  Kaslana. This is the canon path open to Eros once his Adaptability rises.
+- **Paladins** ("the Overseer's chosen") are the Overseer's personal guard.
+  Cecilia was one. Theresa became one while still B-rank, the lowest-ranked
+  Paladin ever.
 
 ## Honkai Adaptability
 

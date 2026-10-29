@@ -26,7 +26,7 @@ Fate Fragments: 140
 
 | Run | Scenario | Result | Reward taken |
 |---|---|---|---|
-| 1 | Schicksal maintenance technician, Siberian Branch, Outpost 7, March 1999 | Died in the Second Eruption (Charger-class beast plus Honkai energy exposure). Grade C. Hidden event: witnessed the Second Eruption. | Quick Learner (Green); +40 Fate Fragments |
+| 1 | Schicksal maintenance technician, Siberian Branch, Outpost 7, March 1999 | Died in the Second Eruption (Frost Chariot plus Honkai energy exposure). Grade C. Hidden event: witnessed the Second Eruption. | Quick Learner (Green); +40 Fate Fragments |
 
 Run 1 gifts kept for the run: Quick Learner, Light Sleeper. Passed on: Iron
 Stomach, Steady Hands, Cold Tolerance.

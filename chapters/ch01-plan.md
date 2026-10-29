@@ -212,8 +212,8 @@
 ### 12. The Second Eruption
 
 - Light Sleeper wakes him. The hole in the sky. Grisha drives north for the
-  people on foot and gives Eros his hat. Beast-class beasts run past toward
-  the outpost. Grisha's radio cuts out. A Charger flips the snowmobile;
+  people on foot and gives Eros his hat. Baradiel fly past toward the
+  outpost. Grisha's radio cuts out. A Frost Chariot flips the snowmobile;
   Honkai energy in the air; lights fighting in the north. He dies.
 
 ### 13. Settlement and morning

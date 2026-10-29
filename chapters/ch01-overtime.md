@@ -510,7 +510,7 @@ F.
 
 Miss Kudo glanced at it and unclipped the cuff. "Normal for a guy," she said. "Don't take it personally."
 
-I took it personally. I'd known it was coming. I knew the lore. Men barely tolerated Honkai energy, and most of them couldn't be Valkyries, and the exceptions were people like the Kaslanas or Kevin, people with something special in their blood or their history. I was an orphan software engineer. I'd known all that. Somewhere underneath it, though, I'd been hoping anyway, the way every fan of every story secretly hopes they'd be the exception. A little part of me had expected the light to keep moving down the row.
+I took it personally. I'd known it was coming. I knew the lore. Men barely tolerated Honkai energy, and Valkyries were all women. The rare men who could handle it became Schicksal Knights instead, people like Siegfried Kaslana, with something special in their blood. I was an orphan software engineer. I'd known all that. Somewhere underneath it, though, I'd been hoping anyway, the way every fan of every story secretly hopes they'd be the exception. A little part of me had expected the light to keep moving down the row.
 
 "Can it change?" I asked. "The grade?"
 
@@ -1024,13 +1024,11 @@ Then I loaded the snowmobile and went south.
 
 I'd been driving for about ten minutes when I saw them.
 
-At first they were just shapes moving across the snow off to my left, low and fast, and I thought they were wolves. There were wolves out here. Grisha had shown me tracks. But wolves don't run in a straight line like that, and wolves don't glow.
+At first they were just shapes moving over the snow off to my left, low and fast, and I thought they were birds. Then I saw how big they were. Each one was the size of a person, and there were dozens of them, flying in a loose crowd a few meters above the ground on long wings with edges like blades. They had black armor instead of feathers, smooth and overlapping, with cold blue light shining through the joints. Where a face should have been there was a smooth plate with light behind it. One of them turned that plate toward the sound of my engine for a second, then turned away.
 
-There were cracks in them. Lines running along their sides and their backs, glowing the same pale color as the sky behind me, and where the lines were, the shape of the animal was wrong. The legs bent too many times. The heads were too long. One of them turned its face toward the sound of my engine, and its mouth opened wider than any animal's mouth should, and there was light inside it.
+Baradiel. The ice version of the little flying Archangel types, the ones the game always threw at you in crowds. One of the collection entries said they'd been everywhere in Siberia during the Second Eruption. I'd killed thousands of them on my second monitor, between builds, while I argued on forums and ate dinner.
 
-Beast-class. The lowest kind of Honkai beast. Animals that Honkai energy had gotten into and twisted. I'd killed thousands of them on my second monitor, between builds, while I argued on forums and ate dinner.
-
-They weren't coming for me. They were running north, toward the outpost.
+They weren't coming for me. They were flying north, toward the outpost.
 
 The radio on my belt was still on. Through the static, I heard the outpost. The siren was going in the background. Somebody was shouting orders. Then somebody started shooting, short bursts, and then a lot of people were shooting, and then somebody was screaming, a man's voice, high and terrible and going on and on, and then the screaming stopped and the shooting was less.
 
@@ -1050,15 +1048,15 @@ The channel went to static, and I kept driving.
 
 The thing that killed me came from the right, out of the trees.
 
-It was bigger than the Beast-class ones, a lot bigger, the size of a car. It ran on four legs but it ran like a bull, head down, and its whole front was covered in plates, overlapping gray plates like armor, with that same pale light leaking out between them. It had horns, or something like horns, two of them curving forward, and steam was pouring off its back into the cold air.
+It was much bigger than the flying ones, the size of a car, a heavy four-legged thing that moved like a bull with its head down. Its whole body was covered in black plates that overlapped like armor, with cold blue light leaking out between them. It had horns, or something like horns, two of them curving forward, and steam was pouring off its back into the cold air.
 
-A Charger. I knew its name, its class, its animation, and its attack pattern. In the game, you dodged sideways right before it reached you, and then it ran past and you hit it in the back.
+A Frost Chariot. Chariots were the most common Honkai beast in the game, slow and heavy, and the frost kind only turned up in cold places. I knew its animation and its attack pattern. It was slow right up until it charged. In the game, you dodged sideways right before it reached you, and then it ran past and you hit it in the back.
 
 I swerved. The snowmobile skidded on a drift and came up on one side and threw me off.
 
 I hit the snow hard. Something in my chest cracked, I felt it go, a sharp, wet pop on the left side, and then I couldn't breathe properly. Every breath was short and caught on something. I rolled over. The snowmobile was on its side five meters away with its engine screaming and its headlight pointing at the trees.
 
-The Charger had gone past. It was turning around. It turned slowly, like a truck turning in a narrow street, and its head came around toward me.
+The Chariot had gone past. It was turning around. It turned slowly, like a truck turning in a narrow street, and its head came around toward me.
 
 I tried to get up and couldn't. I got to my hands and knees. The snow was in my mouth and my nose and down the neck of my coat. Grisha's hat had come off and was lying next to my hand.
 
@@ -1066,9 +1064,9 @@ The air tasted wrong. It tasted of metal, of the smell of a battery when you tou
 
 Honkai energy. I was breathing it. A body graded F, breathing the air next to a Honkai beast in the middle of an eruption.
 
-Far away to the north, behind the Charger, under the hole in the sky, there was light moving. Little flashes of it, very bright, very fast, moving against the black. Something up there was fighting. I couldn't see what. I knew how that night ended for almost everyone under that sky, and I knelt in the snow with blood on my glove and watched the little lights move, because it was the only thing I could think of to do.
+Far away to the north, behind the Chariot, under the hole in the sky, there was light moving. Little flashes of it, very bright, very fast, moving against the black. Something up there was fighting. I couldn't see what. I knew how that night ended for almost everyone under that sky, and I knelt in the snow with blood on my glove and watched the little lights move, because it was the only thing I could think of to do.
 
-The Charger lowered its head. I didn't dodge. My body was too broken to dodge. I watched it come across the snow toward me, the steam on its back and the light between its plates and the snow flying up from its feet, and my head stayed clear right up to the end. It noticed that there was frost on the tips of the horns. It noticed that the thing was much faster than it looked in the game. The last thing it noticed was Grisha's hat lying in the snow next to my hand, with the flaps still untied.
+The Chariot lowered its head. I didn't dodge. My body was too broken to dodge. I watched it come across the snow toward me, the steam on its back and the light between its plates and the snow flying up from its feet, and my head stayed clear right up to the end. It noticed that there was frost on the tips of the horns. It noticed that the thing was much faster when it charged than it had ever looked in the game. The last thing it noticed was Grisha's hat lying in the snow next to my hand, with the flaps still untied.
 
 The horns hit me in the chest and lifted me off the ground, and I felt everything inside me give way at once. I was still looking at the lights in the north when it all went out.
 
@@ -1078,7 +1076,7 @@ The horns hit me in the chest and lifted me off the ground, and I felt everythin
 
 I was in the dark place again, the one with no floor. I was standing up. My chest didn't hurt. I put my hand on it anyway, and it was whole, and I stood there with my hand on my chest and couldn't stop shaking.
 
-[Cause of death: Charger-class Honkai beast. Honkai energy exposure.]
+[Cause of death: Frost Chariot (Chariot-class Honkai beast). Honkai energy exposure.]
 
 [Soul damage: one whole memory.]
 
