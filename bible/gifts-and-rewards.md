@@ -15,8 +15,8 @@ Gifts are traits. Items use the same color tiers.
 
 - **Hidden gifts** show as ??? until a trigger reveals their color.
 - **Draws:** 5 at the start of each run; he keeps 2 for that run.
-- **Permanent slots:** gifts kept after a run go into permanent slots. He
-  starts with 3.
+- **No limit on permanent gifts.** He can keep as many as he earns. The
+  grade of each run is what holds him back (see Settlement).
 - **Upgrades:** merging two copies of the same gift raises it one color.
   Merging can reach Gold but never Red; Red can only be drawn.
 - **The male ceiling:** physical gifts can't push him past the rank his
@@ -24,32 +24,60 @@ Gifts are traits. Items use the same color tiers.
 
 ## Settlement
 
-Every run is graded E, D, C, B, A or S.
+Every run ends with a grade from E to S. The grade decides everything he
+can take out: how many picks, how rare a gift can be, how deep a skill goes,
+which items are allowed, and how many Fate Fragments he's paid.
 
-| Grade | Picks | Rarity bias |
-|---|---|---|
-| E–C | 1 of 3 | Mostly White and Green |
-| B–A | 2 of 3 | Blue and Purple appear |
-| S | 3 of 3 | Purple and up; Gold possible |
+### What decides the grade
 
-- **Normal runs** are graded on lifespan, achievements and hidden events.
-- **Heroine runs** give one pick per objective completed, and every pick is
-  at least Blue.
+- **Normal runs:** how long he lived, what he achieved, how much he changed
+  in that life, and any hidden events he triggered (witnessing or surviving
+  something historic, killing something far above his level).
+- **Heroine runs:** how many objectives he completed and how high the
+  meters ended (see Heroine runs below).
+
+### What each grade gives
+
+| Grade | Typical run | Picks | Gift colors he can keep | Experience depth | Item colors | Fate Fragments |
+|---|---|---|---|---|---|---|
+| E | Died almost at once, did nothing | 1 of 3 | White | **Scraps:** a few days of know-how | White | 10–20 |
+| D | Short life or early death, little done | 1 of 3 | White, Green | **Basic:** a trainee's level, weeks of training | White | 20–40 |
+| C | A modest life, or a real survival | 1 of 3 | Up to Green | **Competent:** a year or two of real work | Up to Green | 40–80 |
+| B | A long life, or a real achievement, or a hidden event | 2 of 3 | Up to Blue | **Professional:** years of practice | Up to Blue | 80–150 |
+| A | A remarkable life that changed something; several hidden events | 2 of 4 | Up to Purple | **Expert:** decades, the top of a field | Up to Purple | 150–300 |
+| S | An extraordinary life that changed history | 3 of 5 | Up to Gold | **Master:** among the best who ever lived | Up to Gold | 300–500 |
+
+- **Gifts above the grade's color are never offered.** If he drew a Purple
+  and the run ends at D, the Purple is gone.
+- **Red gifts** can only be drawn, and can only be kept from an S-grade run.
+- **Adaptability raises** (one grade at a time) can be offered only at A or
+  S, or as a heroine-run reward.
+- **Fate Fragments** are always paid. One of the cards can instead be
+  **double payout** for that run.
+- **What's on the cards:** the gifts he held during the run, the skills he
+  built in it, and items he had on him. The offer is drawn from those, so a
+  run where he learned nothing can't offer a skill.
+
+### Heroine runs
+
+- **Picks:** one per objective completed, at least Blue in color.
+- **Grade:** set by how many objectives he completed and how high the meters
+  ended. It caps the top color the same way as in normal runs, but never
+  below Blue.
+- **Extras:** a **bond gift** unique to that heroine (its color rises with
+  objectives completed), her personal item, or an Adaptability raise.
+- **Fate Fragments:** 300 or more per objective.
 
 ## Reward types
 
-- **Keep a gift:** move one gift from the run into a permanent slot.
+- **Keep a gift:** add one gift from the run to his permanent gifts.
 - **Experience package:** skills and knowledge from the run (swordsmanship,
-  languages, combat instinct) arrive as muscle memory. Technique can exceed
-  what his body can actually execute.
+  languages, combat instinct) arrive as muscle memory, at the depth the
+  grade allows. Technique can exceed what his body can actually execute.
 - **Item:** an object pulled out of the run. One per pick, nothing alive,
   nothing larger than he can carry. Divine Keys and Herrscher cores can't be
   taken.
-- **Fate Fragments:** currency. A normal run pays 20–200; a heroine run
-  pays 300 or more per objective.
-- **Heroine-run exclusives:** a **bond gift** unique to that heroine (its
-  color rises with objectives completed), her personal item, or an
-  Adaptability raise.
+- **Double payout:** twice the run's Fate Fragments.
 
 ## Shop (Fate Fragments)
 
@@ -59,4 +87,3 @@ Every run is graded E, D, C, B, A or S.
 | Extra normal run | 100 |
 | Choose a normal run's scenario | 300 |
 | Soul repair (mends small damage, from Frayed back to Whole; can't fix Torn; once a week) | 500 |
-| Extra permanent gift slot | 1000, rising each time |

@@ -756,7 +756,7 @@ Quick Learner, though, would make me better at everything, forever. Every skill 
 
 "Quick Learner," I said.
 
-[Quick Learner (Green) added to permanent slot 1 of 3.]
+[Quick Learner (Green) added to permanent gifts.]
 
 ```
 [Status]

@@ -17,7 +17,6 @@ Gifts: Quick Learner (Green)
 Fate Fragments: 140
 ```
 
-- Permanent gift slots: 1 of 3 used.
 - Free gift reroll from the starter pack: unused.
 - Soul: Frayed from one Honkai-tainted death. Heals in a few days. The lost
   memory (learning to ride a bicycle, first life) came back when he woke.

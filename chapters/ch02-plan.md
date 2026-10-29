@@ -53,3 +53,46 @@
 
 - **Theresa Apocalypse:** profile in `bible/characters/theresa-apocalypse.md`.
 - Grisha Lebedev and Major Anna Sorokina (Run 1) already have profiles.
+
+## Extension (proposed, not written yet)
+
+Adds about 10,000 words after the morning following Run 1, up to the day
+Mei's heroine run unlocks. Balance comes from the soul budget and the grade
+table in `bible/gifts-and-rewards.md` (no limit on permanent gifts).
+
+14. **Theresa in the anomaly room (January 15).** She remembers "the weather
+    data boy". He gives her numbers only; she decides to send Himeko to
+    Nagazora (canon).
+15. **Run 2 (January 15).** Five Whites; he uses the reroll. Second draw has
+    Danger Sense (Purple); he keeps it and Sprinter (White). Night-shift
+    orderly, Krakow, 1987, small zombie outbreak. Danger Sense buys him two
+    days. Bitten (Honkai-tainted). **Grade D:** Purple can't be kept.
+    Offered Sprinter, Field First Aid (Basic), a ring of keys; he takes
+    Sprinter. +30 Fate Fragments. Soul: Worn.
+16. **Asami at the harbor bar (January 16).** "You look like you just got
+    back from a deployment."
+17. **Run 3 (January 16).** Starts Worn: can't remember Director Zhou's name
+    for the first years. Keeps Quick Reflexes (Green) and Steady Hands
+    (White). Hunter's son, Hokkaido, 1908. Bow, knife, tracking; kills an
+    infected bear at 30; marries, children (log lines); dies of pneumonia at
+    64. **Grade B, 2 of 3:** Quick Reflexes and Hunting and Field Craft
+    (Professional). +120 Fate Fragments. He misses a family that "isn't
+    real". Soul stays Worn; he stops for a week.
+18. **Rest week (January 17 to 24).** Knife practice on the seawall; his hands
+    know more than his body can do. Asami: "Where'd you learn that?"
+    "YouTube." Himeko leaves for Nagazora. He reads the shop and buys
+    nothing.
+19. **Run 4 (January 25).** Schicksal recruit, 1996. Trusts his knife skills
+    against a zombie his body is too slow for; dies early (ordinary). **Grade
+    D:** takes double payout (+60).
+20. **Unlock (a few days before the Eruption).** Huge Nagazora spike;
+    [Heroine simulation conditions met: Raiden Mei]. He waits a night to let
+    his soul heal and writes her name into the coded timeline.
+
+**End state:** Civilian, Adaptability F. Gifts: Quick Learner (Green),
+Sprinter (White), Quick Reflexes (Green). Experience: Hunting and Field
+Craft (Professional). About 350 Fate Fragments. Reroll used. Soul Frayed.
+
+**New profiles needed:** a Krakow nurse (Run 2); his hunter father, his wife,
+a village elder (Run 3); a drill sergeant (Run 4); the anomaly room's duty
+officer.

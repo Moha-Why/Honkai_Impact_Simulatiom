@@ -11,7 +11,7 @@ Check these before planning a chapter and again before sending it.
   what Eros has told whom, what Schicksal knows about him, and which
   heroines have echoes or memories of him.
 - **Track who holds what.** Items, gear and documents, plus the System's
-  side: gifts in slots, Fate Fragments, soul stage. Keep
+  side: permanent gifts, Fate Fragments, soul stage. Keep
   [tracker.md](tracker.md) current after each chapter.
 - **Injuries and fatigue have causes and last.**
 - **Names, dates, ranks and numbers match earlier chapters and the bible.**
