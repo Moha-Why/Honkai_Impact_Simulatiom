@@ -4,6 +4,11 @@
 
 - Written in English. No Chinese text; genre terms are written in English
   (for example, "[Ding!]" for System notices).
+- First person, from Eros.
+- Comedic on the surface, with a dark undertone.
+- Power progression is central: every run should move his strength forward.
+- The shura field, Eros surviving the heroines finding out about each other,
+  is a major source of tension and comedy.
 
 ## Content Rules
 
@@ -146,34 +151,36 @@ is expensive and limited, so it never replaces real recovery time.
   of someone who codes until 3 a.m. Seems harmless, and uses that.
 
 ### Personality
+- **Power first:** he knows that as a man in this world, dying is easy.
+  Strength is his number one priority, and everything else serves it.
+- **Cold manipulator:** he manipulates people without guilt. Charm,
+  kindness, and honesty are tools he picks up when they work.
+- **Clear head under pressure:** in the moments that matter he does feel
+  things. His body is at war with itself, but his judgement stays clear,
+  and he acts on the judgement.
 - **Min-maxer:** treats every problem as a system to optimize: find the
   rules, find the exploit, take the best route.
 - **Harmless on the surface:** easygoing, polite, a little lazy-looking at
   work. People underestimate him, which suits his plan to stay invisible.
-- **Fan at heart:** he genuinely loves these characters and knows every
-  tragedy waiting for them. His inner voice still fanboys ("That's Mei. That
-  is actually Mei.").
-- **Shameless dreamer:** completely open with himself about wanting a harem.
-  Patient and charming in practice, not pushy.
-- **Lonely:** two lives without a family. He wants, more than anything, to be
-  someone people can't do without, which is why the objectives tempt him.
+- **Lonely:** two lives without a family. He would never admit he wants
+  anyone to need him.
 
 ### Flaws
 - **Arrogant about foreknowledge:** he assumes he knows how things go, and
   is caught off guard when they don't.
-- **Treats people as routes:** while he believes the runs are fake, he sees
-  the heroines as flags and meters. Learning they are real turns this into
-  his guilt.
-- **Hides behind jokes:** deflects feelings with humor, even with himself.
+- **Treats people as routes:** the heroines are flags, meters, and rewards
+  to him, more so while he believes the runs are fake.
+- **The merge:** feelings from each run bleed into him. It is the one thing
+  his judgement cannot clear away.
 - **Physically ordinary:** knows he dies easily and plays it safe until the
   System changes that.
 
 ### Voice and habits
-- Casual and dry, full of programmer and gamer jargon (bug, patch, RNG,
-  speedrun). Professional and polite at work.
+- Narrates in first person: dry and sardonic, full of programmer and gamer
+  jargon (bug, patch, RNG, speedrun). Professional and polite at work.
 - Talks to the System the way a programmer talks to a rubber duck.
 - Keeps the whole canon timeline in an encrypted file, written in code
   nobody else would think to read.
 - Lives on instant noodles.
-- **Moral line:** gray. Willing to go dark inside the runs while he thinks
-  they're fake; more careful in the real world. A soft spot for orphans.
+- **Moral line:** dark. Whatever gets him stronger and keeps him alive is
+  on the table; he only holds back when it would cost him more than it gains.
