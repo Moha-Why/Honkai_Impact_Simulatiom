@@ -14,6 +14,7 @@
 | [simulation-system.md](simulation-system.md) | Simulation types, starts, meters, objectives, aftermath, entering a run |
 | [system-interface.md](system-interface.md) | The System's panel and voice, Eros's starting panel, starter pack |
 | [gifts-and-rewards.md](gifts-and-rewards.md) | Gift colors, settlement grades, reward types, shop |
+| [gift-catalog.md](gift-catalog.md) | Every gift, experience package and item that has appeared |
 | [soul-and-fate.md](soul-and-fate.md) | What deaths cost, stages of the soul, Fate Deviation |
 
 Chapter plans and chapters are in [../chapters/](../chapters/).
