@@ -24,6 +24,19 @@ Check these before planning a chapter and again before sending it.
   unfairness and treats it as such.
 - **Prices are clear:** who's paying, for what, and who named it.
 
+## Staging
+
+- **Tone shifts get staged.** When a character switches register (stern to
+  playful, polite to cold, a joke, a catchphrase, a pose, a burst of
+  anger), show it in the body and the voice: what the face does, what the
+  hands do, how the pitch or speed changes, and how the people around
+  react. One or two concrete details, before or after the line.
+- **Signature moments get their own beat.** A character's catchphrase,
+  habit or canon mannerism doesn't get buried inside a paragraph. Give it
+  room, and let Eros the fan recognize it when he would.
+- **The flat-voice test.** If a line that carries a change of mood would
+  read the same in a flat voice, it needs staging.
+
 ## Before each chapter
 
 - New characters get profiles in [characters/](characters/) before the

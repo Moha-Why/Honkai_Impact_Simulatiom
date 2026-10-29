@@ -96,11 +96,15 @@ It took eleven minutes. She didn't mention the extra one.
 
 I blinked.
 
-"Grandfather's people sent me your file when I took over." She waved a hand as though she was waving away a fly. "I don't read files from HQ anymore. But people talk." She stood up, which didn't make her much taller than me sitting down, and put her hand in the pocket of her dress, and came out with a wrapped sweet. She put it on my desk next to the keyboard.
+"Grandfather's people sent me your file when I took over." On the word grandfather her mouth went flat for a second, the same as when she'd read the note from 2008. She waved a hand as though she was waving away a fly. "I don't read files from HQ anymore. But people talk."
 
-"The World's Cutest Valkyrie says thank you," she said. "You may tell people."
+Then she stood up, which didn't make her much taller than me sitting down, and her face changed. The frown just went, switched off so fast that I nearly looked around for whoever had taken her place. She dug in the pocket of her dress, came out with a wrapped sweet, and set it down next to my keyboard with a little flick of her fingers, like a magician finishing a trick. Then she put one hand on her hip, tipped her chin up, and winked at me.
 
-Then she picked up her broken gauntlet and walked out of the room as fast as she'd come in, and the door at the far end banged shut behind her.
+"The World's Cutest Valkyrie says thank you!"
+
+Her voice had jumped up into something bright and sing-song, nothing like the voice that had been taking Dr. Mori apart fifteen minutes before. Behind me, somebody dropped a pen. I knew that voice. I'd heard her say lines like that a thousand times in my first life, every time she won a fight on my second monitor, and hearing it from a meter away in a basement full of engineers did something to my brain that took the rest of the afternoon to wear off.
+
+She dropped the pose as if it had never happened. "You may tell people," she said in her ordinary voice. Then she picked up her broken gauntlet and walked out of the room as fast as she'd come in, and the door at the far end banged shut behind her.
 
 The whole floor was looking at me. After a moment they all went back to their screens, very slowly, the way people do when they want you to know they weren't watching.
 
@@ -166,7 +170,7 @@ He looked at me over his peppermint. "Most people want to know what the job is b
 
 He nodded slowly and didn't write anything down, and I couldn't tell if that was good or bad.
 
-The fourth year, in March 2013, he put down his cup and said, "You know, Eros, you're very boring."
+The fourth year, in March 2013, he put down his cup and folded his paper napkin into exact halves, and then into halves again, and lined it up with the edge of the table. Then he said, in the same mild voice he used for everything, "You know, Eros, you're very boring."
 
 "Thank you," I said.
 
@@ -355,7 +359,7 @@ I waited. It didn't say anything else.
 
 [No, Host. The simulations are not real. Nothing you do inside them can hurt anyone. ♪]
 
-My shoulders came down. That had been the thing sitting at the bottom of my stomach since the basement. I'd read a lot of web novels in my first life. I knew how systems like this could go.
+The voice lifted on the last word, light and sing-song, like a nurse talking to a child just before the needle. My shoulders came down. That had been the thing sitting at the bottom of my stomach since the basement. I'd read a lot of web novels in my first life. I knew how systems like this could go.
 
 "Okay," I said. "Good. Okay."
 
@@ -728,7 +732,7 @@ I went looking. I went through everything I could think of as fast as I could. D
 [Simulation 1: Schicksal maintenance technician]
 Survived until: the Second Eruption
 Hidden event: Witnessed the Second Eruption
-Grade: C
+Grade: D
 ```
 
 [Choose 1 of 3.]

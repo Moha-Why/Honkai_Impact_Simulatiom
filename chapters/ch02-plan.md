@@ -66,7 +66,7 @@ table in `bible/gifts-and-rewards.md` (no limit on permanent gifts).
 15. **Run 2 (January 15).** Five Whites; he uses the reroll. Second draw has
     Danger Sense (Purple); he keeps it and Sprinter (White). Night-shift
     orderly, Krakow, 1987, small zombie outbreak. Danger Sense buys him two
-    days. Bitten (Honkai-tainted). **Grade D:** Purple can't be kept.
+    days. Bitten (Honkai-tainted). **Grade E:** Purple can't be kept.
     Offered Sprinter, Field First Aid (Basic), a ring of keys; he takes
     Sprinter. +30 Fate Fragments. Soul: Worn.
 16. **Asami at the harbor bar (January 16).** "You look like you just got
@@ -75,7 +75,7 @@ table in `bible/gifts-and-rewards.md` (no limit on permanent gifts).
     for the first years. Keeps Quick Reflexes (Green) and Steady Hands
     (White). Hunter's son, Hokkaido, 1908. Bow, knife, tracking; kills an
     infected bear at 30; marries, children (log lines); dies of pneumonia at
-    64. **Grade B, 2 of 3:** Quick Reflexes and Hunting and Field Craft
+    64. **Grade C, 2 of 3:** Quick Reflexes and Hunting and Field Craft
     (Professional). +120 Fate Fragments. He misses a family that "isn't
     real". Soul stays Worn; he stops for a week.
 18. **Rest week (January 17 to 24).** Knife practice on the seawall; his hands
@@ -84,7 +84,7 @@ table in `bible/gifts-and-rewards.md` (no limit on permanent gifts).
     nothing.
 19. **Run 4 (January 25).** Schicksal recruit, 1996. Trusts his knife skills
     against a zombie his body is too slow for; dies early (ordinary). **Grade
-    D:** takes double payout (+60).
+    E:** takes double payout (+60).
 20. **Unlock (a few days before the Eruption).** Huge Nagazora spike;
     [Heroine simulation conditions met: Raiden Mei]. He waits a night to let
     his soul heal and writes her name into the coded timeline.

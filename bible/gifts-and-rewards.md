@@ -24,7 +24,7 @@ Gifts are traits. Items use the same color tiers.
 
 ## Settlement
 
-Every run ends with a grade from E to S. The grade decides everything he
+Every run ends with a grade from F to S. The grade decides everything he
 can take out: how many picks, how rare a gift can be, how deep a skill goes,
 which items are allowed, and how many Fate Fragments he's paid.
 
@@ -40,18 +40,19 @@ which items are allowed, and how many Fate Fragments he's paid.
 
 | Grade | Typical run | Picks | Gift colors he can keep | Experience depth | Item colors | Fate Fragments |
 |---|---|---|---|---|---|---|
-| E | Died almost at once, did nothing | 1 of 3 | White | **Scraps:** a few days of know-how | White | 10–20 |
-| D | Short life or early death, little done | 1 of 3 | White, Green | **Basic:** a trainee's level, weeks of training | White | 20–40 |
-| C | A modest life, or a real survival | 1 of 3 | Up to Green | **Competent:** a year or two of real work | Up to Green | 40–80 |
-| B | A long life, or a real achievement, or a hidden event | 2 of 3 | Up to Blue | **Professional:** years of practice | Up to Blue | 80–150 |
-| A | A remarkable life that changed something; several hidden events | 2 of 4 | Up to Purple | **Expert:** decades, the top of a field | Up to Purple | 150–300 |
-| S | An extraordinary life that changed history | 3 of 5 | Up to Gold | **Master:** among the best who ever lived | Up to Gold | 300–500 |
+| F | Died almost at once, did nothing | 1 of 3 | White | **Scraps:** a few days of know-how | White | 10–20 |
+| E | Short life or early death, little done | 1 of 3 | White, Green | **Basic:** a trainee's level, weeks of training | White | 20–40 |
+| D | A modest life, or a real survival | 1 of 3 | Up to Green | **Competent:** a year or two of real work | Up to Green | 40–80 |
+| C | A long life, or a real achievement, or a hidden event | 2 of 3 | Up to Blue | **Professional:** years of practice | Up to Blue | 80–150 |
+| B | A remarkable life that changed something; several hidden events | 2 of 4 | Up to Purple | **Expert:** decades, the top of a field | Up to Purple | 150–300 |
+| A | An extraordinary life that changed history | 3 of 5 | Up to Gold | **Master:** among the best who ever lived | Up to Gold | 300–500 |
+| S | A life that reshaped its whole era; almost never happens | 4 of 6 | Up to Red | **Legend:** a level nobody in that world reached | Up to Red | 500–1000 |
 
 - **Gifts above the grade's color are never offered.** If he drew a Purple
   and the run ends at D, the Purple is gone.
 - **Red gifts** can only be drawn, and can only be kept from an S-grade run.
 - **Adaptability raises** (one grade at a time) can be offered only at A or
-  S, or as a heroine-run reward.
+  S, or as a heroine-run reward. At S, one is always among the cards.
 - **Fate Fragments** are always paid. One of the cards can instead be
   **double payout** for that run.
 - **What's on the cards:** the gifts he held during the run, the skills he
