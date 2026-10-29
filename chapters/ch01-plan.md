@@ -25,7 +25,7 @@
 ### 1. The last night (Earth), about 1,200 words
 
 - 3 a.m. in an empty office, with a release due at nine. Energy drink cans
-  on the desk. The second monitor has an HI3 event running on auto. A third
+  on the desk. The second monitor has HI3 open on the event screen, and he plays a stage every time a build runs. A third
   window has a forum thread where he's arguing about how Herrscher
   authorities work, and losing.
 - Pressure in his chest and his left arm going numb. He blames the energy

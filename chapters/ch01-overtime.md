@@ -4,7 +4,7 @@ The release was due at nine in the morning. At three, the office belonged to me 
 
 I had four cans of the green energy drink lined up next to my keyboard. Three were empty and the fourth was going warm. The build had failed eleven times since midnight, and on my main monitor the twelfth attempt was crawling through its tests.
 
-On my second monitor, Honkai Impact 3rd was playing itself. I had a team on auto-battle clearing the same event stage over and over, because the event shop closed in a few hours and I was still short on currency for the last item. Every few minutes the stage ended, the results screen flashed, and the whole thing started again. I'd stopped watching it hours ago. It was just there, making noise.
+On my second monitor, Honkai Impact 3rd was open on the event screen. Every time I started a build, I played a stage while it ran, because the event shop closed in a few hours and I was still short on currency for the last item. A build took about eight minutes and a stage took about four. I'd worked out the timing hours ago, and I'd stopped enjoying it at around the same time.
 
 On the laptop off to the side I had a forum thread open. A stranger with a cat-girl avatar was explaining to me that I didn't understand how Herrscher authorities worked.
 
@@ -26,13 +26,13 @@ I knew the list. Everybody who has ever looked up their own symptoms at two in t
 
 I picked up my phone.
 
-I thought about calling an ambulance. I pictured two paramedics coming up in the elevator and finding a thirty-two-year-old man alone in an open-plan office, with energy drink cans lined up on the desk and an anime game playing itself on the second screen. Then I pictured the bill. I opened my contacts instead, as if somebody in there was going to tell me what to do.
+I thought about calling an ambulance. I pictured two paramedics coming up in the elevator and finding a thirty-two-year-old man alone in an open-plan office, with energy drink cans lined up on the desk and an anime game paused on the second screen. Then I pictured the bill. I opened my contacts instead, as if somebody in there was going to tell me what to do.
 
 My manager was at the top because I'd called him most recently. Then my dentist. Then a delivery driver whose number I'd saved two years ago. I'd tipped him far too much by accident, and he'd called to ask if I'd meant to, and I'd been so surprised that anybody would bother calling me that I saved his number. Below him were a few people from university I hadn't spoken to in years, my landlord, and a number labeled DO NOT ANSWER.
 
 I scrolled through it twice and put the phone face down on the desk.
 
-I decided to rest my head for five minutes. If it hadn't passed in five minutes, I'd call. That seemed reasonable. I folded my arms on the desk next to the keyboard and put my head down on them, facing the second monitor, where my team was clearing wave three again. The music was the same loop I'd heard maybe four hundred times that week.
+I decided to rest my head for five minutes. If it hadn't passed in five minutes, I'd call. That seemed reasonable. I folded my arms on the desk next to the keyboard and put my head down on them, facing the second monitor, where the game was sitting on the results screen of the last stage I'd cleared. The menu music was the same loop I'd heard maybe four hundred times that week.
 
 The edges of the screen went soft. My heartbeat was loud in my ears, and then it went strange, too fast and then too slow, as if it had lost count. The timer in the corner of the event screen said one hour and fifty-two minutes. I remember thinking that I still hadn't claimed the milestone rewards, and that I'd do it in five minutes, once my arm felt better.
 
@@ -747,7 +747,7 @@ I stopped.
 
 I lay back down. I stared at the ceiling. There was a crack in the plaster running from the light fitting to the corner, and I followed it with my eyes, and I was smiling so hard my face hurt.
 
-I knew what kind of stories had systems in them. I'd read hundreds. And this was Honkai Impact, the game I'd spent eight years of my first life looking at while it played itself on my second monitor, and it had a lot of heroines. In my first life, in the privacy of my own head, I'd had some very detailed opinions about which of them I'd want to meet. I'd never told anyone, because there'd never been anyone to tell.
+I knew what kind of stories had systems in them. I'd read hundreds. And this was Honkai Impact, the game I'd spent eight years of my first life playing in every spare minute, usually on my second monitor while something compiled, and it had a lot of heroines. In my first life, in the privacy of my own head, I'd had some very detailed opinions about which of them I'd want to meet. I'd never told anyone, because there'd never been anyone to tell.
 
 Some time later, when my face had calmed down, I asked the last question. I asked it quietly, because I wasn't sure I wanted the answer.
 
@@ -1032,7 +1032,7 @@ At first they were just shapes moving across the snow off to my left, low and fa
 
 There were cracks in them. Lines running along their sides and their backs, glowing the same pale color as the sky behind me, and where the lines were, the shape of the animal was wrong. The legs bent too many times. The heads were too long. One of them turned its face toward the sound of my engine, and its mouth opened wider than any animal's mouth should, and there was light inside it.
 
-Beast-class. The lowest kind of Honkai beast. Animals that Honkai energy had gotten into and twisted. I'd killed thousands of them on my second monitor, on auto-battle, while I argued on forums and ate dinner.
+Beast-class. The lowest kind of Honkai beast. Animals that Honkai energy had gotten into and twisted. I'd killed thousands of them on my second monitor, between builds, while I argued on forums and ate dinner.
 
 They weren't coming for me. They were running north, toward the outpost.
 
