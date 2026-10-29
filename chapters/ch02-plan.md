@@ -54,7 +54,7 @@
 - **Theresa Apocalypse:** profile in `bible/characters/theresa-apocalypse.md`.
 - Grisha Lebedev and Major Anna Sorokina (Run 1) already have profiles.
 
-## Extension (proposed, not written yet)
+## Extension (written)
 
 Adds about 10,000 words after the morning following Run 1, up to the day
 Mei's heroine run unlocks. Balance comes from the soul budget and the grade

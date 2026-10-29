@@ -34,5 +34,10 @@ Valkyrie life: the D and C ranks nobody writes songs about.
 Still D-rank; turned down C twice because C means combat support. "I've
 seen what comes back. I fly them back. I'm fine where I am."
 
+**In Chapter 2:** at the harbor bar on January 16 tells him he looks like
+the girls she flies back from deployments ("Sleep. Eat something hot. Don't
+be alone in the dark too much."); catches him with a knife on the seawall,
+doesn't believe "YouTube", and fixes his stance.
+
 **In Chapter 1:** escort during the draft; tells him what D-rank logistics
 means on the plane; runs his Honkai Adaptability test.

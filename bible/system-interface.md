@@ -6,7 +6,7 @@
   notices with "[Ding!]". The voice is polite, warm, and a bit too
   reassuring.
 - **Status panel:** name, age, Combat Rating, Honkai Adaptability, soul
-  stage, gifts, Fate Fragments.
+  stage, gifts, experience packages (once he has any), Fate Fragments.
 - **Combat Rating:** his strength as a Valkyrie rank (Low D, High A, and so
   on). See [power-scale.md](power-scale.md).
 - **Starting panel:** Combat Rating Civilian, Honkai Adaptability F, soul

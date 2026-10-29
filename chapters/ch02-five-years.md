@@ -106,7 +106,7 @@ Her voice had jumped up into something bright and sing-song, nothing like the vo
 
 She dropped the pose as if it had never happened. "You may tell people," she said in her ordinary voice. Then she picked up her broken gauntlet and walked out of the room as fast as she'd come in, and the door at the far end banged shut behind her.
 
-The whole floor was looking at me. After a moment they all went back to their screens, very slowly, the way people do when they want you to know they weren't watching.
+The whole floor was looking at me. After a moment they all went back to their screens, very slowly, as people do when they want you to know they weren't watching.
 
 Dr. Mori came out of his office and stood next to my desk. He looked at the sweet. He looked at me.
 
@@ -476,7 +476,7 @@ The cold hit me before anything else.
 
 I was sitting in the back of an open truck on a bench, with my knees against a crate of spare parts, and the air was so cold it felt solid. It went straight through my coat and my sweater and my shirt and settled in my bones, and my face was so numb I couldn't tell if my mouth was open. The truck was crawling along a road made of packed snow between two walls of black pine trees. The sky was the color of dishwater.
 
-I had a body. It was me, my own body at twenty-two, fitter than I'd been at eighteen after five years on the seawall, and still not built for any of this. I had a bag between my feet, and in the inside pocket of my coat there was a folded set of papers. Without reading them, I knew what they said. I was a technician on a two-year contract, hired from a Chinese company that did work for Schicksal, and I spoke enough Russian to read a manual and not much more. The simulation had given me all of it, the way you know things in a dream without being told.
+I had a body. It was me, my own body at twenty-two, fitter than I'd been at eighteen after five years on the seawall, and still not built for any of this. I had a bag between my feet, and in the inside pocket of my coat there was a folded set of papers. Without reading them, I knew what they said. I was a technician on a two-year contract, hired from a Chinese company that did work for Schicksal, and I spoke enough Russian to read a manual and not much more. The simulation had given me all of it, as you know things in a dream without being told.
 
 The truck came out of the trees and I saw Outpost 7.
 
@@ -494,7 +494,7 @@ Lebedev turned out to be the biggest man I had ever seen in either of my lives. 
 
 He went into the shed and came back out with a pair of thick gray felt boots, the kind that come up to your knee, and pushed them into my arms.
 
-"Felt boots," he said. He said it slowly and loudly, the way people talk to foreigners and small children. "Not those city things. You want to keep your toes?"
+"Felt boots," he said. He said it slowly and loudly, as people talk to foreigners and small children. "Not those city things. You want to keep your toes?"
 
 I nodded.
 
@@ -504,7 +504,7 @@ I nodded.
 
 ---
 
-The simulation didn't make me live every minute. Most of the days went by in a kind of fog, the way the weeks of a long project go by when you look back at them, and while they were going by, lines of text slid across the edge of my vision and told me what had happened. Then something would happen that mattered, and I'd be completely there again, cold and awake and real.
+The simulation didn't make me live every minute. Most of the days went by in a kind of fog, like the weeks of a long project when you look back at them, and while they were going by, lines of text slid across the edge of my vision and told me what had happened. Then something would happen that mattered, and I'd be completely there again, cold and awake and real.
 
 [1999, April. You fix the number two generator. Nobody thanks you.]
 
@@ -668,7 +668,7 @@ The radio on my belt was still on. Through the static, I heard the outpost. The 
 
 I kept driving. My hands on the handlebars were shaking so badly that the snowmobile wobbled. My body wanted to stop, or turn around, or curl up in the snow and hide. My head was perfectly clear. South, it said. The railhead was eighty kilometers. I had fuel for a hundred and twenty. If I kept going, the beasts would be busy with the outpost.
 
-The radio clicked over to another channel by itself, the way they did sometimes when one channel went dead. I heard an engine, very loud, and over the engine a big voice I knew, shouting in Russian.
+The radio clicked over to another channel by itself, as they sometimes did when one channel went dead. I heard an engine, very loud, and over the engine a big voice I knew, shouting in Russian.
 
 "...on the north road, four kilometers out, we have people, I can see them, there are, there must be thirty, forty..."
 
@@ -800,3 +800,774 @@ I knew that the Second Eruption had been real, though. In this world, fourteen y
 I got in the shower and turned it up as hot as it would go and stood under it until the hot water ran out.
 
 At half past seven I went up to the eleventh floor, a long time before anyone expected me. The office was mostly empty. Dr. Mori's door was open, and he was asleep on the cot with his shoes still on and his glasses still pushed up into his hair, and his third monitor was showing a crash log, scrolling slowly. I went to my workstation, sat down, and opened the anomaly watch's feed for Nagazora. The numbers had dropped back after the spike at two-oh-eight, but not as far as they'd been the day before.
+
+---
+
+At ten past eight my desk phone rang. It was Yoon Seo-yeon, the senior duty officer in the anomaly watch room on the ninth floor.
+
+"The principal's down here asking for whoever built this," she said. "That's you."
+
+"Now?"
+
+"She's standing behind me eating a cake. Now."
+
+I went down the stairs instead of waiting for the lift. The watch room was dark as it always was, with the wall of screens glowing blue and green, and four duty officers at their consoles pretending very hard that nobody important was in the room. Yoon stood by the main console with her mug. Next to her, a head and a half shorter, Theresa Apocalypse was eating a small round cake out of a paper wrapper and frowning at the screen that showed Nagazora.
+
+She looked around when I came in. For a second her face did nothing at all. Then it lit up, the frown gone and her eyebrows up, and she pointed at me with the cake.
+
+"The weather data boy!"
+
+Four duty officers looked at me and then very quickly looked back at their consoles.
+
+"Principal," I said.
+
+"You got old." She looked me up and down, chewing. "No, that's rude. You got tall. Taller. Did you eat the candy?"
+
+"It's in my desk drawer."
+
+She stopped chewing and stared at me. "That was four and a half years ago."
+
+"Yes."
+
+"That's either very sweet or very strange." She considered me for another second, then shook her head as though she'd decided not to decide, and the brightness went out of her face like a light being turned down. She turned back to the screen and pointed at it with the half-eaten cake, and when she spoke again it was in the other voice, the one she'd used on Dr. Mori. "Tell me about this."
+
+I told her. I didn't tell her anything that wasn't on the screens. Small spikes starting in early December, the same signature as every other Honkai event we'd ever logged. Getting bigger, unevenly, with gaps of a few days between them. The one at eight minutes past two this morning, the biggest yet, about four times the size of the last. I pulled up the comparisons and showed her where Nagazora sat against the events we'd watched rise and then fade away over the last three years, and where it sat against the ones that hadn't faded. It sat closer to the second group every week.
+
+She listened without interrupting. She'd stopped eating. At some point she'd started turning the paper wrapper around and around in her fingers.
+
+"How bad?" she asked.
+
+"I don't know," I said, which was true in the way that mattered. "The data says it's not going away. It doesn't say what it is."
+
+She looked at the screen for a long time. Then she looked at Yoon.
+
+"I'm sending someone to look," she said. "Quietly. Someone I trust. Not a squad, not yet. If I send a squad, HQ will want to know why, and then HQ will want to send its own people." The word HQ came out like the word grandfather had four and a half years ago, flat and cold. "Tell nobody outside this room."
+
+Yoon nodded. I nodded too, a beat late, because I was busy trying to keep my face still. I knew who she was going to send. In the game, a red-haired woman with a big sword had walked into Nagazora a few weeks from now and found a girl in a school uniform with lightning coming off her.
+
+Theresa crumpled the cake wrapper into a ball and looked around for a bin, and didn't find one, and put it in her pocket. Then she turned to me, and her face softened a little.
+
+"Do you sleep, Eros?"
+
+"Sometimes."
+
+"You look like my girls during exam week." She reached into the other pocket and came out with another candy, a lemon one this time, and held it out. "Eat this one. That's an order from the head of your branch."
+
+I took it. She watched me until I unwrapped it and put it in my mouth. Then she nodded once, satisfied, and walked out, and the four duty officers let out a breath together.
+
+"You know her?" Yoon asked.
+
+"She yelled at my boss once," I said, around the candy.
+
+---
+
+That night I went into the second run.
+
+I'd thought about waiting. I was still Frayed. The System had said a few days, and I believed it. But the readings in Nagazora were climbing, I had a free run every night that I wasn't using, and every night I didn't use it was a night I'd never get back. I'd done the math on the walk home. If I lost a little memory and got it back in the morning, and I got stronger in exchange, then it was a good trade.
+
+So I lay down, closed my eyes, and said yes.
+
+[Simulation loading.]
+
+[Drawing gifts.]
+
+```
+[Night Owl (White)]
+Stays alert at night without getting tired.
+
+[Thick Skin (White)]
+Bruises and cuts less easily.
+
+[Good Lungs (White)]
+Breathes deeper and recovers faster after running.
+
+[Pack Mule (White)]
+Carries heavy loads further than most.
+
+[Keen Nose (White)]
+Smells things other people miss.
+```
+
+Five whites. I looked at them for a while in the dark place with no floor, and then I used the reroll from the starter pack, because I wasn't going to get a worse draw than that.
+
+The cards faded and five new ones slid in.
+
+```
+[Iron Stomach (White)]
+Can eat almost anything without getting sick.
+
+[Sprinter (White)]
+Faster over short distances than most people.
+
+[Steady Hands (White)]
+Hands don't shake during fine work, even under stress.
+
+[Calm Voice (White)]
+People tend to listen when you speak quietly.
+
+[Danger Sense (Purple)]
+A warning, felt in the body, a few seconds before harm arrives.
+```
+
+The fifth card had a purple border, deep and bright, and it seemed to glow harder than the others. I stared at it. In my head, a little voice that had spent eight years pulling gacha banners in my first life was screaming.
+
+"Danger Sense," I said. "And Sprinter."
+
+[Gifts locked: Danger Sense (Purple), Sprinter (White).]
+
+[Scenario: Hospital orderly, night shift. Krakow, Poland. October 1987.]
+
+---
+
+[1987, October. You start on the night shift at a hospital in Krakow. The pay is bad. The coffee is worse.]
+
+[1987, October. Nurse Halina Nowak decides you are useless and then, after a week, that you are only mostly useless.]
+
+[1987, November. Your Polish improves quickly. (Quick Learner)]
+
+Halina was in her late forties, built like a mailbox, with gray-blond hair stuffed under a nurse's cap and a pair of glasses on a chain that she put on to read charts and took off to glare at people. She smoked on the fire escape every two hours, exactly, and she talked the whole time she worked, mostly to herself and mostly in swear words.
+
+"If you're going to stand there, orderly," she told me on my third night, "stand there holding something."
+
+So I stood there holding things. I pushed trolleys, carried laundry, mopped floors, and moved patients from beds to wheelchairs and back again. I learned where everything was kept and which doctors would shout and which would just sigh. At four in the morning, when the ward was quiet, Halina taught me how to take blood pressure and how to tell when someone was going to be sick before they were, and she pretended she wasn't teaching me anything.
+
+[1987, December. A patient is brought in from a village outside the city after a "chemical spill" at a factory. Then three more. Then eleven.]
+
+Danger Sense woke up on the second night of that.
+
+I was pushing a laundry trolley down the corridor toward the lift, past the doors to the stairwell that went down to the basement. And the back of my neck went cold, a prickle that ran down from my hairline into my shoulders and settled there, like your body's reaction to standing too close to the edge of something high. My hands tightened on the trolley handle by themselves.
+
+I stopped. The corridor was empty. The lights hummed. Behind the stairwell doors, two floors down, was the hospital morgue, where they'd taken the four patients from the village who'd died that afternoon.
+
+I stood there for a long time with my neck prickling. Then I turned the trolley around and went back to the ward.
+
+"Halina," I said. "How many of the village people are in the morgue?"
+
+She looked up from a chart. "Seven, now. Why?"
+
+"Can we lock the stairwell?"
+
+She took her glasses off and looked at me the way she looked at doctors who'd written something stupid on a chart. Then she saw my face, and something in hers changed. She didn't ask why again.
+
+"There's a key," she said slowly. "In the porters' office."
+
+We were halfway there when the screaming started downstairs.
+
+---
+
+What I remember most about the next two days is the doors.
+
+Honkai zombies aren't the zombies from films. I'd known that from the game, but knowing it was different from seeing it. They were the dead, reanimated, walking around in hospital gowns and the clothes they'd died in, and they didn't stagger and moan. They moved too smoothly, in long straight lines, and when they saw something alive they went straight for it without slowing down, and there was a light in their eyes like the light I'd seen in the Baradiel. By the end of the first night there were a lot more than seven of them, because everyone they caught got up again an hour later.
+
+Halina and I held the ward on the fourth floor with six patients who couldn't walk, two other nurses, a doctor who stopped talking after the first hour, and every bed and cabinet and trolley we could push against the doors. We held it for two days.
+
+Danger Sense was the reason we lasted that long. It went off a few seconds before anything happened, every time. The prickle at the back of my neck, and then a door would shudder, or a window would crack, or a shape would turn the corner at the end of the corridor. A few seconds isn't much. It was enough to shout, and get a shoulder behind something, and push.
+
+"How do you know?" Halina asked me on the second night. We were sitting with our backs against the barricade, listening to it creak. She was smoking inside, which she would never have done before, with her hands shaking so much that she'd needed three matches to light it.
+
+"I don't know," I said. "I just feel it."
+
+She laughed, a short ugly laugh. "Feel it. Wonderful. My mother used to feel the rain in her knee." She took a long drag and blew it at the ceiling. "Keep feeling it, orderly. Please."
+
+On the third morning, the doors at the far end of the ward gave way.
+
+Danger Sense screamed at me. This time the prickle was a hand closing on the back of my neck, and I was already moving before I knew why, grabbing Halina by the arm and dragging her back toward the window at the other end of the ward, where there was a fire escape. Sprinter did its job. I'd never been fast in either life, and I crossed that ward faster than I'd ever moved, half carrying her. I got the window open and pushed her out onto the fire escape, and then I turned around to see where the others were.
+
+The doctor was standing in the middle of the ward. He hadn't moved. They went past the beds, over the beds, toward him, and I watched it happen.
+
+Something came at me from the side. I hadn't seen it, and Danger Sense was a single long scream by then, the whole room was danger, and the warning was useless when everything was a warning. A woman in a hospital gown with her hair half torn out. Her teeth closed on my forearm through my sleeve.
+
+I got out onto the fire escape. I don't know how. I pulled the window shut behind me and held it, and Halina hit the glass with a fire extinguisher until the hands on the other side stopped trying.
+
+We got down to the street. Halina tied my arm with her belt. I could feel the bite burning, and then the burning spread, up my arm and into my shoulder and into my chest, the same buzzing heat I'd felt in Siberia, the same wrongness, except that this time it was coming from inside me. By noon I couldn't feel my hand. By the afternoon I couldn't stop shaking, and my vision was going strange at the edges, too bright, and I could hear my own heartbeat getting slower.
+
+"No," Halina said. We were sitting in a doorway three streets from the hospital. Somewhere sirens were going. "No, you don't. Orderly. Look at me."
+
+I looked at her.
+
+"I'm sorry," I said. I wasn't sure what for.
+
+She was crying, which I hadn't known she could do. "Shut up," she said. "Shut up, you stupid boy."
+
+I knew what was going to happen to me an hour after I died. So did she, I think. I asked her to go. She stayed until I couldn't see her anymore, and then I don't know if she went.
+
+---
+
+[Simulation ended.]
+
+[Cause of death: Honkai zombie bite. Honkai energy corruption.]
+
+[Soul damage: one whole memory.]
+
+The tug again, at the back of my head. I didn't bother looking for what it had taken this time. I already knew I wouldn't find it.
+
+[Soul: Worn.]
+
+```
+[Simulation 2: Hospital orderly]
+Survived until: the third day of the outbreak
+Grade: E
+```
+
+[Choose 1 of 3.]
+
+```
+[Gift: Sprinter (White)]
+Keep this gift permanently.
+
+[Experience: Field First Aid (Basic)]
+A trainee's knowledge of wounds, bleeding and shock.
+
+[Item: Porter's Key Ring (White)]
+A heavy ring of hospital keys.
+```
+
+[Fate Fragments: +30.]
+
+I looked at the three cards for a long time.
+
+"Where's Danger Sense?" I asked.
+
+[Gifts above the grade's color can't be offered, Host. At grade E, only White and Green gifts are available.]
+
+"It kept us alive for two days."
+
+[Yes, Host. You'll draw it again one day. ♪]
+
+The voice brightened on the last word, as cheerful as a shop assistant telling me the item was out of stock. I stood in the dark and felt the loss of it like a hole where a tooth had been. It was the best thing I'd ever drawn, and I'd had it for two days, and I couldn't keep it because I hadn't lived long enough to deserve it.
+
+Sprinter or First Aid. First Aid was useful and small. Sprinter was small too, but it was permanent, and it was in my body, and every morning on the seawall since 2009 I'd been training for exactly one thing, which was running away.
+
+"Sprinter," I said.
+
+[Sprinter (White) added to permanent gifts.]
+
+---
+
+On the evening of the sixteenth, Asami dragged me to the harbor bar.
+
+It was a low concrete building by the docks with a corrugated roof, a television in the corner showing football with the sound off, and a smell of fried squid and diesel. The logistics crews drank there because it was the only place on the island that didn't feel like Schicksal. Asami had a table by the window that nobody else sat at, and she was already halfway through her first beer when I sat down.
+
+She looked at me and put the glass down.
+
+"Wow," she said.
+
+"What?"
+
+"You look like shit." She leaned across the table and peered at my face. "No. Seriously. You look like the girls I fly back from deployments. The ones who were fine on the way out." She sat back. "What happened to you?"
+
+The thing about Asami was that she'd spent her whole career looking at people who'd just come back from something, and she was very good at it.
+
+"New project," I said. "Mori's got me on nights."
+
+"Mori's going to kill you one day, you know that? He's going to find you dead on that cot of his." She picked up her beer again, but she was still watching me over the top of it. "You're shaking."
+
+I looked at my hand on the table. It was. Not much. I took it off the table.
+
+"Too much coffee," I said.
+
+"Uh huh." She drank. "You want to know what I tell the girls?"
+
+"What?"
+
+"Sleep. Eat something hot. Don't be alone in the dark too much." She pointed at me with the bottle. "And whatever it is, don't go back for more of it until you've done all three."
+
+I bought her a second beer and ate a plate of fried squid, which was something hot, and walked back to the residential block along the seawall in the cold, and decided the sea counted as company.
+
+Then I went to my room and lay down on the bed and said yes again.
+
+---
+
+[Simulation loading.]
+
+[Host soul state: Worn. Some memories will be unavailable during this simulation.]
+
+I stood in the dark and read that line twice, and I felt my stomach drop.
+
+[Drawing gifts.]
+
+```
+[Keen Eyes (White)]
+Sees further and picks out movement better than most.
+
+[Steady Hands (White)]
+Hands don't shake during fine work, even under stress.
+
+[Thick Skin (White)]
+Bruises and cuts less easily.
+
+[Patient (White)]
+Can wait for a very long time without losing focus.
+
+[Quick Reflexes (Green)]
+Reacts faster than almost anyone.
+```
+
+No reroll this time. I took Quick Reflexes and Steady Hands.
+
+[Scenario: Hunter's son. A settler village in the hills of Hokkaido, Japan. Spring 1908.]
+
+---
+
+The first thing I noticed was the smell of pine smoke and wet earth. The second thing I noticed was that I couldn't remember the office.
+
+I was sixteen in this one, sitting on the step of a wooden house with a bowl of barley in my hands, and the morning was cold and bright and full of birdsong. I knew that I'd died in my first life at a desk with a numb arm. I could remember the energy drinks and the chest pain and the phone in my hand. I could remember the game on the second monitor. But the office around all of that was gone. The building, the street outside, the floor I'd worked on, the faces of the people I'd worked with, the vending machine. I knew there had been a vending machine, because I remembered thinking about it, but I couldn't see it. The last night of my first life was sitting in the middle of a blank white space.
+
+I sat on the step with the bowl going cold in my hands and tried to remember the name of the street, and couldn't, and tried to remember the name of my manager, and couldn't, and my heart started to go.
+
+"Eat," said a voice behind me. "We're going up the hill."
+
+That was Genkichi, my father in this life. He was a small, wiry man of about fifty with a brown face like old leather and a beard he trimmed with his hunting knife, and he said maybe forty words a day. He came out of the house with two bows and a quiver, handed me one bow, and walked off up the path without looking back to see if I was following.
+
+I ate the barley and followed. I didn't have any choice. I told myself the System had said some memories would be unavailable, and that they'd come back when I woke up, and I told myself that for most of the first year.
+
+[1908, spring. Your father teaches you to walk in the forest without making a sound. You fail for two months.]
+
+[1908, summer. You hit a target with an arrow for the first time. Your father says nothing. That night there is extra fish in your bowl.]
+
+[1909. Your hands remember the bow before you do. (Quick Learner, Steady Hands)]
+
+[1910. You kill your first deer. Your father shows you how to dress it and how to thank it.]
+
+[1911. You can track a fox across bare rock. Your father says, "Again," which you have learned means "good."]
+
+---
+
+The years went by in the fog, the way they do in a long run, and lines of text kept me company at the edge of my vision. The office stayed gone. After a while I stopped reaching for it.
+
+I learned the bow, properly, the way you only learn something when your dinner depends on it. I learned the knife, for skinning and for the end of a hunt when an animal wasn't dead yet. I learned to read the forest as Genkichi did, the bent grass and the scraped bark, the droppings and the quiet places where birds stopped singing. Quick Reflexes meant that when something moved at the edge of my vision, I'd turned and drawn before I'd decided to. Steady Hands meant that when I drew, the arrow went where I'd looked.
+
+[1914. Far away, the world goes to war. In the village, the harvest is good.]
+
+[1917. You marry Sato Fumi from the next village down the valley. She laughs at you during the ceremony. You don't mind.]
+
+Fumi was tall and strong-shouldered and had a crooked smile that came out whenever I was being serious, which according to her was always. She talked to me like we'd known each other forever. She wasn't afraid of the forest, or of me when I came back from it covered in blood, or of anything that I ever saw.
+
+"You talk to the trees more than you talk to me," she said, a month after the wedding.
+
+"The trees don't laugh at me."
+
+"That's because the trees don't love you." She threw a wet cloth at my head. "Come back by dark, or I'll come and find you, and you'll be sorry."
+
+I came back by dark. I came back by dark for thirty-nine years.
+
+[1919. Your father dies in his sleep in the winter. You bury him on the hill he liked. You don't cry until spring.]
+
+[1919. Your first son is born.]
+
+[1921. Your daughter is born. She has Fumi's smile.]
+
+---
+
+In the winter of 1922, the bear came.
+
+Old Sasaki told us about it first. He was the oldest man in the village, bent nearly double and mostly blind, with a pipe he chewed and never lit, and he'd been telling stories for so long that nobody listened to him anymore. One evening in January he came to the meeting house on his grandson's arm and said that he'd seen a bear by the river.
+
+"Bears sleep in winter," someone said.
+
+"Yes," said Sasaki. He took the pipe out of his mouth and pointed it at the room. "A bear that doesn't sleep in winter isn't a bear anymore."
+
+Two weeks later it took a horse from the farm at the top of the valley. A week after that, it took the farmer.
+
+I went up the valley with three other men to find it. I knew what we were looking for before we found the tracks, because I'd been waiting for something like it since the scenario started. A Honkai beast, in 1922, in the hills of Hokkaido. Not the armored kind from the game. The old kind. An animal that Honkai energy had got into and twisted until it wasn't an animal anymore.
+
+The tracks were wrong. Too deep, too far apart, with claw marks that dragged through the snow between the steps as if the thing had more claws than feet. Where it had lain down, the snow had melted in a perfect circle and frozen again into black ice.
+
+We found it on the third day, in a gully below the ridge.
+
+It was a bear the way a burning house is a house. It was twice the size of any bear I'd seen, with fur hanging off it in patches, and under the patches the skin had gone hard and gray and cracked like old pottery. Light came out of the cracks, pale and pink. Its eyes were full of the same light. It was eating something at the bottom of the gully, and when it lifted its head, I saw that its jaw had split down the middle and healed into two jaws.
+
+One of the men with me turned and ran. I didn't blame him.
+
+Quick Reflexes saved my life in the first second. The thing came up the side of the gully faster than anything that size should move, straight at us, and I'd already loosed an arrow before I'd decided to and thrown myself sideways. The arrow went into its shoulder and did nothing at all. Its claws took the man next to me across the chest. He didn't get up.
+
+What I remember of the next minute is the snow, and the smell, a smell like burnt hair and something electric, and my own breathing, and the clear quiet place in my head that I knew from Siberia and from the hospital. It noticed that the arrows didn't go deep enough to matter. It noticed that the cracks with light in them were softer than the gray skin around them, because the thing flinched every time a branch scraped across one. It noticed the fire we'd banked the night before on the ridge, still smoking.
+
+I put two arrows into the cracks along its neck, close together, and it screamed in a voice that didn't belong to any animal. Then I ran for the ridge. The last man with us, a farmer called Yoshida, ran the other way and shouted at it and threw stones, and it hesitated between us long enough for me to get to the fire. I came back down the slope with a burning branch in one hand and my knife in the other.
+
+It knocked the branch out of my hand. It opened my left arm from the shoulder to the elbow with one swipe. Then it was on top of me, and its two jaws were in my face, and the light coming out of its mouth was so bright I couldn't see anything else.
+
+I put the knife into the crack under its jaw, up to the handle, where the light was coming from. I felt something inside it give way.
+
+It took a long time to die. When it finally stopped moving, the light in the cracks went out one at a time like lamps in a house at night, and the body under the gray skin started to steam and sag and fall in on itself, and by the time Yoshida got me out from under it, there wasn't much left but fur and black slush and a smell I would remember for the rest of that life.
+
+[1922, winter. You kill the bear that does not sleep. Your left arm will never fully straighten again.]
+
+[1922. Old Sasaki tells the story of it for the rest of his life. It gets bigger every time.]
+
+---
+
+[1924. Your second son is born.]
+
+[1931. You teach your eldest to walk in the forest without making a sound. He fails for two months.]
+
+[1941. Your eldest son is taken for the army. You go to the station with Fumi and watch the train leave.]
+
+[1944. Your second son follows him.]
+
+[1945. One of them comes back.]
+
+[1949. Your daughter marries a schoolteacher from Sapporo. She laughs during the ceremony. Fumi cries.]
+
+[1952. Your first grandchild is born. Your arm aches in the cold now, all winter.]
+
+[1955. You stop going up the hill. Your grandson asks you to tell him about the bear. You tell it smaller than Sasaki did.]
+
+---
+
+In the winter of 1956 I caught a cold that went into my chest, and I knew what it was.
+
+I lay in the house I'd been born into in this life, on the futon by the stove, with the snow coming down outside, and I couldn't breathe properly. Every breath was short and wet and caught on something. It reminded me of Siberia, of the snow and the broken rib, and I almost laughed, and the laugh turned into coughing that went on for a long time.
+
+Fumi sat beside me. She was sixty-one, gray-haired and stooped, and her hands were still never still. They were holding mine now, turning it over, rubbing the back of it with her thumb.
+
+"You're doing it again," she said.
+
+"Doing what?"
+
+"Being serious." She smiled the crooked smile. It was the same smile, after thirty-nine years. "You've got a face like a funeral."
+
+"I'm dying, Fumi."
+
+"Well, you don't have to be so serious about it."
+
+I laughed again, and coughed again, and she held my hand through it and waited.
+
+I wanted to tell her. I wanted to say, none of this is real, and you're not real, and I'm going to wake up in a few minutes in a room with a concrete wall outside the window, almost sixty years from now on an island in the sea, and I'm going to have to get up and go to work. And I wanted to say, I'm sorry, and I wanted to say, it was a good life, and they all sounded insane, so I didn't say any of them.
+
+"Come back by dark," I said instead.
+
+She looked at me for a long moment. Then she bent down and put her forehead against mine.
+
+"Idiot," she said. "You're the one leaving."
+
+---
+
+[Simulation ended.]
+
+[Cause of death: pneumonia.]
+
+[Soul damage: a scattered detail.]
+
+```
+[Simulation 3: Hunter's son]
+Lived to: 64
+Hidden event: Killed a Honkai beast without any Honkai ability
+Grade: C
+```
+
+[Choose 2 of 3.]
+
+```
+[Gift: Quick Reflexes (Green)]
+Keep this gift permanently.
+
+[Experience: Hunting and Field Craft (Professional)]
+Forty years of the bow, the knife and the forest.
+
+[Gift: Steady Hands (White)]
+Keep this gift permanently.
+```
+
+[Fate Fragments: +120.]
+
+I stood in the dark for a long time before I chose.
+
+"Quick Reflexes," I said finally. "And the experience."
+
+[Quick Reflexes (Green) added to permanent gifts.]
+
+[Hunting and Field Craft (Professional) received.]
+
+I felt the experience arrive. My hands suddenly knew things my head had never been told. How a bowstring sits against the fingers. How a knife turns in the palm when you change your grip. Where to put your feet on a slope of loose stones. Forty years of it, sitting in my hands like it had always been there.
+
+[Waking now.]
+
+---
+
+I woke up at six to the alarm, in my room, in the dark.
+
+The office came back first. It came back all at once, the building and the street and the vending machine and my manager's face, everything I'd lost at the start of the run, and it was so ordinary that I lay there for a minute feeling stupid about how scared I'd been.
+
+Then the rest of it came back, and that was worse.
+
+Fumi's hands. The smell of the house. The weight of my daughter when she was born. My eldest son walking up the hill behind me, failing for two months to walk without making a sound. The train leaving the station in 1941, and the one who came back in 1945, and the one who didn't. Forty-eight years of a life, and it was all still there, every bit of it. It had felt like years while I was in it, and now it was a dream I'd had last night, and I was twenty-two and lying in a single bed on an island, and none of them had ever existed.
+
+I lay there for a long time.
+
+[Good morning, Host.]
+
+"They weren't real," I said. My voice came out rough.
+
+[No, Host. None of them were real.] There was a pause, no longer than a breath. [You did very well. ♪]
+
+I put my arm over my eyes. My left arm. It straightened all the way. That was the strangest part, somehow. I kept waiting for it to catch at the elbow, the way it had for thirty-four years, and it didn't.
+
+I knew the rule about the merge. I'd read the System's answers about it the first night. Some feelings carried over. I hadn't understood what that would mean until I was lying in bed at six in the morning missing a wife who'd never been born.
+
+```
+[Status]
+Name: Eros
+Age: 22
+Combat Rating: Civilian
+Honkai Adaptability: F
+Soul: Worn
+Gifts: Quick Learner (Green), Sprinter (White), Quick Reflexes (Green)
+Experience: Hunting and Field Craft (Professional)
+Fate Fragments: 290
+```
+
+Worn. I asked the System how long Worn took to heal, and it told me what I already knew from the first night. A couple of weeks. And if I went in again before then, I'd start with gaps again. Maybe bigger ones.
+
+I thought about the office, blank and white in the middle of my memory, and about how it had felt to sit on that step in 1908 and not know the name of my own street.
+
+I did the math again, the way I'd done it on the walk home from the watch room. The Third Eruption was a few weeks away. A run a night would make me stronger, a little, and would also wear down my soul until I was going into runs missing things I needed. A worn-out soul was a resource problem, the same as a server running out of memory, and you don't fix that by adding more load.
+
+"No more runs this week," I said to the ceiling.
+
+[Of course, Host. Rest well. ♪]
+
+---
+
+I went back to running at six on the seawall. I went back to work. Dr. Mori asked if I was sick, and I said I'd had a bad night, which was true.
+
+On the third day, I bought a training knife.
+
+It came from the supply office, where you could order almost anything if you had a good reason, and my reason was a simulation project that needed motion data for knife combat. The supply officer didn't even look up. It was a rubber blade on a real handle, the same weight and balance as the real thing, and that evening I took it out to the end of the seawall where nobody went after dark.
+
+My hands knew what to do with it. That was the eerie part. I held it, and my fingers settled on the handle in exactly the right place without my telling them, and when I turned my wrist, the blade turned in my palm and came back to a reverse grip as smoothly as if I'd done it ten thousand times, which in a way I had. My hands knew how to cut and how to stab and how to finish something that wasn't dead yet. They knew forty years of it.
+
+My body didn't. That became obvious about thirty seconds in, when I tried to step and turn and cut in one movement, as a man who'd hunted for forty years would. My hands did their part. My feet were half a step behind, my hips didn't turn, and I lost my balance and went down on the concrete hard enough to skin both palms. The second time, I cut my own forearm with the rubber edge, which would have been a real cut with a real knife. My hands were fast, and Quick Reflexes made them faster, but the rest of me was a desk worker who ran ten kilometers in the mornings. It wasn't a body that had dragged deer down mountains.
+
+I practiced every evening that week anyway. Slowly, then a little less slowly. My body started to catch up a little, the way bodies do.
+
+On the fifth evening, Asami found me.
+
+I didn't hear her coming. She was standing at the bottom of the steps up to the seawall with a can of beer in her hand, watching me, and I had no idea how long she'd been there. I stopped. I was breathing hard, and my palms were bandaged, and I had the knife in a reverse grip.
+
+She looked at the knife, and then at my hands, and then at my feet.
+
+"Where did you learn that?" she asked.
+
+"YouTube," I said.
+
+She looked at me for a long moment. Her face didn't do anything I could read.
+
+"Your hands are good," she said finally. "Your feet are garbage." She came up the steps, put the beer down on the wall, and took the knife out of my hand. "Stance is too narrow. Watch."
+
+She showed me for half an hour. D-rank logistics Valkyries didn't fight much, but they all went through basic combat training, and she'd been through it ten years ago and remembered it all. Feet wider. Weight lower. Turn from the hips, not the shoulders. Then she gave the knife back, picked up her beer, and went down the steps.
+
+At the bottom she stopped and looked back up at me.
+
+"Remember what I said?" she asked. "At the bar?"
+
+"Sleep. Eat something hot. Don't be alone in the dark."
+
+"You're alone in the dark on a seawall with a knife." She shook her head and walked off toward the residential block.
+
+---
+
+On the Thursday of that week, Yoon told me Himeko had gone.
+
+I was in the watch room checking a calibration. Yoon was at her console with her mug, and without looking up from her screen she said, "Murata left for Nagazora this morning. Don't tell anyone I told you."
+
+"Who's Murata?" I asked.
+
+"A teacher at the academy. A-rank. A good one." She turned her mug around in her hands. "The principal doesn't send her places for nothing."
+
+That night I opened the shop for the first time.
+
+[Shop]
+
+```
+Gift reroll: 50
+Extra normal run: 100
+Choose a normal run's scenario: 300
+Soul repair (small damage only, once a week): 500
+```
+
+I had two hundred and ninety Fate Fragments. I looked at the soul repair for a long time. Five hundred. Small damage only. I'd need two more runs before I could afford it, and the runs were what caused the damage.
+
+The scenario choice was the one I kept coming back to. Three hundred. Every run so far had been the System's choice, and every run had been a lottery, a technician in Siberia, an orderly in a hospital, a hunter in the hills. If I could choose, I could aim. I could pick lives that would teach me what I actually needed.
+
+I closed the shop without buying anything.
+
+---
+
+I went back in on the twenty-fifth.
+
+By then the panel said Frayed again. The System told me Worn healed into Frayed after about a week and the rest of the way in another, and Frayed meant I'd start a run with nothing missing that I'd notice. My palms had scabbed over. My stance was wider. I could step, turn and cut in one movement without falling over about half the time.
+
+[Drawing gifts.]
+
+```
+[Good Lungs (White)]
+Breathes deeper and recovers faster after running.
+
+[Night Owl (White)]
+Stays alert at night without getting tired.
+
+[Pain Tolerance (Blue)]
+Pain still arrives, but it doesn't stop you.
+
+[Pack Mule (White)]
+Carries heavy loads further than most.
+
+[Loud Voice (White)]
+Can be heard clearly over almost anything.
+```
+
+A blue. I took it, and Good Lungs with it.
+
+[Scenario: Schicksal infantry recruit. Training camp, Bavaria, Germany. September 1996.]
+
+---
+
+[1996, September. You join Schicksal's infantry. Not every soldier who fights the Honkai is a Valkyrie. Most of them aren't, and most of them die.]
+
+[1996, October. Basic training. Sergeant Ilse Brandt shouts at you for nine hours a day.]
+
+[1996, November. You are the best in your intake with a knife. The other recruits start calling you "the Butcher." You don't like it.]
+
+Sergeant Brandt was tall and hard-faced, with cropped blond hair and a scar across the bridge of her nose. She carried a whistle on a cord around her neck that she never once blew, because she didn't need to. Her voice carried across the whole training field.
+
+In the third month, she stopped a knife drill to watch me.
+
+I was paired with a big farm boy from Saxony who outweighed me by thirty kilos. The drill was simple, a rubber knife against a padded attacker, and I'd done it on the seawall a hundred times. My hands knew it. The farm boy came in with an overhand swing, and my hands took his wrist and turned the blade and put mine against his ribs before he'd finished the movement, and he stood there looking down at the rubber knife in surprise.
+
+"Again," Brandt said.
+
+We did it again. This time he came in low, and fast for a big man, and my hands knew exactly what to do about that too. My feet didn't. They were half a step late getting out of the way, my weight was in the wrong place, and his shoulder hit me in the chest and put me on my back in the mud.
+
+Brandt walked over and stood above me. Her face upside down against the gray sky.
+
+"Good hands," she said. "Slow feet. You know what that combination is, recruit?"
+
+"No, Sergeant."
+
+"Dead young." She held out a hand and pulled me up in one movement. Then she stood very close and spoke quietly, which she had never done in front of anyone. "Your hands are writing cheques your legs can't cash. One day you're going to see an opening, and your hands are going to go for it, and the rest of you won't get there in time. Do you understand me?"
+
+"Yes, Sergeant."
+
+She looked at me for a long moment, and I could tell she didn't think I did.
+
+[1997, January. You finish basic training. You are posted to a containment unit in eastern Europe.]
+
+[1997, March. Your first deployment. A village in the Carpathian mountains in Romania, where the dead have started walking.]
+
+---
+
+The village was small, a church and a road and thirty houses on the side of a mountain, under snow. The Valkyries went in first, two of them, B-rank, in battlesuits that I recognized because I'd spent the last five years of my real life writing the firmware for the next generation of them. Our job was to come in behind them, clear the houses, and burn what was left.
+
+It went fine for an hour. The zombies in the houses were the ordinary kind, slow-starting and stupid, and the Valkyries had already killed most of the ones in the street. We went house to house in pairs with rifles and flashlights. My hands were steady. The knife stayed in its sheath.
+
+Then we went into the church.
+
+She was standing in the aisle between the pews when our flashlights found her. A tall woman in what had been a long dark dress, with her head tilted at an angle that a neck shouldn't allow. In her hands was a scythe, long and black and curved, nothing like a farm tool, and it looked as though it had grown out of her hands rather than been picked up.
+
+I knew her from the game. The ordinary scythe zombies were called Vigiles. The rare ones that moved like this, with complicated attacks and a lot of aggression, were called Praetorians. The in-game entry said that Valkyries at A-rank or below should practice against them in simulations before trying to fight one. I wasn't a Valkyrie. I was a recruit with a rifle.
+
+My partner fired first. She moved before the shots landed, sideways, so smooth it didn't look like movement, and then she was between the pews and the scythe came around in a flat arc and my partner fell down in two pieces.
+
+Danger Sense would have warned me. I didn't have Danger Sense anymore.
+
+What I had was a pair of hands with forty years of knife work in them, and Quick Reflexes, and a clear head. The clear head noticed that she'd come out of the swing low, with her weight on her front foot and the scythe on the wrong side of her body. There was an opening. It was there for maybe half a second, a gap between the shaft of the scythe and her ribs, close enough to touch. My hands saw it and went for it, the knife already coming out of the sheath and turning in my palm into a reverse grip.
+
+My feet were half a step behind, exactly the way Brandt had said they'd be.
+
+I got close. I got the knife into her side, all the way in, under the ribs where a heart would be in a living woman. It didn't do anything. She wasn't alive, and her heart didn't matter. And by the time the rest of my body had caught up with my hands, the opening was gone, and she'd turned, and the shaft of the scythe hit me across the side of the head.
+
+Pain Tolerance did what it said. I felt the blow and the crack of something in my skull, and it didn't stop me. I came up off the floor with the rifle, and I was still moving, and still thinking clearly, and none of that mattered at all.
+
+The scythe came around a second time.
+
+---
+
+[Simulation ended.]
+
+[Cause of death: Honkai zombie (Praetorian).]
+
+[Soul damage: a scattered detail.]
+
+```
+[Simulation 4: Schicksal infantry recruit]
+Survived until: the first deployment
+Grade: E
+```
+
+[Choose 1 of 3.]
+
+```
+[Gift: Good Lungs (White)]
+Keep this gift permanently.
+
+[Experience: Infantry Basic Training (Basic)]
+A recruit's grounding in rifles, drill and squad movement.
+
+[Double payout]
+Receive twice this simulation's Fate Fragments.
+```
+
+[Fate Fragments: +30.]
+
+There was no Pain Tolerance among the cards. I'd known there wouldn't be. It hurt less than losing Danger Sense had, which was either a sign I was getting used to it or a sign I was getting worse.
+
+I stood there and thought about Brandt's face upside down against the sky.
+
+Good Lungs would help me run. The infantry training would teach me to hold a rifle, which was nice to have and which nobody on the island was ever going to let me do. The double payout would put me at three hundred and fifty Fate Fragments, which was enough to choose my next scenario, and choosing the scenario meant I could stop playing the lottery and start aiming.
+
+"Double payout," I said.
+
+[Fate Fragments: +30.]
+
+[Fate Fragments: 350.]
+
+---
+
+I woke up at six with a headache on the left side of my skull that wasn't there when I touched it, and I lay in bed for a long time thinking about what Brandt had said.
+
+Forty years of knife work in my hands, and the first time I'd used it in anger, it had killed me. If I'd stayed back and kept shooting, I'd probably have died anyway, but I'd have died slower, and somebody else might have got out of the church. My hands were ahead of me. Quick Reflexes made them faster, Quick Learner meant they kept picking things up, and the rest of me was still a twenty-two-year-old engineer who'd learned to run in his twenties.
+
+I put that down in the timeline too, in code, as a comment over a function I'd called check_feet().
+
+Then I got up and ran ten kilometers.
+
+---
+
+The readings in Nagazora kept climbing through the end of January.
+
+Yoon stopped pretending not to watch them. So did I. I went down to the watch room twice a day on the excuse of calibrations, and every time I went, the line on the Nagazora screen was a little higher, the spikes a little closer together. There was nothing from Murata, or if there was, nobody told me. Theresa didn't come back to the watch room. I heard from Asami that the principal hadn't left her office for two days.
+
+I didn't run any more simulations. I told myself it was because I wanted to be Whole for whatever came next, which was true. I also didn't want to wake up at six in the morning with another life in my head, and that was true too.
+
+On the night of the third of February, the alert on my phone went off at eleven minutes past one in the morning.
+
+I was awake. I was always awake by then. I sat up and looked at it. Nagazora. The biggest spike yet, by a long way, three times the size of the one on the night of the core surge, and the shape of it was different. It was longer, as though whatever was making it had started and then not stopped.
+
+I was still looking at the phone when the System spoke.
+
+[Ding!]
+
+[Heroine simulation conditions met.]
+
+[Heroine simulation unlocked: Raiden Mei.]
+
+I sat very still on the edge of the bed with the phone in my hand and the screen still showing the spike.
+
+[Begin heroine simulation? Yes / No]
+
+The words sat in the middle of my vision, glowing softly. Outside the window, the concrete wall was lit by its lamp, the same as every night for five years.
+
+I thought about Mei. Not the one from the game, the one in the cutscenes with the lightning coming off her. The one in the kendo results, who'd come third in the spring and was in her third year of high school in the Chiba district of Nagazora, and was eighteen, and was somewhere in that city right now with something inside her waking up. I thought about Siberia and the hospital and the church. I thought about Fumi.
+
+My soul was Frayed, still, and heroine simulations didn't end when I died. They reset, and the resets cost.
+
+"Not tonight," I said.
+
+[Of course, Host.] The voice was as warm as ever. [She'll wait for you. ♪]
+
+The note at the end lifted, bright and pleased, and it sat in the room with me after the voice was gone.
+
+I took my wallet out and unfolded the timeline and added one more function at the bottom. I gave it a name that sounded like a database job that ran once a year and that nobody would ever look at. Then I folded it back up, put it away, and lay down on top of the blanket with the light on, and didn't sleep.
+
+At six I got up and went out to the seawall. It was still dark, and the wind off the sea was cold, and I ran the ten kilometers the same as every other morning, with the phone in my pocket buzzing every few minutes against my leg.

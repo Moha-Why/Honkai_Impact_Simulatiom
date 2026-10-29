@@ -56,6 +56,9 @@ for someone with short legs.
 **What she knows about Eros:** after Chapter 2, his name, his face, and that
 he fixed her students' battlesuit bug in ten minutes.
 
-**In Chapter 2:** storms onto the eleventh floor in summer 2009 over a
+**In Chapter 2:** on January 15, 2014 she visits the anomaly watch room,
+remembers him ("The weather data boy!"), hears the Nagazora data, decides
+to send Himeko quietly without telling HQ, and orders him to eat a lemon
+candy. Earlier, she storms onto the eleventh floor in summer 2009 over a
 training-battlesuit bug that hurt one of her first students, and meets
 Eros when he fixes it.
