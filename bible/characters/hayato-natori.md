@@ -1,7 +1,7 @@
 # Hayato Natori
 
-Status: original character for the replacement Chapter 3 plan; not yet
-introduced in drafted prose.
+Status: retired Collateral-outline concept. Not introduced in drafted
+prose and not part of the current Until Tomorrow plan.
 
 **Role:** local asset custodian at the ME Corp records depot. Director of a
 recovery contractor working for a Cocolia front company. Human antagonist.
@@ -32,7 +32,7 @@ like a favor that will let everyone go home.
 - "Finish the audit, Eros. Then I can get everyone paid."
 - "We have a car for Miss Raiden. You're making transport complicated."
 
-**Planned Chapter 3:** buys Eros's first progress report; uses it to isolate
+**Retired Collateral outline:** buys Eros's first progress report; uses it to isolate
 Mei; pressures the contractor to complete the handover; loses local custody
 during the escape. His sponsor and the off-site authorization remain
 unresolved.

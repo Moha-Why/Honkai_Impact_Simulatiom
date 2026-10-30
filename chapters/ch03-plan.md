@@ -1,585 +1,809 @@
-# Chapter 3 Plan: Collateral
+# Chapter 3 Plan: Until Tomorrow
+
+Status: replacement outline based on the author's school-and-confessions
+premise. Not drafted canon. Replaces Collateral completely.
+
+## Chapter shape
+
+One deliberately long chapter, approximately 38,000 to 48,000 words.
+First person, Eros, past tense. Four loops in one heroine simulation.
+School comedy and shameless wish fulfillment gradually expose the cost
+of treating people as a game. The final loop is the longest.
+
+Real-world frame: February 5, 2014, evening, to February 6, dawn.
+Each loop's full immersion starts October 1, 2013, before Ryoma's arrest.
+Baseline eruption date for this novel: February 7, 2014. This exact day is
+an AU scheduling decision, not a verified canon date. Loop 3's interference
+advances its local outbreak to February 5.
+
+Mei is already 18 at entry. Kiana enters the school on December 16, after
+her eighteenth birthday. Eros's run identity is an eighteen-year-old
+transfer student. No romantic activity happens during childhood setup.
+
+The required ending is fixed for the final loop: Kiana does the fighting;
+Eros takes a heart-piercing hit intended for her; he kisses Mei as she
+begins to answer him; Mei returns. The route to that ending must give
+Kiana, Mei and the Herrscher persona their own decisions.
+
+## Research basis
+
+See [the research notes](../bible/research/ch03-mei-chiba.md).
+
+Keep three distinctions clear:
 
-Status: replacement outline, not drafted canon.
+- The novel adopts the Lightning Queen reputation and history of rejecting
+  admirers requested by the author. Detailed explanations of that nickname
+  are especially prominent in Houkai Gakuen 2 material and fanfic.
+- Cocolia engineers an artificial Honkai event to awaken Mei's power.
+  Her father's framing and the bullying matter, but comforting Mei does
+  not deactivate an external operation.
+- The early Herrscher persona is proud and dangerous, but capable of
+  attachment and of yielding. The story develops that possibility rather
+  than reducing her to an evil obstacle cured by romance.
 
-## Shape and premise
+The specific school incidents, devices, life nodes, four loops, romantic
+triangle and final kiss are this novel's inventions.
 
-- One long chapter, approximately 28,000 to 35,000 words. Keep the operation,
-  the quieter bargaining scenes and the aftermath together.
-- First person, Eros, past tense. Dry humor, practical observation, gathering
-  danger. The System is cunning and playful, with selective teasing and no
-  habitual form of address.
-- Real-world opening: February 4, 2014, evening, after Chapter 2. Eros enters
-  Mei's heroine simulation that night. He does not wake during this chapter.
-- Simulation: February 4, 2014, evening, to February 5, morning. Nagazora's
-  harbor district, an ME Corp records depot, and the road out of the city.
-- One continuous attempt. No deaths or resets in this chapter.
-- The chapter completes a records-facility escape and a change in the
-  relationship. The larger heroine run continues.
-
-Eros enters as an adult systems contractor hired to prepare seized ME Corp
-records for transfer. Mei comes to recover her father's personal archive.
-The asset custodian intends to transfer Mei as well as the records.
+## What Eros wants
 
-Eros's first plan is to sell enough information to buy himself protection
-while making Mei depend on his help. His interference helps the custodian
-close the trap. When Mei discovers what he has done, she refuses to follow
-another plan whose terms only he understands.
-
-Their escape depends on an arrangement both can verify. He accepts her
-independence because he needs her cooperation, her recovery key and the
-chance of a reward that can finally raise his power ceiling.
-
-The chapter ends with him choosing to continue the run after earning a
-successful settlement on his next death. He has a banked objective that his next death will settle, but wants more
-than its single reward choice can guarantee. Continuing risks a more damaging
-death and a longer recovery, not the loss of that completed objective. Mei uses the bargain to pursue her own next move.
-
-## Eros's starting position and decision to enter
-
-Starting real-world state remains the end of Chapter 2:
-
-- Age 22; Civilian; Honkai Adaptability F.
-- Soul Frayed, healing. No new missing memories at entry.
-- Quick Learner, Sprinter and Quick Reflexes.
-- Hunting and Field Craft (Professional). Technique exceeds his body's
-  ability to execute it, especially in a fight.
-- 350 Fate Fragments. He has not bought anything.
-- No Danger Sense, Pain Tolerance or permanent Steady Hands.
-- He still believes the System's statement that simulations are not real.
-
-Open with him comparing the available purchases. A chosen normal scenario
-costs 300 and cannot guarantee a high enough result to raise Adaptability.
-Soul repair costs 500. A heroine run can offer an Adaptability raise, but
-the System will not promise one for simply showing up or completing a
-single objective.
-
-He keeps the fragments and enters the unlocked heroine run. His motivation
-is to stop being physically helpless before the coming eruption. Meeting
-Mei is exciting, but it does not replace that calculation.
-
-Before entry he gets the death and settlement terms stated plainly:
-
-- Before an objective is complete, death resets the run and damages his soul.
-- Once one is complete, his next death settles the success. It does not
-  reset him for another attempt at additional objectives.
-- Completion does not wake him immediately.
-- A later run with Mei continues after this identity's death or disappearance.
-  He cannot assume that he can replay this opening indefinitely.
-
-He sets a limit of one failed death before reassessing. He also decides to
-bank the first worthwhile success. The later decision to keep going will
-break the second part of that policy.
-
-A short exchange can show the new voice:
-
-"Can you guarantee an Adaptability reward?"
-
-[No. I can give you a chance at one.]
-
-"You're very careful with that word."
-
-[You're paying attention. Good.]
-
-## Run identity, gifts and objectives
-
-### Identity
-
-Eros, 22, a temporary systems-recovery contractor. He has a work badge, a
-cheap work phone, limited credentials and an unpaid completion fee. His
-assignment is to inventory a legacy archive, verify the transfer manifest
-and remain available until the incoming custodian signs for it.
-
-Immediate start, memories intact. The identity supplies the ordinary
-employment knowledge and Japanese needed to function. It does not supply
-the archive's contents, the custodian's secret orders or advanced clearance.
-
-This branch's identity replaces his real-world employment history. There
-is no second Eros working at St. Freya in this branch. He retains his own
-memories, but people he knows from his real employment do not automatically
-know this contractor.
-
-### Gift draw
-
-- Photographic Memory (Blue): accurately retains material he actually sees
-  or reads while the gift is active. Does not decrypt files, read sealed
-  pages, restore missing memories or copy another person's knowledge.
-- Steady Hands (White): existing catalog effect.
-- Good Lungs (White).
-- Iron Stomach (White).
-- Perfect Pitch (Green).
-
-He chooses Photographic Memory and Steady Hands. He expects documents and
-machines, and already has help with running and reflexes. He saves his
-fragments rather than rerolling a useful draw.
-
-Photographic Memory becomes essential when an ordinary page is destroyed.
-Steady Hands helps with a difficult physical maintenance task under stress.
-Neither makes him a trained combatant.
-
-### Objectives shown at entry
-
-1. **Trust:** Raiden Mei willingly places her private recovery key in
-   Eros's keeping under an informed agreement about the fee, records and
-   continuing access he receives.
-   Stealing it, taking it under a threat he manufactured, or receiving it
-   under materially false terms does not count.
-2. **Fate:** Give Raiden Mei independently verifiable proof of who ordered
-   her forced transfer. Naming a suspect is not enough.
-
-The recovery key unlocks her father's personal partition. It is a physical
-token that she can keep, lend or take back. Eros cannot replace her choice
-with a successful password guess. The Trust objective concerns the full
-material terms of their bargain, not disclosure of the System or all his
-private motives. The fee pays for transport and accommodation inside the
-run; it is not a real-world payout.
-
-The second objective requires the off-site authorization record linking
-the local custodian to the sponsor. The depot holds the local order and a
-recipient code, not that final proof. Establish this limitation before the
-escape so the next destination follows from the investigation.
-
-No kiss objective, no competition with Kiana and no promised romance for
-obedience. Affection, Trust and Corruption remain separate named meters.
-Keep their changes sparse and tied to actions.
+At first he wants to date a character he has adored for years. He is
+sincerely thrilled and sincerely attracted to her. He also wants the
+rewards, the power ceiling increase and the chance to have a future
+Herrscher on his side.
 
-## Cast and independent aims
-
-### Raiden Mei
+Those motives coexist. His repeated presence can look sincere to Mei
+even when he is privately treating rejection, bullying and Kiana as route
+problems. Do not write him as secretly pure beneath an insincere mask.
 
-Eighteen, carrying the aftermath of her father's arrest. She wants his
-personal records before their scheduled transfer and destruction. She has
-checked the notice, brought her recovery key and asked Tanabe to drive her.
-She is taking a limited risk to get something specific, not blindly
-accepting a stranger's promise.
-
-She initially hopes the archive will prove her father innocent. It turns
-out to contain both evidence of his resistance to the transfer scheme and
-evidence that he knew about dangerous research. She wants the truth kept
-intact, including the parts that hurt.
+His central errors are:
+1. Persistent attention must eventually produce affection.
+2. Becoming indispensable is the same as becoming loved.
+3. Knowing a story means he can script its people and its battles.
 
-She recognizes social manipulation from years of being approached for her
-name. Her intelligence shows in checking terms, withholding authorization
-and testing an inconsistency. She does not suddenly become a security
-expert or know what Eros knows about the future.
+The last loop does not erase his selfishness. He cooperates because
+isolation and control have failed, because Kiana is necessary, and because
+he has started wanting these particular people to survive. He still
+believes the simulation is fake. The bodily pain and soul damage are real
+costs he knowingly risks.
 
-### Mr. Tanabe
+## Starting state and limits
 
-Her chauffeur and one of her remaining trusted people. He waits outside,
-then notices that a supposed quarantine stops visitors but lets collection
-vehicles through. He finds a usable service exit and keeps a vehicle ready.
+Real-world Eros: 22, Civilian, Adaptability F, Soul Frayed, 350 fragments.
+Permanent gifts: Quick Learner, Sprinter, Quick Reflexes.
+Experience: Hunting and Field Craft (Professional).
 
-He has his own judgment: he will not accept a stranger's instructions to
-leave Mei behind. Eros must provide an observable plan, not a speech.
-He also calls for outside help. The forged medical order and the imminent
-handover need verification; he cannot assume responders will sort that
-out before Mei is moved. Keep outside help a real option with a timing
-problem, not a claim that every authority belongs to the conspiracy.
-
-### Hayato Natori, new original character
+No Danger Sense. No automatic combat expertise from recognizing animations.
+The run body is eighteen and remains under his Adaptability ceiling.
+Four months of ordinary training can help him move and endure; it cannot
+make him a Valkyrie.
 
-Forty-two. The local asset custodian and director of a recovery contractor
-paid by Cocolia's front company. He has armed security, transfer paperwork
-and control of the building's external communications.
+All loops take place during one real night. No settlements or fragment
+payments between resets. Later loops do not inherit physical conditioning
+or possessions from failed loops.
 
-He wants his fee, a clean transfer and no public incident. His purchaser
-requires the original contractor's completed integrity audit before payment;
-he needs Eros's cooperation until the archive is verified. He initially
-tries to buy it, then moves toward coercion as the operation slips away.
-He is willing to detain staff and kill a contractor once that contractor
-has finished being useful. Friendly and impatient; explains unpleasant
-instructions as if arranging everyone's transport home.
+Nobody in the run knows about the System. Mei, Kiana and the persona
+remember only their current loop. Eros's damaged memory must not become
+convenient perfect knowledge.
 
-He knows the local collection order and whom to call for approval. He does
-not know the whole Honkai plan, have supernatural foresight or carry a
-Valkyrie battlesuit.
+## Life nodes before immersion
 
-### Naoko Senda, new original character
+This is an actual choice phase, not a decorative backstory paragraph.
+Eros watches the character's life in log form, chooses at available nodes,
+and reaches the fixed transfer-student immersion point. On reset he can
+change unlocked choices. He sees consequences already experienced, not a
+preview of an unplayed ending.
 
-Twenty-nine, a records clerk kept on to complete the handover. Talkative,
-vain about being the person who actually knows where things are. Wants
-her unpaid wages and the original staff ledger proving she followed her
-instructions.
+### Fixed setup nodes
 
-She copied a transfer approval before it disappeared from the official
-archive. She can identify which local documents were altered and which
-off-site office holds the sponsor's authorization. She cannot produce the
-missing authorization herself.
+- His identity is Eros; his age is 18 at the school start.
+- He grew up in Hangzhou and has enough Japanese for the transfer.
+- Scholarship admission to Chiba Academy.
+- October 1 transfer into Mei's year. This identity replaces Eros's own
+  history inside the branch; there is no second Eros at Schicksal.
+- Existing canon-derived histories belong to Mei and Kiana; he cannot
+  select himself as their childhood savior or force past affection.
 
-Mei insists on bringing her out. Senda makes that harder by refusing to
-abandon the ledger that protects her from being made the sole culprit.
+### Changeable life nodes
 
-## Scene sequence
+- Earlier extracurricular work: language-event volunteer, student-office
+  helper, or school audiovisual assistant.
+- Use of ordinary preparation time: social practice, records and school
+  procedures, or running and practical conditioning.
+- Living arrangement: student boarding room or a modest rented room.
+  The choice trades convenience and privacy; it does not grant wealth.
+- First-day approach: seek attention, offer useful help, or arrive quietly.
 
-### 1. The offer Eros can afford, about 1,500 words
+These supply plausible records, contacts and modest ordinary preparation.
+They do not create a new gifted trait, implant affection or replace the
+separate gift draw. The choice phase has no extra fragment fee.
 
-Real world. Eros checks his status, the shop and the heroine-run terms.
-The choices come from his problem with F Adaptability, not from a sudden
-resolve to rescue everyone.
+The arrest and eruption are external events Eros cannot simply uncheck in
+the life menu. Credible interference during immersion can change their
+execution and timing. This outline preserves the arrest and an eruption
+in every loop because Cocolia continues acting, not because the interface
+magically repairs every consequence.
 
-Let the cost of the hunter life remain visible in a small action. He
-starts preparing something for a household that is no longer there, notices
-what he has done and puts the extra away. He does not give a speech about
-Fumi.
+A representative exchange:
 
-He enters after arranging his ordinary alarm and leaving no explanation
-for Asami or Mori. No real-world knowledge of the System spreads.
+"Why can't I choose a richer family?"
 
-### 2. An ordinary job with a very bad completion clause, about 1,500 words
+[That node says fixed. You can ask it more charmingly if you like.]
 
-Simulation. Eros is at a folding desk with a transfer manifest, a printer
-that jams and a badge which opens fewer doors than his work requires.
-He reads the objectives and draws the gifts.
+### Gift draw, once for the entire heroine run
 
-The handover ends at 6 a.m. on February 5. Until it is signed, the depot
-remains under the recovery contractor's control. The company can already
-dismiss Eros; it can also put his name on whatever goes wrong.
+Calm Voice (White), Honest Face (Green), Early Riser (White),
+Iron Stomach (White), Cold Tolerance (White).
 
-He maps permissions and physical routes. His credentials can inventory
-devices and schedule routine maintenance. They cannot open private files,
-control armed guards or unlock every door. He locates an exit for himself
-before he looks for Mei.
+He chooses Calm Voice and Honest Face because he thinks this is a romance
+route. Honest Face makes him seem approachable and less threatening; it
+does not force belief, erase evidence or create attraction. Calm Voice
+helps him speak evenly, not command someone else's feelings.
 
-### 3. Mei has brought a list, about 2,000 words
+The draw stays locked across all four loops. Resetting is not a free
+reroll. Permanent gifts remain active.
 
-Mei arrives with Tanabe and a precise list of the records she wants.
-Her father's recovery key stays in her hand.
+## Objectives and success rule
 
-Eros recognizes her. Allow a brief private burst of excitement, then have
-him notice the practical fact: the archive needs a key he cannot provide.
-He offers a limited service in exchange for a fee and a copy of selected
-technical material. She accepts only the inventory search.
+Visible objectives:
 
-She notices the exit map on his desk. His explanation is practical rather
-than noble. Their first humor comes from disagreement over what his job
-actually includes.
+- **Love:** share a kiss that Mei freely returns as herself.
+- **Fate:** help Mei regain conscious control during the artificial eruption.
 
-### 4. Three possible buyers, about 2,000 words
+Ordinary friendship, gratitude, dependence and an accepted conversation
+do not complete Love. Brief resistance or a flicker of Mei's voice during
+possession does not complete Fate; she must regain sustained conscious
+command after the awakening. Kissing the persona against her will would complete
+neither objective. Force, panic or physical restraint cannot substitute
+for Mei's participation.
 
-Eros compares his options:
+Neither objective completes in loops 1 to 3. Therefore their deaths reset.
+In the final loop the kiss and Mei's return complete both before Eros dies,
+so that death settles success instead of resetting.
 
-- Complete Natori's transfer: an immediate payment and a signed exit.
-- Offer Schicksal useful evidence: possible protection, followed by
-  questions about how he knows its private procedures.
-- Work with Mei: immediate danger, but access to the archive, a future
-  Herrscher and the best route toward a heroine-run reward.
+This rule must be stated before the first loop. No surprise exception at
+the climax, and no early successful kiss followed by an impossible reset.
 
-He picks Mei as the investment while keeping Natori as insurance. He does
-not contact his real-world colleagues and assume they will recognize him.
+## Shared calendar and the daily ritual
 
-Mei already suspects the delay in her search. She supplies an incorrect
-box number in confidence, keeping the real number on her own list. Plant
-this simple test before Eros sends Natori his progress report.
+- October 1: Eros transfers.
+- October to November 15: admired heiress and school queen; daily rejection.
+- November 16: Ryoma's arrest and ME Corp scandal.
+- Following weeks: social reversal, isolation and bullying.
+- December 16: Kiana transfers and the triangle begins.
+- January: the relationships and Cocolia's activity tighten.
+- February: eruption and each loop's distinct consequence.
 
-To make himself necessary, he inserts a false audit hold in the ordinary
-visitor exit process. It is meant to delay Mei for twenty minutes while
-he persuades her to open the personal partition. He retains a legitimate
-maintenance exit for himself.
+The confessions change meaning while retaining recognizable wording.
+Eros starts with an embarrassingly direct "Raiden Mei, I like you."
+Her responses vary. She is not a prerecorded rejection machine.
 
-The System does not invent or command this manipulation. It is his choice.
+Before the arrest, the persistence can be comic, annoying and presumptuous.
+Afterward, continuing to acknowledge her without shame matters because
+others now treat contact with her as contamination. Confession alone
+does not prove care; the surrounding conduct has to support it.
 
-### 5. What he sells, about 2,000 words
+In the last loop she sets the terms of their ritual: one brief question,
+away from a crowd, with no demand that she reward help or defend her answer.
+If she tells him to leave a particular moment alone, he does. Later she
+sometimes notices the missing ritual and initiates it herself. She may
+still answer no.
 
-Natori offers Eros an immediate completion payment for an accurate progress
-report. Eros supplies a partial inventory, the box number Mei gave him,
-and confirmation of which entrance she used. He withholds the valuable
-partition.
+Use selected full scenes and logs between them. The reader should feel a
+habit accumulating, not read a hundred identical exchanges.
 
-This appears to buy time. In fact it gives Natori the location and timing
-he needs to separate Mei from Tanabe before the sealed transfer.
+## Loop 1: The Fanboy, about 8,000 words
 
-Senda complains about an altered staff list and a medical vehicle that
-does not appear on the asset manifest. Eros reads the page before Natori
-has it shredded. Photographic Memory preserves what he saw; the recipient
-is still only a code.
+### Choices before entry
 
-### 6. The other item on the manifest, about 2,000 words
+Language-event volunteer; social preparation; a boarding room; an
+attention-seeking introduction. Eros imagines favorable first impressions.
 
-Eros discovers the local order: Mei is to be taken into private medical
-custody under cover of an energy-exposure quarantine. The quarantine alarm
-is a cover at this stage, not an invisible Honkai field he can tolerate.
+### The first confession
 
-He recognizes the connection to Cocolia from his lore knowledge. He can
-suspect the sponsor; he cannot yet prove it to Mei.
+The classroom introduction goes wrong in an amusingly specific way:
+Eros notices Mei before finishing his own name. His planned respectable
+introduction becomes an immediate confession.
 
-Eros realizes that Natori needs him only until the integrity audit is
-signed. The promised exit comes after the signature, when Natori would
-no longer need to keep him alive. His insurance deal has helped close his
-own escape route.
+She rejects him clearly and courteously. Classmates recognize another
+admirer approaching the Lightning Queen. Eros is delighted to have heard
+her address him at all.
 
-Give him a clear opportunity to stop assisting Mei and hide until a
-vehicle leaves. He rejects it because that sacrifices the run's objectives
-for a poor chance at a slightly longer life. He still thinks in terms of
-return and survival.
+He decides that normal embarrassment should not matter in a simulation.
+The next morning he tries again.
 
-### 7. Mei checks the terms, about 2,000 words
+Establish her status through behavior: classmates want invitations and
+introductions, teachers know her results, and she is formidable at kendo.
+She is courteous and socially practiced, not an ice tyrant whose normal
+personality must be conquered.
 
-Mei notices that Eros's audit hold predates the explanation he gave her.
-She also learns that he kept an exit available for himself.
+### The comedy acquires an audience
 
-Natori now repeats the incorrect box number she supplied before Eros's
-progress report, while claiming that Mei has requested a transfer. This
-exposes Eros's earlier side deal through something she can observe. Eros
-has not made a second off-page sale after discovering the abduction order.
+Students count his rejections. He enjoys becoming a minor school celebrity
+and makes a foolish lunch-money wager that he will get a date before
+New Year. He thinks a bet among fake classmates cannot matter.
 
-She pockets her key, refuses further authorization and stops following him. Trust falls to Wary.
-She does not need to scream, slap him or become secretly impressed by
-his cleverness.
+Mei dislikes being made into a public competition. Eros hears the words
+but treats them as an obstacle to the route.
 
-"Was the door actually broken?"
+Give them ordinary contact as well. He helps with an unglamorous school
+task and keeps turning up when there is no audience. She notices that
+his conversation is more interesting when he forgets to perform.
 
-"No."
+### November 16
 
-"Then stop explaining the door."
+Her father's arrest does not turn every classmate into a villain at once.
+First come abruptly unanswered messages, canceled invitations and people
+asking what her father has done. Then the cruelty becomes safe to express.
 
-Eros's foreknowledge tells him that Mei is gentle. It did not tell him
-that she would allow him to turn that gentleness into consent.
+Original incidents for this novel:
+- A charity committee removes her name from its display for fear of donor
+  complaints, leaving the money she helped raise on the board.
+- A group-project chat quietly excludes her, then marks her as absent.
+- A clip of Eros's earlier wager is circulated as if she were a prize
+  being passed around.
 
-### 8. A bargain with an exit in it, about 2,500 words
+Sayaka actively manages her own status; Natsumi follows while occasionally
+looking ashamed. Fujita interrupts a cruel discussion but fails to undo
+the wider exclusion. A few students remain awkward rather than malicious.
 
-He cannot order her to cooperate. Her key and her choice are both
-necessary, and his own credentials have now been restricted.
+### He asks again
 
-He gives her the complete maintenance route and a way to confirm that
-Tanabe is waiting. He also shows her exactly what he sold to Natori.
-She can leave with Tanabe and attempt the case without Eros. This is a
-credible option, established through Tanabe's actual position and the
-service route, not a pretend choice with a gun on either side.
+Eros still confesses. The first post-arrest repetition is not a triumphant
+public speech. She expects him to be embarrassed to be seen with her;
+he is still absurdly pleased to talk to her.
 
-His offer: her recovery key will open the personal partition; he will
-recover the evidence and handle the building systems. She controls the
-destination of the recovered material. He receives a copy of specified
-technical records, a fee, and an agreement to remain useful to each other
-after the escape.
+His continued attraction is genuine. He also recognizes that the apparent
+sincerity is increasing her interest. Let both thoughts remain present.
 
-He states those terms because she needs a reliable reason to believe he
-will do his part. No near-lie, confession of hidden goodness or demand for
-gratitude.
+He helps repair the group-project exclusion and sits with her when it is
+socially inconvenient. She keeps rejecting the romantic request, but now
+speaks to him afterward.
 
-Mei changes the terms. No sale of her medical information. No remote
-release of the archive as leverage. Tanabe receives a copy of the exit
-route. She keeps the right to withdraw the key.
+### Kiana, December 16
 
-Eros accepts. The constraints make betrayal harder for both of them and
-therefore make a working arrangement possible.
+Kiana befriends Mei without treating her as disgraced property. She laughs
+with her immediately. Eros is offended by how little grinding this seems
+to require.
 
-### 9. The file she does not want destroyed, about 2,000 words
+Kiana likes Mei openly. She is also willing to like Eros until he gives
+her a reason not to. She nicknames him "Tomorrow" after hearing his routine.
 
-Mei operates the recovery key herself and keeps it within reach. Eros has
-permission to read with her, not custody of the token. They open the
-personal partition. Ryoma's notes complicate the simple
-story Mei wanted. He knew about the research and tried to stop part of it;
-this does not erase the fact that he knew.
+Three comic scenes:
+- Kiana asks why he keeps requesting the same date and never learns to
+  invite Mei to something she actually enjoys.
+- Eros tries to impress them academically; Mei catches his unfamiliarity
+  with local history while Kiana celebrates a rare chance to laugh at him.
+- The two turn a walk home into a contest. Mei changes her own route and
+  makes them carry the class materials she had actually asked for help with.
 
-Eros could show her only the flattering pages and encourage her to trust
-his summary. She has demanded the original record and can check it.
-He gives her the whole relevant section because another concealed fact
-would destroy his best chance at both objectives.
+Kiana is not automatically hostile and does not agree to compete for
+ownership of Mei. Eros supplies the competitive framing.
 
-Mei chooses to preserve the damaging material. Eros begins to understand
-that attachment to her father does not mean she will accept any story
-that protects his name.
+### Death
 
-This is a quieter scene with time to sit, drink ordinary water and argue.
-Chemistry grows from their different priorities and her refusal to let
-him manage her reaction. Affection can move to Noticed. It does not jump
-to love.
+He assumes the approaching eruption is the dramatic section after enough
+relationship building. He has not understood what F means in the first
+minutes of exposure.
 
-### 10. Senda will not leave without her ledger, about 2,000 words
+The artificial release starts. Mei's loss of control and the school's
+collapse begin. Kiana moves toward the danger while Eros tries to reach
+a scene he believes he recognizes.
 
-Natori detains Senda after discovering that a page is missing. Mei says
-they are taking her too.
+He is overwhelmed by Honkai contamination before reaching the decisive
+fight. No heroic last speech. His knowledge has not protected his lungs
+or blood.
 
-Eros objects. He planned for two passengers and a short window. Senda also
-knows things that would identify the documents if the files are challenged.
-Mei's demand has both a human motive and evidentiary value.
+No objective complete. Reset. One whole memory lost; soul becomes Worn.
+He can identify the event's timing in the factual run summary but cannot
+recover the sensation of a specific private conversation with Mei.
 
-He recalculates instead of announcing a moral conversion. They abandon
-the faster passenger exit and use the outgoing records vehicle, which
-has room for Senda and the ledger. That costs Eros the chance to copy a
-more valuable technical partition.
+[You did get her attention.]
 
-Mei accepts responsibility for Senda's movements. She gets the clerk to
-prepare the ledger and obey the timing. Eros is not the only person
-organizing the escape.
+For once he does not enjoy the joke.
 
-### 11. The custodian makes a better offer, about 1,500 words
+## Loop 2: The Only One, about 7,000 words
 
-Natori contacts Eros privately. Payment, a clean personnel record and a
-place on the departing collection crew if he returns the key and stops
-helping Mei.
+### Revised nodes
 
-The offer is plausible enough to tempt him. He checks the facts rather
-than believing the tone: the offered exit requires him to enter a room
-controlled by Natori's armed staff. There is no independent guarantee.
+Student-office helper; institutional contacts; a rented room with more
+privacy. He believes he now needs to control the circumstances.
 
-Eros lets Natori believe he is considering it and supplies a false
-inventory completion time. It is a calculated delay, paid for with a
-specific piece of credible information. Natori has already caught him
-once and checks what he can.
+He repeats the early confessions more smoothly. He still likes Mei, but
+begins treating the arrest as a predictable opening rather than a shock.
 
-The System can make one observation, not a speech:
+### Making himself useful
 
-[He does make it sound comfortable.]
+He anticipates the exclusion and files complaints early. He organizes
+a public defense of Mei and obtains embarrassing material about the
+students spreading the video.
 
-Eros does not mistake comfort for security a second time.
+Some interventions work. Sayaka backs off when retaliation becomes costly.
+Mei is briefly less exposed. Eros enjoys having power in a conflict where
+ordinary facts and leverage actually work.
 
-### 12. A choice the System will count, about 1,500 words
+Then he goes further. He retains the damaging screenshots instead of
+letting the conflict end. His protection starts to require her presence
+beside him. He decides which invitations are safe and speaks for her when
+teachers ask what she wants.
 
-Mei has checked Tanabe's position and can take the route without Eros.
-The portable export requires her recovery key to remain attached to the
-reader until it finishes. She must escort Senda through a separate passage,
-while Eros carries the reader and handles the maintenance release. She
-chooses to leave the reader and key with him under their amended agreement.
-This delegation is necessary to their plan, not a ceremonial quest action.
+Trust and dependence rise faster than affection. Corruption moves to
+Bending and later Compromised as she becomes more isolated and willing
+to accept his management to get through the day. Treat these as separate
+states, not a moral score for her suffering.
 
-The Trust objective completes. Trust reaches Open. She understands what
-he wants, what he has done and what she can still refuse.
+### Keeping Kiana out
 
-The System states that his next death now settles the run. It has already
-explained this rule; there is no surprise restriction.
+When Kiana arrives, he sends her to the wrong administrative office during
+the lunch at which she would have met Mei. Later he withholds a message
+from her, calling it protection against another careless admirer.
 
-[One objective. You could call that a sensible return.]
+Kiana eventually asks him directly. She is angry at the deception, not
+jealous that his meter is higher. She wants to hear Mei's choice from Mei.
 
-His completed objective is secure; the next death will settle it. More
-objectives may improve the grade and reward choices, but the System still
-does not guarantee Adaptability.
-He keeps working because the exit operation is already in motion and
-because he wants the second objective.
+Mei catches one of his interventions. Her question is simple: why did he
+not give her the message? He answers with the risk he thought he was
+managing. She tells him that it was not his answer to give.
 
-### 13. The handover, about 3,000 words
+He persuades her to remain close by pointing to the real hostility around
+her. It works enough to keep her beside him. It does not make her choose
+to kiss him. Love remains incomplete.
 
-The escape is a sequence of limited, prepared actions:
+### The false solution
 
-- Senda makes the ordinary records manifest match the actual departing load.
-- Eros uses the maintenance window and legitimate inventory process to make
-  that vehicle appear routine for a few minutes.
-- Tanabe positions the real getaway vehicle beyond the service gate.
-- Mei escorts Senda and the ledger through a staff passage.
+For a while the school seems quieter. He believes he has reduced the
+emotional conditions that cause the eruption.
 
-No single command owns the building. The trick fails if a guard checks
-the passengers, which one does.
+Cocolia's operation proceeds anyway. The release occurs while Mei has
+been having an unexpectedly ordinary, almost good morning. This exposes
+his false causal model: happiness is not a shield against an engineered
+Honkai event.
 
-Mei uses her trained sword movements with an improvised staff to interrupt
-one ordinary guard at close range. She cannot defeat the whole security
-team. Eros uses timing, his knowledge of the route and a short burst of
-running to get a physical barrier between them and pursuit.
+### Bad ending
 
-Natori takes back the system access Eros has been using. The remaining
-gate has to be released through an ordinary maintenance mechanism.
-Steady Hands lets Eros complete the precise manual task while frightened.
-It does not stop him being shoved, bruised or injured.
+He has secured a private meeting space and obstructed the usual access
+to keep spectators away. During the emergency the same obstruction slows
+Kiana's approach.
 
-He avoids a drawn-out knife fight. The hunter's experience helps him
-recognize a bad approach and retreat, not turn a contractor into a
-Valkyrie. No Honkai resistance appears and no Herrscher attack is endured.
+The persona emerges into a relationship in which Eros has made himself
+Mei's only acceptable human. Her response is possession and enclosure,
+not the obedient lover he expected. She sees him as something to keep
+from leaving a frightened Mei.
 
-### 14. The partition they leave behind, about 1,500 words
+Eros realizes that making himself necessary can become a prison for him
+as well. A structural collapse kills him while he tries to get out of the
+space he arranged. This is physical trauma, not a new mental power.
 
-During the handover, the more valuable technical partition still needs
-several minutes at the authenticated archive terminal. Its transfer cannot
-continue after Eros disconnects the reader and leaves. Pursuit is closing
-and the vehicle cannot wait for him to go back.
+No objective complete. Reset. A scattered detail lost; soul remains Worn.
+Kiana was trying to reach them, but his choices helped keep her out.
 
-He abandons that copy and leaves with the recovered material. Establish the
-copy time and the terminal requirement when they first open the archive. His reasons are concrete: a live
-Mei with her key and a completed Trust objective is worth more than an
-unfinished technical prize. He is angry about losing the prize.
+"She trusted me."
 
-Mei follows through on her share of the bargain. She takes Senda, gets the
-ledger out and returns for Eros's dropped work phone because it contains
-the limited evidence they have. She contributes without walking into
-gunfire for a romantic gesture.
+[She did. You were very particular about being the only one.]
 
-They escape Natori's local custody. His larger sponsor and the missing
-authorization remain unresolved. Fate Deviation becomes Disturbed because
-Mei has been diverted from the path leading to her isolation. Do not
-manufacture a new Honkai attack just to display the meter.
+## Loop 3: Reading Ahead, about 6,500 words
 
-### 15. Somewhere with a working lock, about 2,500 words
+### Revised nodes
 
-A cheap roadside room outside Nagazora, obtained by Tanabe. Nobody gives
-a victory speech. Senda wants her ledger copied, her wages and somewhere
-else to sleep. Tanabe wants a concrete destination for the morning.
-Eros's injury needs mundane attention.
+Audiovisual assistant; records access and practical preparation; a room
+near school. He chooses resources rather than popularity.
 
-Mei gives Eros the key temporarily while they make the agreed copies,
-then takes it back. Completion was an action freely taken, not a permanent
-transfer of ownership of her belongings.
+He now investigates the school's ME-linked work orders and abnormal
+electrical and seismic incidents using his own technical background.
+His credentials expose ordinary maintenance records, not every corporate
+secret. No miraculous hack solves Anti-Entropy.
 
-Their relationship is altered rather than healed. She trusts his interest
-in their mutual success. She still checks the copy he keeps and refuses
-to forgive the first deal simply because the second worked.
+### The romance becomes a script
 
-There is room for warmth: she notices that he has worked out everyone
-else's practical needs while refusing to rest, and gives him a task he can
-do sitting down. He finds her competence and stubbornness attractive.
-No forced kiss or replacement family is needed.
+He reuses successful lines while his memory of the original moments is
+failing. He continues the daily confessions, increasingly annoyed that
+correct timing does not reproduce a previous response.
 
-Senda identifies the off-site authorization office in Yokohama. The
-captured records contain a live appointment for the following afternoon.
-That gives them a specific next step rather than a vague conspiracy.
+Mei notices that he sometimes replies to something she has not said.
+He calls it anticipation. To her it feels like he has prepared her part.
 
-### 16. Eros changes his limit, about 2,000 words
+Kiana's response to their rivalry is to insist on time with Mei that Eros
+does not schedule. He grudgingly accepts her tactical value while still
+thinking of her as a route component.
 
-He privately considers taking the completed objective and ending his
-simulation life through the established death rule, with an ordinary death
-and its smaller soul cost rather than exposure to stronger Honkai threats. Keep this as a
-non-graphic calculation; no procedural description of self-harm.
+### Cocolia adapts
 
-One objective gives one reward choice. He has no assurance it will be an
-Adaptability raise. Returning with another useful trick while remaining F
-would leave the main problem unsolved. Mei, the key, the witness and the
-appointment make a second objective achievable in a way another random
-normal life may not.
+Eros identifies a suspicious school delivery and interferes with its
+ordinary support arrangements. He considers the apparent removal of that
+delivery a successful disruption.
 
-He decides to stay. Survival-first does not mean he always chooses the
-lowest immediate risk; here he gives up a controlled, inexpensive exit for a better chance at
-strength. The completed objective will still settle on death, but a later
-Honkai-tainted death or soul attack could leave him unable to use heroine
-runs for weeks or months. Show the arrogance as well as the sensible case. He starts
-calling this choice disciplined because he has written it down.
+The local team detects interference, changes its method and advances the
+release. The exact backup arrangement is an AU operation, not a canonical
+device specification. Seed its existence in a second work order before
+the reveal. It must not appear as an unexplained replacement bomb.
 
-Mei then produces her own next-step proposal: she will attend the appointment
-and require the authorization, accompanied by the people she chooses.
-She is not waiting for Eros to assign her a route.
+He has disrupted a plan, not defeated the faction behind it. Fate
+Deviation becomes Unstable. The outbreak begins February 5 in this branch.
 
-They amend their agreement for the trip. Eros insists on access to the
-technical material; she insists on retaining the original evidence.
-Neither gets everything.
+### The staged confrontation
 
-End with the practical work of preparing to leave: copied papers, a bill,
-a car with too little luggage space. The System is pleased that he is
-continuing, but does not deliver a final moral or explain its hidden purpose.
+Eros gets farther because he knows routes and coordinates with Kiana.
+Kiana does the fighting and can survive exposure he cannot. She is
+outmatched by the persona's raw power but can create interruptions.
 
-## Planned end state, inside the run only
+He mistakes a hesitation for a predictable game opening. He asks Kiana
+to hold a position while he attempts a practiced emotional appeal.
 
-- Eros alive; Civilian; Adaptability F; no death or reset in this chapter.
-- Soul still Frayed. Stress and an injury do not automatically count as
-  soul damage.
-- Permanent gifts and Fate Fragments unchanged: 350.
-- Photographic Memory and Steady Hands are run-only. No gift is kept before
-  settlement.
-- Trust objective complete; Fate objective incomplete.
-- Affection Noticed; Trust Open; Corruption Untouched.
-- Fate Deviation Disturbed.
-- Mei has her key, a partial private archive and knowledge of Eros's first
-  manipulation. She has chosen the new bargain without forgiving the old one.
-- Eros holds the agreed technical copies, his work phone and an ordinary
-  injury. He has no stolen Herrscher core or new combat rank.
-- Tanabe and Senda survived the depot and have independent aims.
-- Natori has lost local custody but can report the failure to his sponsor.
-- Next physical destination: the authorization office in Yokohama.
-- The real body is still asleep in its room. No real-world fragment payout,
-  echoes, documents, changed news reports or other completion effects yet.
+The persona recognizes affection mixed with a desire to direct both her
+and Mei. She has Mei's current-loop experiences of being spoken for.
+She does not know his earlier lives or read his thoughts.
 
-## Continuation constraints
+He tries to flatter the other persona as another desirable version of
+Mei, an extra route he can collect. It is an indulgent fan experiment at
+exactly the wrong moment.
 
-The next chapter must honor the choice to stay and the rule that any next
-death settles the completed objective. Do not reset away this chapter's
-consequences. The unfinished Fate objective and off-site appointment
-supply the next conflict; they do not predetermine a romantic outcome.
+"She wants to be wanted. You want to be obeyed."
 
-Do not put this plan's events into the current-state tracker until prose
-has actually been written. The retired school outline supplies no scenes,
-dates, rewards or relationship history to this run.
+He insists that he knows her. She changes the attack instead of supplying
+the next line he remembers.
+
+### Death and the missing months
+
+A direct Herrscher lightning attack kills him. This is the severe soul
+damage already allowed by the bible's Herrscher-attack rule: Worn becomes
+Torn. He has not completed either objective.
+
+He returns to the node interface missing most experiential continuity of
+the earlier loops. The summary preserves dates, choices and outcomes.
+It does not restore the conversations, the fear or the feeling of being
+with Mei. His original game foreknowledge remains intact.
+
+The distinction must be legible: he can read that excluding Kiana failed,
+but cannot summon the complete memory that once made the lesson hurt.
+
+The System states the cost of continuing. Torn bars a new heroine-run
+entry after settlement; the ongoing run can still reset under its soul
+rules. Hollow would permit only the one final attempt described in the
+bible. There is no free repair between loops.
+
+[You can stop treating this like practice whenever you like.]
+
+He continues. The losses have already been paid, he wants the rewards,
+and his remaining notes give him a plan. That is a calculated gamble
+with a strong element of sunk-cost arrogance.
+
+## Loop 4: Ask Me Tomorrow, about 14,000 to 18,000 words
+
+### Choosing a less convenient approach
+
+He selects ordinary conditioning and quiet arrival rather than the
+largest social network. He cannot purchase a childhood friendship or a
+better body from the menu.
+
+He still confesses on the first day and is still rejected. Foreknowledge
+keeps his fan's recognition alive even when memories of the other
+courtships are gone.
+
+The difference is what he does after the rejection. He lets the answer
+stand that day and learns something about the person who gave it.
+
+### Before the arrest
+
+Expand several ordinary encounters rather than summarizing her into a
+girl waiting to be hurt:
+
+- Mei makes him repeat a task properly instead of accepting an impressive
+  explanation. He likes being competent enough to interest her.
+- She explains why a particular public confession was humiliating. He
+  changes the setting because losing her trust is an avoidable cost.
+- He notices that her social confidence depends on knowing what others
+  expect, and that she finds his ridiculous directness tiring but legible.
+- He asks again on another day. She rejects him differently because she
+  now knows what he means.
+
+He wants to be wanted, and sometimes behaves generously because that
+makes him pleasant company. Not every helpful act needs a secret speech
+about optimization. The important decisions expose his priorities.
+
+### After November 16
+
+The social reversal occurs. He does not become embarrassed by her name.
+He keeps the confession routine while respecting the terms she sets for it.
+
+He deals with the exclusion through specific actions she can check:
+returns a project to the teacher with her contributions attached; removes
+a malicious public clip rather than holding it over her; asks whether she
+wants him present before speaking at a disciplinary meeting.
+
+His reason for dropping the blackmail approach is concrete. An ally who
+must depend on him because he controls her humiliation will break at the
+first exposure of his methods.
+
+One day she is occupied with a difficult call about her father. He does
+not interrupt with his romantic performance. Later she asks whether he
+has forgotten something. She has begun to choose the familiar ritual
+even while retaining the right to reject the proposal.
+
+Her apparent proof of his sincerity is continuity before and after her
+fall. His attraction did not begin when she became vulnerable. That does
+not automatically resolve every selfish motive he keeps to himself.
+
+### Kiana makes three
+
+Eros still sees competition. Give him room to be petty and funny.
+Kiana openly wants Mei's affection and does not apologize for it.
+
+Develop all three relationships:
+
+- Eros and Kiana trade challenges, help each other in embarrassing ways,
+  and discover a friendship neither wants to call surrender.
+- Mei and Kiana have conversations and walks Eros does not witness. He
+  must cope with the limits of his first-person knowledge.
+- Mei and Eros have the older ritual and a history Kiana cannot simply
+  replace. Kiana can recognize that without conceding Mei as a prize.
+
+In one scene both expect Mei to decide which of them to spend an afternoon
+with. She chooses something she wants to do and invites each on her own
+terms. The humor comes from their reaction and competing efforts to be
+useful, not a scoreboard declaring a winner.
+
+Kiana confronts Eros about his habit of checking Mei's reaction before
+deciding what help is worth giving. He cannot charm her out of what she
+has actually seen. He can show up when the audience is absent.
+
+He tells Kiana enough about his fear of the coming event to coordinate.
+He does not reveal the System, all his foreknowledge or Kiana's hidden
+identity. She does not gain controlled Void powers from his explanation.
+
+### Preparing for something he cannot script
+
+He watches precursor changes and maintains clear physical routes rather
+than betting everything on the exact calendar. His local intrusion in the
+previous loop taught him that Cocolia can change the timing.
+
+He does not dismantle the whole operation or evacuate the city. His focus
+is narrow and selfish: keep Mei and the person capable of reaching her
+alive. That limitation should remain visible.
+
+Training is mundane: running, keeping his feet under him and knowing
+when to retreat. He prepares ordinary emergency supplies and identifies
+nearby barriers and access points. None grants immunity to ambient Honkai.
+
+At the final onset, Mei recognizes something wrong in herself and moves
+away from other students toward the roof. Eros and Kiana are already
+nearby and follow; he does not lure her there as a prepared sacrifice.
+His presence at the opening, rather than a long trip through the eruption,
+and the very short fight give him a limited survival interval. He is
+already deteriorating. Cover and Kiana's actions stop physical attacks;
+they do not make the ambient energy harmless.
+
+The day before the eruption, Mei postpones her usual answer instead of
+giving the familiar no. He believes there may finally be a tomorrow he
+wants to reach. There is no early kiss or completed Love objective.
+
+## Final fight, inside the last loop
+
+### 1. The eruption is an operation
+
+Cocolia's release starts. Give the event physical evidence: alarms,
+electrical disruption, the expanding contamination and a pattern Eros
+recognizes from his work. It is not a city destroyed merely because a
+girl is sad.
+
+Mei tries to protect people while losing control. Her fear and anger give
+the persona reasons to distrust the humans around her. The persona takes
+over in the pressure of the awakening.
+
+No early heart bomb, Kurikara mount or later fully mastered Herrscher form.
+Those belong to other stages of the story.
+
+### 2. Kiana reaches the battlefield
+
+Kiana fights through the obstacles and puts herself between the persona
+and the remaining people. She can handle threats Eros cannot.
+
+He stays behind physical cover and reaches the fighting only through the
+route Kiana keeps open. Exposure is already hurting him. The narration
+does not forget the cost while he talks.
+
+Kiana tries to reach Mei through action as well as words. She avoids a
+killing attack, returns after being thrown back and refuses to treat Mei
+as an enemy to dispose of. The persona is angry at that refusal and
+interested in it.
+
+### 3. Both voices matter
+
+Author-side motives, to be staged through visible behavior:
+- Mei wants them out of danger and fears that their injuries prove she is
+  a threat to everyone who cares about her.
+- The persona wants control and safety for Mei. She interprets dependence
+  and human promises through contempt, but has witnessed the current
+  loop's unchanged attention and Kiana's refusal to abandon either of them.
+
+Show shifts in Mei's voice, gaze and hand rather than inserting an
+omniscient inner conversation into Eros's first-person narration.
+The persona may address Mei aloud; Mei may briefly interrupt through
+the same mouth or stop a hand.
+
+Original possible exchange:
+
+"She asked you to leave."
+
+"Then let her ask me."
+
+Mei's hand catches her own wrist. Her voice changes on Kiana's name.
+The persona resents being resisted but cannot honestly describe the
+two people in front of her as behaving like the classmates who left.
+
+She does not suddenly become gentle. She tries to prove that their
+devotion has a limit.
+
+### 4. The physical opening belongs to Kiana
+
+Kiana disrupts or grips part of the energy structure around the persona,
+in keeping with the early stories' extraordinary interaction with
+Honkai energy. She has no effortless victory. It takes both arms, attention
+and the strength Eros lacks.
+
+This creates a brief local interruption, not a cleared city or permanent
+suppression. Eros is close enough to participate only because Kiana has
+created and held it.
+
+### 5. The hit through the heart
+
+The persona launches or redirects a narrow piece of metal from the damaged
+roof toward Kiana while Kiana is committed to holding that interruption.
+The geometry is established beforehand: Eros is within a step, off the
+attack line; Kiana cannot simply turn without releasing the hold.
+
+His reflexes and position let him move into the path. He does not outrun
+lightning, tank a beam or suddenly possess Danger Sense.
+
+The fragment penetrates his chest through the heart. The injury is fatal.
+Keep the remaining interval brief: an unfinished sentence and a kiss,
+not minutes of walking or a farewell essay. There is no convenient
+last-second durability gift.
+
+His intervention has mixed roots. Kiana's loss would end their attempt
+and abandon Mei to the persona. He also does not want either girl gone.
+The act is not a five-paragraph speech establishing his purified morality.
+
+### 6. The two reactions
+
+Kiana's hold and immediate response prevent him falling away. She calls
+his name, tries to support him and keeps the dangerous energy from simply
+surging back. Her contribution continues after his interception.
+
+Mei's shock comes from recognizing the person who kept returning as the
+one she is now losing. She tries to surface and stop hurting them.
+
+The persona's certainty breaks in a different way: in claiming to protect
+Mei from human abandonment, she has just produced a loss Mei cannot bear.
+Her first reaction is furious denial and a desire to stop the blood.
+She has no power to casually repair another person's destroyed heart.
+
+She can choose not to escalate. For this instant she leaves Mei a way
+to act rather than crushing the interruption. The emotion is possessive,
+angry and protective, not immediate romantic submission to Eros.
+
+### 7. The confession and kiss
+
+Eros repeats the simple confession he has been making since October.
+No newly perfect line solves the fight.
+
+Mei recognizes and answers him through the opening Kiana and her own
+resistance have made. She reaches or leans toward him. He kisses her
+briefly; she actively returns it. This is not a kiss forced on an
+unresponsive body to operate a cure.
+
+The kiss is the culminating act of recognition: the routine that once
+meant endless rejection finally receives an answer. Mei uses that moment
+to take conscious control. The persona yields rather than trying to
+destroy what Mei is reaching for.
+
+Both required objectives complete before Eros loses consciousness.
+No objective popup should interrupt the emotional beat in a way that
+turns the girls into reward dispensers. The notices can register at
+the edge of his awareness and be shown clearly during settlement.
+
+### 8. What survives
+
+Mei returns and tries to hold him. Kiana tries to help and refuses to
+accept that an ordinary body cannot recover from this. Eros dies before
+either can have a proper conversation with him.
+
+The persona is not erased by a kiss. She withdraws with an unresolved
+attachment and a protective anger that can matter later. Mei remains
+someone capable of choosing to live and protect Kiana, not a body whose
+only remaining purpose is mourning Eros.
+
+Eros has no first-person access to their later private discussion.
+Do not insert the scene as if he watched it after his death.
+
+## Soul history and settlement
+
+| Point | Consequence |
+|---|---|
+| Entry | Frayed; full ordinary recall at this level. |
+| Loop 1 death | Honkai contamination; one whole memory lost; Worn. |
+| Loop 2 death | Physical collapse injury; a scattered detail lost; still Worn. |
+| Loop 3 death | Direct Herrscher attack with severe soul damage; Torn. |
+| Final loop | Starts Torn, retaining foreknowledge and factual summaries but missing most previous-loop experiences. |
+| Final death | Physical heart wound plus ambient contamination; no separate direct soul strike; remains Torn at settlement. |
+
+Do not imply that every attack delivered by a Herrscher has an identical
+soul effect. The third death uses the severe direct attack already in
+the rules. The final physical interception is lethal without needing
+another full-stage soul strike.
+
+Successful settlement precedes any reset: two objectives complete, so
+there is no fifth loop. Lost experiences return on waking, but the soul
+stays Torn and needs months to heal. New heroine runs are locked during
+that recovery; normal runs remain possible with major memory gaps.
+
+Planned settlement:
+- Grade B, based on both objectives and the final relationships.
+- Affection In Love; Trust Relies; Corruption Bending, not a purity score.
+- Two reward picks.
+- Eros takes an Adaptability raise, F to E, and the heroine bond gift
+  Grounded (Blue).
+- Grounded helps keep ordinary coordination and bodily control under
+  pain, fear and sensory overload. It does not heal the soul, restore
+  circulation, confer lightning immunity or replace physical training.
+- 600 Fate Fragments: 300 per completed objective. Total becomes 950.
+- Permanent Quick Learner, Sprinter and Quick Reflexes remain.
+- The run's White Calm Voice and Green Honest Face are not automatically
+  made permanent, and are below the heroine reward's minimum color.
+- No stat transfer or instant Valkyrie rank. His Adaptability ceiling has
+  risen; his real body still has work to do.
+- Fate Deviation Unstable. His identity in the successful branch died
+  beside Mei and Kiana.
+
+If the prose earns a different grade later, revise the stated settlement
+consistently rather than quietly changing the rewards.
+
+## Morning and consequence
+
+February 6, real world. All four loops return together. The differences
+between the Mei he isolated, the Mei he scripted and the Mei who finally
+answered do not merge into one conveniently flattering memory.
+
+He got the power increase he wanted and paid with a long recovery.
+He can still tell himself that none of those girls were real.
+
+Echoes come from the final successful loop, not the discarded versions.
+Mei receives stronger impressions; Kiana can receive fainter ones because
+of their close involvement. They do not inherit System knowledge, and
+no school documents or physical backdoors are transplanted into reality.
+
+The real timeline has already passed the October start, so the completed
+run's echoes can surface now. Himeko, already investigating Nagazora,
+reports that Mei has asked about someone called Eros whom the school
+records do not identify.
+
+Stage how Eros learns this: Yoon receives the field query and asks whether
+his name has somehow reached the girl in Nagazora. Himeko does not need
+to have met him personally or know his whole file.
+
+Eros cannot simply dismiss the implication. He asks the System what it
+has done. It does not explain its hidden nature or retract the lie in a
+friendly lecture.
+
+[You wanted her to remember you.]
+
+He now has to decide what to say to the real people waiting for an answer.
+End in the practical process of arranging the field callback, with the
+eruption still approaching and its timing now uncertain, rather than on
+a neat moral.
+
+## Writing safeguards
+
+- Preserve the author's long chapter preference. Compress repetitions
+  selectively, not the relationships that make the last loop matter.
+- Mei's daily rejections remain meaningful choices. Persistent attention
+  becomes evidence of continuity only alongside how he treats her.
+- Keep Eros funny, desirous, calculating and capable of ugly choices.
+  His failures follow those choices and his misunderstanding of the world.
+- Kiana's attraction to Mei is real. She is the combat lead and a person
+  Eros increasingly values, not a rival who must be removed for success.
+- The final kiss is the author's AU outcome; do not cite it as canon.
+- No child romance, accidental underage Kiana, hidden early kiss objective,
+  free reset, restored body training or sudden Honkai immunity.
+- The persona knows only this loop's shared experiences. She is not the
+  System and cannot quote Eros's previous attempts.
+- Keep the actual-state tracker at the end of Chapter 2 until the chapter
+  is drafted. This plan's events are not already published history.

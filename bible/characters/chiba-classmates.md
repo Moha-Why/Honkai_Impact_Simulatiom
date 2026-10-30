@@ -9,9 +9,15 @@ After her father's arrest they drop her, and gossip about her.
   "Honestly, I always thought there was something off about that family."
 - **Natsumi:** follows Sayaka. Laughs a beat after everyone else.
 
-**Planning status:** no assigned scene in the replacement Chapter 3.
-Their school relationship with Mei may be used later; the abandoned
-recorded-gossip scene is not part of her current history with Eros.
+**Planned Chapter 3 (not drafted canon):** participate in the social
+reversal after Ryoma's arrest. Sayaka protects her status through the
+project chat and public reputation; Natsumi follows but is not incapable
+of shame. An old clip of Eros's foolish wager becomes a weapon against
+Mei. Specific incidents are original to this novel, not asserted canon.
+
+Their conduct can change when Eros alters the costs and circumstances.
+They do not remember discarded loops. Not every student is a bully, and
+Eros's public interventions can hurt Mei even when they punish her enemies.
 
 ## Mr. Fujita
 

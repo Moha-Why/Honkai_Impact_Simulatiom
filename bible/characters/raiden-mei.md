@@ -38,10 +38,11 @@ threatened.
 **How she talks:** soft, polite, precise. Says less than she means. Uses
 people's names carefully. When cold, very short.
 
-- "I asked for the record, not your summary."
-- "Was the door actually broken?"
-- "Then stop explaining the door."
-- "You may keep the copy we agreed on. Show me which one it is."
+- "No, Eros. I understood you the first time."
+- "Not in front of everyone."
+- "Why didn't you give me her message?"
+- "Did you forget something?"
+- "Ask me after class."
 
 **Habits:** makes her own bento every morning, always slightly too much.
 Straightens things on desks. Practices sword forms alone at dawn in the
@@ -49,13 +50,26 @@ family dojo. Touches her hair pins when she's nervous.
 
 **The Herrscher inside:** see `herrscher-of-thunder.md`.
 
-**Planned Chapter 3 branch (not drafted canon):** on February 4, 2014,
-visits an ME Corp records depot to recover her father's private archive.
-Eros is an adult systems contractor, not a classmate. She detects his
-manipulation, refuses its terms, and negotiates an agreement she can
-verify. She preserves evidence that complicates her father's innocence,
-insists on bringing the detained records clerk out, and knowingly lends
-Eros her recovery key during the escape. The chapter ends with her
-choosing to pursue the missing authorization in Yokohama. No romance
-objective, kiss, Herrscher confrontation or completed heroine run is
-scheduled here. See [../../chapters/ch03-plan.md](../../chapters/ch03-plan.md).
+**School reputation (deliberate adaptation):** the Lightning Queen of Chiba
+Academy, admired and hard to approach, known for rejecting confessions.
+The detailed nickname backstory is especially visible in Houkai Gakuen 2
+material. This novel adopts it without presenting every version's events
+as Honkai Impact 3rd canon.
+
+**Planned Chapter 3, Until Tomorrow (not drafted canon):** Eros enters as
+her transfer-student classmate on October 1, 2013. His daily confessions
+are rejected before and after her father's arrest. His continued presence
+becomes meaningful alongside how he treats her changed circumstances.
+
+Across four loops she encounters his fan fantasy, manufactured dependence,
+attempted scripting and eventual cooperation. These are separate branches;
+she remembers only her current one. In the final loop she forms different
+relationships with Eros and Kiana and retains the right to reject either.
+Kiana creates the physical opening during the eruption. After Eros takes
+a fatal heart wound for Kiana, Mei participates in a brief kiss and regains
+control. The persona yields rather than being erased.
+
+After completion the real Mei can receive echoes of the final loop,
+including the loss of someone her real school records do not contain.
+See [../../chapters/ch03-plan.md](../../chapters/ch03-plan.md) and
+[../research/ch03-mei-chiba.md](../research/ch03-mei-chiba.md).

@@ -1,7 +1,7 @@
 # Naoko Senda
 
-Status: original character for the replacement Chapter 3 plan; not yet
-introduced in drafted prose.
+Status: retired Collateral-outline concept. Not introduced in drafted
+prose and not part of the current Until Tomorrow plan.
 
 **Role:** ME Corp records clerk retained to finish the depot handover.
 Witness and unwilling escape partner.
@@ -31,7 +31,7 @@ nervous. Will correct a detail in the middle of a frightening discussion.
 - "If they're innocent boxes, why does one of them need a doctor?"
 - "The ledger comes. You can complain when we're in the car."
 
-**Planned Chapter 3:** draws attention to the medical collection; is detained;
+**Retired Collateral outline:** draws attention to the medical collection; is detained;
 leaves with Mei and the ledger; prepares the manifest that makes the
 escape vehicle look routine; identifies the appointment in Yokohama.
 Retains her own aims after rescue.

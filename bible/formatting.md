@@ -45,6 +45,21 @@ Fate Fragments: 0
 [Begin first simulation? Yes / No]
 ```
 
+## Life-node choices
+
+Before immersion, show the node's date or stage, its fixed conditions and
+the available choices. The System may comment separately, but the menu
+must distinguish a locked fact from a decision.
+
+```
+[Life node: before the transfer]
+Name: Eros (Fixed)
+Age at immersion: 18 (Fixed)
+School and start: Chiba Academy, October 1, 2013 (Fixed)
+Preparation: Social practice / School procedures / Conditioning
+[Choose one.]
+```
+
 ## Run logs
 
 Normal runs are mostly told as log lines in the second person, one event per

@@ -1,32 +1,52 @@
-# The Herrscher of Thunder (the 3rd Herrscher)
+# The Herrscher of Thunder: the Early Persona
 
-**Role:** the Herrscher core awakening inside Mei. In canon it can take
-over as a separate persona. No active confrontation is scheduled in the
-replacement Chapter 3 records-depot operation.
+**Role:** the early persona associated with Mei's awakening, sharing her
+body and current-loop experiences. Central to the planned Chapter 3 fight.
+The story uses the early-game and manga characterization; it does not
+give this awakening every later Herrscher ability.
 
-**Canon:** Mei awakens suddenly as the third Herrscher at school, and the
-Honkai energy turns almost everyone in the school and city into zombies.
-Kiana, who is immune, fights it on the roof; it takes an interest in her
-and gives control back to Mei. (Cocolia triggered the eruption
-artificially.)
+**Research basis:** proud, haughty, capable of cruelty and contempt for
+humans, but also attachment and cooperation. Early rooftop accounts allow
+her to be interested in Kiana and yield control. Later game material
+supports cooperation with Mei to protect Kiana. Specific reactions to
+Eros are an AU extension. See [../research/ch03-mei-chiba.md](../research/ch03-mei-chiba.md).
 
-**Appearance when it takes over:** Mei's body, hair lifting in the static,
-eyes gone violet and bright, lightning crawling over her skin and the
-roof. The air smells like ozone and burnt metal.
+**What she wants in this story:** control and protection for Mei, expressed
+through the belief that human dependence and promises expose her to harm.
+She can behave possessively without being an emotionless embodiment of
+destruction. She has no obligation to serve the boy Mei likes.
 
-**Personality (story version):** regal, amused, contemptuous of humans. It
-sees Mei's loneliness as weakness and itself as the part of her that
-doesn't need anyone. Curious about anything that surprises it.
+**Appearance:** Mei's body, hair lifting with static, altered gaze and
+voice, destructive electrical phenomena. No automatic later dragon mount
+or fully mastered form.
 
-**How it talks:** Mei's voice, lower and slower, every word deliberate.
+**Knowledge limits:** has access to Mei's current experiences, not the
+System, Eros's thoughts, his original game knowledge or discarded loops.
+She can recognize manipulative behavior that Mei has actually witnessed.
 
-- "You're still standing. How interesting. Humans usually kneel."
-- "She doesn't need you. She has me."
-- "Then show me. Come closer, if you can."
+**How she talks:** Mei's voice with a different pitch and deliberate
+cadence. Proud and cutting, with precise reasons for contempt rather
+than interchangeable threats.
 
-**Power:** Herrscher-level. Its lightning is a soul attack.
+- "She asked you to leave."
+- "You were very careful to be the only one."
+- "She wants to be wanted. You want to be obeyed."
 
-**Planned Chapter 3 branch:** remains a danger Eros knows is approaching.
-It does not kill him, become an escape device or grant him resistance.
-The depot's supposed quarantine is initially a cover for detention, not an
-energy field he can walk through.
+**Power and soul cost:** Herrscher-level. The direct lightning attack in
+loop 3 inflicts severe soul damage. The final loop's launched metal
+fragment kills through a physical heart wound, not another automatic
+full-stage soul strike. Eros gains no immunity from either event.
+
+**Planned Chapter 3 (not drafted canon):**
+- Loop 2: emerges into Mei's dependence and treats Eros as something to keep.
+- Loop 3: refuses his attempt to collect another obedient version of Mei.
+- Final loop: fights Kiana, responds to the current courtship's history,
+  and resists Mei's attempts to surface. Eros's interception confronts her
+  with the harm her protection has caused. She stops escalating long
+  enough for Mei to act, then yields conscious control.
+- Does not heal a destroyed human heart, vanish because of a kiss or
+  become immediately compliant with Eros.
+
+Her inner motives are author guidance. First-person prose must stage them
+through visible behavior, spoken exchanges and changes in control; Eros
+does not acquire an unexplained window into Mei's mind.

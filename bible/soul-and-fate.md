@@ -51,6 +51,18 @@ by what he has lost.
 | Torn | Months | Normal runs only |
 | Hollow (after ejection) | A long recovery | No runs at all |
 
+The entry restrictions apply to starting a new run. A heroine run already
+underway continues its automatic death resets at a soul cost, including
+at Torn, until it succeeds, is ended as a failure or reaches the Hollow
+final-attempt limit. This does not permit leaving, healing and re-entering
+a new heroine run while Torn.
+
+A completed objective makes the next death settle success, not reset.
+The source of physical force alone does not determine soul cost: a metal
+fragment launched by a Herrscher can kill through physical trauma without
+being a separate direct attack on the soul. Direct Honkai exposure and
+deliberate soul-damaging attacks retain their stated higher costs.
+
 ## Fate Deviation
 
 Fate Deviation measures how much Eros has changed history.
