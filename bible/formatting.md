@@ -5,15 +5,19 @@
 The System's notices and its speech go in square brackets, each line on its
 own line. A notice that sounds in Eros's head starts with [Ding!] on its own
 line. When a dialogue tag is needed, the bracketed speech can share a line
-with it, like normal speech: [Good morning, Host,] the System said.
+with it, like normal speech: [Good morning,] the System said.
 
 ```
 [Ding!]
 [Imaginary Simulation System bound.]
-[Hello, Host.]
+[There you are, Eros.]
 ```
 
-The System sometimes ends a reassuring line with ♪. Use it rarely.
+The System's conversational voice is cunning and playful. It usually uses
+no form of address; use "Eros" sparingly and do not append "Host" to its
+replies. Notices and panels remain clear and exact. An occasional ♪ can
+mark a teasing or indulgent line; use it rarely, never as a routine ending.
+See [characters/the-system.md](characters/the-system.md) for the voice.
 
 ## Eros talking to the System
 

@@ -2,6 +2,11 @@
 
 - **Length:** about 10,000 words.
 - **Narration:** first person, past tense.
+- **Reader preference:** a long chapter is intentional; keep the original
+  section and its extension together.
+- **System voice:** cunning and playful. It teases and deflects while
+  keeping mechanics clear. Usually no form of address; no repetitive
+  "Host" endings. Follow `bible/characters/the-system.md`.
 - **Covers:** spring 2009 to the morning after Run 1 (mid-January 2014).
 - **Time skip rule:** opens by showing where things stand in January 2014.
 
@@ -41,7 +46,7 @@
     minute as the biggest Nagazora spike. Mori needs a 30-second biometric
     hold. The jolt doesn't stop. [Ding!] The System binds. "Static." "Does
     that."
-11. **Host.** The System night, adapted from the old Chapter 1: status at
+11. **The System.** The System night, adapted from the old Chapter 1: status at
     22, five springs of F, "Imaginary", the lie, heroine simulations, the
     note, the starter pack, alarm for six.
 12. **Run 1.** Unchanged except his age (22, fitter from the seawall).

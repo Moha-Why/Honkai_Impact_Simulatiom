@@ -3,6 +3,12 @@
 The Imaginary Simulation System tells Eros the simulations aren't real. They are:
 each run writes a branch into the Imaginary Tree.
 
+Its voice around the simulations is cunning and playful, drawing Eros
+toward the next choice with teasing, deflection and enticing rewards.
+Keep costs, warnings and settlement rules clear. Its manner can change
+without changing what a run does. See
+[characters/the-system.md](characters/the-system.md) for dialogue guidance.
+
 ## Simulation types
 
 - **Normal simulations:** classic life simulations. The run plays out, mostly

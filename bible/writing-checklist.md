@@ -23,6 +23,9 @@ Check these before planning a chapter and again before sending it.
   whoever is standing next to them, unless the scene is about that
   unfairness and treats it as such.
 - **Prices are clear:** who's paying, for what, and who named it.
+- **System voice:** cunning and playful, with selective teasing and
+  deflection. Keep mechanics clear. Usually use no form of address; do not
+  end replies with "Host" by habit. Leave room for restraint after grief.
 
 ## Staging
 
@@ -39,6 +42,9 @@ Check these before planning a chapter and again before sending it.
 
 ## Before each chapter
 
+- This novel is for its author alone, and long chapters are preferred.
+  Preserve the long chapter structure. Improve scene flow and transitions
+  within it; length alone is not a reason to split or condense a chapter.
 - New characters get profiles in [characters/](characters/) before the
   chapter. The more important the character, the more detail.
 - A chapter after a time skip opens by showing where things stand: the

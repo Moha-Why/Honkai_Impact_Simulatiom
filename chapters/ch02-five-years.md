@@ -250,7 +250,7 @@ Then I heard a voice inside my head.
 
 [Binding complete.]
 
-[Hello, Host.]
+[There you are, Eros.]
 
 "...three, two, one," Dr. Mori said. "Okay. Okay, you can let go."
 
@@ -270,29 +270,29 @@ I'd touched that panel on my first day, nearly five years ago. I'd felt the same
 
 Then I said, out loud, "Hello?"
 
-[Hello, Host.]
+[Much better. No audience.]
 
-It came from inside my head, but not in my own voice. It was soft and even and polite. I couldn't tell if it was a man's voice or a woman's. It sounded like someone who was very happy to see me.
+It came from inside my head, but not in my own voice. It was soft, with a little amusement tucked into it. I couldn't tell if it was a man's voice or a woman's. It sounded as though it had been waiting for me to catch up.
 
 I sat there with my heart going.
 
 "Why didn't you say anything else?" I asked. "In the basement."
 
-[You weren't alone, Host.]
+[You had company. I thought you'd prefer to keep this conversation private.]
 
 "Mori was looking at a tablet."
 
-[He was still there, Host.]
+[And you were about to start talking to the air.]
 
 That was fair.
 
 "What are you?"
 
-[I am the Imaginary Simulation System. I'm here to help you, Host.]
+[The Imaginary Simulation System. Lucky you. I'm here to help.]
 
 "Help me do what?"
 
-[Grow stronger.]
+[Grow stronger. We have rather a lot to work with.]
 
 A panel slid open in front of my eyes. It hung in my vision like a floater does, but crisp and clear and easy to read, with a thin pale border.
 
@@ -311,31 +311,31 @@ I read it three times.
 
 "Civilian," I said.
 
-[Yes, Host.]
+[For now.]
 
 "And F."
 
-[Yes, Host.]
+[Would you prefer a more flattering letter?]
 
 Five springs in a row I'd sat in the medical room and watched a light stop at F, and now my own magical System had looked at me and agreed with the machine.
 
 "Okay," I said. "Okay. Tell me how it works."
 
-I asked the questions I'd have asked about any new piece of software, in order, and the System answered every single one of them. It was the best documentation I'd ever read. It never got impatient, it never said "that's out of scope," and it never told me to read the manual.
+I asked the questions I'd have asked about any new piece of software, in order. The System explained how to enter a run and what I could bring back, and had me thinking about the rewards before I'd finished asking about the risks. It never got impatient. It sounded pleased that I was taking such an interest.
 
 It ran simulations. I would go into them when I slept. My body would stay here in bed, and one simulation would take about one night of real time, however long it lasted inside. There were normal simulations, which were whole lives, and when I died in one, it ended. When it ended, I'd be graded, and I'd get to choose rewards. Gifts, which were traits I could keep. Skills and knowledge from the life I'd lived. Sometimes items, which I could actually bring out with me. There was a currency called Fate Fragments that I could spend in a shop. I'd be able to do one normal simulation a day for free.
 
 "Can my Adaptability go up?" I asked.
 
-[Some rewards can raise it, Host.]
+[With the right rewards. F isn't a life sentence.]
 
 "Which ones?"
 
-[You'll see when they're offered.]
+[You'll get their descriptions when they're offered. Do read them before choosing.]
 
 "Can I get stronger? Physically? In real life?"
 
-[Yes, Host. That's what I'm for.]
+[Now you're asking the interesting questions. Yes.]
 
 I lay back on the bed. I had to, for a minute. I lay there with my arm over my eyes and grinned at the inside of my elbow like an idiot.
 
@@ -345,23 +345,23 @@ Then I sat up again, because something had been bothering me since the basement.
 
 There was something in this world called the Imaginary Tree. It was the thing that held every possible version of the world, every branch, every timeline. Every lore video I'd ever watched had a section on it. A System with "Imaginary" in its name, that had turned on when I touched a machine that ran on Honkai energy, was not something I was going to let slide.
 
-[It's only a name, Host.]
+[Would you have preferred Ordinary Simulation System?]
 
 "Is it connected to the Imaginary Tree?"
 
-[It's only a name, Host.]
+[You can suggest a better name after you've tried it.]
 
 I waited. It didn't say anything else.
 
 "Okay," I said. "Then here's a more important one. These simulations. Are they real?"
 
-[No, Host.]
+[No. That's rather the attraction.]
 
 "If I do something in there. If I hurt someone, or someone dies because of me. Is that a real person?"
 
-[No, Host. The simulations are not real. Nothing you do inside them can hurt anyone. ♪]
+[No. Break things. Make mistakes. Nobody real gets hurt. Isn't that a relief?]
 
-The voice lifted on the last word, light and sing-song, like a nurse talking to a child just before the needle. My shoulders came down. That had been the thing sitting at the bottom of my stomach since the basement. I'd read a lot of web novels in my first life. I knew how systems like this could go.
+It sounded amused by the question, and very sure of the answer. My shoulders came down. That had been the thing sitting at the bottom of my stomach since the basement. I'd read a lot of web novels in my first life. I knew how systems like this could go.
 
 "Okay," I said. "Good. Okay."
 
@@ -371,15 +371,15 @@ I stopped.
 
 "Heroine simulations," I said.
 
-[Yes, Host.]
+[That got your attention.]
 
 "What's a heroine simulation?"
 
-[They'll unlock when the conditions are met.]
+[A run built around one heroine. The details unlock with it.]
 
 "What conditions?"
 
-[You'll see when they unlock, Host.]
+[Patience. I'd hate to spoil the introduction.]
 
 I lay back down. I stared at the ceiling. There was a crack in the plaster running from the light fitting to the corner, and I followed it with my eyes, and I was smiling so hard my face hurt.
 
@@ -389,15 +389,15 @@ Some time later, when my face had calmed down, I asked the last question. I aske
 
 "Did you bring me here?"
 
-[I don't understand the question, Host.]
+[I can explain the simulations. Your arrival is another question.]
 
 "Here. This world. Did you put me here? Did you write my name on a piece of paper and leave me at a gate?"
 
-[I don't understand the question, Host.]
+[You're asking rather a lot of a first introduction.]
 
 I took my wallet out of my back pocket and slid the note out from behind my old student card, past the folded timeline. I unfolded it and looked at it under the lamp. The handwriting was neat and practiced, written by someone who'd spent a lot of their life writing. One word. Eros. I looked at it for a long time, and the System didn't say anything at all. Then I folded the note and put it back.
 
-[Host,] the System said, in the same pleasant voice as before, as though nothing had happened. [You have an unclaimed starter pack.]
+[Now,] the System said, as though we'd settled everything, [you have an unclaimed starter pack. Shall we open something?]
 
 "Open it."
 
@@ -722,11 +722,11 @@ I went looking. I went through everything I could think of as fast as I could. D
 
 "What did I lose?" I asked.
 
-[It will be returned when you wake, Host. Your soul is a little frayed. It will heal in a few days. ♪]
+[You'll have it back when you wake. A little fraying takes a few days to mend.]
 
 "But what was it?"
 
-[It will be returned when you wake, Host.]
+[You'll recognize it when it comes back. Your rewards are ready.]
 
 [Settling simulation.]
 
@@ -775,7 +775,7 @@ Gifts: Quick Learner (Green)
 Fate Fragments: 140
 ```
 
-[Well done, Host. Waking now.]
+[Not bad for a first attempt. Let's get you home.]
 
 ---
 
@@ -791,7 +791,7 @@ Then I stood there holding on to the edges of it, looking at myself in the mirro
 
 The memory had come back. I could tell, because I knew what it was now. It was the night I'd learned to ride a bicycle, when I was about ten, in my first life. A neighbor had held the back of the seat and run behind me and let go without telling me. It was a small memory. I hadn't thought about it in twenty years.
 
-[Good morning, Host,] the System said, warm and pleased. [Remember, none of that was real. ♪]
+[Good morning,] the System said. [Back in your own bed. All in one piece. Remember, none of that was real.]
 
 "I know," I said to the mirror.
 
@@ -1030,13 +1030,13 @@ I looked at the three cards for a long time.
 
 "Where's Danger Sense?" I asked.
 
-[Gifts above the grade's color can't be offered, Host. At grade E, only White and Green gifts are available.]
+[A lovely gift. The wrong grade to keep it. Grade E only offers White and Green gifts.]
 
 "It kept us alive for two days."
 
-[Yes, Host. You'll draw it again one day. ♪]
+[It kept you alive for two days. You'll need a better grade to bring it home. Still, it's in the draw pool. ♪]
 
-The voice brightened on the last word, as cheerful as a shop assistant telling me the item was out of stock. I stood in the dark and felt the loss of it like a hole where a tooth had been. It was the best thing I'd ever drawn, and I'd had it for two days, and I couldn't keep it because I hadn't lived long enough to deserve it.
+It made another draw sound like something to look forward to. I stood in the dark and felt the loss of it like a hole where a tooth had been. It was the best thing I'd ever drawn, and I'd had it for two days, and I couldn't keep it because I hadn't lived long enough to deserve it.
 
 Sprinter or First Aid. First Aid was useful and small. Sprinter was small too, but it was permanent, and it was in my body, and every morning on the seawall since 2009 I'd been training for exactly one thing, which was running away.
 
@@ -1082,7 +1082,7 @@ Then I went to my room and lay down on the bed and said yes again.
 
 [Simulation loading.]
 
-[Host soul state: Worn. Some memories will be unavailable during this simulation.]
+[Soul state: Worn. Some memories will be unavailable during this simulation.]
 
 I stood in the dark and read that line twice, and I felt my stomach drop.
 
@@ -1297,11 +1297,11 @@ Fumi's hands. The smell of the house. The weight of my daughter when she was bor
 
 I lay there for a long time.
 
-[Good morning, Host.]
+[Back again. Take your time.]
 
 "They weren't real," I said. My voice came out rough.
 
-[No, Host. None of them were real.] There was a pause, no longer than a breath. [You did very well. ♪]
+[None of them were real.] There was a pause, no longer than a breath. [You did very well.]
 
 I put my arm over my eyes. My left arm. It straightened all the way. That was the strangest part, somehow. I kept waiting for it to catch at the elbow, the way it had for thirty-four years, and it didn't.
 
@@ -1327,7 +1327,7 @@ I did the math again, the way I'd done it on the walk home from the watch room. 
 
 "No more runs this week," I said to the ceiling.
 
-[Of course, Host. Rest well. ♪]
+[Very sensible. I'll keep your place. ♪]
 
 ---
 
@@ -1566,7 +1566,7 @@ My soul was Frayed, still, and heroine simulations didn't end when I died. They 
 
 "Not tonight," I said.
 
-[Of course, Host.] The voice was as warm as ever. [She'll wait for you. ♪]
+[Of course.] It sounded almost indulgent. [She'll wait for you. ♪]
 
 The note at the end lifted, bright and pleased, and it sat in the room with me after the voice was gone.
 
