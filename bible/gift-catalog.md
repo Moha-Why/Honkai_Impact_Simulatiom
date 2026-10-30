@@ -23,6 +23,10 @@ Gifts that have appeared in the story, in order of first appearance.
 | Pain Tolerance | Blue | Pain still arrives, but it doesn't stop you. | Ch 2, Run 4 (kept for the run; lost to the grade cap) |
 | Loud Voice | White | Can be heard clearly over almost anything. | Ch 2, Run 4 draw |
 
+| Honest Face | Green | Appears approachable and less threatening on first impression; does not compel belief. | Ch 3, Mei heroine run draw; held for all attempts, not kept permanently |
+| Early Riser | White | Wakes easily and functions well in the early morning. | Ch 3, Mei heroine run draw; not selected |
+| Grounded | Blue | Maintains coordination and bodily control under pain, fear and sensory overload; no injury or soul healing, no Honkai immunity. | Ch 3, Mei settlement; kept permanently |
+
 ## Experience packages
 
 | Package | Effect | First seen |
