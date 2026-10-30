@@ -1,11 +1,12 @@
 # The man in the gray car
 
-**Role:** an Anti-Entropy operative working for Cocolia in Nagazora, in the
-Mei run's second loop. Minor; never named.
+**Role:** an unused possible Anti-Entropy operative working for Cocolia
+in Nagazora. Minor; never named. No assigned role in the replacement
+Chapter 3.
 
 **Appearance:** forties, plain coat, plain face, a gray sedan.
 
 **Personality:** professional and unhurried.
 
-**In Chapter 3 (loop 2):** after Eros digs into the evidence against Raiden
-Ryoma, the man stops him on a quiet street in December and shoots him.
+**Planning status:** the street assassination belonged to the retired
+school-loop outline. It is not scheduled in the replacement plan.

@@ -1,8 +1,8 @@
 # The Herrscher of Thunder (the 3rd Herrscher)
 
 **Role:** the Herrscher core awakening inside Mei. In canon it can take
-over as a separate persona. Appears in Chapter 3 (Mei run) on the Chiba
-Academy roof.
+over as a separate persona. No active confrontation is scheduled in the
+replacement Chapter 3 records-depot operation.
 
 **Canon:** Mei awakens suddenly as the third Herrscher at school, and the
 Honkai energy turns almost everyone in the school and city into zombies.
@@ -26,6 +26,7 @@ doesn't need anyone. Curious about anything that surprises it.
 
 **Power:** Herrscher-level. Its lightning is a soul attack.
 
-**In Chapter 3:** kills Eros on the roof in the third loop; in the final
-loop lets Mei take control back after he walks through its lightning to
-her.
+**Planned Chapter 3 branch:** remains a danger Eros knows is approaching.
+It does not kill him, become an escape device or grant him resistance.
+The depot's supposed quarantine is initially a cover for detention, not an
+energy field he can walk through.

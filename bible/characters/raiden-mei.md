@@ -38,10 +38,10 @@ threatened.
 **How she talks:** soft, polite, precise. Says less than she means. Uses
 people's names carefully. When cold, very short.
 
-- "You'll ruin your stomach eating that every day."
-- "How do you know the name of my family's school?"
-- "Don't. You'll say you're sorry, and you'll mean it for a week."
-- "Eros. Look at me when you lie. At least do that."
+- "I asked for the record, not your summary."
+- "Was the door actually broken?"
+- "Then stop explaining the door."
+- "You may keep the copy we agreed on. Show me which one it is."
 
 **Habits:** makes her own bento every morning, always slightly too much.
 Straightens things on desks. Practices sword forms alone at dawn in the
@@ -49,8 +49,13 @@ family dojo. Touches her hair pins when she's nervous.
 
 **The Herrscher inside:** see `herrscher-of-thunder.md`.
 
-**In Chapter 3 (Mei run):** classmate and seat neighbor of transfer student
-Eros from October 2013. Across four loops: shares her bento; is hurt by his
-slips; loses her father on November 16; meets Kiana through him; teaches
-him sword basics; kisses him in the final loop; is brought back from the
-Herrscher by him on the roof as he dies.
+**Planned Chapter 3 branch (not drafted canon):** on February 4, 2014,
+visits an ME Corp records depot to recover her father's private archive.
+Eros is an adult systems contractor, not a classmate. She detects his
+manipulation, refuses its terms, and negotiates an agreement she can
+verify. She preserves evidence that complicates her father's innocence,
+insists on bringing the detained records clerk out, and knowingly lends
+Eros her recovery key during the escape. The chapter ends with her
+choosing to pursue the missing authorization in Yokohama. No romance
+objective, kiss, Herrscher confrontation or completed heroine run is
+scheduled here. See [../../chapters/ch03-plan.md](../../chapters/ch03-plan.md).

@@ -64,10 +64,11 @@ without changing what a run does. See
 - **Living heroines:** a completed run collapses into her as echoes (dreams,
   déjà vu, a sense she knows him), stronger with each objective completed.
   The echoes only surface once the real timeline reaches the run's start.
-  Mei's run is set in her third year, which is already happening when the
-  System binds, so her echoes can surface at once.
-  People Eros was close to in the run (Kiana in Mei's run) may get fainter
-  echoes.
+  Mei's replacement run starts at the records depot on February 4, 2014.
+  Its echoes require both completion and the real timeline reaching that
+  start. The planned Chapter 3 ends inside an unfinished run, so no echoes
+  surface during it.
+  People Eros was close to in a completed run may get fainter echoes.
 
 ## Entering a run
 

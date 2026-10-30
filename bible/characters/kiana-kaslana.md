@@ -1,10 +1,10 @@
 # Kiana Kaslana
 
-**Role:** future heroine. Appears in the Mei run (Chapter 3). Canon
-character; story changes are marked.
+**Role:** future heroine. No assigned appearance in the new Chapter 3
+records-depot operation. Canon character; story changes are marked.
 
 **Age (story change):** born December 7, **1995** (canon 1998), so 18 from
-December 7, 2013. In the Mei run she enrolls at Chiba Academy in mid
+December 7, 2013. In this story she enrolls at Chiba Academy in mid
 December 2013, after her birthday.
 
 **Appearance (canon):** slender, white hair, blue eyes, average height. Hair
@@ -31,7 +31,6 @@ herself.
 **Habits:** eats anything offered, and some things that aren't. Falls
 asleep in class. Talks about her father as if he'll turn up any day.
 
-**In Chapter 3 (Mei run):** the second broke transfer student; eats Eros's
-noodles; becomes his friend; in canon she never met Mei before the
-Eruption, but in some loops she meets her through Eros. Immune when the
-Eruption hits. Reaches the roof as Eros dies in the final loop.
+**Future planning:** her eventual meeting with Eros and her role in Mei's
+route remain open. The retired school-loop outline supplies no relationship
+history or rooftop scene to the replacement plan.

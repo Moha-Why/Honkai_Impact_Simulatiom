@@ -27,7 +27,7 @@ story reaches them.
 | 2014, January 15–16 | Theresa visits the anomaly watch room and decides to send Himeko to Nagazora quietly. Runs 2 and 3. |
 | 2014, late January | Himeko leaves for Nagazora. Run 4 (January 25). |
 | 2014, February 3, 1:11 a.m. | The biggest Nagazora spike yet. Mei's heroine simulation unlocks. Eros doesn't start it. |
-| 2014, February | Third Eruption, Nagazora (canon date), after Mei's partial awakening as the Herrscher of Thunder. Himeko confronts Mei; Theresa later brings Kiana to St. Freya. Mei's run is set before it: Chiba Academy, Nagazora, her third year, starting October 2013. |
+| 2014, February | Third Eruption, Nagazora (canon date), after Mei's partial awakening as the Herrscher of Thunder. Himeko confronts Mei; Theresa later brings Kiana to St. Freya. The replacement Mei run is planned to start before it: February 4, 2014, at an ME Corp records depot in Nagazora, with Eros as an adult contractor. This is outline material, not a completed run. |
 
 ## Open questions
 

@@ -9,8 +9,9 @@ After her father's arrest they drop her, and gossip about her.
   "Honestly, I always thought there was something off about that family."
 - **Natsumi:** follows Sayaka. Laughs a beat after everyone else.
 
-**In Chapter 3:** in the final loop Eros records them gossiping about Mei
-and lets her hear it.
+**Planning status:** no assigned scene in the replacement Chapter 3.
+Their school relationship with Mei may be used later; the abandoned
+recorded-gossip scene is not part of her current history with Eros.
 
 ## Mr. Fujita
 
