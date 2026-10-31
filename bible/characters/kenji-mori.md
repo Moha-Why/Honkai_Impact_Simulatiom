@@ -35,7 +35,7 @@ public data. He doesn't care how, only whether he can code.
 battlesuit firmware.
 
 **Family:** divorced. His ex-wife lives in Osaka with their daughter, Emi
-(19 in 2009), whom he sees twice a year. He sleeps on the cot because the
+(18 in 2009, the same age as Eros), whom he sees twice a year. He sleeps on the cot because the
 staff flat is too quiet. He tells Eros this once, at three in the morning in
 2009, and never mentions it again.
 

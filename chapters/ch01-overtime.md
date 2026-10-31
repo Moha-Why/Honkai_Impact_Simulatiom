@@ -422,7 +422,11 @@ The van took us to a small airport outside the city that I hadn't known existed.
 
 All the window shutters were pulled down. When I reached for the one next to my seat, Miss Kudo said, "Leave it," without opening her eyes.
 
-I left it. That told me more than they probably meant it to. If they didn't want me to see where we were going, then where we were going was somewhere they didn't want people to know about, and I could guess roughly how far by how long we flew.
+"Why?"
+
+"Protocol. New hires fly closed until their clearance comes through." She yawned. "Next time you can have the window seat."
+
+I left it. Next time, she'd said, so there was going to be a next time, and I noticed I'd had my shoulders up around my ears since the van and let them come down. If they didn't want me to see where we were going yet, then where we were going was somewhere they didn't want people to know about, and I could guess roughly how far by how long we flew.
 
 Brenner sat at the front with his folder and a peppermint and didn't speak to anyone. Miss Kudo took the seat across the aisle from me, put her hard case on the floor between her feet, and fell asleep before the plane had finished taxiing. I'd never seen anyone fall asleep that fast. One second she was chewing gum, and the next her head was against the wall and her mouth was slightly open.
 
@@ -518,11 +522,67 @@ She shrugged and peeled off her gloves. "For girls, a bit, with training. For gu
 
 A man from administration came in with a laminated badge. It had my photo on it, taken an hour ago in the hangar, with my hair sticking up on one side. Under the photo it said EROS, and under that, SOFTWARE ENGINEER, COMBAT SIMULATION AND BATTLESUIT SYSTEMS.
 
-He took me to a room on a residential floor. It had a bed, a desk, a wardrobe, a small bathroom, and a window that looked out onto a concrete wall about two meters away, lit by a lamp. I stood at the window for a minute looking at the wall. Then I lay down on the bed with my shoes still on and stared at the ceiling until I fell asleep.
+He took me to a room on a residential floor. "Junior quarters," he said, opening the door. "Everyone starts here." It had a bed, a desk, a wardrobe, a small bathroom, and a window that looked out onto a concrete wall about two meters away, lit by a lamp. I stood at the window for a minute looking at the wall. Then I lay down on the bed with my shoes still on and stared at the ceiling until I fell asleep.
 
 ---
 
-The next morning, the man from administration took me to the eleventh floor.
+The next morning, before anyone let me near a computer, I had an appointment with Human Resources.
+
+Human Resources was a woman called Ms. Vogel, in an office on the third floor with a fern on the filing cabinet and a fountain pen lying exactly parallel to the edge of her desk. She was about fifty, with cropped silver hair and a gray cardigan over a uniform blouse, and she had a folder with my name on it that was a good deal thinner than Brenner's.
+
+"Sit," she said, in English with a German accent. "We'll do this in order. Salary, leave, cover story, phones, housing. Questions at the end. Most people cry somewhere around the cover story. There are tissues." She moved a box two centimeters toward me without looking at it.
+
+I sat.
+
+She took a contract out of the folder, turned it around and slid it across the desk. It was eleven pages long, in English and German, and somebody had already filled in my name in the blanks in neat block capitals.
+
+"Salary," she said. "Page two."
+
+I turned to page two. It said seventy-eight thousand euros a year, paid monthly, before allowances. There were allowances. One was called hazard and one was called confidentiality, and together they came to another figure that I had to read twice.
+
+In my first life I'd been underpaid for most of my career, like everyone at a startup, in exchange for shares in a company that was going to be worth a lot of money one day and then wasn't. In this life I'd had a scholarship, a dormitory bed, and some freelance money from companies that paid eventually if you emailed them enough times. Willow Street had run on a budget so small that Director Zhou did the accounts at the kitchen table in pencil, so she could rub out the parts that didn't work.
+
+I sat in an office on an island I hadn't seen yet and looked at a number that would have bought every child in that kitchen a new coat every winter for the rest of their childhood, with enough left over for the roof.
+
+"Is this right?" I asked.
+
+"It's standard for your grade." She looked at me over the top of the folder. "You were expecting less."
+
+"I was expecting a salary."
+
+"You asked for one, I'm told." Something happened at the corner of her mouth that didn't quite get as far as a smile. "Mr. Brenner put it in the notes. 'Asked if there was a salary.' He underlined it."
+
+"Is that bad?"
+
+"It's unusual. People usually ask what Honkai is." She tapped page three with the pen. "Leave. Twenty-five working days a year, plus public holidays, which here means the Japanese ones and a few of ours. You will be asked to take it. People who don't take leave make mistakes, and our mistakes are expensive. Page four."
+
+According to page four, I was a software engineer for Lindgren Automation GmbH, which made control systems for factories and had a mailing address in Hamburg. I'd been hired straight out of university on a graduate scheme and posted to a client site abroad that was covered by a confidentiality agreement, which was why I couldn't say where it was.
+
+"Anyone who asks gets that," Ms. Vogel said. "Your university has been told the same, with a scholarship attached. Letters to you go to Hamburg and come here. Letters from you go through us and leave from Hamburg. Your family will be told..." She looked down at the folder and stopped. "Ah. No family." She turned a page. "That makes this shorter."
+
+I didn't cry at the cover story. She glanced at the tissues and seemed faintly disappointed in both of us.
+
+"Phones," she said. "You may have one. You may call whoever you like and use the internet on the staff network, which is monitored. Assume everything you type is read, because it is. Don't say the word Honkai on the phone. Don't take photographs outside. Don't post anything anywhere, ever. If you're not sure, don't. Getting off the island..."
+
+"It's an island?"
+
+She looked at me as though I'd asked her whether the sea was wet. "Did no one tell you?"
+
+"They kept the shutters down."
+
+"Ah. Yes. New staff fly closed." She made a note. "It's an island. There's a ferry to Shiomi on the mainland on Tuesdays and Fridays, and staff flights from the runway when there's space. Shiomi has a train station, two convenience stores and a noodle shop by the terminal that people here speak about with religious feeling. You'll need a pass to leave and you'll need to come back, and the reason you'll come back is your job." She turned the last page. "Housing. Junior quarters until promotion, which I gather you've seen. Most people hate their room for a month and then stop noticing it. Questions?"
+
+I had about four hundred. I asked one.
+
+"When's payday?"
+
+That time she did smile, very briefly, and wrote something in my folder. It was the second time in two days that somebody had written about me in a folder right after I asked about money.
+
+"The twenty-fifth," she said. "Sign on page eleven. Use your own pen. Nobody uses mine."
+
+I signed with a ballpoint from a cup on her desk. My hand wasn't quite steady, and I put that down to the coffee I hadn't had yet.
+
+Then the man from administration came back and took me to the eleventh floor.
 
 It was an open-plan office, like every office I'd ever worked in, with rows of desks and monitors and people hunched over keyboards, and that same smell of coffee and carpet. Nobody looked up when we walked through. At the far end was a glass-walled office with the blinds half down, and on the door was a printed sign that said DR. K. MORI, CHIEF ENGINEER. Under it, someone had stuck a yellow sticky note that said DO NOT KNOCK UNLESS ON FIRE.
 
@@ -618,7 +678,7 @@ I lay back on the bed with my shoes on and did the math.
 
 The Third Eruption happened in Nagazora in February 2014. I'd watched it play out a dozen times, in the opening chapters and in the flashbacks and in the fan videos that cut it all together with dramatic music. A whole city, and the people in it, and a girl in a school uniform standing in the middle of it with lightning coming off her. It was March 2009. That gave me a little under five years.
 
-I didn't know where this building was. I'd smelled the sea in the hangar, and that was all I had. I didn't know how far it was from Nagazora, or whether anybody here would be sent there when it happened. I didn't know much about this world at all, really, except the parts that had been in a game. I knew how a lot of stories ended. I didn't know what anyone ate for lunch.
+I knew now that I was on an island, and that a ferry went from it twice a week to a town called Shiomi. I didn't know where Shiomi was, or how far the island was from Nagazora, and I wasn't going to look it up on a network where everything I typed was read. I didn't know whether anybody here would be sent there when it happened. I didn't know much about this world at all, really, except the parts that had been in a game. I knew how a lot of stories ended. I didn't know what anyone ate for lunch.
 
 So I made a plan, the same way I'd plan a project with a deadline I couldn't move. Be boring, so that the man in the portrait downstairs never had a reason to think about me. Be useful, so that Schicksal had a reason to keep me fed and housed and close to the files. Learn everything I could about how this place really worked. And when February 2014 came, be somewhere far away from Nagazora, or at least be somewhere I could run from.
 
