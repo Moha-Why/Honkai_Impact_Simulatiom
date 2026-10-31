@@ -41,3 +41,17 @@ See [characters/mizuki-tsugumi.md](characters/mizuki-tsugumi.md).
    - **Her family** in Shiomi.
    - **His power hunger.** After her, it's no longer about not dying. It's
      about never being the one who has to run.
+
+## Welt at St. Freya (after 2014)
+
+Canon (Archives wiki, Welt Yang): Welt Yang, Anti-Entropy's leader and the
+Herrscher of Reason, "temporarily went undercover as a History teacher at
+St. Freya Academy for Valkyries, and even failed Kiana in her tests." This
+is during Kiana's time at St. Freya, so after the Third Eruption. In 2010,
+when Eros sits in on first-year history, the teacher is Theresa (our
+ruling; canon doesn't name the 2010 teacher).
+
+Possible scene: on a simulator trip south, Eros finds a new history
+teacher in St. Freya's staff room and recognizes the face. He can't show it.
+Welt is the enemy's leader inside Theresa's school, and Eros knows exactly
+what he is.
