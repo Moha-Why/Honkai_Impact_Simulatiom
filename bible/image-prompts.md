@@ -109,9 +109,11 @@ everywhere around her.
 > a high ponytail. Proud, impatient, competitive expression, chin up, a
 > half-smile she's trying to suppress. She wears a fitted black Schicksal
 > training jacket with teal accents over training gear and holds a long
-> silver lance at her side. Setting: a frozen lake at dawn surrounded by
-> black pines, her breath clouding in the cold, a gothic cathedral on the
-> hill behind her with snow on its spires. Cold blue light with the first
+> silver lance at her side. Setting: the rim path of a floating island at dawn,
+> a low stone wall and then open sky, a sea of cloud far below, her breath
+> clouding in the cold wind, a gothic cathedral on the island's highest
+> ground behind her with frost on its spires and other floating islands
+> linked by thin skybridges in the distance. Cold blue light with the first
 > gold of sunrise on her hair.
 
 ## Rita Rossweisse (future heroine, 18, Schicksal HQ, 2013)
@@ -123,7 +125,7 @@ everywhere around her.
 > an elegant monochrome maid uniform: a long black dress, a white apron with
 > a large bow at the back, a frilly lace headband, and white lace gloves.
 > She holds a silver tea tray with a teapot, two cups and two slices of apple
-> cake. Setting: a vast cold vaulted archive beneath a cathedral, stone
+> cake. Setting: a vast cold vaulted archive beneath an old cathedral in snowy Austria, stone
 > arches, shelves vanishing into darkness, and oil portraits of white-haired
 > knights on the walls. One gilded frame hangs empty. Warm lamplight on her,
 > cold shadows behind.

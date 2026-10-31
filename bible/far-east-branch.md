@@ -50,9 +50,28 @@ purpose.
   every payment is in a ledger Security can read. The one ATM (harbor
   building) exists only for cash to spend in Shiomi. Regular withdrawals are
   visible, which is why Eros draws the same amount every Friday.
-- **The paper trail:** everything physical that arrives or leaves goes
-  through the supply office on paper forms in triplicate, with a stated
-  reason and a stamp, because paper can't be hacked. One copy goes to
-  Security.
+- **The request log:** everything physical that arrives or leaves goes
+  through a supply request with a stated reason (the supply officer's screen
+  stamps a red seal, an old IT joke). Every request goes into the same log
+  as badge payments, door swipes and the ferry list, and Security reads the
+  log. Schicksal isn't worried about being hacked; it simply watches its
+  own people.
 - **The staff network** is monitored (Vogel, Chapter 1). Mail goes via the
   Hamburg cover address and is read.
+
+## Schicksal HQ (for reference)
+
+- **Current HQ:** a cluster of giant floating islands above the
+  Mediterranean (canon, Moegirl: 地中海上空巨型浮空岛群). The administrative
+  center and core research facility. The main island has a runway, towers
+  of glass and steel, and a cathedral on its highest ground with Otto's
+  portrait in the main hall; smaller islands (residential, industrial) are
+  joined by skybridges. The Battlesuit Division is here. Eros's 2013
+  secondment is here; he runs the eight-kilometer rim path.
+- **Old HQ:** Kolosten town, outside Vienna, Austria (canon:
+  奥地利维也纳柯洛斯滕镇). On land. A cathedral and cloister on a hill
+  above the town, kept by a small staff. The archive and the old portraits,
+  including the Kaslana row and Siegfried's empty frame, stayed here. Rita
+  flies Eros down to it in February 2013.
+- Staff cover story for HQ postings: "Germany" (Lindgren Automation,
+  Hamburg).
