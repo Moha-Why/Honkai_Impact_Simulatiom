@@ -332,25 +332,45 @@ I dried my hands and went back to my room. I took the folded page out of my wall
 
 ---
 
-On the first Friday in April I took the ferry to Shiomi, because I'd decided I ought to know what was on the other side of the water, and because Asami had said I'd be sick and I wanted to see if she was right.
+On the first Friday in April I took the ferry to Shiomi. I'd decided I ought to know what was on the other side of the water, and Asami had bet me a can of coffee I'd be sick.
 
-She was right. The ferry was small and blue and smelled of diesel and old fish, and there were about twenty of us on it, logistics crews and medical staff and a couple of engineers I half recognized, all of them sitting inside with their eyes closed. I stood at the back for the first twenty minutes and watched the island get smaller, a flat gray line with cranes on it, and then the sea started doing something long and slow underneath us and I went to the rail and threw up over it. A woman from Medical came out and handed me a bottle of water and a packet of crackers without a word.
+They did check the ferry list. A security man stood at the foot of the gangway with a clipboard and a flask of tea, and when I held out my badge he found my name, made a tick beside it, and wrote the time.
 
-"First time?" she said.
+"Coming back on the four o'clock?"
 
-"How can you tell?"
+"Yes."
 
-"Everybody stands at the back the first time." She went back inside.
+He wrote 1600 next to the tick and gave me my badge back. The man behind me in the queue was from Medical, and he got a tick and nothing else. I noticed that, and went up the gangway, and didn't look back at the clipboard.
 
-Shiomi was a fishing town of grey roofs and narrow streets that ran down a hill to the harbor, with a ferry terminal, a fish market that was mostly closed by the time we got there, a station with two platforms, and a long street of shops behind the terminal that sold everything a person on an island might have forgotten to order. There was a print shop with a hand-lettered sign and a cat asleep in its window. There was a noodle shop by the terminal with a queue outside it made up almost entirely of people from my ferry. I joined the queue. The noodles were very good.
+The ferry was small and blue and smelled of diesel and old fish. There were about twenty of us on it, logistics crews and medical staff and a couple of engineers I half recognized, and all of them went straight inside and sat with their eyes closed, which I took for weakness. I stood at the back and watched the island get smaller, a flat gray line with antennas on it and a helicopter lifting off the end. Then the sea started doing something long and slow underneath us, and I went to the rail.
 
-Then I walked up the hill to the station, because I wanted to see the map, and stood in front of it for a while.
+"Engineer!"
 
-There it was, a few stops down the line. NAGAZORA. A big red dot with a lot of smaller lines coming out of it. An hour by train, according to the little table underneath, or a bit less on the express.
+Dr. Aasen was in the cabin doorway in a fleece instead of her harness, with a plastic carrier bag in one hand. She had to shout over the engine, and she didn't seem to mind.
 
-An hour. I'd spent six years in this world wondering where Nagazora was, and it was an hour away from the noodle shop.
+"Everybody stands at the back the first time! It's the worst place! The back goes up and down the most!" She came out across the heaving deck as if it were a kitchen floor and pushed a bottle of water and a packet of crackers at me. "Small sips. Look at the horizon. Not the water. The horizon. Where are you looking?"
 
-I looked at the dot until a family with a pushchair wanted to see the map, and then I bought a can of coffee from the machine and drank it on a bench on the platform and watched two trains come in, one going toward the red dot and one going away from it. I didn't get on either of them. I caught the four o'clock ferry back, and wasn't sick, and the woman from Medical nodded at me as if I'd passed something.
+"The horizon."
+
+"You're looking at the water." She went back inside.
+
+I looked at the horizon. I was sick over the rail anyway, twice, and owed Asami a can of coffee.
+
+Shiomi was a fishing town of gray roofs and narrow streets running down a hill to the harbor, with a ferry terminal, a fish market that had mostly closed by the time we tied up, a station with two platforms, and a long street of shops behind the terminal that sold everything a person on an island might have forgotten to order. There was a print shop with a hand-lettered sign and a fat orange cat asleep in its window, on top of a stack of what looked like wedding invitations. There was a noodle shop by the terminal with a queue outside it made up almost entirely of people from my ferry. I joined the queue. The noodles were very good, and the old woman who served them called everybody from the island "Lindgren-san" without any expression at all.
+
+Then I walked up the hill to the station, because I wanted to see the map.
+
+There it was, a few stops down the line. NAGAZORA, a big red dot with a lot of smaller lines coming out of it. An hour by train, according to the little table underneath, or a bit less on the express. Six hundred and forty yen.
+
+I'd spent nine years in this world wondering where Nagazora was. I'd looked for it on maps in the school library in Hangzhou and found nothing, because nobody had put it on a map that a child in Hangzhou would see. And here it was, an hour and six hundred and forty yen from a bowl of noodles.
+
+I had the coins. I counted them out on my palm in front of the ticket machine, and stood there with them while a family with a pushchair went past me to the barrier. There was a train on the near platform with its doors open. It said NAGAZORA on the front in orange letters.
+
+In a little under five years, the city at the end of that line was going to burn. There was a girl living in it now, thirteen years old, nearly fourteen, with long dark hair and a father who was still alive. I could go and look at the street. Nobody would stop me.
+
+The man with the clipboard had written 1600.
+
+I put the coins back in my pocket and bought a can of coffee from the machine instead, and drank it on a bench on the platform, and watched two trains come and go, one toward the red dot and one away from it. Then I walked down the hill and caught the four o'clock ferry, and stood in the middle of the deck looking at the horizon, and wasn't sick. The security man ticked my name again at the island end and wrote 1722. I bought Asami her coffee from the machine in the harbor building and left it on the bar with her name on it in marker.
 
 ---
 
@@ -522,9 +542,9 @@ Dr. Mori came out of his office and stood next to my desk. He looked at the swee
 
 "You just met the principal," he said.
 
-"Yes."
+"She gave me a sweet."
 
-"Try not to do it again." He went back into his office and shut the door, and I heard the cot creak.
+"She gives everybody a sweet. Try not to do it again." He went back into his office and shut the door, and I heard the cot creak.
 
 I sat there for a while with the sweet in front of me. It was a strawberry hard candy in pink plastic wrap. I didn't eat it. I put it in my desk drawer, and for the rest of the afternoon I typed with my face very carefully arranged, while inside my head I was shouting so loudly that I'm surprised nobody heard it. I'd sat next to Theresa Apocalypse. She'd sat next to me and read my code over my shoulder and smelled of sugar. And she wasn't twelve. In the game she'd been stuck at twelve forever, and here she was a small grown woman with a temper. It was the first time I'd found something in this world that didn't match the game, and I spent a long time that night lying awake trying to decide what it meant.
 
@@ -548,77 +568,107 @@ I went out again the next morning, and the one after that. I bought proper runni
 
 I didn't tell anyone what it was for. Asami worked it out anyway.
 
-"You're running," she said in the gym one evening in November. It was in the basement of the residential block, a long low room with mirrors on one wall and the smell of rubber mats, and in the evenings the Valkyries in training used it. I'd started going there because the running wasn't enough on its own, and because nobody had told me I couldn't. Asami was lying on a bench with a bar across her chest that had more weight on it than I did.
+"The radio girls think you're very sad," Asami said.
 
-"Yes," I said.
+This was in the gym one evening in November, in the basement of the residential block, a long low room with mirrors down one wall and a smell of rubber mats. In the evenings the Valkyries used it. I'd started going because the running wasn't enough on its own, and because nobody had told me I couldn't. Asami was lying on a bench with a bar across her chest that weighed more than I did.
 
-"Every morning. In the dark. The girls think you're very sad." She pushed the bar up, held it, and let it down again, without seeming to work at it at all. "You know you're still going to be F. You could bench press a car and the machine would still say F."
+"Why sad?"
+
+"Every morning. In the dark. In those shoes." She pushed the bar up and held it there, and let it down again, and didn't seem to be working at all. "One of them thinks you're running away from a woman."
+
+"Tell her she's half right."
+
+"Which half?"
+
+"The running."
+
+She put the bar back on its rack and sat up and looked at me. I was on the next bench along, trying to do something with a bar one of the trial squad had warmed up with, and my arms were shaking.
+
+"You know you're still going to be F," she said. "You could bench a car and the machine would still say F."
 
 "I'm not trying to change the letter."
 
-"Then what are you doing?"
+"Then what's it for?"
 
-"Being able to run away," I said.
+"For when something's chasing me."
 
-She put the bar back in its rack and sat up and looked at me. I was on the next bench along, trying to do something with a bar that one of the fifteen-year-olds had warmed up with, and my arms were shaking.
+"Something like what?"
 
-"That's actually smart," she said. Then she got up, and while I was still working out whether it was a compliment, she put another plate on my bar.
+"Anything. A dog. Dr. Aasen."
+
+She didn't laugh. She looked at me for a while, chewing, with her elbows on her knees, and I couldn't tell what she was deciding.
+
+"That's actually smart," she said. Then she got up, and while I was still working out whether it had been a compliment, she put another plate on my bar.
 
 ---
 
 In November I found out why the Honkai beasts walked through walls on Tuesdays.
 
-It was in the binder, a ticket about two centimeters from the end. Every so often, in the training simulations, a beast would walk through a wall it shouldn't have been able to walk through. It only happened in the simulation rooms, never in the field data. It only happened on Tuesdays. Someone had noticed the Tuesday thing in 2006 and written it on the ticket with three exclamation marks, and then nothing had happened for three years except that other people added more exclamation marks underneath. The current total was eleven.
+It was in the binder, a ticket about two centimeters from the end. Every so often, in the training simulations, a beast walked through a wall it shouldn't have been able to walk through. It only happened in the simulation rooms, never in field data, and it only happened on Tuesdays. Someone had noticed the Tuesday part in 2006 and written it on the ticket with three exclamation marks, and nothing had happened for three years except that other people added more exclamation marks underneath. The current total was eleven.
 
-I'd been saving it. Everyone on a team has the one bug they're saving, the one that's weird enough to be fun, and this was mine. I'd been through the rest of the binder by then. Grandma was fixed. The Swamp was drained, mostly. One evening in November I opened the Tuesday ticket and started reading logs, and at nine o'clock Dr. Mori came out of his office to tell me to go home, looked at my screen, and said, "Oh, God. Not that one."
+I'd been saving it. Everyone on a team has one bug they're saving, the one weird enough to be fun, and this was mine. I'd been through the rest of the binder by then. Grandma was fixed. The Swamp was drained, mostly. One evening in November I opened the Tuesday ticket and started reading logs, and at nine o'clock Dr. Mori came out of his office to send me home, looked at my screen, and stopped.
+
+"No," he said. "Not the ghost."
 
 "I think I'm close."
 
-"Everybody thinks they're close on that one." But he pulled a chair over from the next desk and sat down beside me, and put his glasses on, and they were on his head, and he took them off his head and put them on his face. "Go on. Show me."
+"Kimura was close. Kimura's in Vladivostok." But he pulled a chair over from the next desk and sat on it backward, and felt for his glasses on his head, and found them, and put them on his face. "Go on. Show."
 
 So I showed him, and we were still there at three in the morning.
 
-Once you saw it, the bug was stupid, which is worse than hard. The simulation loaded the walls of each training room, the collision data, the invisible shapes that told a beast where it couldn't go, from a cache on the core. Every Tuesday at two in the afternoon, a maintenance job that somebody had written in 2005 woke up and cleared that cache and rebuilt it, to save space. For about a second and a half, while it was rebuilding, any simulation that was running had no walls at all. If a beast happened to be moving toward a wall in that second and a half, it kept going. Nobody had seen it in the logs because the maintenance job didn't log anything. Its author had thought it was too boring to log.
+Once you saw it, the bug was stupid, which is worse than hard. The simulation loaded the walls of each training room, the invisible shapes that told a beast where it couldn't go, from a cache on the core. Every Tuesday at two in the afternoon a maintenance job somebody had written in 2005 woke up, cleared that cache and rebuilt it, to save space. For about a second and a half, while it rebuilt, every simulation that happened to be running had no walls at all. A beast moving toward a wall in that second and a half just kept going. Nobody had seen it in the logs because the maintenance job didn't write any. Whoever wrote it had thought it was too boring to log.
 
-"Tuesday," Dr. Mori said, when I showed him the timestamp. He looked at it for a long time. Then he started to laugh, very quietly, with his hand over his eyes. "Three years. Three years, and it's a cron job."
+"Tuesday," Dr. Mori said, when I put the timestamps side by side. He looked at them for a long time. Then he put his hand over his eyes and started to laugh, almost without sound. "Three years. Cron job."
 
 "It's always a cron job."
 
-"Is it?"
+"You're eighteen. What do you know about always."
 
-"In my experience."
+"I read a lot."
 
-"You're eighteen. You don't have any experience." He took his hand away from his face. "Fix it. Don't fix it now. It's three in the morning. Fix it tomorrow and write me a test, and then I'm going to put your name on the ticket and you can enjoy being the person who closed the Tuesday bug for about a week, until somebody finds a Wednesday one."
+"Mm." He took his hand away. "Fix it tomorrow. Not now. Tomorrow, with a test. Then your name goes on it, and you're famous for a week, until somebody finds a Wednesday one."
 
-"Okay."
+He didn't get up. He sat on the backward chair with his arms folded on the back of it and watched the build I'd started crawl along the bottom of my screen. The floor was dark around us except for my desk lamp and the light from his office door. Somewhere a server fan went up and down.
 
-He didn't get up. He sat in the chair beside me with his glasses on his face and looked at my screen, where the build I'd started was still crawling along, and the floor was dark around us except for my desk lamp and the light from his office. Somewhere a server fan was going up and down.
+"Flat's too quiet," he said.
 
-"You know why I sleep here?" he said.
+I looked at him. He was looking at the build bar.
 
-I hadn't expected that. I said I didn't.
+"The cot," he said. "You were going to ask. Everybody asks, about now."
 
-"My flat's too quiet." He took his glasses off and rubbed his eyes. "I've got a staff flat on the top floor of the residential block. Two rooms and a balcony, sea view. You'll get one if you stay long enough and don't kill anyone. It's very nice. My daughter picked the curtains when she visited." He put the glasses back on his head and they disappeared into his hair. "She's eighteen. Same as you. Emi. She lives in Osaka with her mother. I see her twice a year, at New Year and in August, and she tells me about her friends and I tell her about my work, except I can't tell her anything about my work, so mostly I tell her about the weather on the island. She thinks I'm a very boring man who works for a German company."
+"I wasn't going to ask."
 
-"Lindgren Automation," I said.
+"Mm." A long time went by. "Two rooms. Balcony. Sea. You'll get one if you stay and don't kill anybody." The glasses went up into his hair and disappeared. "Emi did the curtains."
 
-"Lindgren Automation." He almost smiled. "She asked me what we automate. I said factories. She asked which factories. I said I couldn't say. She said that was the most boring secret she'd ever heard of."
+"Emi?"
+
+"Daughter. Eighteen. Osaka, with her mother."
+
+"Same as me."
+
+"Same as you." For some reason that seemed to amuse him. "Twice a year. New Year and August. She tells me about her friends. I tell her about the weather here. She thinks I automate factories."
+
+"Lindgren Automation."
+
+"'Which factories, Papa.' Can't say. 'That's the most boring secret in the world.'" He almost smiled. "She's right. It is."
 
 The build finished. Neither of us looked at it.
 
-"Her mother left because of the job," he said. "Everyone thinks it was the hours. She could have lived with the hours. What she couldn't live with was that I couldn't tell her what I did, and I'd come home and she'd ask how my day was and I'd say fine, and she'd look at me, and she knew it wasn't fine, and she knew I'd never tell her why." He looked at the dark floor of the office for a while. "Some days I'd come home after one of those printouts. You've seen the printouts."
+"Does she know you sleep in the office?" I asked.
+
+"Nobody knows I sleep in the office."
+
+"Everybody knows you sleep in the office."
+
+"Nobody says it." He gave me a look over the top of his folded arms, and I shut up. Then, after a while, to the dark floor rather than to me, "Her mother could do the hours. Hours were fine." The fan went up and down again. "How was your day. Fine. Ten years of fine. You've seen the printouts."
 
 "Yes."
 
-"You'd come home after one of those and say 'fine' too."
+"So." He stood up, and his knees cracked, and he put the chair back where it came from, very carefully, as if that were the important thing. "Go home. Test in the morning. A good one."
 
-I didn't say anything. He seemed to think that was the right answer.
+I went home. I lay on my bed in the dark with the wall outside the window and thought about the coffee cans on his desk, and a girl in Osaka who thought her father was boring, and how many people on this island had a version of that and never said it to anybody.
 
-"Anyway," he said, and stood up, and his knees cracked. "That's why there's a cot. When the flat's too quiet, it's too quiet, and the office isn't. That's all." He looked down at me. "Go to bed, Eros. You've got a test to write in the morning, and I'm going to want it to be a good one."
-
-I went to bed. I lay in the dark in my room with the wall outside it and thought about a man who'd built a pyramid of coffee cans because his flat was too quiet, and a girl in Osaka who thought her father was boring, and about how many people on this island had a version of that story and never told it to anyone.
-
-In the morning I fixed the Tuesday bug. It took four lines and a test that ran a simulation through a hundred Tuesdays in a row. Dr. Mori put my name on the ticket. Someone on the second row of desks printed out the ticket, eleven exclamation marks and all, and stuck it on the wall by the coffee machine, and drew a little crown on my name. It stayed up for a week, until somebody found a Wednesday one.
+In the morning I fixed the Tuesday bug. It took four lines and a test that ran a simulation through a hundred Tuesdays in a row. Dr. Mori put my name on the ticket. When I came back from lunch there was a coffee can on my desk, unopened, still cold. Someone on the second row of desks had printed out the ticket, eleven exclamation marks and all, and stuck it on the wall by the coffee machine with a little crown drawn over my name. It stayed up for a week, until somebody found a Wednesday one.
 
 ---
 
@@ -632,45 +682,49 @@ At about four in the afternoon I found I'd ordered dumpling flour through the su
 
 I don't fully know how it happened. I'd had the order form open for something else, and then the something else was done and the form was still open, and I'd typed FLOUR and then PORK MINCE and then CABBAGE, and in the box for the reason I'd typed MORALE, and the supply officer had stamped it, because nobody on that island ever questioned morale. It came on the Friday ferry. On Sunday afternoon I took it all down to the shared kitchen at the end of the residential corridor and made dumplings.
 
-They were bad. I'd never made the filling myself. The aunties had always made the filling. Mine had too much ginger and not enough salt, and I'd rolled the wrappers too thick, and when I tried to fold them as Director Zhou had finally approved, my fingers had forgotten how. I had a tray of about forty of them, lopsided, sitting on the counter under the strip light, and a pot of water coming to the boil, and I was standing there looking at them feeling like an idiot when the door opened and Asami put her head in.
+They were bad. I'd never made the filling myself. The aunties had always made the filling. Mine had too much ginger and not enough salt, and I'd rolled the wrappers too thick, and when I tried to fold them as Director Zhou had finally approved, my fingers had forgotten how. I had a tray of about forty of them, lopsided, sitting on the counter under the strip light, and a pot of water coming to the boil, and I was standing there looking at them, feeling like an idiot, when the door opened and Asami put her head in and sniffed.
 
-"What is that smell?"
+"Who died?"
 
-"Dumplings."
+"Nobody died. It's ginger."
 
-"It's ginger. It's just ginger." She came in. Behind her were two of the logistics girls I'd seen at the bar, a tall one from Okinawa called Mao who flew the helicopters, and a short round one from Busan called Ji-woo who did the trucks. They'd all been on their way somewhere with a bag of beer cans. They looked at the tray.
+"It's a crime scene of ginger." She came in. Behind her were two of the logistics girls I'd seen at the bar. Mao was tall, from Okinawa, with long black hair in a low tail and a flight jacket, and she flew the helicopters. Ji-woo was short and round, from Busan, with a sunburned nose in February, and she drove the trucks. They'd been on their way somewhere with a carrier bag of beer, and Ji-woo went straight past me to the tray.
 
-"Is it a Chinese thing?" Mao asked.
+"Oh, are these mandu? These are so big. My grandmother makes them this big, no, smaller, these are like hers but sad. Why are they sad? Are they supposed to be sad?"
 
-"It's Spring Festival," I said. "New Year."
+"They're jiaozi," I said. "It's Spring Festival."
 
 "It's Valentine's Day," said Ji-woo.
 
 "It's both."
 
-"And you're making New Year dumplings," Asami said slowly, "by yourself, on Valentine's Day, in the shared kitchen."
+Mao looked down at the tray for a long time. "That one's open already," she said, and pointed.
 
-"Yes."
+"So you're making New Year dumplings," Asami said, counting it off on her fingers. "On your own. On Valentine's. In the shared kitchen." She held up the fingers. "Genius, that's four sad things."
 
-She looked at me for a while. Then she put the beer on the counter and took her hoodie off and pushed up her sleeves.
+"Three. Valentine's Day isn't sad if you don't care about it."
 
-"Show me how you fold them," she said. "Those ones are going to fall apart in the water."
+"Ji-woo. Does he care about it?"
 
-So I showed them. Asami folded hers too tight, like a medic tying off a wound, and Mao folded hers with enormous care and made each one look like a tiny boat, and Ji-woo gave up after three and opened the beer and sat on the counter and told us about a truck driver she was in love with who didn't know she existed. Half of mine opened in the water. Asami's didn't open at all, because nothing could have got out of them. We ate them standing up around the counter out of the pot, with soy sauce and the beer, and they tasted like ginger and too-thick wrappers and somebody's first try.
+"Everybody cares about it," said Ji-woo, opening a beer. "I care about it so much."
 
-At some point Ji-woo said, "Happy New Year, then," and lifted her can. Mao said "Happy Valentine's," and they clinked. Asami said "Happy whatever this is" and drank.
+Asami looked at me a moment longer. Then she put the bag down on the counter, pulled her hoodie off over her head, and pushed up her sleeves.
+
+"Show me how you fold them," she said. "Those are going to die in the water."
+
+So I showed them. Asami folded hers too tight, like a medic tying off a wound. Mao folded hers slowly and with enormous care and made each one look like a tiny boat, and didn't say a word the whole time. Ji-woo gave up after three, sat on the counter with her beer and told us about a truck driver at the harbor she was in love with who didn't know she existed, and then about another one. Half of mine opened in the water. Asami's didn't open at all, because nothing could have got out of them. We ate them standing round the counter straight out of the pot, with soy sauce and the beer, and they tasted of ginger and too-thick wrappers and somebody's first try.
+
+At some point Ji-woo lifted her can and said, "Happy New Year, then!" Mao said "Happy Valentine's," and they clinked. Asami said "Happy whatever this is," and drank.
 
 I said "Happy New Year," and found I couldn't say anything after it for a minute, and stood there holding my can.
 
-Nobody pushed. Asami put another dumpling in my bowl with her chopsticks, a tight little one of her own, and said, "Eat that. It's the best one," and went on arguing with Mao about whether helicopters were more dangerous than trucks.
-
-It was the first Spring Festival in either life that I'd eaten with people who were there because they wanted to be.
+Nobody pushed. Asami put another dumpling in my bowl with her chopsticks, one of her own, small and hard as a stone, and said, "Eat that. Best one," and went back to arguing with Mao about whether helicopters were more dangerous than trucks. Mao's side of the argument was the word "Trucks," repeated at intervals.
 
 ---
 
 Brenner came to see me in March, a few days after the anniversary of the night he'd waited in my room.
 
-He appeared at my desk at ten in the morning in the same gray suit, as if he'd been folded up in a drawer all year, and asked whether I had time for a coffee, in a voice that made it clear I did. We went up to the cafeteria and sat at a table by the window, with the grass outside and the scaffolding of St. Freya beyond it, and he put a folder down on the table and didn't open it, and unwrapped a peppermint.
+He appeared at my desk at ten in the morning in the same gray suit, as if he'd been folded up in a drawer all year, and asked whether I had time for a coffee, in a voice that made it clear I did. We went up to the cafeteria and sat at a table by the window, with the grass outside and the helipad beyond it, and he put a folder down on the table and didn't open it, and unwrapped a peppermint.
 
 He asked me how I was finding the work. I said I liked it. He asked whether I had any concerns. I said the build system was terrible. He asked whether anyone had approached me about anything unusual, anyone at all, anywhere, on the ferry or in Shiomi or online. I said no. He nodded at each answer as if I'd confirmed the time.
 
@@ -692,9 +746,9 @@ My stomach did something. My face, I hoped, didn't.
 
 "Yes," I said.
 
-"It was the only question you asked in three days. Why that one?"
+"It was the only question you asked in three days. You also recited his lecture back to him, word for word, which he enjoyed very much and mentioned to me twice." He took the peppermint out of his mouth, looked at it, and put it back. "Why that question?"
 
-I'd had a year to think of an answer to the first question. I'd never thought anyone would remember the second. I picked up my coffee to give my hands something to do and said the first true-sounding thing in my head.
+I'd had a year to think of an answer to the first thing he asked. I'd never thought anyone would remember the second. I picked up my coffee to give my hands something to do.
 
 "I like old families," I said. "Old stories. When I was a kid I read every history book in the library at Willow Street, and there were only about nine of them, so I read them a lot. I liked the ones with families that went on for hundreds of years." I drank. "He put up a painting of a woman who died in the fifteenth century and said her family was still around. I wanted to know if it was true."
 
@@ -706,7 +760,7 @@ Brenner looked at me for what felt like a long time. His eyes were the same poli
 
 "Yes." Brenner folded his peppermint wrapper into exact halves, then into halves again, and laid it on the table beside the folder. "Siegfried Kaslana is not a subject anyone here enjoys. If you find yourself wanting to know more about old families, I'd suggest the library. It has more than nine books."
 
-"Okay."
+"I'll get a card."
 
 "Good." He stood up, and picked up the folder, and tucked it under his arm. "Thank you for your time, Eros. Same time next year."
 
@@ -716,7 +770,7 @@ He walked out. I sat at the table and finished my coffee very slowly, because I 
 
 Ms. Vogel had been right that I'd be asked to take my leave. In March I got an email from her that said, in its entirety, You have taken zero days of your twenty-five. This is noted. So in April, for Qingming, I took five of them and went home.
 
-A staff flight to Shanghai left from the island's runway every other Thursday, a small white jet like the one that had brought me, and this time nobody pulled the shutters down. Asami had been right about that too. I sat by the window and watched the island from above for the first time, a thin gray lozenge on a dark sea with the scaffolding of the school at one end and the runway at the other, and then cloud. From Shanghai I took the fast train to Hangzhou, and it was raining when I got there, which it had been for most of my life.
+A staff flight to Shanghai left from the island's runway every other Thursday, a small white jet like the one that had brought me, and this time nobody pulled the shutters down. Asami had been right about that too. I sat by the window and watched the island from above for the first time, a thin gray lozenge on a dark sea with the antennas at one end and the runway at the other, and then cloud. Somewhere to the south, too far to see, St. Freya's bell would be up in its tower by now. From Shanghai I took the fast train to Hangzhou, and it was raining when I got there, which it had been for most of my life.
 
 I went to the grave first.
 
@@ -826,7 +880,7 @@ I didn't ask who. She told me anyway.
 
 "Murata. The survivor." She turned her glass round on the table. "They put her on my plane because I'm medical and because I was nearest. Nine hours. She was awake the whole way. Burns on her arms, three cracked ribs, a stigma that was still..." She stopped, and drank. "She didn't say anything. Not one word, for nine hours. I talked to her a bit and then I stopped, because she wasn't listening. She was looking at the floor of the plane. And then about an hour out, she looked up at me and asked if I had any gum."
 
-"Did you?"
+"You always have gum," I said.
 
 "I always have gum." She took a packet out of her hoodie pocket and looked at it. "I gave her the whole packet. She chewed one piece for the last hour. When we landed she gave me the packet back with the rest still in it, and said thank you." Asami put the packet on the table between us. "That's the only thing she said."
 
@@ -834,13 +888,13 @@ The football on the television went to a replay. Somebody at the bar groaned.
 
 "They offered me C again," Asami said. "This morning. Combat support. More pay. A real stigma upgrade, not the logistics set. My commander says I'd be good at it."
 
-"Again?"
+"Your commander's right," I said. "You would be."
 
-"Second time. I said no the first time too." She picked the gum up and put it back in her pocket. "I said no again."
+"Second time she's offered. I said no the first time too." She picked the gum up and put it back in her pocket. "I said no again."
 
-"Why?"
+"Because you'd be good at it?"
 
-She looked at me as though I'd asked something stupid. Then, after a while, as though I hadn't.
+She looked at me as though I'd said something stupid. Then, after a while, as though I hadn't.
 
 "Because C is the ones who go in second," she said. "Right behind the B-ranks. Close enough to see it." She drank. "I've seen what comes back. I fly them back. I'm fine where I am."
 
@@ -900,11 +954,13 @@ He stared at me. "That's what it was called?"
 
 "It started as a joke."
 
-"Of course it did." He rubbed his face. "Could it be rebuilt using our sensors instead of public data? We've got seismic arrays, atmospheric stations, satellite time, and about two hundred Honkai energy detectors scattered across the region that nobody's ever connected to anything. The anomaly watch on the ninth floor is three duty officers and a wall of screens and a very large spreadsheet. They see an outbreak when somebody phones them about it." He looked at me. "I want them to see it before somebody has to phone."
+"Of course it did." He rubbed his face. "Ours, then. Not weather. Our stuff. Seismic. Atmosphere. Satellite time. Two hundred Honkai detectors up and down the coast, plugged into nothing." He waved a hand at the floor, meaning the ninth floor under it. "Watch room's three officers and a spreadsheet. They find out when somebody phones." He looked at the printouts on his chair. "I want them to know before the phone."
 
-I thought about the printouts.
+"You want weird_stuff with real data."
 
-"Yes," I said. "It could."
+"I want it not called that."
+
+"weird_stuff_v4," I said. "It could work."
 
 "How long?"
 
@@ -962,15 +1018,15 @@ She looked at me over the mug. "And then you're going to put everything into one
 
 "Before most people notice. Not before it gets there."
 
-"I've had three of these," she said. "Three programs, in seven years. All from very clever young men on the eleventh floor. Each of them was going to change everything." She drank. "The first one told us there was a Honkai outbreak in Seoul every time it rained. The second one told us there was nothing anywhere, ever, until the day somebody unplugged it and nobody noticed for a week. The third one went off at three in the morning because a satellite had a software update, and I sent a squad to an empty field in Mongolia."
+"I've had three of these," she said. "Three programs in seven years. Six and a half. All from very clever young men on the eleventh floor. Each of them was going to change everything." She drank. "The first one told us there was a Honkai outbreak in Seoul every time it rained. The second one told us there was nothing anywhere, ever, until the day somebody unplugged it and nobody noticed for a week. The third one went off at three in the morning because a satellite had a software update, and I sent a squad to an empty field in Mongolia."
 
-"What happened to the squad?"
+"Was it a nice field?"
 
-"They found a very nice field. One of them got bitten by a horse." She put her mug down beside my keyboard, on a coaster she'd brought from her own console. "Every time your program is wrong, Eros, I'm the one who sends real girls somewhere, or doesn't. So it isn't going to change everything. It's going to be right, or I'm going to unplug it. Do you understand?"
+"Four point two square kilometers. Very nice. One of them got bitten by a horse." She put her mug down beside my keyboard, on a coaster she'd brought from her own console. "Every time your program is wrong, Eros, I'm the one who sends real girls somewhere, or doesn't. So it isn't going to change everything. It's going to be right, or I'm going to unplug it. Do you understand?"
 
-"Yes."
+"Then I'll make it right."
 
-"Good." She picked the mug back up. "The coffee machine's in the corner. Don't touch the blue one. That's mine."
+"Everybody says that. Three of them said that." She picked the mug back up. "The coffee machine's in the corner. Don't touch the blue one. That's mine."
 
 ---
 
@@ -996,7 +1052,11 @@ We climbed the mast. That is, I climbed it, in a harness, in the rain, holding o
 
 I brought it down in a coffee can. He took it to the edge of the breakwater and tipped it out onto the rocks, and it went sideways into the water and was gone, and Hamada stood there for a moment watching the place where it had been, with the rain running off his hood.
 
-"I was on the dredger," he said. "When they made this. Ninety-eight, ninety-nine. We pumped sand up off the seabed for eleven months, night and day, and poured it on a reef that was here, until it was a reef with an island on top. Then in oh-six they took us two hours south and we did it again, bigger, on another reef. Nobody told us what either one was for." He took the cigarette from behind his ear and looked at it and put it back. "Somebody said a rich man in Europe wanted the second one. For his granddaughter. A present."
+"I was on the dredger," he said. "When they made this. Ninety-eight, ninety-nine. We pumped sand up off the seabed for eleven months, night and day, and poured it on a reef that was here, until it was a reef with an island on top. Then in oh-six they took us two hours south and we did it again, bigger, on another reef. Nobody told us what either one was for."
+
+"What do you think they were for?"
+
+He looked up at the sky over the breakwater for a while. "Rain by four," he said. He took the cigarette from behind his ear and looked at it and put it back. "Somebody said a rich man in Europe wanted the second one. For his granddaughter. A present."
 
 I knew who the rich man was, and I knew the granddaughter, and I'd watched her hold up a carrot in a cafeteria. I thought about a man in white and gold having a reef buried under sand for eleven months so that a small woman who couldn't stand him would have somewhere to put a school.
 
@@ -1070,7 +1130,7 @@ Who ARE you?
 
 I lay on the hotel bed in the dark with the handheld on my chest and read it about ten times. Then I wrote back and said I was a software engineer who liked her game, and she wrote back at six to say thank you, and that she'd fixed the lamppost, and that nobody had ever read anything she made that carefully in her life, and that her name was Mizuki Tsugumi and she lived in a town nobody had heard of on the coast.
 
-She didn't say which town. I didn't ask.
+She didn't say which town. I didn't ask. I put the CD in the inside pocket of my bag, next to my passport, and went to sleep with the handheld still on my chest.
 
 ---
 
@@ -1080,13 +1140,13 @@ It was a long electronic board with hundreds of trains on it, white letters on b
 
 I looked at it for a while.
 
-Twenty minutes, and I could be there in the afternoon. I could walk around. I could look at the city, and at Chiba Academy, which would just be a school then, and at the streets that in two and a half years would be full of the dead. It was summer, and nothing was going to happen there for a long time. It was just a city.
+I'd done this at Shiomi already, two years before, with the coins in my hand. It was easier the second time, and I didn't like that it was easier.
 
 I went to platform four instead and took the train to the sea at Kamakura, because it was the other direction and I wanted to see the big bronze Buddha, and because I'd heard you could swim there.
 
 I didn't swim. I sat on the beach in the afternoon with my shoes off and my feet in the sand and ate a whole grilled squid on a stick, and watched families and surfers and a very old man walking a very old dog along the edge of the water. The sea at Kamakura was a different sea from the one at the island. It was warmer and greener and full of people. Nobody on that beach had a case at their feet, or a stigma, or a file. Nobody on that beach knew there was anything to know.
 
-I sat there until the sun went down, and somewhere in that afternoon I noticed that I was happy, plainly and for no particular reason, with sand on my feet and squid on my fingers and a girl's bad demo on a disc in my bag and nothing I had to do until Monday. It was a strange thing to notice, because I didn't think I'd ever noticed it before, in either life. I'd been too busy, the first time. The second time I'd been waiting.
+I sat there until the sun went down, and somewhere in that afternoon I noticed that I was happy, plainly and for no particular reason, with sand on my feet and squid on my fingers and a girl's bad demo on a disc in my bag and nothing I had to do until Monday. The old man and the old dog came back the other way at sunset, and the dog stopped to smell my shoes, and the old man said "Sorry, sorry," and they went on.
 
 Then I got up and went back to the station, and caught the last train to the airport, and flew home to the island, and on Monday I went back to the watch room and switched the anomaly watch on.
 
@@ -1104,7 +1164,7 @@ Yoon was already in the watch room. She was in a fleece over her pajamas, with h
 
 "How long?" I said.
 
-"Six minutes. It came in at four seventeen." She didn't look round. "The local detector's showing a rise. Small. Your program put it together with the seismic array at Pohang and the atmospheric station at Ulsan and it says there's going to be an event, and it says in the next three hours." She drank from the mug. There was nothing in it. "My grandmother lives forty kilometers north of there."
+"Oh-four-seventeen. Six minutes ago. Seven." She didn't look round. "The local detector's showing a rise. Small. Your program put it together with the seismic array at Pohang and the atmospheric station at Ulsan and it says there's going to be an event, and it says in the next three hours." She drank from the mug. There was nothing in it. "My grandmother lives forty kilometers north of there."
 
 "What do you want to do?"
 
@@ -1204,9 +1264,9 @@ Brenner came in March, as he always did, and asked his questions, as he always d
 
 "You've become useful," he said.
 
-"Is that good?"
+"That sounds like a threat."
 
-"For you? Yes." He unwrapped a peppermint. "Useful people are much less interesting to people like me."
+"It's the opposite of one." He unwrapped a peppermint. "Useful people are much less interesting to people like me."
 
 ---
 
@@ -1216,7 +1276,7 @@ I walked down the seawall in the dark. The bar's windows were lit and there was 
 
 I stood in the doorway with my hand still on the handle.
 
-They were all there. Asami at the front, grinning, with a party hat on sideways over her hood. Ji-woo, who had clearly never been heartbroken in her life. Mao, the pilot, and half the logistics crews. Yoon with her mug, which she'd brought from the ninth floor. Hamada the technician. Two of the engineers from my row, and the girl from Accounts who'd cried in her first week, and the woman from Medical who'd given me crackers on my first ferry. In the corner, in a chair against the wall with a glass of beer going warm on the table in front of him, there was Dr. Mori, asleep, with his glasses on his head.
+They were all there. Asami at the front, grinning, with a party hat on sideways over her hood. Ji-woo, who had clearly never been heartbroken in her life. Mao, the pilot, and half the logistics crews. Yoon with her mug, which she'd brought from the ninth floor. Hamada the technician. Two of the engineers from my row, and Hirano from Accounts, and Lao Chen, who had made the cake stand out of a baking tray, and Dr. Aasen, who shouted "Engineer!" from the back as if I were late for an appointment. In the corner, in a chair against the wall with a glass of beer going warm on the table in front of him, there was Dr. Mori, asleep, with his glasses on his head.
 
 "How did you know?" I said.
 
@@ -1294,11 +1354,11 @@ The Ganesha came in May.
 
 It came out of nowhere, in India, a little over a hundred kilometers from Agra, in the middle of a dry afternoon, and by the time anyone at Schicksal's South Asia branch understood how big it was, two A-rank Valkyries were dead and twelve more were badly hurt. It was an Emperor-class beast, the third anyone had ever recorded, and the first in twelve years. The data came in to us afterward in a flood, every reading anybody had managed to take before their equipment broke, video from suit cameras, telemetry from battlesuits that had stopped sending halfway through a sentence. Dr. Mori's team was given three months to build a simulation of it, so that the next squad to meet one would at least have met one before.
 
-I wrote the code for its movement. All those tons of armored body, turning and charging and stamping, how it shifted its weight before a charge, how the ground cracked under it. I watched the suit camera footage frame by frame until I could see it when I closed my eyes. I watched it until I knew what the girls in that footage were going to do half a second before they did it, and what was going to happen to them half a second after. Then I closed the footage and wrote the code. While I was writing it, I kept thinking about the game, where years from now a training simulation on this same island would glitch, and spawn a Ganesha in an exam where it had no business being, in front of a white-haired girl who ate everything and a purple-haired girl with a sword.
+I wrote the code for its movement. All those tons of armored body, turning and charging and stamping, how it shifted its weight before a charge, how the ground cracked under it. I watched the suit camera footage frame by frame until I could see it when I closed my eyes. I watched it until I knew what the girls in that footage were going to do half a second before they did it, and what was going to happen to them half a second after. Then I closed the footage and wrote the code. While I was writing it, I kept thinking about the game, where years from now a training simulation at St. Freya would glitch, and spawn a Ganesha in an exam where it had no business being, in front of a white-haired girl who ate everything and a purple-haired girl with a sword.
 
 In July, before it was finished, a woman came to the eleventh floor and asked for whoever was writing the Ganesha.
 
-She was an A-rank instructor called Captain Rahman, Bangladeshi, about thirty, and she walked with a cane she obviously hated, and there was a burn scar running from under her left ear down into the collar of her uniform. She'd been there. She'd been one of the twelve. She'd come to the island from the hospital in Delhi to teach at St. Freya while her leg healed, because nobody would let her back in the field.
+She was an A-rank instructor called Captain Rahman, Bangladeshi, about thirty, and she walked with a cane she obviously hated, and there was a burn scar running from under her left ear down into the collar of her uniform. She'd been there. She'd been one of the twelve. She'd come east from the hospital in Delhi to teach at St. Freya while her leg healed, because nobody would let her back in the field, and she'd flown up that morning on the supply helicopter because she'd heard somebody here was building it.
 
 "I want to run it," she said.
 
@@ -1318,8 +1378,6 @@ So she ran it, in Simulation Room Three, in a training suit, with the cane leani
 
 So I made it worse. When it was finished in August, it was the hardest simulation the Far East Branch had ever built, and Dr. Mori locked it to the A-rank training set and wouldn't let anyone below A anywhere near it.
 
-I didn't touch the lock.
-
 ---
 
 In June a parcel came on the Friday ferry with a Shiomi postmark on it, which surprised me, because I didn't know anyone in Shiomi.
@@ -1336,7 +1394,7 @@ I played the new demo that night. The girl with the lantern got further. The tow
 
 She wrote back at three in the morning. The whole email said, I'll try. I never finish anything. Thank you for reading it like it matters.
 
-I didn't tell her I'd walked past her window. I didn't know how to say it without it sounding strange, and then enough time had gone by that it was strange not to have said it, and then it was too late.
+I didn't tell her I'd walked past her window. I didn't know how to say it without it sounding strange, and after a few weeks it would have been stranger to bring it up, so I didn't.
 
 ---
 
@@ -1458,11 +1516,11 @@ In December Dr. Mori called me into his office and asked if I'd ever been to Ger
 
 "No," I said.
 
-"You're going." He was lying on the cot with his arm over his eyes. "The Battlesuit Division at HQ is building the next generation of suit firmware. They want someone on the simulation side for six months, someone who knows the old code, someone who can talk to the people who fight in the things. Somebody up there asked for the person who closed the Tuesday bug." He took his arm off his eyes and looked at me. "I said yes."
+"You're going." He was lying on the cot with his arm over his eyes. "HQ. Battlesuit Division. New firmware, the whole generation. They want a sim person. Six months. Somebody who knows Grandma and can talk to the girls who wear the things." He took his arm off his eyes. "Somebody up there asked for the Tuesday ghost man." The arm went back. "I said yes."
 
 "You said yes for me?"
 
-"I'm your boss. That's what bosses do." He put the arm back. "January to July. They'll give you a room. It's a big deal, Eros. People go to HQ and come back running departments." He was quiet for a while. "Or they go to HQ and don't come back, and run departments there, and send you emails."
+"Boss. That's the job." He didn't move. "January to July. They give you a room. Big deal, Eros. People go and come back running departments." He was quiet for a while. "Or they don't come back. Run departments there. Send you emails."
 
 "I'll come back," I said.
 
@@ -1484,7 +1542,7 @@ I sat in the back of the car and looked at it and felt, for the first time in ye
 
 The car stopped at a gate. A guard in a long coat looked at my badge, and at my face, and at the badge again, and at a tablet. Then a second guard did the same thing. Then they let the car through.
 
-The security on the island had been a fence and a man named Brenner. Here it was something else. There were cameras on every corner of every corridor. Doors opened only for your badge and only if your badge was supposed to be in that corridor at that hour. Nobody in the corridors talked loudly. When you passed someone, they looked at your badge before they looked at your face. I'd thought, for nearly four years, that the island was where Schicksal kept its secrets. Within a day at HQ I understood that the island was where Theresa kept her girls, and that this was where Schicksal kept its secrets, and that the difference was the man who lived here.
+The security on the island had been a fence and a man named Brenner. Here it was something else. There were cameras on every corner of every corridor. Doors opened only for your badge and only if your badge was supposed to be in that corridor at that hour. Nobody in the corridors talked loudly. When you passed someone, they looked at your badge before they looked at your face. I'd thought, for nearly four years, that the island was where Schicksal kept its secrets. Within a day at HQ I understood that the Far East was where Theresa kept her girls, and that this was where Schicksal kept its secrets, and that the difference was the man who lived here.
 
 His portrait was in the main hall. It was the same painting as the one on the island, the man in white and gold with one hand resting on a book, but here it was three meters tall and lit from below, so that it seemed to lean out over you, and the brass plate under it didn't say BISHOP. It just said OTTO APOCALYPSE. Everyone who walked through the hall walked a little faster under it.
 
@@ -1500,9 +1558,9 @@ He gave me a desk next to his and spent the first week telling me everything abo
 
 "This floor," he said, on the third day, pointing up through the ceiling with a pencil, "the Overseer sometimes walks. Not often. Sometimes." He lowered his voice, which for Klaus meant ordinary talking. "When he walks, you stand straight, you say nothing, you live long."
 
-"Has he ever spoken to you?"
+"So what does he look like, close up?"
 
-"Once." Klaus thought about it. "He said 'Good morning.' I said 'Good morning.' I did not sleep for two days." He went back to his screen. "He was very polite."
+"Once. I saw him close once." Klaus thought about it. "He said 'Good morning.' I said 'Good morning.' I did not sleep for two days." He went back to his screen. "He was very polite."
 
 ---
 
@@ -1528,9 +1586,9 @@ She went. She walked very quietly, for someone in heels. Klaus watched her go do
 
 "You have Rossweisse," he said.
 
-"Is that bad?"
+"She seemed nice."
 
-"Nobody gets Rossweisse. Department heads get a man from Personnel with a clipboard." He thought about it. "Rossweisse is the Overseer's. His own. She trained under him. She is seventeen and she is maybe the most dangerous Valkyrie in this building." He picked up his coffee. "If she is your liaison, Tuesday man, somebody upstairs wants to know about you."
+"Nice. Yes. Very nice. Nobody gets Rossweisse. Department heads get a man from Personnel with a clipboard." He thought about it. "Rossweisse is the Overseer's. His own. She trained under him. She is seventeen and she is maybe the most dangerous Valkyrie in this building." He picked up his coffee. "If she is your liaison, Tuesday man, somebody upstairs wants to know about you."
 
 I sat down. I already knew that. I'd known it when she said the Overseer hoped my stay would be comfortable, because in the game Otto never hoped anything about anyone he wasn't watching.
 
@@ -1948,9 +2006,9 @@ That was the thing I noticed first, coming off the plane into the wind on the ru
 
 I went up to my flat. The plant in the corner by the glass door had grown about twenty centimeters, because Asami had been watering it, and when I opened the door to the balcony the sea came into the room, and the noise of it, and the smell of salt and diesel from the harbor, and the line of Shiomi's lights on the mainland, coming on one by one as it got dark.
 
-I stood there with my bag at my feet and found that I'd come home. I hadn't known I had one. I'd been in this world twenty-two years and spent most of it waiting for something to happen, and I'd somehow built a home while I was waiting, out of a seawall and a curry and a cup of bad coffee with one sugar in it, and a plant somebody had watered for me.
+I stood there with my bag at my feet for a long time. I'd been in this world twenty-two years and spent most of it waiting for something to happen, and while I was waiting I'd put a life together out of a seawall and a curry and a cup of bad coffee with one sugar in it, and a plant somebody had watered for me.
 
-Then I went and checked the bag by the door. It was still there.
+Then I went and checked the bag by the door, out of habit, and left the glass door open, and went to bed with the sea coming in.
 
 ---
 
@@ -2030,21 +2088,21 @@ So it was Theresa's face, and Bianka's age, and now this. The world matched the 
 
 On the sixteenth of November, a Saturday, I was eating breakfast in the cafeteria when the television over the counter showed him.
 
-It was the morning business news from a channel in Tokyo, with the sound down low, because nobody on the island watched it except the cook. I looked up because the cook said "Oh," and turned it up. On the screen there was a building in Nagazora, all glass, with a big ME logo on it, and outside it a crowd of photographers, and in the middle of the crowd, being walked out between two men in dark suits, there was a man with purple hair in a long ponytail.
+It was the morning business news from a channel in Tokyo, with the sound down low, because nobody on the island watched it except Lao Chen. I looked up because Lao Chen said "Aiya," and turned it up. On the screen there was a building in Nagazora, all glass, with a big ME logo on it, and outside it a crowd of photographers, and in the middle of the crowd, being walked out between two men in dark suits, there was a man with purple hair in a long ponytail.
 
 They'd let him keep his coat over his wrists. He was walking very straight, with his face calm and serious, exactly like the photograph in the annual report, while the cameras went off around him. A caption at the bottom of the screen said ME CORP CEO RAIDEN RYOMA ARRESTED, SUSPECTED FRAUD, ILLEGAL FINANCING. A reporter outside the building said that the company's assets had been frozen that morning, that the board would meet on Monday, and that a statement was expected from an interim chief executive whose name had not yet been released.
 
-"Poor man," said the cook, who was from Taiwan and had opinions about everything. "Look at him. He didn't do it."
+"Poor man," said Lao Chen, leaning on the counter with his ladle. "Look at him. He didn't do it."
 
 "How do you know?" said someone at the next table.
 
-"Look at his face," said the cook. "That's a man thinking about somebody else."
+"Look at his face," said Lao Chen. "Twenty years in hotels, I know that face. That's a man thinking about somebody else."
 
 I put my chopsticks down.
 
 I knew whose name would be released on Monday. I knew who had built the case against him, and why, and what she wanted from his company and from the thing his daughter carried inside her without knowing it. I'd known for years that this morning was coming, the sixteenth of November 2013, as you'd know the date of an exam. And somewhere in Nagazora, in a big house with a dojo in it, a girl with very long dark hair was watching the same pictures on a different television, or had been woken up by somebody to watch them, or was going to find out at school on Monday from the faces of people who'd been her friends on Friday.
 
-The news moved on to the price of rice. The cook turned it down again.
+The news moved on to the price of rice. Lao Chen turned it down again and stood looking at the screen anyway, with the ladle hanging from his hand.
 
 I finished my breakfast because I didn't know what else to do, and went out and ran on the seawall, the long way round, twice. Then I went up to the flat and took the timeline out of my wallet and looked at the line that said, in code, that this would happen today. I didn't change it. There was nothing in the world I could do about any of it, and I'd known that too, and I sat on the gray sofa for a long time with the folded paper in my hand.
 
@@ -2058,7 +2116,7 @@ The first one came on the fourth, at a quarter to three in the afternoon, while 
 
 On the big map of the region, over the coast of Honshu, a little yellow circle had appeared. It was the smallest kind the program drew, the kind that meant something had moved and nothing would probably come of it. It pulsed three times and went pale.
 
-"Nagazora," said Yoon. She went to her console and pulled the readings up. "Small. Very small. One detector, and the seismic array at the edge of the city picked up something at the same time." She looked at the graph. It was a spike, sharp and narrow, the same shape I'd found in the seismic data at seventeen, a hundredth of the size of Siberia. "Thunderstorm?"
+"Nagazora. Fourteen forty-four." Yoon went to her console and pulled the readings up. "Small. Very small. Point three over baseline. One detector, and the seismic array at the edge of the city picked up something at the same time." She looked at the graph. It was a spike, sharp and narrow, the same shape I'd found in the seismic data at seventeen, a hundredth of the size of Siberia. "Thunderstorm?"
 
 "There's no storm," I said. My voice sounded all right to me.
 
@@ -2090,7 +2148,7 @@ In January 2014 I had worked for Schicksal for four years and ten months.
 
 My badge said SENIOR ENGINEER, under a new photo where my hair was only sticking up a little. I was twenty-two. I had a flat with a view of the sea and a plant that someone else watered when I was away. I could run ten kilometers along the seawall without stopping. I'd eaten, by Asami's count, around nine hundred packets of instant noodles. There was a bag by my front door with good boots in it and a satellite phone, and a case of cash under my bed in three currencies, and a monthly transfer to Hangzhou for the bowls. A boy there sent me math problems. A girl in Shiomi sent me games. Every spring I sat in the medical room and let a machine sting my arm, and every spring the light on the front of it stopped at F.
 
-I'd been to Shiomi more times than I could count. I'd never once set foot in Nagazora, an hour down the line, and the Third Eruption was a few weeks away.
+I'd been to Shiomi more times than I could count. I had never once got on the train to Nagazora, an hour down the line, though I'd stood in front of the ticket machine more than once with the coins in my hand.
 
 ---
 
@@ -3086,11 +3144,7 @@ It was a low concrete building by the docks with a corrugated roof, a television
 
 She looked at me and put the glass down.
 
-"Wow," she said.
-
-"What?"
-
-"You look like shit." She leaned across the table and peered at my face. "No. Seriously. You look like the girls I fly back from deployments. The ones who were fine on the way out." She sat back. "What happened to you?"
+"You look like shit," she said. She leaned across the table and peered at my face. "No. Seriously. You look like the girls I fly back from deployments. The ones who were fine on the way out." She sat back. "What happened to you?"
 
 The thing about Asami was that she'd spent her whole career looking at people who'd just come back from something, and she was very good at it.
 
@@ -3104,9 +3158,9 @@ I looked at my hand on the table. It was. Not much. I took it off the table.
 
 "Uh huh." She drank. "You want to know what I tell the girls?"
 
-"What?"
+"Let me guess. You give them gum."
 
-"Sleep. Eat something hot. Don't be alone in the dark too much." She pointed at me with the bottle. "And whatever it is, don't go back for more of it until you've done all three."
+"Gum's for the plane." She didn't smile. "After the plane I tell them three things. Sleep. Eat something hot. Don't be alone in the dark too much." She pointed at me with the bottle. "And whatever it is, don't go back for more of it until you've done all three."
 
 [She's sweet,] the System said. [She thinks you've got a gambling problem.]
 
@@ -3448,7 +3502,7 @@ When she'd gone, I stood there with the knife in my bandaged hand and looked at 
 
 On the Thursday of that week, Yoon told me Himeko had gone.
 
-I was in the watch room checking a calibration. Yoon was at her console with her mug, and without looking up from her screen she said, "Murata left for Nagazora this morning. Don't tell anyone I told you."
+I was in the watch room checking a calibration. Yoon was at her console with her mug, and without looking up from her screen she said, "Murata left for Nagazora this morning. Oh-six-forty, off the pad, on the mail helicopter. Don't tell anyone I told you."
 
 "Who's Murata?" I asked.
 

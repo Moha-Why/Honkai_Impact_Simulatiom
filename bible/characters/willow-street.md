@@ -36,6 +36,15 @@ accountant".
 **Personality:** quiet, does sums in his head, gets bored in class. Eros
 sees himself at that age.
 
+**How he talks:** hardly at all to adults, and then in questions with no
+greeting. Answers with numbers. His emails have no greeting and no
+signature, just a problem and sometimes a second line of complaint.
+
+- "Is it true you went to university when you were fifteen?"
+- "That's a stupid problem. I did it."
+- (Email) "A snail climbs 3 m up a 10 m wall each day and slides 2 m each
+  night. Which day does it get out. My teacher says day 10. She is wrong."
+
 **In Chapter 2 (2012):** Eros gives him a laptop and his email address, and
 quietly pays for a tutor. After that, a short email from Xiaoyu once a
 month, usually a math problem.

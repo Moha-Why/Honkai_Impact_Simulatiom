@@ -16,7 +16,19 @@ Valkyries die, and he has read those reports. He never talks about that.
 In him, Eros sees exactly how he died the first time.
 
 **How he talks:** fast, in half sentences. Swears mildly. Gives code modules
-nicknames and assumes everyone knows them.
+nicknames and assumes everyone knows them. In detail:
+
+- **Starts in the middle.** Walks up and begins a conversation as if
+  continuing one from yesterday. "The knee one. It's the knee one again."
+- **Drops subjects and verbs.** "Bad?" "Go home." "Does that."
+- **Never makes speeches.** Even about his ex-wife and Emi he gets it out
+  in bits, with long silences, and changes the subject before he's
+  finished. If he has to say something kind, he says it as an order.
+- **Nicknames for code**: the knee one, the wet sand, the Tuesday ghost,
+  Grandma (the oldest firmware module).
+- **Swears at machines, never at people.** "Stupid, stupid box."
+- When he's genuinely pleased he says nothing and puts a coffee can on
+  your desk.
 
 - "You found us with weather data. Fine. Here's three years of bugs."
 - "Runs on Honkai energy. Don't lick it."

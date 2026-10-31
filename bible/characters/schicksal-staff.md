@@ -128,7 +128,10 @@ The ones who speak:
   - "Do they eat? The Honkai. Do they eat anything?"
   - "Thirty thousand years and nobody wrote down a recipe."
 - **Later:** runs the cafeteria line. The reason Curry Tuesday never
-  changes. Gives Eros extra rice without asking.
+  changes. Gives Eros extra rice without asking. Stands in the kitchen
+  doorway during Theresa's carrot speech (June 2009); makes a cake stand for
+  Eros's 21st (2012); watches Raiden Ryoma's arrest on the cafeteria TV on
+  November 16, 2013 and says "That's a man thinking about somebody else."
 
 ### Hirano Saki, accounts
 
@@ -163,8 +166,10 @@ The ones who speak:
   Keeps a mental list of every missed appointment on the island.
 - **How she talks:** loud, plain, no small talk.
   - "Kudo! Thursday! You missed Thursday!"
-- **In Chapter 2 (2009):** passes Asami on the seawall on her bicycle and
-  shouts about her knee appointment.
+- **In Chapter 2:** passes Asami on the seawall on her bicycle and shouts
+  about her knee appointment (2009); hands Eros water and crackers on his
+  first ferry to Shiomi and tells him to look at the horizon (April 2009);
+  shouts at his knees when she laps him on the seawall; at his 21st (2012).
 
 ## Mao and Ji-woo (logistics, Far East Branch)
 

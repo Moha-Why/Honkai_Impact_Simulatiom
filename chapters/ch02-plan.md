@@ -264,3 +264,14 @@ when she walks back in later.
     asami-kudo, yoon-seoyeon, lukas-brenner (the Kaslana question, the file
     closing), professor-han.
   - tracker (flat, escape bag, satellite phone, savings), timeline.
+
+## Voice revision (done)
+
+The whole chapter was revised for voice after the first draft read flat:
+each speaker now talks the way their profile says (Asami gives orders and
+pokes, Mori talks in half sentences, Yoon in duty-log times and numbers,
+Ōta in questions, Lao Chen asks what nobody else will, Hamada answers with
+the weather), Eros pushes back instead of feeding setups, and every scene
+has a want or a risk. The opening was rewritten (escort report, the bell,
+Ōta's memory test); the Shiomi trip now has the ferry list and the coins at
+the ticket machine; St. Freya is on its own island two hours south.

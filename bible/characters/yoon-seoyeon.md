@@ -13,10 +13,25 @@ with the sleeves pushed up. Always holding a mug.
 Eros because his code has never lied to her. Doesn't gossip, but always
 knows who's been sent where.
 
-**How she talks:** short, factual, a little dry.
+**How she talks:** short, factual, a little dry. Different from Asami's
+teasing: Yoon is exact, not playful. In detail:
+
+- **Duty-log voice.** Times to the minute, numbers with units. "Oh-four
+  seventeen. Four hundred and twelve microsieverts. Then nothing."
+- **Corrects people**, including herself, mid-sentence. "Three days. Two
+  and a half."
+- **Says "No"** as a complete review. Says "Hm" when something is right,
+  which is rare and means a lot.
+- **Her jokes are literal.** She answers the exact words of a question,
+  not the meaning, with a straight face.
+- **Brings up her mother** (who wants her married and back in Daegu) only
+  in the third person, as a data point. "My mother says the night shift
+  is why I'm not married. My mother is correct."
+- Polite to Theresa and nobody else.
 
 - "The principal's asking for whoever built this. That's you."
-- "Murata left for Nagazora this morning. Don't tell anyone I told you."
+- "Murata left for Nagazora this morning. Oh-six-forty, off the pad, on the
+  mail helicopter. Don't tell anyone I told you."
 
 **In Chapter 2:** calls Eros down when Theresa visits the watch room; later
 mentions that Himeko has gone to Nagazora.
