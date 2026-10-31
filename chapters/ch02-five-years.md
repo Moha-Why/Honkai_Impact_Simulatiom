@@ -244,11 +244,11 @@ Then I heard a voice inside my head.
 
 [Ding!]
 
-[Honkai energy threshold reached.]
-
-[Imaginary Simulation System... binding.]
-
-[Binding complete.]
+```
+Honkai energy threshold reached.
+Imaginary Simulation System binding...
+Binding complete.
+```
 
 [Oh. Hello there.]
 
@@ -268,11 +268,13 @@ I went back to my room and locked the door. I sat on the end of the bed and look
 
 I'd touched that panel on my first day, nearly five years ago. I'd felt the same jolt and seen the same flicker, and then nothing had happened, and I'd gone on with my life. Tonight I'd heard a voice. I'd also been sleeping badly for weeks, I'd just had a bolt of Honkai energy go through my head, and I'd spent five years wanting something like this to happen. If I was ever going to imagine a voice, tonight was the night for it.
 
-Then I said, out loud, "Hello?"
+I was still deciding how to test it when it saved me the trouble.
 
-[Took you long enough.]
+[You're not imagining me, by the way.]
 
-It came from inside my head, but not in my own voice. It was soft and amused, and I couldn't tell if it was a man's voice or a woman's. It sounded like someone who'd been waiting a long time for me to say something and thought it was funny that I finally had.
+It came from inside my head, but not in my own voice. It was soft and quick, and I couldn't tell if it was a man's voice or a woman's.
+
+[I'd have said something sooner, but you were doubting yourself so carefully. Very scientific. I didn't want to interrupt.]
 
 I sat there with my heart going.
 
@@ -288,11 +290,7 @@ That was fair.
 
 "What are you?"
 
-[The Imaginary Simulation System. Your System, as of about an hour ago. I'm here to help.]
-
-"Help me do what?"
-
-[Grow stronger. Among other things. ♪]
+[The Imaginary Simulation System. Yours, as of about an hour ago. Let's have a look at you.]
 
 A panel slid open in front of my eyes. It hung in my vision like a floater does, but crisp and clear and easy to read, with a thin pale border.
 
@@ -319,13 +317,71 @@ I read it three times.
 
 Five springs in a row I'd sat in the medical room and watched a light stop at F, and now my own magical System had looked at me and agreed with the machine.
 
-"Okay," I said. "Okay. Tell me how it works."
+Then the gamer in me asked the first question, before the engineer could stop him.
 
-I asked the questions I'd have asked about any new piece of software, in order, and the System answered almost all of them. It was the best documentation I'd ever read, if documentation could be smug. It never got impatient and it never told me to read the manual. It seemed to be enjoying itself.
+"Is there pity?" I asked. "Bad luck protection. If the draws are bad for long enough, is a good one guaranteed?"
 
-It ran simulations. I would go into them when I slept. My body would stay here in bed, and one simulation would take about one night of real time, however long it lasted inside. There were normal simulations, which were whole lives, and when I died in one, it ended. When it ended, I'd be graded, and I'd get to choose rewards. Gifts, which were traits I could keep. Skills and knowledge from the life I'd lived. Sometimes items, which I could actually bring out with me. There was a currency called Fate Fragments that I could spend in a shop. I'd be able to do one normal simulation a day for free.
+[Listen to you. Eight years of begging banners for mercy, and the first thing you ask a miracle is whether it has a pity counter.]
 
-"Can my Adaptability go up?" I asked.
+I stopped smiling.
+
+"How do you know that?"
+
+[I've been in your head for an hour, Eros. It isn't a very big head.]
+
+"Can you hear what I'm thinking?"
+
+[Only the loud parts.] A pause. [That was a loud one.]
+
+I breathed out slowly through my nose and made myself put it to one side, because there was nothing I could do about it tonight, and because there was a bigger question in the room.
+
+"Okay," I said. "Tell me how it works."
+
+[Finally. You go to sleep, and you live a life. One night out here, as long as it takes in there. Fifty years. A week, if you're careless.]
+
+"A whole life."
+
+[If you're good at it. When it ends, I grade you, and you pick your prizes. Gifts, which are traits you get to keep. Whatever you learned in there, put straight into your hands so you never have to learn it again.]
+
+"Skills."
+
+[Skills, languages, whatever you were in there. Now and then an item you can carry out. And Fate Fragments, which you spend in the shop. You're going to love the shop.]
+
+"How many runs?"
+
+[One a night, free.]
+
+"And when I die in there?"
+
+[You wake up.] The pause was long enough for me to notice it. [It costs a little. A memory comes loose here and there, and it comes back when you wake up. A soul heals. Call it wear and tear.]
+
+"And if it doesn't heal fast enough?"
+
+[Then you rest, like everybody else. Don't look at me like that.]
+
+"I can't see you."
+
+[You were looking at the ceiling as if I lived there.]
+
+I had been. I looked at the wall instead.
+
+"What else carries over?"
+
+[A little of how you felt in there. Only a little. You can't take the hands without some of what the hands remember.]
+
+"How little?"
+
+[You'll see.]
+
+I'd been filing it all away as it came, with the same part of my head I'd used for five years on Grandma and the binder. "This is better documentation than anything I had at my old job," I said.
+
+[Nobody reads documentation.]
+
+"I do."
+
+[I know. It's one of the sad things about you.]
+
+"Can my Adaptability go up?"
 
 [Some rewards can raise it. Not many. I'd hate for you to get bored.]
 
@@ -335,13 +391,31 @@ It ran simulations. I would go into them when I slept. My body would stay here i
 
 "Can I get stronger? Physically? In real life?"
 
-[That's what I'm for. ♪]
+[That's what I'm for.]
 
 I lay back on the bed. I had to, for a minute. I lay there with my arm over my eyes and grinned at the inside of my elbow like an idiot.
 
+[What do you want, Eros?]
+
+I took my arm off my eyes. "What?"
+
+[Five years on that seawall. Ten kilometers every morning in the dark. You're not training for a marathon. What's it for?]
+
+"Running away."
+
+[From what?]
+
+I thought about the screen in the watch room, and the line on it that kept going up. "You're in my head. You tell me."
+
+[I'm asking what you'd say out loud.]
+
+"I want to not die," I said. "That's the whole plan. When it all goes wrong, I want to be somewhere else, alive."
+
+[That's a very small want for somebody who just got a System.] It was quiet for a moment. [We'll work on it.]
+
 Then I sat up again, because something had been bothering me since the basement.
 
-"Imaginary," I said. "Imaginary Simulation System. Why imaginary?"
+"Imaginary," I said. "Why imaginary?"
 
 There was something in this world called the Imaginary Tree. It was the thing that held every possible version of the world, every branch, every timeline. Every lore video I'd ever watched had a section on it. A System with "Imaginary" in its name, that had turned on when I touched a machine that ran on Honkai energy, was not something I was going to let slide.
 
@@ -351,39 +425,49 @@ There was something in this world called the Imaginary Tree. It was the thing th
 
 [You ask a lot of questions for someone who just got a free System.]
 
+"That's not a no."
+
+[It isn't a yes, either. Look how much you've learned tonight.]
+
 I waited. It didn't say anything else.
 
 "Okay," I said. "Then here's a more important one. These simulations. Are they real?"
 
-[Real?] It sounded delighted, as though I'd told it a joke. [They're simulations, Eros. It's right there in the name.]
+[Real? They're simulations, Eros. It's right there in the name.]
 
-"If I do something in there. If I hurt someone, or someone dies because of me. Is that a real person?"
+"If I hurt someone in there. If someone dies because of me. Is that a real person?"
 
-[Who's going to get hurt? You'll be asleep in your own bed the whole time. Nothing in there can reach you out here. ♪]
+[Who's going to get hurt? You'll be asleep in your own bed the whole time. Nothing in there can reach you out here.]
 
-The voice lifted on the last word, light and sing-song, like a nurse talking to a child just before the needle. My shoulders came down. That had been the thing sitting at the bottom of my stomach since the basement. I'd read a lot of web novels in my first life. I knew how systems like this could go.
+That was exactly what I'd wanted to hear, so I tried to break it. I'd read a lot of web novels in my first life, and I knew how systems like this could go. In half of them, the system wasn't allowed to lie.
+
+"Say it plainly," I said. "Say 'the simulations aren't real.' Those words."
+
+[The simulations aren't real.] It didn't even pause. [Want it in Russian? You'll be needing Russian.]
+
+I thought about that for a while. If it couldn't lie, I had my answer. If it could, I'd just asked a liar to promise me it wasn't lying, and I'd learned nothing. The test was useless either way, and I'd known that before I started it. My shoulders came down anyway. That question had been sitting at the bottom of my stomach since the basement, and I wanted it gone more than I wanted to be right.
 
 "Okay," I said. "Good. Okay."
 
-[Oh, and there are heroine simulations,] the System added, as casually as someone mentioning dessert. [They unlock when the conditions are met.]
+[Oh, and there are heroine simulations.]
 
 I stopped.
 
 "Heroine simulations," I said.
 
-[You heard me.]
-
-"What's a heroine simulation?"
-
-[Something to look forward to.]
+[You heard me. A limited banner. Very special. Conditions apply.]
 
 "What conditions?"
 
-[The kind that get met.]
+[The kind that get met once you're strong enough to survive them. So you'd better hurry up and get strong, hadn't you?]
 
 I lay back down. I stared at the ceiling. There was a crack in the plaster running from the light fitting to the corner, and I followed it with my eyes, and I was smiling so hard my face hurt.
 
 I knew what kind of stories had systems in them. I'd read hundreds. And this was Honkai Impact, the game I'd spent eight years of my first life playing in every spare minute, usually on my second monitor while something compiled, and it had a lot of heroines. In my first life, in the privacy of my own head, I'd had some very detailed opinions about which of them I'd want to meet. I'd never told anyone, because there'd never been anyone to tell. And in this world, I'd found out that autumn, they were older than I remembered.
+
+[That was a loud one,] said the System.
+
+I put the pillow over my face. It didn't help, since the pillow was on the outside.
 
 Some time later, when my face had calmed down, I asked the last question. I asked it quietly, because I wasn't sure I wanted the answer.
 
@@ -395,35 +479,36 @@ Some time later, when my face had calmed down, I asked the last question. I aske
 
 [That's a very specific question.] A pause. [I'm a System, Eros. I don't have hands.]
 
-I took my wallet out of my back pocket and slid the note out from behind my old student card, past the folded timeline. I unfolded it and looked at it under the lamp. The handwriting was neat and practiced, written by someone who'd spent a lot of their life writing. One word. Eros. I looked at it for a long time, and the System didn't say anything at all. Then I folded the note and put it back.
+I took my wallet out of my back pocket and slid the note out from behind my old student card, past the folded timeline. I unfolded it and looked at it under the lamp. The handwriting was neat and practiced, written by someone who'd spent a lot of their life writing. One word. Eros. I looked at it for a long time.
 
-[Anyway,] the System said brightly, as though nothing had happened. [You have a present waiting. Want it?]
+[Nice handwriting,] the System said.
+
+I folded the note and put it back in the wallet, and the wallet back in my pocket.
+
+[Anyway. You've got a present waiting. Every good game has a starter pack.]
 
 "Open it."
 
-[Ding!]
+```
+Starter pack claimed.
+Free first simulation: 1
+Free gift reroll: 1
+Fate Fragments: +100
 
-[Starter pack claimed.]
-
-[Free first simulation: 1.]
-
-[Free gift reroll: 1.]
-
-[Fate Fragments: +100.]
-
-[Begin first simulation? Yes / No]
+Begin first simulation? Yes / No
+```
 
 The words sat in the middle of my vision, waiting.
 
-I looked at the clock on the desk. It was nearly three in the morning. Dr. Mori had told me to come in at ten, and I'd known him long enough to know that meant nine. I picked up my phone and set an alarm for six, because I always ran at six. Then I took my shoes off, got under the blanket, turned off the lamp, and pressed Yes.
+I looked at the clock on the desk. It was nearly three in the morning. Dr. Mori had told me to come in at ten, and I'd known him long enough to know that meant nine. I picked up my phone and set an alarm for six, because I always ran at six.
+
+[You're not going to sleep anyway,] the System said. [You'll lie there for three hours thinking about it. You might as well spend them somewhere interesting.]
+
+It was right. I took my shoes off, got under the blanket, turned off the lamp, and pressed Yes.
 
 ---
 
 There was no falling, and no tunnel of light. I closed my eyes in my bed, and when I opened them again I was standing somewhere dark and empty with no floor that I could see, and I could feel that I was standing on something anyway.
-
-[Simulation loading.]
-
-[Drawing gifts.]
 
 Five cards appeared in front of me in a row, the size of playing cards, glowing softly. Four of them had white borders. One had a green border.
 
@@ -442,9 +527,9 @@ Handles cold far better than a normal person.
 
 [Quick Learner (Green)]
 Picks up skills and languages about twice as fast.
-```
 
-[Choose 2 to keep for this simulation. You may use your free reroll.]
+Choose 2 to keep for this simulation. Free reroll available.
+```
 
 I stood in the dark and looked at the cards, and for the first time since the basement, I felt completely at home.
 
@@ -454,15 +539,23 @@ Quick Learner was easy. It was the only green, and it helped with everything. Wh
 
 The second one took longer. Iron Stomach was nice but small. Steady Hands would help with fine work, and I was probably going to end up doing some kind of fine work, because that was the job I had. Cold Tolerance was very specific. Light Sleeper was the one I kept coming back to. In a world with Honkai in it, the person who woke up first when something went wrong was the person who got the head start, and a head start was worth more than steady hands.
 
-I looked at the reroll for a while too. The cards were mostly white. A reroll might give me something better. It might also give me five whites. And this was my first simulation, the free one, the tutorial. You don't spend your only reroll on the tutorial.
+I looked at the reroll for a while too. The cards were mostly white. A reroll might give me something better. It might also give me five whites.
+
+[Use it,] the System said. [You can do better than mostly white.]
+
+"It's the tutorial," I said. "You don't spend your only reroll on the tutorial."
+
+[Everybody says that about the tutorial.]
 
 "Quick Learner," I said. "And Light Sleeper."
 
 The other three cards faded out.
 
-[Gifts locked: Quick Learner (Green), Light Sleeper (White).]
-
-[Scenario: Schicksal maintenance technician. Siberian Branch, Outpost 7. March 1999.]
+```
+Gifts locked: Quick Learner (Green), Light Sleeper (White)
+Scenario: Schicksal maintenance technician
+Siberian Branch, Outpost 7. March 1999.
+```
 
 I read it twice.
 
@@ -470,7 +563,13 @@ Siberia. March 1999. I knew what happened in Siberia less than a year after that
 
 I'd also just thrown away Cold Tolerance.
 
-[Simulation begins.]
+[Oh dear,] said the System.
+
+"You knew."
+
+[I draw the cards, Eros. I don't read them.]
+
+Before I could answer, the dark went white.
 
 ---
 
@@ -708,36 +807,35 @@ The horns hit me in the chest and lifted me off the ground, and I felt everythin
 
 ---
 
-[Simulation ended.]
-
 I was in the dark place again, the one with no floor. I was standing up. My chest didn't hurt. I put my hand on it anyway, and it was whole, and I stood there with my hand on my chest and couldn't stop shaking.
 
-[Cause of death: Frost Chariot (Chariot-class Honkai beast). Honkai energy exposure.]
+```
+Simulation ended.
+Cause of death: Frost Chariot (Chariot-class Honkai beast), Honkai energy exposure
+Soul damage: one whole memory
+```
 
-[Soul damage: one whole memory.]
-
-When the line appeared, I felt something. It was small and quick, a little tug somewhere at the back of my head, like someone had pulled a thread out of a sweater. And then it was gone, and I couldn't tell what had been taken.
+When I got to the last line, I felt something. It was small and quick, a little tug somewhere at the back of my head, like someone had pulled a thread out of a sweater. And then it was gone, and I couldn't tell what had been taken.
 
 I went looking. I went through everything I could think of as fast as I could. Director Zhou's face. Her voice saying "bowls." Professor Han's sweater vest. The office on the last night, the energy drinks, Dennis's code. The delivery driver. My first apartment. The way to the bus stop from Willow Street. The cards I'd just picked. Grisha's photograph of his wife and daughter. Everything was there. Everything I looked for was there, and something wasn't, and I didn't know what it was.
 
 "What did I lose?" I asked.
 
-[You'll get it back when you wake up. You probably won't even miss it. Your soul's a little frayed, that's all. Give it a few days. ♪]
+[You'll get it back when you wake up. Your soul's a little frayed, that's all.]
 
 "But what was it?"
 
-[If I told you, you'd only worry about it.]
-
-[Settling simulation.]
+[If I told you, you'd spend the rest of the night looking for it, and you'd never pick your prize. Look. Prizes.]
 
 ```
 [Simulation 1: Schicksal maintenance technician]
 Survived until: the Second Eruption
 Hidden event: Witnessed the Second Eruption
 Grade: D
-```
+Fate Fragments: +40
 
-[Choose 1 of 3.]
+Choose 1 of 3.
+```
 
 Three cards appeared.
 
@@ -752,8 +850,6 @@ A year of keeping engines and generators alive in a Siberian winter.
 A sturdy Schicksal-issue multitool.
 ```
 
-[Fate Fragments: +40.]
-
 I looked at the cards for a long time. My hands had stopped shaking, mostly.
 
 The experience would make me good at my job. Battlesuits were machines, and somebody who'd kept generators running at forty below would understand them faster than somebody who hadn't. The multitool was a joke. I didn't need a multitool.
@@ -762,9 +858,15 @@ Quick Learner, though, would make me better at everything, forever. Every skill 
 
 "Quick Learner," I said.
 
-[Quick Learner (Green) added to permanent gifts.]
+[Good. Most people take the multitool.]
+
+"Nobody takes the multitool."
+
+[You'd be surprised what people take the first time.]
 
 ```
+Quick Learner (Green) added to permanent gifts.
+
 [Status]
 Name: Eros
 Age: 22
@@ -775,7 +877,7 @@ Gifts: Quick Learner (Green)
 Fate Fragments: 140
 ```
 
-[Not bad for a first try. Waking now.]
+[Not bad for a first try. Up you get.]
 
 ---
 
@@ -791,11 +893,19 @@ Then I stood there holding on to the edges of it, looking at myself in the mirro
 
 The memory had come back. I could tell, because I knew what it was now. It was the night I'd learned to ride a bicycle, when I was about ten, in my first life. A neighbor had held the back of the seat and run behind me and let go without telling me. It was a small memory. I hadn't thought about it in twenty years.
 
-[Good morning,] the System said, warm and pleased. [Rough night? It's over now. You're right here in your own bed. ♪]
+[Good morning. ♪]
 
-"I know," I said to the mirror.
+"Is there a mute button?" I asked the mirror.
 
-I kept saying it to myself while I brushed my teeth. Grisha didn't exist. Major Sorokina didn't exist. Outpost 7 didn't exist, and nobody in its mess hall had sung along to a radio full of static, and nobody had driven a truck north into the dark because a woman on the radio said there were people on the road.
+[Would you use it?]
+
+I didn't answer that.
+
+[Rough night. It's over now. You're home, and none of that happened to anyone.]
+
+"I know," I said.
+
+I kept telling myself that while I brushed my teeth. Grisha didn't exist. Major Sorokina didn't exist. Outpost 7 didn't exist, and nobody in its mess hall had sung along to a radio full of static, and nobody had driven a truck north into the dark because a woman on the radio said there were people on the road.
 
 I knew that the Second Eruption had been real, though. In this world, fourteen years ago, it had happened. I had sat on the floor of the common room at Willow Street with a bowl of sunflower seeds and watched the smoke on the news, and the newsreader had said there were no figures yet on casualties, and I'd laughed and gone to wash the dishes.
 
@@ -841,6 +951,10 @@ She listened without interrupting. She'd stopped eating. At some point she'd sta
 
 "I don't know," I said, which was true in the way that mattered. "The data says it's not going away. It doesn't say what it is."
 
+[Liar,] said the System.
+
+I kept my eyes on the screen.
+
 She looked at the screen for a long time. Then she looked at Yoon.
 
 "I'm sending someone to look," she said. "Quietly. Someone I trust. Not a squad, not yet. If I send a squad, HQ will want to know why, and then HQ will want to send its own people." The word HQ came out like the word grandfather had four and a half years ago, flat and cold. "Tell nobody outside this room."
@@ -865,13 +979,35 @@ I took it. She watched me until I unwrapped it and put it in my mouth. Then she 
 
 That night I went into the second run.
 
-I'd thought about waiting. I was still Frayed. The System had said a few days, and I believed it. But the readings in Nagazora were climbing, I had a free run every night that I wasn't using, and every night I didn't use it was a night I'd never get back. I'd done the math on the walk home. If I lost a little memory and got it back in the morning, and I got stronger in exchange, then it was a good trade.
+I hadn't meant to. I was still Frayed, and I'd decided to give it a few days, and I said so on the walk back along the seawall, out loud, because there was nobody out there to hear me.
 
-So I lay down, closed my eyes, and said yes.
+[Frayed's nothing,] the System said. [Frayed's a scratch on the case.]
 
-[Simulation loading.]
+"I'd still rather wait."
 
-[Drawing gifts.]
+[Wait, then. Tonight's run is gone at midnight whether you use it or not.]
+
+I stopped walking.
+
+"They don't stack?"
+
+[One a night. I told you.]
+
+"You didn't tell me they expire."
+
+[It's in the documentation.]
+
+"There isn't any documentation."
+
+[Then you can't say I left it out.]
+
+I started walking again. The wind was coming in hard off the sea, and I did the math out of habit. A few weeks to the Third Eruption meant a few weeks of free runs, and every one I didn't use was gone for good. If I lost a little memory and got it back in the morning, and came out of every run a little stronger, it was a good trade. I couldn't find the hole in it. Somewhere near the end of the seawall I realized I couldn't remember whether I'd started the math or the System had.
+
+Back in my room, I lay down, closed my eyes, and said yes anyway.
+
+[♪]
+
+Five cards slid in out of the dark.
 
 ```
 [Night Owl (White)]
@@ -888,11 +1024,17 @@ Carries heavy loads further than most.
 
 [Keen Nose (White)]
 Smells things other people miss.
+
+Choose 2 to keep for this simulation. Free reroll available.
 ```
 
-Five whites. I looked at them for a while in the dark place with no floor, and then I used the reroll from the starter pack, because I wasn't going to get a worse draw than that.
+[Ouch,] said the System.
 
-The cards faded and five new ones slid in.
+"Did you do that on purpose?"
+
+[I'd never.]
+
+Five whites. I used the reroll from the starter pack, because I wasn't going to get a worse draw than that. The cards faded and five new ones slid in.
 
 ```
 [Iron Stomach (White)]
@@ -913,11 +1055,19 @@ A warning, felt in the body, a few seconds before harm arrives.
 
 The fifth card had a purple border, deep and bright, and it seemed to glow harder than the others. I stared at it. In my head, a little voice that had spent eight years pulling gacha banners in my first life was screaming.
 
+[See?] the System said. [Aren't you glad you saved it?]
+
+"You told me to use it last time."
+
+[And you didn't, and now look. We make a good team.]
+
 "Danger Sense," I said. "And Sprinter."
 
-[Gifts locked: Danger Sense (Purple), Sprinter (White).]
-
-[Scenario: Hospital orderly, night shift. Krakow, Poland. October 1987.]
+```
+Gifts locked: Danger Sense (Purple), Sprinter (White)
+Scenario: Hospital orderly, night shift
+Krakow, Poland. October 1987.
+```
 
 ---
 
@@ -995,23 +1145,23 @@ I knew what was going to happen to me an hour after I died. So did she, I think.
 
 ---
 
-[Simulation ended.]
-
-[Cause of death: Honkai zombie bite. Honkai energy corruption.]
-
-[Soul damage: one whole memory.]
+```
+Simulation ended.
+Cause of death: Honkai zombie bite, Honkai energy corruption
+Soul damage: one whole memory
+Soul: Worn
+```
 
 The tug again, at the back of my head. I didn't bother looking for what it had taken this time. I already knew I wouldn't find it.
-
-[Soul: Worn.]
 
 ```
 [Simulation 2: Hospital orderly]
 Survived until: the third day of the outbreak
 Grade: E
-```
+Fate Fragments: +30
 
-[Choose 1 of 3.]
+Choose 1 of 3.
+```
 
 ```
 [Gift: Sprinter (White)]
@@ -1024,25 +1174,27 @@ A trainee's knowledge of wounds, bleeding and shock.
 A heavy ring of hospital keys.
 ```
 
-[Fate Fragments: +30.]
-
 I looked at the three cards for a long time.
 
 "Where's Danger Sense?" I asked.
 
-[Grade E. Whites and Greens only. Rules are rules.]
+[Grade E. Whites and greens. You knew the rules when you took it.]
 
 "It kept us alive for two days."
 
-[And it was lovely while it lasted. You'll draw it again one day. Maybe. ♪]
+[And it was wonderful. Shame about the third day.]
 
-The voice brightened on the last word, as cheerful as a shop assistant telling me the item was out of stock. I stood in the dark and felt the loss of it like a hole where a tooth had been. It was the best thing I'd ever drawn, and I'd had it for two days, and I couldn't keep it because I hadn't lived long enough to deserve it.
+I stood in the dark and felt the loss of it like a hole where a tooth had been. It was the best thing I'd ever drawn, and I'd had it for two days, and I couldn't keep it because I hadn't lived long enough to deserve it.
+
+[Live longer next time,] the System said, [and you get to keep the nice things.]
 
 Sprinter or First Aid. First Aid was useful and small. Sprinter was small too, but it was permanent, and it was in my body, and every morning on the seawall since 2009 I'd been training for exactly one thing, which was running away.
 
 "Sprinter," I said.
 
-[Sprinter (White) added to permanent gifts.]
+```
+Sprinter (White) added to permanent gifts.
+```
 
 ---
 
@@ -1074,19 +1226,27 @@ I looked at my hand on the table. It was. Not much. I took it off the table.
 
 "Sleep. Eat something hot. Don't be alone in the dark too much." She pointed at me with the bottle. "And whatever it is, don't go back for more of it until you've done all three."
 
+[She's sweet,] the System said. [She thinks you've got a gambling problem.]
+
+*Do I?*
+
+[You've got a System. That's different.]
+
 I bought her a second beer and ate a plate of fried squid, which was something hot, and walked back to the residential block along the seawall in the cold, and decided the sea counted as company.
 
 Then I went to my room and lay down on the bed and said yes again.
 
 ---
 
-[Simulation loading.]
+```
+Soul: Worn. Some memories will be unavailable during this simulation.
+```
 
-[Soul state: Worn. Some memories will be unavailable during this simulation. Try not to miss them.]
+"Which ones?" I asked.
 
-I stood in the dark and read that line twice, and I felt my stomach drop.
+[That's the fun part.]
 
-[Drawing gifts.]
+I stood in the dark with that, and felt my stomach drop.
 
 ```
 [Keen Eyes (White)]
@@ -1107,7 +1267,10 @@ Reacts faster than almost anyone.
 
 No reroll this time. I took Quick Reflexes and Steady Hands.
 
-[Scenario: Hunter's son. A settler village in the hills of Hokkaido, Japan. Spring 1908.]
+```
+Scenario: Hunter's son
+A settler village in the hills of Hokkaido, Japan. Spring 1908.
+```
 
 ---
 
@@ -1245,20 +1408,19 @@ She looked at me for a long moment. Then she bent down and put her forehead agai
 
 ---
 
-[Simulation ended.]
-
-[Cause of death: pneumonia.]
-
-[Soul damage: a scattered detail.]
-
 ```
+Simulation ended.
+Cause of death: pneumonia
+Soul damage: a scattered detail
+
 [Simulation 3: Hunter's son]
 Lived to: 64
 Hidden event: Killed a Honkai beast without any Honkai ability
 Grade: C
-```
+Fate Fragments: +120
 
-[Choose 2 of 3.]
+Choose 2 of 3.
+```
 
 ```
 [Gift: Quick Reflexes (Green)]
@@ -1271,19 +1433,16 @@ Forty years of the bow, the knife and the forest.
 Keep this gift permanently.
 ```
 
-[Fate Fragments: +120.]
-
-I stood in the dark for a long time before I chose.
+I stood in the dark for a long time before I chose. The System didn't hurry me. It didn't say anything at all, about the bear or about Fumi, and after a while I noticed how quiet it was and didn't know what to do with that.
 
 "Quick Reflexes," I said finally. "And the experience."
 
-[Quick Reflexes (Green) added to permanent gifts.]
-
-[Hunting and Field Craft (Professional) received.]
+```
+Quick Reflexes (Green) added to permanent gifts.
+Hunting and Field Craft (Professional) received.
+```
 
 I felt the experience arrive. My hands suddenly knew things my head had never been told. How a bowstring sits against the fingers. How a knife turns in the palm when you change your grip. Where to put your feet on a slope of loose stones. Forty years of it, sitting in my hands like it had always been there.
-
-[Waking now.]
 
 ---
 
@@ -1301,11 +1460,11 @@ I lay there for a long time.
 
 "They weren't real," I said. My voice came out rough.
 
-[You're awake now, aren't you?] There was a pause, no longer than a breath. [Forty-eight years and a grade C. You did very well. ♪]
+[You're awake now, aren't you?] There was a pause, no longer than a breath. [Forty-eight years and a grade C. Do you want to see your panel?]
 
-I put my arm over my eyes. My left arm. It straightened all the way. That was the strangest part, somehow. I kept waiting for it to catch at the elbow, the way it had for thirty-four years, and it didn't.
+"No."
 
-I knew the rule about the merge. I'd read the System's answers about it the first night. Some feelings carried over. I hadn't understood what that would mean until I was lying in bed at six in the morning missing a wife who'd never been born.
+It opened anyway.
 
 ```
 [Status]
@@ -1319,15 +1478,33 @@ Experience: Hunting and Field Craft (Professional)
 Fate Fragments: 290
 ```
 
-Worn. I asked the System how long Worn took to heal, and it told me what I already knew from the first night. A couple of weeks. And if I went in again before then, I'd start with gaps again. Maybe bigger ones.
+I put my arm over my eyes. My left arm. It straightened all the way. That was the strangest part, somehow. I kept waiting for it to catch at the elbow, the way it had for thirty-four years, and it didn't.
+
+The System had told me on the first night that a little of how I felt in there would come out with me. I hadn't understood what that meant until I was lying in bed at six in the morning missing a wife who'd never been born.
+
+"How long does Worn take?" I asked.
+
+[To heal? About a week to Frayed. Another week to Whole.]
+
+"And if I go in tonight?"
+
+[Then you go in Worn. You did fine Worn. You killed a bear Worn.]
+
+"I forgot the name of my own street."
+
+[And you got it back.]
+
+"Next time it might be something bigger."
+
+[Might.] It let that sit for a while. [The Third Eruption's three weeks away, Eros. Do you want to be whole when it comes, or do you want to be useful?]
 
 I thought about the office, blank and white in the middle of my memory, and about how it had felt to sit on that step in 1908 and not know the name of my own street.
 
-I did the math again, the way I'd done it on the walk home from the watch room. The Third Eruption was a few weeks away. A run a night would make me stronger, a little, and would also wear down my soul until I was going into runs missing things I needed. A worn-out soul was a resource problem, the same as a server running out of memory, and you don't fix that by adding more load.
+I did the math again, and this time I made sure it was mine, from the first line. The Third Eruption was a few weeks away. A run a night would make me stronger, a little, and would also wear down my soul until I was going into runs missing things I needed. A worn-out soul was a resource problem, the same as a server running out of memory, and you don't fix that by adding more load.
 
 "No more runs this week," I said to the ceiling.
 
-[Sensible. Boring, but sensible. Rest well. ♪]
+[Your call. You'll be very well rested when it happens.]
 
 ---
 
@@ -1339,7 +1516,13 @@ It came from the supply office, where you could order almost anything if you had
 
 My hands knew what to do with it. That was the eerie part. I held it, and my fingers settled on the handle in exactly the right place without my telling them, and when I turned my wrist, the blade turned in my palm and came back to a reverse grip as smoothly as if I'd done it ten thousand times, which in a way I had. My hands knew how to cut and how to stab and how to finish something that wasn't dead yet. They knew forty years of it.
 
-My body didn't. That became obvious about thirty seconds in, when I tried to step and turn and cut in one movement, as a man who'd hunted for forty years would. My hands did their part. My feet were half a step behind, my hips didn't turn, and I lost my balance and went down on the concrete hard enough to skin both palms. The second time, I cut my own forearm with the rubber edge, which would have been a real cut with a real knife. My hands were fast, and Quick Reflexes made them faster, but the rest of me was a desk worker who ran ten kilometers in the mornings. It wasn't a body that had dragged deer down mountains.
+My body didn't. That became obvious about thirty seconds in, when I tried to step and turn and cut in one movement, as a man who'd hunted for forty years would. My hands did their part. My feet were half a step behind, my hips didn't turn, and I lost my balance and went down on the concrete hard enough to skin both palms.
+
+[Forty years of hunting,] the System said, [and you lost to a seawall.]
+
+*Shut up.*
+
+The second time, I cut my own forearm with the rubber edge, which would have been a real cut with a real knife. My hands were fast, and Quick Reflexes made them faster, but the rest of me was a desk worker who ran ten kilometers in the mornings. It wasn't a body that had dragged deer down mountains.
 
 I practiced every evening that week anyway. Slowly, then a little less slowly. My body started to catch up a little, the way bodies do.
 
@@ -1367,6 +1550,16 @@ At the bottom she stopped and looked back up at me.
 
 "You're alone in the dark on a seawall with a knife." She shook her head and walked off toward the residential block.
 
+When she'd gone, I stood there with the knife in my bandaged hand and looked at the steps.
+
+"You knew she was there," I said.
+
+[I did.]
+
+"You could have said something."
+
+[I could have.]
+
 ---
 
 On the Thursday of that week, Yoon told me Himeko had gone.
@@ -1379,28 +1572,59 @@ I was in the watch room checking a calibration. Yoon was at her console with her
 
 That night I opened the shop for the first time.
 
-[Shop]
+[There you are,] said the System. [Come in. Mind the step.]
 
 ```
+[Shop]
 Gift reroll: 50
 Extra normal run: 100
 Choose a normal run's scenario: 300
 Soul repair (small damage only, once a week): 500
+
+Fate Fragments: 290
 ```
 
-I had two hundred and ninety Fate Fragments. I looked at the soul repair for a long time. Five hundred. Small damage only. I'd need two more runs before I could afford it, and the runs were what caused the damage.
+[Let me show you around. Rerolls, for when the cards hate you. Extra runs, for when one life a night isn't enough.]
 
-The scenario choice was the one I kept coming back to. Three hundred. Every run so far had been the System's choice, and every run had been a lottery, a technician in Siberia, an orderly in a hospital, a hunter in the hills. If I could choose, I could aim. I could pick lives that would teach me what I actually needed.
+"One life a night is plenty."
+
+[You say that now. With two hundred and ninety you could buy two extra nights and still have change.]
+
+"I'm Worn."
+
+[You're nearly Frayed. You once spent a month's rent on a summer banner in one night, Eros, and you won't spend a hundred pretend rocks on yourself?]
+
+"That was a different life."
+
+[Same idiot.]
+
+I looked at the soul repair instead. Five hundred, small damage only. I'd need two more runs before I could afford it, and the runs were what caused the damage.
+
+[Oh, don't bother with that one.]
+
+"Why not?"
+
+[It's overpriced, and you're healing anyway. Five hundred fragments for something time does for free? You're an engineer. You know better than that.]
+
+"You're the first shopkeeper I've ever met who talks people out of the expensive thing."
+
+[I'm looking out for you.]
+
+I filed that next to the documentation.
+
+The scenario choice was the one I kept coming back to. Three hundred. Every run so far had been a lottery, a technician in Siberia, an orderly in a hospital, a hunter in the hills. If I could choose, I could aim. I could pick lives that would teach me what I actually needed.
+
+[My favorite too,] the System said. [You pick the life, you pick what it teaches you. You're ten short, though. One more decent run.]
 
 I closed the shop without buying anything.
+
+[Window shopping. Fine.] A pause. [It'll still be here when you've got three hundred.]
 
 ---
 
 I went back in on the twenty-fifth.
 
-By then the panel said Frayed again. The System told me Worn healed into Frayed after about a week and the rest of the way in another, and Frayed meant I'd start a run with nothing missing that I'd notice. My palms had scabbed over. My stance was wider. I could step, turn and cut in one movement without falling over about half the time.
-
-[Drawing gifts.]
+By then the panel said Frayed again. My palms had scabbed over. My stance was wider. I could step, turn and cut in one movement without falling over about half the time.
 
 ```
 [Good Lungs (White)]
@@ -1419,9 +1643,16 @@ Carries heavy loads further than most.
 Can be heard clearly over almost anything.
 ```
 
-A blue. I took it, and Good Lungs with it.
+A blue.
 
-[Scenario: Schicksal infantry recruit. Training camp, Bavaria, Germany. September 1996.]
+[Pain Tolerance,] said the System. [You'll like that one. Pain's mostly in your head, and I'd know.]
+
+I took it, and Good Lungs with it.
+
+```
+Scenario: Schicksal infantry recruit
+Training camp, Bavaria, Germany. September 1996.
+```
 
 ---
 
@@ -1485,19 +1716,18 @@ The scythe came around a second time.
 
 ---
 
-[Simulation ended.]
-
-[Cause of death: Honkai zombie (Praetorian).]
-
-[Soul damage: a scattered detail.]
-
 ```
+Simulation ended.
+Cause of death: Honkai zombie (Praetorian)
+Soul damage: a scattered detail
+
 [Simulation 4: Schicksal infantry recruit]
 Survived until: the first deployment
 Grade: E
-```
+Fate Fragments: +30
 
-[Choose 1 of 3.]
+Choose 1 of 3.
+```
 
 ```
 [Gift: Good Lungs (White)]
@@ -1510,19 +1740,26 @@ A recruit's grounding in rifles, drill and squad movement.
 Receive twice this simulation's Fate Fragments.
 ```
 
-[Fate Fragments: +30.]
-
 There was no Pain Tolerance among the cards. I'd known there wouldn't be. It hurt less than losing Danger Sense had, which was either a sign I was getting used to it or a sign I was getting worse.
 
 I stood there and thought about Brandt's face upside down against the sky.
 
-Good Lungs would help me run. The infantry training would teach me to hold a rifle, which was nice to have and which nobody on the island was ever going to let me do. The double payout would put me at three hundred and fifty Fate Fragments, which was enough to choose my next scenario, and choosing the scenario meant I could stop playing the lottery and start aiming.
+Good Lungs would help me run. The infantry training would teach me to hold a rifle, which nobody on the island was ever going to let me do. The double payout would put me at three hundred and fifty.
+
+[Three-fifty,] the System said. [The scenario's three hundred. I'm only saying.]
+
+"You've been only saying since Thursday."
+
+[And you've been listening since Thursday.]
+
+That was the annoying part. Choosing the scenario meant I could stop playing the lottery and start aiming, and I'd have worked that out by myself. I was fairly sure I'd have worked it out by myself.
 
 "Double payout," I said.
 
-[Fate Fragments: +30.]
-
-[Fate Fragments: 350.]
+```
+Double payout: +30
+Fate Fragments: 350
+```
 
 ---
 
@@ -1532,6 +1769,10 @@ Forty years of knife work in my hands, and the first time I'd used it in anger, 
 
 I put that down in the timeline too, in code, as a comment over a function I'd called check_feet().
 
+[Your naming conventions are terrible,] the System said.
+
+I sat there with the paper in my hand. I'd kept that list in code for five years so that nobody at Schicksal could read it over my shoulder, and it had never once occurred to me that the System didn't need my shoulder.
+
 Then I got up and ran ten kilometers.
 
 ---
@@ -1540,7 +1781,27 @@ The readings in Nagazora kept climbing through the end of January.
 
 Yoon stopped pretending not to watch them. So did I. I went down to the watch room twice a day on the excuse of calibrations, and every time I went, the line on the Nagazora screen was a little higher, the spikes a little closer together. There was nothing from Murata, or if there was, nobody told me. Theresa didn't come back to the watch room. I heard from Asami that the principal hadn't left her office for two days.
 
-I didn't run any more simulations. I told myself it was because I wanted to be Whole for whatever came next, which was true. I also didn't want to wake up at six in the morning with another life in my head, and that was true too.
+I didn't run any more simulations. The System asked every night, and it never asked the same way twice.
+
+[Free run tonight.]
+
+"No."
+
+[Still free.]
+
+"Still no."
+
+[Last night's is gone, by the way. You'll never see it again. I thought you'd want to know.]
+
+"Thank you."
+
+[That's four nights of instant noodles in a row. If you're going to die of something, at least make it something interesting.]
+
+"That's not even about the runs."
+
+[Everything's about the runs.]
+
+I told myself I was saying no because I wanted to be Whole for whatever came next, which was true. I also didn't want to wake up at six in the morning with another life in my head, and that was true too. Underneath both of them, where I didn't look too closely, I'd started to enjoy saying no to it.
 
 On the night of the third of February, the alert on my phone went off at eleven minutes past one in the morning.
 
@@ -1550,25 +1811,32 @@ I was still looking at the phone when the System spoke.
 
 [Ding!]
 
-[Heroine simulation conditions met.]
+```
+Heroine simulation conditions met.
+Heroine simulation unlocked: Raiden Mei
 
-[Heroine simulation unlocked: Raiden Mei.]
+Begin heroine simulation? Yes / No
+```
 
 I sat very still on the edge of the bed with the phone in my hand and the screen still showing the spike.
 
-[Begin heroine simulation? Yes / No]
+[There she is,] said the System.
 
 The words sat in the middle of my vision, glowing softly. Outside the window, the concrete wall was lit by its lamp, the same as every night for five years.
 
+[You've been watching that line on your phone since December. Don't you want to see what's on the other end of it?]
+
 I thought about Mei. Not the one from the game, the one in the cutscenes with the lightning coming off her. The one in the kendo results, who'd won in the spring and was in her third year at Chiba Academy in Nagazora, and was eighteen, and was somewhere in that city right now with something inside her waking up. I thought about Siberia and the hospital and the church. I thought about Fumi.
 
-My soul was Frayed, still, and heroine simulations didn't end when I died. They reset, and the resets cost.
+[Heroine runs pay better than anything you've had,] the System said. [Much better. And they don't end when you die. You just go back and try again.]
+
+I turned that over. My soul was still Frayed. If a heroine simulation didn't end when I died, then every reset was a death, and every death cost something.
 
 "Not tonight," I said.
 
-[Suit yourself.] The voice was as warm as ever, and a little amused. [She'll wait for you. ♪]
+[Okay.]
 
-The note at the end lifted, bright and pleased, and it sat in the room with me after the voice was gone.
+The words went out. The System didn't say anything else. For three weeks it had never once let me have the last word, and I sat on the edge of the bed and waited for it to take this one, and it didn't.
 
 I took my wallet out and unfolded the timeline and added one more function at the bottom. I gave it a name that sounded like a database job that ran once a year and that nobody would ever look at. Then I folded it back up, put it away, and lay down on top of the blanket with the light on, and didn't sleep.
 

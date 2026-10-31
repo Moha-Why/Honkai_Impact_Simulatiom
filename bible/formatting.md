@@ -2,18 +2,28 @@
 
 ## System notices and speech
 
-The System's notices and its speech go in square brackets, each line on its
-own line. A notice that sounds in Eros's head starts with [Ding!] on its own
-line. When a dialogue tag is needed, the bracketed speech can share a line
-with it, like normal speech: [Good morning, Host,] the System said.
+Square brackets are for the System's voice, meaning its speech and the run
+log lines it narrates. Interface notices go in a code block instead, so the
+System's lines never get lost among them.
+
+- **Speech:** square brackets, set like normal dialogue, with tags and
+  beats where needed: [Oh dear,] said the System. Don't describe its tone
+  in narration ("it sounded pleased"); the words, timing and silences carry
+  it.
+- **Notices** (binding, loading, gift draws, scenario, cause of death, soul
+  damage, grade, rewards, choices): plain lines inside one code block per
+  moment, grouped instead of one line each.
+- **[Ding!]** on its own line, only for big events (the binding, a heroine
+  run unlocking), right before the notice block.
+- **♪** is rare. See [characters/the-system.md](characters/the-system.md).
 
 ```
-[Ding!]
-[Imaginary Simulation System bound.]
-[Hello, Host.]
+Simulation ended.
+Cause of death: pneumonia
+Soul damage: a scattered detail
 ```
 
-The System sometimes ends a reassuring line with ♪. Use it rarely.
+[Do you want to see your panel?]
 
 ## Eros talking to the System
 

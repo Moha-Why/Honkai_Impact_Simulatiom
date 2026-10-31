@@ -3,8 +3,8 @@
 ## Interface
 
 - A floating panel only Eros can see, plus the System's voice, which opens
-  notices with "[Ding!]". The voice is polite, warm, and a bit too
-  reassuring.
+  marks big notices with "[Ding!]". For its voice and personality, see
+  [characters/the-system.md](characters/the-system.md).
 - **Status panel:** name, age, Combat Rating, Honkai Adaptability, soul
   stage, gifts, experience packages (once he has any), Fate Fragments.
 - **Combat Rating:** his strength as a Valkyrie rank (Low D, High A, and so

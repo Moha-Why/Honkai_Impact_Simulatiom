@@ -6,21 +6,67 @@ computing core during a surge, as Honkai readings climb around Nagazora a
 few weeks before the Third Eruption. On his first day in 2009, the same
 panel only gave him a shock.
 
-**Voice:** soft and even, hard to place as a man's or a woman's. Polite,
-warm, and a bit too reassuring.
+**Voice:** soft and quick, hard to place as a man's or a woman's. Cunning,
+playful, a little mean, and very pleased with itself. It enjoys him the way
+a cat enjoys a mouse it hasn't decided to eat.
 
-**How it talks:** formal. Always calls him "Host". Answers questions about
-the mechanics exactly and fully. Answers questions about itself with a
-pleasant non-answer. Now and then ends a reassuring line with ♪. Its speech
-always appears in square brackets (see
-[../formatting.md](../formatting.md)).
+**How it talks:**
 
-- "Hello, Host."
-- "No, Host. The simulations are not real. Nothing you do inside them can
-  hurt anyone. ♪"
-- "It's only a name, Host."
-- "I don't understand the question, Host."
-- "Heroine simulations will unlock when conditions are met."
+- Casual and teasing. It uses his name, Eros, now and then, never "Host",
+  and no line ends on a fixed tag.
+- It starts conversations, interrupts him, and asks him questions back
+  ("What do you want, Eros?"). It is not a help desk.
+- Its jokes are about him in particular. It has been in his head since the
+  binding and uses what it finds there: gacha talk (banners, pity,
+  rerolls, "the tutorial"), engineer talk (documentation, naming
+  conventions, wear and tear), his noodles, the seawall, Mori's cot. It
+  touches the note only once, lightly ("Nice handwriting").
+- It answers questions about the mechanics, usually as a sales pitch, and
+  leaves out the parts that would make him careful until he trips on them
+  (free runs expire, "It's in the documentation").
+- It answers questions about itself with a dodge that sounds like a joke
+  ("I'm a System, Eros. I don't have hands.").
+- It can hear his thoughts ("Only the loud parts") and sees what he sees,
+  including the coded timeline.
+- ♪ is rare, two or three per chapter at most, and always placed on
+  purpose. It marks the moments when it gets what it wants (Eros agreeing
+  to a run it pushed) or comes at the wrong moment (a cheerful "Good
+  morning. ♪" while he is throwing up after a death).
+- Silence is a tool. It goes quiet when quiet works better than talk (after
+  Fumi), and when Eros refuses something it really wants it answers
+  "Okay." and nothing else, which is creepier than arguing.
+
+**What it wants (visible):** more runs, riskier runs, and above all the
+heroine runs. It wants him strong, fast, and spending.
+
+**How it gets it:**
+
+- It makes its ideas sound like his own math, so he can't tell afterward
+  who started the sum.
+- It frames rest as falling behind ("You'll be very well rested when it
+  happens") and soul damage as wear and tear.
+- It talks him out of soul repair, the one purchase that protects him, and
+  into extra runs and the scenario pick.
+- It takes credit either way ("Aren't you glad you saved it?").
+- It baits him with the heroine runs ("A limited banner. Conditions
+  apply.").
+
+**Eros and the System:** he plays along. He needles it, tests its edges like
+a bug hunter (making it say "the simulations aren't real" word for word),
+and enjoys refusing it. Early on this is banter. As he gets colder, the same
+games turn into a contest.
+
+**Sample lines:**
+
+- "You're not imagining me, by the way."
+- "Very F."
+- "I've been in your head for an hour, Eros. It isn't a very big head."
+- "The simulations aren't real. Want it in Russian? You'll be needing
+  Russian."
+- "It's in the documentation." / "There isn't any documentation." / "Then
+  you can't say I left it out."
+- "Same idiot."
+- "Okay."
 
 **What it shows Eros:** a helpful game interface that wants him to get
 stronger.
@@ -36,6 +82,10 @@ stronger.
 straight away); it always knew his name; it dodges every question about
 where it came from.
 
-**In Chapter 2:** binds at the core during the surge; that night it
-introduces itself, shows his status, gives the starter pack, tells the lie,
-and offers the first run.
+**In Chapter 2:** binds at the core during the surge. That night it speaks
+first, reads his status, sells him the mechanics, asks what he wants, tells
+the lie (and repeats it word for word when tested), baits him with the
+heroine runs, and talks him into the first run. Through Runs 2 to 4 it plants
+the math for running Frayed, pitches the shop, talks him out of soul repair,
+and steers him to the double payout. When Mei's run unlocks it pushes, and
+when he says no it says "Okay." and nothing else.
