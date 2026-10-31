@@ -67,6 +67,12 @@ Valkyries in a simulation room, and meets
 Eros when he fixes it.
 
 **In the Chapter 2 rewrite (autumn 2010):** on his first trip south to
-install St. Freya's training simulators, Eros audits her history lesson
-for St. Freya's first-years. A student asks about Cecilia Schariac; Theresa
-answers in four sentences and moves on, and he sees what it costs her.
+install St. Freya's training simulators, Eros sits in on first-year history,
+taught by Welt Yang. Theresa slips in beside him to inspect the new teacher.
+When a girl asks about the S-rank who died in Siberia, Welt defers to her,
+and she answers: "Her name was Cecilia Schariac... She was my friend."
+
+**Welt (canon):** she met Welt Yang in the Second Eruption, but Otto
+rewrote her memories with a copy of Fenghuang Down and erased
+Anti-Entropy from the records, so she doesn't know who her history teacher
+is.

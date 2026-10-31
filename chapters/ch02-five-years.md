@@ -918,29 +918,85 @@ That September I went south for the first time. The training simulators in St. F
 
 I signed up for history.
 
-I told myself it was research. The history of Schicksal as taught to its own children was data, and I wanted it. But I'd also found out who taught first-year history that autumn, and when I saw the timetable in the staff room I asked the secretary before I could talk myself out of it.
+I told myself it was research. The history of Schicksal as taught to its own children was data, and I wanted it. I asked the secretary in the staff room which class had a free chair, and she said first-year history, Mr. Yang, Thursday at nine, and wrote it on a sticky note for me. I didn't think anything of the name. Yang was the sixth most common surname in China.
 
-The classroom was on the second floor of the new building, with windows on the sea and the smell of fresh paint. There were twenty-two girls in navy uniforms, about twelve years old, sitting very straight. I sat at the back on a chair that was too small, next to a medical officer who was auditing too and who fell asleep almost at once. At nine o'clock exactly the door opened and Theresa came in with a book under her arm and a lollipop in her mouth, and twenty-two girls stood up as one.
+The classroom was on the second floor of the new building, with windows on the sea and the smell of fresh paint. There were twenty-two girls in navy uniforms, about twelve years old, sitting very straight. I sat at the back on a chair that was too small. The chair beside me stayed empty until two minutes to nine, when the back door opened very quietly and Theresa slipped in with a lollipop in her mouth and sat down on it.
 
-"Sit, sit," she said around the lollipop, and they sat. She took the lollipop out and put it on the edge of the desk on its wrapper. She saw me at the back and her eyebrows went up, and she pointed at me with the book, and said to the class, "That's the weather data boy. He fixes your suits. Be nice to him." Twenty-two heads turned and looked at me. I lifted a hand. They turned back.
+"Inspecting," she whispered around the lollipop. "New teachers get inspected. Don't tell him." She looked at me sideways. "Weather data boy. You fix the suits now?"
 
-Then she taught.
+"The simulators."
 
-I'd never seen her teach. In the game, Theresa was the principal who was always being dragged into trouble, the one who got angry and cute in the same sentence. I'd never once seen her stand at the front of a room for an hour and hold it in her hand, and she did. She told them about the first Valkyries, and about stigmata, and about the eras before ours, and she did it with drawings on the board and stories and a lot of jokes, most of them at her own expense, and she never once had to raise her voice. When a girl in the front row started whispering to the girl beside her, Theresa just stopped talking, and looked at her, and waited, and the girl went red and stopped, and Theresa smiled at her and went on as if nothing had happened.
+"Same thing." She settled back with her feet not quite reaching the floor.
+
+At nine exactly the front door opened, and the history teacher came in, and twenty-two girls stood up as one.
+
+He was tall and broad in the shoulders, too broad for a man who taught history, in a long dark coat over a waistcoat and tie, with a gray scarf round his neck although the room was warm. Short brown hair, combed, going gray at the temples. Rectangular glasses. He was carrying a cup of tea and a book, and he put the tea down on the desk and the book beside it, and said, "Good morning. Sit down, please," in a calm, low voice, and they sat.
+
+I didn't. I mean I was already sitting. But for about three seconds I stopped doing anything else.
+
+I knew that face. I'd known it for years in my first life, in cutscenes and manga panels and a hundred arguments on a forum about whether he or Otto had the better plan. Welt Yang. Joachim, really, the boy who'd been given a dying man's name and his core in 1955. The Herrscher of Reason. The leader of Anti-Entropy, which Schicksal's own documents called a terrorist organization, standing at the front of a classroom in Theresa's school with a piece of chalk in his hand, writing W. YANG and HISTORY on the board in very neat capitals.
+
+I knew what he'd been doing in February 2000. He'd fought Sirin on the moon and lost his core to her and lived inside it anyway, and at the end he'd spent everything he had left keeping Siegfried Kaslana alive. Theresa had been in Siberia too. She'd stood a few meters from this man. And she'd just sat down beside me to inspect him without the faintest idea who he was, because afterward Otto had gone into her head with a borrowed feather and taken him out of it, along with every line in every record that said Anti-Entropy had been there at all.
+
+Two seats from the principal, in a room full of twelve-year-olds, the most dangerous man in Asia asked the girl in the front row if she'd mind opening a window, because it was a little close in here.
+
+"You've gone pale," Theresa whispered.
+
+"Small chair."
+
+She gave me a look, and turned back to the front.
+
+Then he taught.
+
+He started every topic with a date and made them write it down before he said anything else. "Eighteen fifty. Write it down. Now we can talk about who was there." He told them about the first Valkyries, and about stigmata, and about the eras before ours, and he made the eras sound like real places where people had eaten breakfast. His chalk handwriting never sloped. When two girls by the window started whispering, he stopped in the middle of a sentence and folded his hands on the desk and waited, without any expression at all, until they noticed the silence and went red. Then he said, "Thank you, Miss Ito, Miss Keller," and went on. Once, when he turned to the board, he put his left hand flat against his side under the coat and kept it there for a while, and took it away before he turned back.
+
+He said the word Schicksal about forty times in that hour, and never once with anything in his voice.
+
+"History," he said at one point, tapping a date on the board, "is mostly people being brave at the wrong time. You'll find that's the hard part to forgive."
+
+Theresa took the lollipop out of her mouth and looked at him with her head on one side.
 
 Near the end of the hour, a girl near the window put her hand up.
 
-"Principal? Is it true there was an S-rank who died in Siberia?"
+"Mr. Yang? Is it true there was an S-rank who died in Siberia?"
 
 The room went quiet in a different way.
 
-Theresa had been leaning on the edge of the desk. She stayed leaning on it. Her face did nothing at all for about a second, and then it did something that was very like her ordinary face but wasn't.
+He'd been leaning on the edge of the desk. He went on leaning on it. He put the chalk down, very carefully, in the groove at the bottom of the board, and for a second he looked at the desk and nothing else. Then he lifted his head and looked over the class to the back of the room.
 
-"Yes," she said. "Her name was Cecilia Schariac. She was the best Valkyrie of her generation, and she went to Siberia in 2000 to stop the Second Eruption, and she did stop it, and she didn't come back." She picked up the lollipop, and looked at it, and put it down again. "She was my friend. Page forty-one, everybody. Stigmata and their sources. We'll start there on Thursday."
+"The principal would know that better than I would," he said.
 
-Twenty-two girls opened their books to page forty-one. The bell went. Theresa picked up her book and her lollipop and walked out of the room without looking at anyone, and the girls filed out after her, chattering again, already on to something else.
+Twenty-two heads turned round. Theresa hadn't expected it. For about a second her face did nothing at all, and then it did something that was very like her ordinary face but wasn't.
 
-I sat on the little chair at the back while the medical officer next to me woke up and stretched and left. I knew how Cecilia Schariac had died. I knew who had made it happen, and what had been taken from her, and what had been done afterward with what was left, and where her daughter was right now and what her daughter would one day be called. Theresa had told it in four sentences to a room of children and walked out holding a lollipop. I'd seen what those four sentences cost her, in the second when her face did nothing, and I didn't think anyone else in the room had.
+"Yes," she said from her chair. "Her name was Cecilia Schariac. She was the best Valkyrie of her generation. She went to Siberia in 2000 to stop the Second Eruption, and she did stop it, and she didn't come back." She looked at the lollipop in her hand and didn't put it back in her mouth. "She was my friend."
+
+I wasn't looking at her. I was looking at him. While she talked he stood with his hands on the edge of the desk, and when she said she didn't come back, his left hand went to his side under the coat and stayed there.
+
+"Thank you, Principal," he said quietly. "Page forty-one, everyone. Stigmata and their sources. We'll start there on Monday."
+
+The bell went. Twenty-two girls opened their books to page forty-one to show willing and shut them again. Theresa stood up, said "Very good, Mr. Yang," on her way past the front, and was gone before he could answer, with the lollipop still in her hand. The girls filed out after her, chattering, already on to something else.
+
+I stayed where I was. He gathered up his book and his cup, looked into the cup, found the tea had gone cold, and drank it anyway. Then he noticed me.
+
+"You're the engineer," he said. "From the other island. The simulators."
+
+"Yes."
+
+"You looked at me when I came in as if you'd seen me before."
+
+"You look like a lecturer I had at university."
+
+"I hear that a lot. It's the glasses." He wound the scarf once more round his neck. "Did you learn anything, Mr....?"
+
+"Eros. That the principal doesn't like being asked about Siberia."
+
+He looked at me for a moment over the top of his glasses, with nothing in particular on his face.
+
+"Nobody who was alive in 2000 likes being asked about Siberia, Mr. Eros," he said. "Come again, if your simulators let you. Bring a pen next time. It's a history class."
+
+He went out, slowly, and on the stairs I heard him stop for a moment before he went on down.
+
+I sat on the little chair at the back for a long time. I knew how Cecilia Schariac had died. I knew who had made it happen, and what had been taken from her, and what had been done afterward with what was left, and where her daughter was right now and what her daughter would one day be called. Theresa had told it in four sentences to a room of children, with the man who'd been there standing at the front unable to say so, and me at the back knowing what one of them had forgotten and the other had hidden, and none of the three of us had said a word of it.
 
 I sat there until the cleaner came in and asked if I was lost.
 

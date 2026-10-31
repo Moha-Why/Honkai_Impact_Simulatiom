@@ -42,16 +42,12 @@ See [characters/mizuki-tsugumi.md](characters/mizuki-tsugumi.md).
    - **His power hunger.** After her, it's no longer about not dying. It's
      about never being the one who has to run.
 
-## Welt at St. Freya (after 2014)
+## Welt at St. Freya
 
-Canon (Archives wiki, Welt Yang): Welt Yang, Anti-Entropy's leader and the
-Herrscher of Reason, "temporarily went undercover as a History teacher at
-St. Freya Academy for Valkyries, and even failed Kiana in her tests." This
-is during Kiana's time at St. Freya, so after the Third Eruption. In 2010,
-when Eros sits in on first-year history, the teacher is Theresa (our
-ruling; canon doesn't name the 2010 teacher).
-
-Possible scene: on a simulator trip south, Eros finds a new history
-teacher in St. Freya's staff room and recognizes the face. He can't show it.
-Welt is the enemy's leader inside Theresa's school, and Eros knows exactly
-what he is.
+Welt Yang has been St. Freya's history teacher since the school opened
+(canon, Moegirl), hiding under his own name; Theresa can't remember him
+because Otto rewrote her memories. Eros first sees him teaching in
+September 2010 (Chapter 2). See [welt-yang.md](characters/welt-yang.md).
+After 2014 he gives Kiana a zero in history. Eros has to keep up a normal
+face around him on every trip south, and Welt is the kind of man who
+notices.

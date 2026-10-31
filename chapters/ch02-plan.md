@@ -104,7 +104,8 @@ in a specific month, never with a summary.
      won't ask about the phone numbers."
 4. **Summer:** the Assault Squad report (kept). Himeko is on the survivor
    list, and he runs in the rain.
-5. **Autumn, Theresa's history class** (on his first trip south to install
+5. **Autumn, the history class** (taught by Welt Yang, with Theresa
+   inspecting from the back; on his first trip south to install
    St. Freya's simulators). St. Freya lets visiting staff sit in on one
    class a term, and he audits Theresa's history lesson for the first-years.
    - A student asks about Cecilia Schariac, the S-rank who died in Siberia.
