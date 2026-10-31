@@ -13,7 +13,8 @@ Apocalypse heads the whole branch from June 2009.
   station; staff are "Lindgren Automation" engineers. Ferry to Shiomi
   (1 h 20) on Tuesdays and Fridays.
 - **St. Freya's island.** Built for Theresa by Otto in 2006 to 2008, two
-  hours south by helicopter. The academy opens in September 2009. Every new
+  hours south by helicopter. The academy opens in September 2009. Students
+  are 16 to 18, in three years (first intake placed by age). Every new
   intake spends a week at the technical center for suit fittings and tests
   first. Eros's team builds and maintains St. Freya's training simulators.
 

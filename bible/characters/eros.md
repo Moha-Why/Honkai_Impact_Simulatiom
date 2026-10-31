@@ -53,6 +53,10 @@ St. Freya is two hours south; he goes there only for simulator work.
   problems by email).
 - **The cover story:** software engineer for a German industrial automation
   firm, Hamburg mailing address.
+- **At St. Freya (from 2010):** on simulator trips the students find him
+  interesting for about a day and a half ("Do engineers have girlfriends?"
+  "Engineers have deadlines."), then go back to talking about Mr. Yang. He
+  keeps it polite and distant; they're schoolgirls and he's staff.
 - **Solitude by choice:** the island lets him live. He's often alone because
   he's preparing, and because he has never had anyone to visit.
 

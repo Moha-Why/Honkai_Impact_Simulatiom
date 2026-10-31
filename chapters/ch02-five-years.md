@@ -474,7 +474,7 @@ She walked straight past every desk and into Dr. Mori's office without knocking.
 
 "Principal," I heard Dr. Mori say. He sounded like a man who'd been asleep.
 
-"One of my girls broke her wrist this morning," she said. Her voice was higher than I'd expected and very clear, and she wasn't trying to keep it down. "In your simulation room. In your training suit. The joint locked in the middle of a movement and kept going in the other direction. She's fourteen. Who wrote the code for this?"
+"One of my girls broke her wrist this morning," she said. Her voice was higher than I'd expected and very clear, and she wasn't trying to keep it down. "In your simulation room. In your training suit. The joint locked in the middle of a movement and kept going in the other direction. She's sixteen. Who wrote the code for this?"
 
 There was a pause.
 
@@ -556,7 +556,7 @@ I sat there for a while with the sweet in front of me. It was a strawberry hard 
 
 The running started in September, the week the first St. Freya intake came through.
 
-I watched them come in from the roof of the cafeteria. Two buses came off the ferry and drove the length of the island with their windows down, and girls leaned out of every window, twelve and thirteen and fourteen years old, with their hair blowing everywhere, shrieking at the sea as if nobody had ever shown them one before. They were with us for one week, for fittings and tests on the floors under mine, and then the helicopters would take them south. When the buses stopped, the girls poured out in front of the new barracks and stood around in clumps with their bags, and a small figure in a white and blue dress came out of the building and clapped her hands twice, and every one of them went quiet.
+I watched them come in from the roof of the cafeteria. Two buses came off the ferry and drove the length of the island with their windows down, and girls leaned out of every window, sixteen and seventeen years old, a few of them eighteen, with their hair blowing everywhere, shrieking at the sea as if nobody had ever shown them one before. They were with us for one week, for fittings and tests on the floors under mine, and then the helicopters would take them south. When the buses stopped, the girls poured out in front of the new barracks and stood around in clumps with their bags, and a small figure in a white and blue dress came out of the building and clapped her hands twice, and every one of them went quiet.
 
 I stood on the roof with my can of coffee and thought about what was going to happen to some of them.
 
@@ -566,7 +566,7 @@ And I knew the other numbers too, the ones that mattered to me. A man with an F 
 
 The next morning I set my alarm for six and went out onto the seawall in a pair of canvas shoes and the tracksuit bottoms I'd slept in.
 
-I made it two kilometers. Then I stopped, and leaned on the railing, and was sick over it onto the concrete blocks, which was getting to be a habit of mine with that particular stretch of sea. A girl in a brand-new St. Freya tracksuit went past me running easily, ponytail swinging, about thirteen years old, and called "Good morning!" over her shoulder without slowing down. I waved at her, and walked back.
+I made it two kilometers. Then I stopped, and leaned on the railing, and was sick over it onto the concrete blocks, which was getting to be a habit of mine with that particular stretch of sea. A girl in a brand-new St. Freya tracksuit went past me running easily, ponytail swinging, about sixteen, and called "Good morning!" over her shoulder without slowing down. I waved at her, and walked back.
 
 I went out again the next morning, and the one after that. I bought proper running shoes through the supply office, and the supply officer typed RUNNING and his screen thudded. By the end of October I could do three kilometers without stopping. By Christmas I could do four, slowly, in the dark, with the wind trying to push me off the wall. The intake had gone south by then, and it was the island's own Valkyries who lapped me every morning, the suit-trial squad and the logistics crews and Dr. Aasen, who shouted at my knees as she went past. After a few weeks they started calling me "the engineer", as in "Morning, engineer!", and one of them, a red-faced radio girl with glasses who was even slower than me, started running with me some days, and we didn't talk, and then in November she stopped coming and I never found out why.
 
@@ -916,13 +916,19 @@ Walking back along the seawall in the dark, she bumped my shoulder with hers.
 
 That September I went south for the first time. The training simulators in St. Freya's basement were ours, built on the eleventh floor and shipped down in crates, and somebody had to sit with them for two weeks until they stopped crashing. Mori sent me. The school was a year old by then, all very new red brick under the bell tower, and it had a rule that visiting staff could sit in on one class, at the back, if the teacher agreed.
 
+The simulators were tested by a rota of third-years, and two of them decided on the second day that I was the most interesting thing in the basement, mostly because I was the only thing down there under forty that wasn't a machine. They wanted to know if I was really from the other island, and how old I was, and whether engineers had girlfriends.
+
+"Engineers have deadlines," I said, and gave them a calibration sheet each.
+
+By the end of the week they'd lost interest in me completely and gone back to talking about Mr. Yang, whoever he was, in low voices with a lot of giggling. I took that as a good sign.
+
 I signed up for history.
 
-I told myself it was research. The history of Schicksal as taught to its own children was data, and I wanted it. I asked the secretary in the staff room which class had a free chair, and she said first-year history, Mr. Yang, Thursday at nine, and wrote it on a sticky note for me. I didn't think anything of the name. Yang was the sixth most common surname in China.
+I told myself it was research. The history of Schicksal as taught to its own children was data, and I wanted it. I asked the secretary in the staff room which class had a free chair, and she said first-year history, Mr. Yang, Thursday at nine. "It's the only free chair in that room all term," she said, writing it on a sticky note, with a look I didn't understand yet. I didn't think anything of the name. Yang was the sixth most common surname in China.
 
-The classroom was on the second floor of the new building, with windows on the sea and the smell of fresh paint. There were twenty-two girls in navy uniforms, about twelve years old, sitting very straight. I sat at the back on a chair that was too small. The chair beside me stayed empty until two minutes to nine, when the back door opened very quietly and Theresa slipped in with a lollipop in her mouth and sat down on it.
+The classroom was on the second floor of the new building, with windows on the sea and the smell of fresh paint. There were twenty-two girls in navy uniforms, sixteen and seventeen, sitting very straight. Two of the ones in the front row had obviously redone their hair since breakfast. I sat at the back on a chair that was too small. The chair beside me stayed empty until two minutes to nine, when the back door opened very quietly and Theresa slipped in with a lollipop in her mouth and sat down on it.
 
-"Inspecting," she whispered around the lollipop. "New teachers get inspected. Don't tell him." She looked at me sideways. "Weather data boy. You fix the suits now?"
+"Inspecting," she whispered around the lollipop. "History has the best attendance in the school and the best marks, and nobody fails it, and I want to know why. Don't tell him." She looked at me sideways. "Weather data boy. You fix the suits now?"
 
 "The simulators."
 
@@ -930,7 +936,7 @@ The classroom was on the second floor of the new building, with windows on the s
 
 At nine exactly the front door opened, and the history teacher came in, and twenty-two girls stood up as one.
 
-He was tall and broad in the shoulders, too broad for a man who taught history, in a long dark coat over a waistcoat and tie, with a gray scarf round his neck although the room was warm. Short brown hair, combed, going gray at the temples. Rectangular glasses. He was carrying a cup of tea and a book, and he put the tea down on the desk and the book beside it, and said, "Good morning. Sit down, please," in a calm, low voice, and they sat.
+He was tall and broad in the shoulders, too broad for a man who taught history, in a long dark coat over a waistcoat and tie, with a gray scarf round his neck although the room was warm. Short brown hair, combed, going gray at the temples. Rectangular glasses. He was carrying a cup of tea and a book, and he put the tea down on the desk and the book beside it, and said, "Good morning. Sit down, please," in a calm, low voice, and they sat. Somebody in the second row sighed, very quietly, and was elbowed.
 
 I didn't. I mean I was already sitting. But for about three seconds I stopped doing anything else.
 
@@ -938,7 +944,9 @@ I knew that face. I'd known it for years in my first life, in cutscenes and mang
 
 I knew what he'd been doing in February 2000. He'd fought Sirin on the moon and lost his core to her and lived inside it anyway, and at the end he'd spent everything he had left keeping Siegfried Kaslana alive. Theresa had been in Siberia too. She'd stood a few meters from this man. And she'd just sat down beside me to inspect him without the faintest idea who he was, because afterward Otto had gone into her head with a borrowed feather and taken him out of it, along with every line in every record that said Anti-Entropy had been there at all.
 
-Two seats from the principal, in a room full of twelve-year-olds, the most dangerous man in Asia asked the girl in the front row if she'd mind opening a window, because it was a little close in here.
+Two seats from the principal, in a room full of schoolgirls, the most dangerous man in Asia asked the girl in the front row if she'd mind opening a window, because it was a little close in here.
+
+The girl he'd asked opened the window as if she'd been given a medal.
 
 "You've gone pale," Theresa whispered.
 
@@ -954,7 +962,9 @@ He said the word Schicksal about forty times in that hour, and never once with a
 
 "History," he said at one point, tapping a date on the board, "is mostly people being brave at the wrong time. You'll find that's the hard part to forgive."
 
-Theresa took the lollipop out of her mouth and looked at him with her head on one side.
+Theresa took the lollipop out of her mouth and looked at him with her head on one side. Then she looked along the rows of girls, at the girl by the window who had written W.Y. in the margin of her notes inside a small, careful heart and was covering it with her hand, and at the two in the front row, and back at him. He was writing a date on the board and appeared to have noticed none of it.
+
+"Ah," Theresa whispered. "That's why."
 
 Near the end of the hour, a girl near the window put her hand up.
 
@@ -996,7 +1006,7 @@ He looked at me for a moment over the top of his glasses, with nothing in partic
 
 He went out, slowly, and on the stairs I heard him stop for a moment before he went on down.
 
-I sat on the little chair at the back for a long time. I knew how Cecilia Schariac had died. I knew who had made it happen, and what had been taken from her, and what had been done afterward with what was left, and where her daughter was right now and what her daughter would one day be called. Theresa had told it in four sentences to a room of children, with the man who'd been there standing at the front unable to say so, and me at the back knowing what one of them had forgotten and the other had hidden, and none of the three of us had said a word of it.
+I sat on the little chair at the back for a long time. I knew how Cecilia Schariac had died. I knew who had made it happen, and what had been taken from her, and what had been done afterward with what was left, and where her daughter was right now and what her daughter would one day be called. Theresa had told it in four sentences to a room of schoolgirls, with the man who'd been there standing at the front unable to say so, and me at the back knowing what one of them had forgotten and the other had hidden, and none of the three of us had said a word of it.
 
 I sat there until the cleaner came in and asked if I was lost.
 
@@ -1282,7 +1292,7 @@ The girl was about sixteen, with strawberry-blonde hair that went pink at the en
 
 "They're set for first years," Himeko said without turning around.
 
-"Then I shouldn't be a first year." The girl's voice went up. "I'm sixteen, I'm older than all of them, I've read everything they're going to teach me, and I can beat your simulation in four minutes. St. Freya is too slow. I don't have time to be slow."
+"Then I shouldn't be a first year." The girl's voice went up. "I'm sixteen, I've read everything they're going to teach me, and I can beat your simulation in four minutes. St. Freya is too slow. I don't have time to be slow."
 
 "Bianka," Himeko said, and stopped walking, and turned around, and the girl stopped too. "Nobody's asking you to be slow. I'm asking you to be alive in five years."
 

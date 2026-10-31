@@ -66,6 +66,14 @@ from Ōta (questions) and Theresa (bright and bossy).
 left side under the coat when he thinks nobody is looking. Does sit-ups
 in the staff room before class (a canon joke).
 
+**The girls:** he's handsome and, apart from the odd visiting engineer,
+the only man in the school, so the students adore him. History has the best
+attendance and the best marks at St. Freya; girls redo their hair before
+his class and draw his initials in hearts in their margins. He appears not
+to notice and never encourages it; it stays one-sided and comic (see
+[content-rules.md](../content-rules.md)). Theresa works it out in 2010
+("Ah. That's why.").
+
 **What he knows about Eros:** nothing, in 2010. He notices a young engineer
 at the back who looked at him for a second too long, as if he'd seen him
 before.
