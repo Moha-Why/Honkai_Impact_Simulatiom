@@ -16,5 +16,6 @@
 | [gifts-and-rewards.md](gifts-and-rewards.md) | Gift colors, settlement grades, reward types, shop |
 | [gift-catalog.md](gift-catalog.md) | Every gift, experience package and item that has appeared |
 | [soul-and-fate.md](soul-and-fate.md) | What deaths cost, stages of the soul, Fate Deviation |
+| [future-arcs.md](future-arcs.md) | Planned arcs beyond the current chapters (Tsugumi, the Shiomi outbreak) |
 
 Chapter plans and chapters are in [../chapters/](../chapters/).

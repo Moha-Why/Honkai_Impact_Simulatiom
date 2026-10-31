@@ -34,6 +34,11 @@ public data. He doesn't care how, only whether he can code.
 **Later:** Eros's mentor and his access to Valkyrie combat data and
 battlesuit firmware.
 
+**Family:** divorced. His ex-wife lives in Osaka with their daughter, Emi
+(19 in 2009), whom he sees twice a year. He sleeps on the cot because the
+staff flat is too quiet. He tells Eros this once, at three in the morning in
+2009, and never mentions it again.
+
 **By 2014:** 53. Gave Eros the anomaly watch project (2010) and made him
 senior engineer (2012). Still sleeps on the cot.
 
@@ -42,3 +47,8 @@ core (a shock, nothing else).
 
 **In Chapter 2:** calls Eros down at 2 a.m. on January 14, 2014 for a
 biometric hold during the core surge, when the System binds.
+
+**In the Chapter 2 rewrite:** the 2009 night debugging session where he
+talks about Emi; asks Eros to rebuild weird_stuff with Schicksal sensors
+(December 2010); promotes him (2012, "Don't let it go to your head");
+volunteers him for the HQ secondment (December 2012).

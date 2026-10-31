@@ -24,6 +24,34 @@
   because he forgets haircuts, dark eyes, the tired look of someone who
   codes until 3 a.m. Seems harmless, and uses that.
 
+## Life on the island (2009 to 2014)
+
+- **Money:** starts at €78,000 a year in 2009, then €140,000 as senior engineer
+  from autumn 2012. More money than anyone at Willow Street ever saw. Sends a
+  large part every month to the home anonymously, with the memo "for the
+  bowls". Still eats instant noodles out of habit. Asami: "You earn three
+  times what I do and you eat like a student."
+- **What he buys:** a good chair (2009), a handheld and games (2011), a home
+  lab (2012), furniture he can't choose (Asami chooses it), a laptop and a
+  tutor for Lin Xiaoyu at Willow Street (2012).
+- **The run-away fund (from 2012):** cash in yen, yuan and euros in a locked
+  case, an escape bag packed by the door, a satellite phone ordered through
+  supply "for field testing". To him, money means getting out alive.
+- **Housing:** a junior room facing a concrete wall (2009 to 2012), then a
+  top-floor staff flat with a sea view.
+- **Leave:** 25 days, then 35. Qingming in Hangzhou (2010, 2012): Director
+  Zhou's grave, Willow Street, lunch with Professor Han. Tokyo and Kamakura
+  (2011), where he buys Mizuki Tsugumi's demo at Comiket. HQ secondment,
+  January to July 2013.
+- **People:** Asami (friend, bar, birthdays), Mori (boss, then mentor), Yoon
+  (watch room friend), Brenner (yearly coffee, file closed 2013), Tsugumi
+  (pen pal, emails about her demos once or twice a year), Xiaoyu (math
+  problems by email).
+- **The cover story:** software engineer for a German industrial automation
+  firm, Hamburg mailing address.
+- **Solitude by choice:** the island lets him live. He's often alone because
+  he's preparing, and because he has never had anyone to visit.
+
 ## Personality arc
 
 Eros starts as a warm fan. Each death and failure in the simulations strips

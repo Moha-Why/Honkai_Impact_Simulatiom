@@ -68,6 +68,11 @@ Fate Deviation measures how much Eros has changed history.
 It rises with revivals, echoes and real-world changes. The higher it climbs,
 the less Eros can trust his foreknowledge.
 
+**Hidden, real-world effect:** at high enough levels, global deviation causes
+events that canon never had, including Honkai outbreaks with no warning in
+the game (the Shiomi outbreak, see [future-arcs.md](future-arcs.md)). The
+System knows and never says.
+
 It doesn't draw anyone's attention by itself. When a run rewrites someone's
 history, that person simply remembers Eros (see
 [simulation-system.md](simulation-system.md)).

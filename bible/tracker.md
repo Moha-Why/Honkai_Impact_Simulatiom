@@ -60,6 +60,19 @@ Lungs (Run 4). Danger Sense and Pain Tolerance were lost to the grade cap.
 - His palms are scabbed from falling on the seawall.
 - He runs the anomaly watch code and gets Nagazora alerts on his phone.
 
+### His life (after the Chapter 2 rewrite)
+
+- Senior engineer since autumn 2012, €140,000 a year, 35 days of leave.
+- A top-floor staff flat with a sea view (since 2012).
+- The run-away fund: cash in yen, yuan and euros in a locked case; an escape
+  bag packed by the door; a satellite phone.
+- Monthly anonymous transfers to Willow Street ("for the bowls"); pays Lin
+  Xiaoyu's tutor.
+- Emails: Mizuki Tsugumi (her demos, once or twice a year since 2011); Lin
+  Xiaoyu (math problems).
+- Back from the HQ secondment since July 2013. Met Rita Rossweisse, Bianka
+  Ataegina, and Klaus Hoffmann; saw Otto once.
+
 ### Body and skill
 
 - Runs 10 km every morning. Still Civilian.
@@ -79,7 +92,9 @@ Lungs (Run 4). Danger Sense and Pain Tolerance were lost to the grade cap.
   girls I fly back"). Caught him with a knife on the seawall; he said
   YouTube. She doesn't believe it, and taught him stance anyway.
 - **Dr. Mori** thinks he had a bad night.
-- **Brenner** next coffee is due in March.
+- **Brenner** closed Eros's file after the March 2013 coffee (rewrite).
+- **Rita** reported on him to Otto during the secondment; nothing came of it.
+- **Tsugumi** knows him only as "Bug Report", an engineer at a German firm.
 - **Professor Han** was told Eros took a scholarship abroad (2009).
 - **Eros** has told no one he expects the Third Eruption within days.
 

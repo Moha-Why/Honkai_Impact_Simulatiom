@@ -62,3 +62,7 @@ to send Himeko quietly without telling HQ, and orders him to eat a lemon
 candy. Earlier, she storms onto the eleventh floor in summer 2009 over a
 training-battlesuit bug that hurt one of her first students, and meets
 Eros when he fixes it.
+
+**In the Chapter 2 rewrite (autumn 2010):** Eros audits her history lesson
+for St. Freya's first-years. A student asks about Cecilia Schariac; Theresa
+answers in four sentences and moves on, and he sees what it costs her.

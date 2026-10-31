@@ -41,3 +41,10 @@ doesn't believe "YouTube", and fixes his stance.
 
 **In Chapter 1:** escort during the draft; tells him what D-rank logistics
 means on the plane; runs his Honkai Adaptability test.
+
+**In the Chapter 2 rewrite:** gives him the island tour on his second day
+(2009, "never order the squid on Mondays"); crashes his Spring Festival
+dumplings with two logistics girls (2010); finds his "birthday" in his file
+and throws him a party at the harbor bar (2012); chooses his furniture when
+he moves into the sea-view flat (2012); notices he's been "somewhere fancy"
+after HQ (2013).

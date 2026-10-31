@@ -42,3 +42,10 @@ closest he has come to smiling.
 
 **In Chapter 1:** waits in Eros's room, makes the offer, takes him to the
 Far East Branch.
+
+**In the Chapter 2 rewrite:** in March 2010 he also asks, "You asked about
+the Kaslanas in orientation. Why?" Eros says he likes old families and old
+stories; Brenner writes nothing down. The March 2013 coffee happens at HQ
+during the secondment ("You're very boring"), and afterward he closes the
+file. A collected drive from an outbreak zone (see ../future-arcs.md) could
+open it again.

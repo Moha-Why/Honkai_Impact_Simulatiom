@@ -38,8 +38,9 @@ version is written and in the repo; this rewrite expands it).
     automation firm, with a mailing address in Hamburg.
   - **Phones:** calls and internet allowed on the staff network, which is
     monitored. "Assume everything you type is read, because it is."
-  - **Getting off the island:** a ferry to the mainland twice a week, and
-    staff flights from the runway.
+  - **Getting off the island:** a ferry to Shiomi, a port town on the
+    mainland an hour by train from Nagazora, twice a week, and staff
+    flights from the runway.
   - **Housing:** junior quarters until he's promoted.
 - **The concrete-wall room** stays, now explicitly junior housing. It becomes
   something he leaves in 2012.
@@ -122,6 +123,10 @@ in a specific month, never with a summary.
    - He stands at the big train map at Tokyo station, finds "Nagazora", and
      takes the train the other way, to the sea at Kamakura.
    - A good meal alone, and the quiet realization that he likes his life.
+   - **Comiket, the seed:** at a doujin booth he buys a burned CD of
+     Paper Lantern from a tired girl with ink on her fingers, Mizuki
+     Tsugumi. That night he sends her a three-page bug report. Her reply:
+     "Who ARE you?"
 3. **The first catch, October.** The watch flags a small outbreak in a
    fishing town on the Korean coast three hours early. A squad is there in
    time, and there are no civilian deaths. Yoon shows him the report, and he
@@ -212,10 +217,22 @@ in a specific month, never with a summary.
 - **The knife practice** moves to the end of the seawall below his flat.
 - **Asami at the bar** can mention he's been "somewhere fancy" since HQ.
 
-## Not included
+## Tsugumi across the five years
 
-- No 2013 relationship on the island. (Left out because it wasn't
-  confirmed. Easy to add.)
+The relationship itself comes later, after the Third Eruption (see
+../bible/future-arcs.md). In Chapter 2 she is only a thin, warm thread:
+
+- **2011:** the Comiket booth and the bug report.
+- **2012:** a new demo arrives with "Bug Report, please break this one
+  too." He reads her email twice in the new flat.
+- **2013:** he answers her email from HQ, then deletes the line saying where
+  he is.
+- **January 2014:** one short email in Part Two, sent the week of Run 3,
+  that he doesn't answer because he's Worn and can't remember the name of
+  his own street inside a run.
+
+These are short moments, never a whole scene, so readers know her name
+when she walks back in later.
 
 ## Content notes
 
@@ -225,7 +242,16 @@ in a specific month, never with a summary.
   relationship is platonic only. Anything else waits until the present-day
   story, when she's an adult.
 
-## Profiles to write before the chapter
+## Profiles (done)
+
+- **New:** mizuki-tsugumi, otto-apocalypse, schicksal-staff (Vogel, Ōta,
+  Hoffmann, Rahman), willow-street (Auntie Qian, Lin Xiaoyu),
+  rita-rossweisse, bianka-durandal.
+- **Updated:** eros, kenji-mori, asami-kudo, yoon-seoyeon, lukas-brenner,
+  professor-han, theresa-apocalypse, tracker, timeline, soul-and-fate.
+- **New file:** ../bible/future-arcs.md.
+
+## Profiles listed earlier (kept for reference)
 
 - **New:**
   - rita-rossweisse, bianka-durandal, otto-apocalypse.

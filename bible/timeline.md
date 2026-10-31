@@ -21,6 +21,7 @@ story reaches them.
 | 2009, June 21 | Canon: Theresa transfers to the Far East Branch, away from Otto, and founds St. Freya (some sources say St. Freya is older). |
 | 2007 | Canon: Ragna saves 11-year-old Rita in a Honkai incident in Manchester. |
 | 2010 | Canon: the Valkyrie Assault Squad (Himeko's squad) is nearly wiped out on a mission and disbanded. Ragna dies. |
+| 2011, August | Eros buys Mizuki Tsugumi's demo, Paper Lantern, at the summer Comiket in Tokyo, and sends her a bug report. Pen pals from then on. |
 | 2011, late | Himeko recruits Bianka (real age 16) for St. Freya; she chooses HQ instead. Eros glimpses her on the eleventh floor. |
 | 2012 | Canon: the Emperor-class beast Ganesha appears in India; two A-ranks die. Bianka is the sole survivor of her first mission (Agra Fort). Eros is promoted to senior engineer and moves to a sea-view staff flat. |
 | 2013, January to July | Eros's secondment to Schicksal HQ (Germany): Rita Rossweisse is his liaison; he writes Bianka's battlesuit firmware; Rita is newly assigned to Bianka. Rita turns 18 on March 1. |

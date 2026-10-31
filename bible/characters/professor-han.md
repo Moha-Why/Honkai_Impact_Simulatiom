@@ -27,3 +27,8 @@ trouble himself.
 
 **In Chapter 1:** takes Eros on at fifteen; looks at the anomaly map and
 tells him to drop it.
+
+**In the Chapter 2 rewrite (April 2010):** lunch in Hangzhou during Eros's
+first Qingming leave. Listens to the Germany story, sees through it, and
+doesn't push. "Are you happy?" "I think so." "Then I won't ask about the
+phone numbers."

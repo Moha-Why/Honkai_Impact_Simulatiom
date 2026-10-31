@@ -20,3 +20,8 @@ knows who's been sent where.
 
 **In Chapter 2:** calls Eros down when Theresa visits the watch room; later
 mentions that Himeko has gone to Nagazora.
+
+**In the Chapter 2 rewrite:** meets Eros in 2011 while he builds the anomaly
+watch; they argue about thresholds, then about coffee, and become friends.
+In October 2011 she shows him the report on the first outbreak the watch
+caught early (a fishing town on the Korean coast): no civilian deaths.
