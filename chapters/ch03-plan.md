@@ -261,6 +261,8 @@ it's the most honest thing he does.
   from Worn to **Torn**. That locks heroine runs for months: normal runs
   only, healing slowly. That's the brake on power creep and the dark cost
   of a happy ending.
+- **Crossroads unlocks** for normal runs, as a patch note: "New feature.
+  You've earned it." (See simulation-system.md.)
 - **The System is delighted.** "Four loops. An S. You were wonderful."
   Eros asks whether any of it was real, and gets a cheerful dodge.
 - **Waking, February 5, before dawn:**
@@ -286,19 +288,11 @@ it's the most honest thing he does.
 - Fate Deviation by loop: Disturbed, Unstable, Collapse risk, then
   Disturbed in the final loop.
 
-## Profiles to write or update before the chapter
+## Profiles (done)
 
-- **Update:**
-  - raiden-mei: cooking timeline, Lightning Queen, new role in the run.
-  - kiana-kaslana: rival confessor.
-  - herrscher-of-thunder: persona per canon.
-  - chiba-classmates: add Kuroda and the kendo club.
-  - tanabe: let go after the asset freeze.
-  - man-in-gray-car: Loop 1.
-  - the-system: the bait objective.
-- **New:**
-  - Cocolia: offscreen mostly.
-  - Bronya: Loop 3 and the final loop.
-  - Murata Himeko: a cameo.
-  - Raiden Ryoma / Mr. HOMU: flashback only.
-- **New rules:** a Life Path section in simulation-system.md.
+- **Updated:** raiden-mei, kiana-kaslana, herrscher-of-thunder,
+  chiba-classmates (added Kuroda Shun and Hayashi Rin), tanabe,
+  man-in-gray-car, the-system.
+- **New:** cocolia, bronya-zaychik, murata-himeko, raiden-ryoma.
+- **Rules:** Life Path, Crossroads and bait objectives added to
+  simulation-system.md.

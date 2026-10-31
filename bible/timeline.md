@@ -22,12 +22,12 @@ story reaches them.
 | 2010 | Canon: the Valkyrie Assault Squad (Himeko's squad) is nearly wiped out on a mission and disbanded. |
 | 2012 | Canon: the Emperor-class beast Ganesha appears in India; two A-ranks die. |
 | 2013 | The four heroines turn 18. Mei is in her third year of high school in Nagazora. |
-| 2013, November 16 | Canon: Raiden Ryoma, CEO of ME Corp, is arrested for fraud, framed by Cocolia. Mei cuts herself off. Kiana enrolls at Chiba Academy afterward (in this story, mid-December, after her 18th birthday); canon says she and Mei don't meet at school. |
+| 2013, November 16 | Canon: Raiden Ryoma, CEO of ME Corp, is arrested for fraud, framed by Cocolia. Mei cuts herself off. Kiana enrolls at Chiba Academy afterward (in this story, mid-December, after her 18th birthday). Canon: she gets past Mei's guard, defends her from bullies and eats her (bad) first homemade lunches. |
 | 2014, mid-January | The System binds to Eros during a core surge as Honkai readings climb around Nagazora. Run 1 that night (Siberia, March 1999 to the Second Eruption). |
 | 2014, January 15–16 | Theresa visits the anomaly watch room and decides to send Himeko to Nagazora quietly. Runs 2 and 3. |
 | 2014, late January | Himeko leaves for Nagazora. Run 4 (January 25). |
 | 2014, February 3, 1:11 a.m. | The biggest Nagazora spike yet. Mei's heroine simulation unlocks. Eros doesn't start it. |
-| 2014, February | Third Eruption, Nagazora (canon date), after Mei's partial awakening as the Herrscher of Thunder. Himeko confronts Mei; Theresa later brings Kiana to St. Freya. Mei's run is set before it: Chiba Academy, Nagazora, her third year, starting October 2013. |
+| 2014, February | Third Eruption, Nagazora (canon date), after Mei's partial awakening as the Herrscher of Thunder. Himeko confronts Mei; Theresa later brings Kiana to St. Freya. Canon: Cocolia and Bronya set off an artificial outbreak at Chiba Academy to wake the Gem of Conquest in Mei. Mei's run is set before it: Chiba Academy, Nagazora, her third year, starting September or October 2013 depending on the loop. |
 
 ## Open questions
 

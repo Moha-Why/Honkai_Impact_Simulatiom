@@ -51,6 +51,13 @@ heroine runs. It wants him strong, fast, and spending.
 - It baits him with the heroine runs ("A limited banner. Conditions
   apply.").
 
+- It lists bait objectives: impossible ones with big rewards, meant to
+  make him poke a fixed node ("I never said it was possible. I said it was
+  worth a lot."). It keeps the fine print on real ones to itself until it
+  matters.
+- It encourages "trying things" in the loops, because it's only a
+  simulation, and enjoys the meters moving whichever way they move.
+
 **Eros and the System:** he plays along. He needles it, tests its edges like
 a bug hunter (making it say "the simulations aren't real" word for word),
 and enjoys refusing it. Early on this is banter. As he gets colder, the same
@@ -89,3 +96,11 @@ heroine runs, and talks him into the first run. Through Runs 2 to 4 it plants
 the math for running Frayed, pitches the shop, talks him out of soul repair,
 and steers him to the double payout. When Mei's run unlocks it pushes, and
 when he says no it says "Okay." and nothing else.
+
+**In Chapter 3:** opens the Life Path screen without a word (still sulking
+after "Okay."), then shows the objectives with the bait on top. It eggs him
+on through each loop's exploit, savors Corruption moving in Loop 2, and is
+delighted by the S grade. It unlocks Crossroads for normal runs as a reward,
+like a patch note. When he asks whether any of it was real, it dodges
+cheerfully.
+

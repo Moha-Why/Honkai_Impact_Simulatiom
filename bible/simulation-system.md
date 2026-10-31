@@ -39,6 +39,55 @@ each run writes a branch into the Imaginary Tree.
 - Once at least one objective is complete, his next death ends the run as a
   success instead of resetting it.
 
+## Life Path (heroine runs)
+
+Before a heroine run, and again after every reset, the System shows the
+life of Eros's identity as a line of nodes. Heroine runs **plan** a life.
+
+- **Fixed nodes** are gray and locked: the canon events the run is built
+  around (for Mei: her father's arrest on November 16, Kiana enrolling in
+  December, the Eruption at Chiba Academy in February) and the frame of his
+  identity (in her class).
+- **Open nodes** offer two to four options each: background, housing, club,
+  start date, and similar. Each changes where he begins and who he can reach.
+- **Locked "?" nodes** open only after a loop shows him something (for
+  example, "Raiden Ryoma's lawyer" after he learns the lawyer exists).
+- The System never says how fixed a fixed node really is. He learns by
+  pushing on one. Fixed nodes push back through Fate Deviation and
+  correction events, so trying to break one is possible and usually lethal.
+- **Gifts:** a fresh 5-keep-2 draw at the start of each loop, so every loop
+  is a different build.
+
+## Crossroads (normal runs)
+
+Normal runs **react** to a life instead of planning it. Not available in
+Chapter 2. It unlocks as a reward after Eros's first completed heroine run
+(Mei's), announced by the System like a patch note.
+
+- No screen before the run. The scenario is still random unless he buys the
+  scenario pick in the shop (300).
+- While the log lines run, the System stops at **one to three forks per
+  run** and offers two or three options, shown in the log format:
+
+```
+[1999, July. A truck is going south tonight.]
+Stay / Steal a seat / Report the driver
+```
+
+- Every fork is final. Death still ends the run, and there are no resets.
+- Some forks are traps, worded by the System to sound safe.
+- Fixed history still stands. A fork can change his life, never the big
+  canon events.
+
+## Bait objectives
+
+The System may list an objective that can't be completed because it runs
+against a fixed node (for Mei: "Keep Raiden Ryoma out of prison"). It shows
+a large reward to tempt him into poking the fixed node. Asked about it later
+it says, "I never said it was possible. I said it was worth a lot." Fine
+print on real objectives can also matter (Mei's first kiss must be "given
+freely"; a kiss under high Corruption fails the objective).
+
 ## Aftermath
 
 - After a heroine run, Eros's identity in it is treated as dead or missing.
