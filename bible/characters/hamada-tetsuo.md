@@ -28,7 +28,8 @@ notices everything outdoors and nothing indoors.
 weather report. In detail:
 
 - **Calls the detectors "the birds"** and talks about them as if they were
-  alive. "That one's deaf." "That one's been dead since 2007. Nobody asked."
+  alive. "Good birds. They hear everything." "That one hears ships. It's
+  never once been wrong about a ship."
 - **Never agrees that he was wrong.** If it's a crab and he said birds, the
   crab is a bird.
 - **Answers questions about Schicksal with the weather.** "What do you think
@@ -44,6 +45,8 @@ back where it came from.
 
 **What he wants:** for the birds to work, and to be left alone with them.
 
-**In Chapter 2 (2011):** drives Eros round the 43 dead detectors for the
-anomaly watch; the crab, the wasps' nest; tells him about the dredger and
+**In Chapter 2 (2011):** drives Eros round every detector near the island
+so the new firmware (full readings, not just alarms) can be installed by
+hand, as the rules require; the crab living politely beside the
+electronics, the wasps' nest; tells him about the dredger and
 the "present" for a rich man's granddaughter.

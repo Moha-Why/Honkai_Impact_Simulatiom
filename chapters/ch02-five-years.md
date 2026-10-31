@@ -1024,13 +1024,17 @@ He stared at me. "That's what it was called?"
 
 "It started as a joke."
 
-"Of course it did." He rubbed his face. "Ours, then. Not weather. Our stuff. Seismic. Atmosphere. Satellite time. Two hundred Honkai detectors up and down the coast, plugged into nothing." He waved a hand at the floor, meaning the ninth floor under it. "Watch room's three officers and a spreadsheet. They find out when somebody phones." He looked at the printouts on his chair. "I want them to know before the phone."
+"Of course it did." He rubbed his face. "Ours, then. Not weather. Our stuff. Seismic. Atmosphere. Satellite time. Two hundred Honkai detectors up and down the coast." He waved a hand at the floor, meaning the ninth floor under it. "Watch room sees everything. That's the trouble. Four hundred alarms a week. Storms. Ferries. A cement works in Kyushu. Three officers check every one by hand." He looked at the printouts on his chair. "The big ones, fine. Nobody misses a big one. The small real ones sit in the pile with the rain. By the time somebody gets to them, they're not small."
 
-"You want weird_stuff with real data."
+"You want something that sorts the pile."
 
-"I want it not called that."
+"I want the small real ones on top. Fast."
 
-"weird_stuff_v4," I said. "It could work."
+"weird_stuff_v4," I said.
+
+"Not called that."
+
+"It could work. It won't tell you where one's going to start. Nobody can do that." I thought about it. "But once one has started, however small, it could tell you it's real in a minute instead of an hour."
 
 "How long?"
 
@@ -1076,17 +1080,17 @@ The senior duty officer was a woman called Yoon Seo-yeon. She was thirty-one, Ko
 
 She didn't like me. She made that clear in the first five minutes, politely.
 
-"Dr. Mori says you're going to connect the detectors," she said, standing behind my chair while I logged in to the console they'd cleared for me at the end of the row. "All two hundred of them."
+"Dr. Mori says you're going to sort my alarms for me," she said, standing behind my chair while I logged in to the console they'd cleared for me at the end of the row. "All four hundred a week."
 
-"Two hundred and eleven. I counted."
+"Four hundred and twelve last week. I counted."
 
-"Some of them are broken."
+"Two hundred and ninety of those were rain."
 
-"Forty-three of them are broken. I've put in a ticket."
+"Two hundred and ninety-one. One was rain and a ferry."
 
-She looked at me over the mug. "And then you're going to put everything into one program that tells us where the Honkai is going to be before it gets there."
+She looked at me over the mug. "And then your program is going to tell me which ones are real before I've finished my coffee."
 
-"Before most people notice. Not before it gets there."
+"Sooner than you would. Not before they happen. Nothing can do that."
 
 "I've had three of these," she said. "Three programs in seven years. Six and a half. All from very clever young men on the eleventh floor. Each of them was going to change everything." She drank. "The first one told us there was a Honkai outbreak in Seoul every time it rained. The second one told us there was nothing anywhere, ever, until the day somebody unplugged it and nobody noticed for a week. The third one went off at three in the morning because a satellite had a software update, and I sent a squad to an empty field in Mongolia."
 
@@ -1106,11 +1110,11 @@ Most of it was boring, and I loved it. I spent February rewriting the drivers fo
 
 The detectors themselves were Hamada's.
 
-He was the senior field technician, about sixty, small and brown and creased, with a cigarette behind one ear that he never lit indoors and a voice like a gravel path. He'd been on the island longer than the island had been finished. He drove a little electric cart with a box of tools in the back and a radio that only played enka, and in January, when I needed to know why forty-three detectors had stopped talking, he drove me round all of them.
+He was the senior field technician, about sixty, small and brown and creased, with a cigarette behind one ear that he never lit indoors and a voice like a gravel path. He'd been on the island longer than the island had been finished. He drove a little electric cart with a box of tools in the back and a radio that only played enka. In January I needed new firmware on every detector within reach of the island, so that each one would send me its full readings instead of only its alarms, and by the rules a Honkai instrument could only be updated by hand with a field technician standing next to it. So Hamada drove me round all of them.
 
-"Birds," he said, the first morning, as we bumped along the top of the seawall in the rain with the wipers going. "I call them the birds. They sit on poles and they listen. Most of them are fine. Some of them are deaf. Some of them are dead." He pointed with his chin at a mast on the breakwater ahead of us, with a gray box on top and a cable hanging loose from it. "That one's been dead since 2007. Nobody asked."
+"Birds," he said, the first morning, as we bumped along the top of the seawall in the rain with the wipers going. "I call them the birds. They sit on poles and they listen. Good birds. They hear everything." He pointed with his chin at a mast on the breakwater ahead of us, with a gray box on top. "That one hears ships. Every ship. It's never once been wrong about a ship."
 
-We climbed the mast. That is, I climbed it, in a harness, in the rain, holding on with both hands and my eyes shut for the first three meters, and Hamada stood at the bottom with his hood up and shouted instructions. The box at the top had a crab living in it. It was a small green crab, and it had got in through a crack in the seal and made a home among the wires, and over what must have been years it had chewed through the data cable. It looked at me when I opened the lid and lifted one claw.
+We climbed the mast. That is, I climbed it, in a harness, in the rain, holding on with both hands and my eyes shut for the first three meters, and Hamada stood at the bottom with his hood up and shouted instructions. The box at the top had a crab living in it. It was a small green crab, and it had got in somehow through a drain hole and made itself a home in the dry corner beside the electronics, without touching any of them, which showed more respect for the equipment than most engineers I'd worked with. It looked at me when I opened the lid and lifted one claw.
 
 "Crab," I shouted down.
 
@@ -1118,7 +1122,7 @@ We climbed the mast. That is, I climbed it, in a harness, in the rain, holding o
 
 "It's a crab."
 
-"Same thing. Bring it down. We'll put it back."
+"Same thing. Bring it down. We'll put it back after."
 
 I brought it down in a coffee can. He took it to the edge of the breakwater and tipped it out onto the rocks, and it went sideways into the water and was gone, and Hamada stood there for a moment watching the place where it had been, with the rain running off his hood.
 
@@ -1134,7 +1138,7 @@ I knew who the rich man was, and I knew the granddaughter, and I'd watched her h
 
 "That's what I said." Hamada climbed back into the cart. "Come on. Forty-two more. The one at the north end has an eel in it, probably."
 
-It didn't have an eel in it. It had a wasps' nest, and we fixed it in March, when the wasps had gone.
+It didn't have an eel in it. It had a wasps' nest under the lid, and we did that one in March, when the wasps had gone.
 
 We argued about thresholds. She wanted the program to be certain before it said anything. I wanted it to say something early and let her decide. Every week I'd show her what it would have flagged in the last week, and she'd sit at my console with her mug and her glasses on her nose and go through every single alert, one by one, and say "No," or "No," or "That was a ferry," or "That was a thunderstorm," or once, after a long time, "Hm."
 
@@ -1224,7 +1228,7 @@ Then I got up and went back to the station, and caught the last train to the air
 
 It went live at the beginning of September, with Yoon's hand on the switch, because she said if it was going to make a fool of anyone it was going to make a fool of her first.
 
-For a month nothing happened. The program watched two hundred and eleven detectors, of which a hundred and ninety-six were working, and every seismic array and weather station and satellite feed we could find, and it said nothing at all, except for a fire at an oil refinery near Busan that it flagged forty minutes before the news did and which turned out to be an ordinary fire. Yoon had a cup of coffee with one sugar waiting on my console every morning. I started sleeping badly.
+For a month nothing happened. The program watched two hundred and eleven detectors and every seismic array and weather station and satellite feed we could find, and it said nothing at all, except for a fire at an oil refinery near Busan that it flagged forty minutes before the news did and which turned out to be an ordinary fire. Yoon had a cup of coffee with one sugar waiting on my console every morning. I started sleeping badly.
 
 On the eleventh of October, at seventeen minutes past four in the morning, my phone went off.
 
@@ -1234,7 +1238,7 @@ Yoon was already in the watch room. She was in a fleece over her pajamas, with h
 
 "How long?" I said.
 
-"Oh-four-seventeen. Six minutes ago. Seven." She didn't look round. "The local detector's showing a rise. Small. Your program put it together with the seismic array at Pohang and the atmospheric station at Ulsan and it says there's going to be an event, and it says in the next three hours." She drank from the mug. There was nothing in it. "My grandmother lives forty kilometers north of there."
+"Oh-four-seventeen. Six minutes ago. Seven." She didn't look round. "Local detector's showing a rise. Small. Point six over baseline, offshore, under the water. The old way, that goes in the pile with the weather." She didn't take her eyes off the circle. "Your program put it together with the seismic array at Pohang and the atmospheric station at Ulsan, and it says it isn't weather. It says something's already started out there, and it's getting bigger." She drank from the mug. There was nothing in it. "My grandmother lives forty kilometers north of there."
 
 "What do you want to do?"
 
@@ -1258,7 +1262,7 @@ The report came in at noon. Yoon printed it out, which she never did, and walked
 
 I read it. It was two pages. It listed the squad, and the time of the event, and the type and number of the things that had come out of the sea, and the damage to property, which was a seawall and three boats and part of a fish market. Under Casualties, Civilian, it said 0. Under Casualties, Schicksal, it said 1, minor, and then in brackets, sprained wrist (fell on the stairs).
 
-At the bottom, under Notes, somebody had typed early warning from Far East anomaly watch, approximately three hours, enabled full evacuation of the harbor district.
+At the bottom, under Notes, somebody had typed low-level event detected offshore by Far East anomaly watch approximately three hours before landfall, enabled full evacuation of the harbor district.
 
 I read it three times. Then I got up and went out into the stairwell, where nobody ever went because there were lifts, and sat down on the steps between the ninth floor and the tenth, and stayed there for a while with the report on my knees.
 

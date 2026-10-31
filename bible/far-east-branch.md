@@ -25,6 +25,17 @@ Honkai, and deliberately ordinary in the staff's daily life. Both are on
 purpose.
 
 **Ahead:**
+- **Honkai detection:** mature. Detectors along the coasts and the seismic,
+  atmospheric and satellite feeds catch every outbreak the moment it
+  starts; nobody misses a big one. The Honkai itself stays unpredictable;
+  nothing tells you where or when the next one will begin. The weak point
+  in 2010 is triage: about 400 alarms a week, mostly storms, ferries and
+  industry, checked by hand, so small real events sit in the pile until
+  they're not small. Eros's anomaly watch program (live September 2011) is
+  a sorter: it fuses the feeds and says within a minute whether a small
+  signal is a real event. It does not predict. At Pohang (October 2011) it
+  flags a small real event offshore three hours before the beasts come
+  ashore.
 - **Simulation rooms:** empty white halls that the core fills with hard
   light and shaped Honkai energy. Terrain and beasts are solid; you can
   stand on them, break them and bleed on them. HQ's rooms are the same kind.
