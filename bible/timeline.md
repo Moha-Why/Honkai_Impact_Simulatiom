@@ -16,9 +16,9 @@ story reaches them.
 | 2006 | Eros starts university in Hangzhou at fifteen. Professor Han becomes his advisor. |
 | 2007 | Director Zhou dies of a stroke. She leaves Eros the original note. |
 | 2008 | Eros starts the anomaly program. |
-| 2009, March | Eros, eighteen, uploads his findings. Schicksal drafts him the next evening and flies him to the Far East Branch technical center on St. Freya's island. On his first day the core gives him a shock and nothing else. |
+| 2009, March | Eros, eighteen, uploads his findings. Schicksal drafts him the next evening and flies him to the Far East Branch technical center on its own reclaimed island (St. Freya is on a separate island two hours south). On his first day the core gives him a shock and nothing else. |
 | 2009 | Theresa (S-rank) and her grandfather Otto are at odds. |
-| 2009, June 21 | Canon: Theresa transfers to the Far East Branch, away from Otto, and founds St. Freya (some sources say St. Freya is older). |
+| 2009, June 21 | Canon: Theresa transfers to the Far East Branch, away from Otto, and opens St. Freya on its own island, two hours south of the technical center by helicopter. Otto had that island built for her in 2006 to 2008; it is nearly finished by March 2009. The first intake (about 120 girls) comes in September 2009 and spends a week at the technical center for suit fittings and tests before flying south. |
 | 2007 | Canon: Ragna saves 11-year-old Rita in a Honkai incident in Manchester. |
 | 2010 | Canon: the Valkyrie Assault Squad (Himeko's squad) is nearly wiped out on a mission and disbanded. Ragna dies. |
 | 2011, August | Eros buys Mizuki Tsugumi's demo, Paper Lantern, at the summer Comiket in Tokyo, and sends her a bug report. Pen pals from then on. |
@@ -35,8 +35,15 @@ story reaches them.
 
 ## Open questions
 
-- Resolved: the Far East Branch technical center is on the reclaimed island
-  in the Far East that Otto gave Theresa, where St. Freya is. Canon calls
-  the island itself the "Far East Branch". Chapter 1 only lets Eros smell
-  the sea.
+- Resolved: the Far East Branch is an organization with several sites, not
+  one place. Its technical center (R&D, simulation, the anomaly watch,
+  logistics, about 400 staff) is on a reclaimed island built in 1998 to
+  1999, with a ferry to Shiomi. St. Freya is on a **separate** reclaimed
+  island Otto had built for Theresa in 2006 to 2008, two hours south by
+  helicopter. Theresa heads the whole branch and visits the technical center
+  often. Every new St. Freya intake passes through the technical center for
+  fittings and tests. Eros's team builds and maintains St. Freya's training
+  simulators, so he goes south for installs and calibrations a few times a
+  year (first trip September 2010). Meeting the heroines in person after
+  2014 needs a reason, a trip or a risk.
 - The fix to Kiana's K-423 backstory now that she is born in 1995.

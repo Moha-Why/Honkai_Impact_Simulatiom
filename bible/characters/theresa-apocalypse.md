@@ -30,7 +30,9 @@ cute, frilly clothes, a little nun-like.
 learned how Cecilia died and turned on Otto. She tried to get Kiana back
 from him with Siegfried and failed. Because Otto holds "Kiana", she can't
 leave Schicksal, so on June 21, 2009 she transferred to the Far East Branch
-and founded St. Freya, on a reclaimed island Otto gave her. In 2009 to 2014
+and founded St. Freya, on a reclaimed island Otto had built for her two
+hours south of the branch's technical center. As head of the whole Far East
+Branch she also runs the technical center and visits it often. In 2009 to 2014
 she and her grandfather are at odds, and she doesn't trust anything sent
 from HQ.
 
@@ -60,9 +62,11 @@ he fixed her students' battlesuit bug in ten minutes.
 remembers him ("The weather data boy!"), hears the Nagazora data, decides
 to send Himeko quietly without telling HQ, and orders him to eat a lemon
 candy. Earlier, she storms onto the eleventh floor in summer 2009 over a
-training-battlesuit bug that hurt one of her first students, and meets
+training-battlesuit bug that broke the wrist of one of the branch's
+Valkyries in a simulation room, and meets
 Eros when he fixes it.
 
-**In the Chapter 2 rewrite (autumn 2010):** Eros audits her history lesson
+**In the Chapter 2 rewrite (autumn 2010):** on his first trip south to
+install St. Freya's training simulators, Eros audits her history lesson
 for St. Freya's first-years. A student asks about Cecilia Schariac; Theresa
 answers in four sentences and moves on, and he sees what it costs her.

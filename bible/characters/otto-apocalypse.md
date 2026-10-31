@@ -21,7 +21,8 @@ bishop's. A smile that stays on his mouth and never reaches his eyes.
 - Ran the A-3 experiments (Kallen's cells with the Emperor-class Vishnu's
   genes) in 1972.
 - Theresa is his creation and calls him grandfather. They're at odds in
-  2009, and he gave her the island anyway.
+  2009, and he had an island built for her school anyway (2006 to 2008), two hours
+  south of the Far East Branch's technical center.
 - Made K-423, the clone the world will know as Kiana.
 - Doctor to the amnesiac Bianka (Durandal) since she was small, and truly
   gentle with her, in his way.

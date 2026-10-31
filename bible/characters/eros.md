@@ -26,6 +26,10 @@
 
 ## Life on the island (2009 to 2014)
 
+The island is the Far East Branch technical center's own, not St. Freya's.
+St. Freya is two hours south; he goes there only for simulator work.
+
+
 - **Money:** starts at €78,000 a year in 2009, then €140,000 as senior engineer
   from autumn 2012. More money than anyone at Willow Street ever saw. Sends a
   large part every month to the home anonymously, with the memo "for the

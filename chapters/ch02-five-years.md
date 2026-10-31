@@ -34,11 +34,11 @@ We went out through a door at the end of the ground floor corridor, and I was ou
 
 The wind got to me first. It came straight off the sea, cold and wet, smelling of salt and diesel, and it found its way inside my jacket and stayed. Then the light. I'd spent six days under fluorescent tubes, and the sky was huge and white and hurt to look at.
 
-The technical center was a low gray building with a forest of antennas on the roof. It sat at one end of a long flat strip of land that was mostly concrete and thin new grass, and all round it, as far as I could see in either direction, there was sea. On my left was the runway and the hangar I'd been driven out of with the doors shut. On my right was a fenced field of churned mud with a row of yellow cranes standing over it.
+The technical center was a low gray building with a forest of antennas on the roof. It sat at one end of a long flat strip of land that was mostly concrete and thin new grass, and all round it, as far as I could see in either direction, there was sea. On my left was the runway and the hangar I'd been driven out of with the doors shut. On my right was a helipad with three dark gray helicopters on it, and past the helipad a fenced field of churned mud with a row of yellow cranes standing over the steel frame of a long new building.
 
 I did what I'd have done on any new map. I looked for the exits.
 
-The runway was one, if you had a pilot and a reason, and I had neither. The sea was another, and that was a joke. At the far end of the island, where Asami was pointing her coffee, I could see the masts of boats.
+The runway was one, if you had a pilot and a reason, and I had neither. The helicopters were the same, only louder. The sea was another, and that was a joke. At the far end of the island, where Asami was pointing her coffee, I could see the masts of boats.
 
 "Harbor," she said. "Half an hour along the wall. Only interesting part. Come on."
 
@@ -102,31 +102,33 @@ I didn't ask where the girl had gone. Asami didn't look as though she wanted me 
 
 ---
 
-On the way back she took us along the other side of the seawall, the side that ran past the cranes.
+On the way back she took us along the other side of the seawall, past the helipad.
 
-I'd been looking at them all morning. I knew I had, and I'd been trying not to. Close up the site was bigger than it had looked from the door, a long rectangle of mud behind a fence hung with green mesh. Inside it there were foundations already poured, and the steel frames of something going up in a long line, and at the far end, on its own, one finished wall of red brick that somebody had built first as a sample.
+One of the helicopters was running. It was a big twin-rotor machine, and the noise of it came up through the concrete into the soles of my feet. Four men in orange vests were hooking a cargo net to its belly, and inside the net, sitting on a pallet, there was a bell.
 
-I knew that brick. I'd walked a girl with white hair past it a few thousand times, on a phone screen, on the bus to work.
+It was a church bell. Bronze, taller than me, gone green at the lip where somebody had cleaned it and missed a strip. I'd been looking at it since we came out of the harbor, and trying not to. While I watched, the helicopter lifted, and the net pulled tight, and the bell came up off the pallet and hung there turning slowly in the wind. Then the whole thing tipped its nose down and went away south over the water, low and loud, until it was a dot and then nothing.
+
+I knew where it was going. St. Freya had a bell tower. I'd walked a girl with white hair under it a few thousand times, on a phone screen, on the bus to work.
 
 "Guess," Asami said.
 
 "Guess what?"
 
-"What it is. Everybody gets a guess, it's a tradition." She leaned back against the railing with the sea behind her. "Nobody's allowed to say what it is, so we make the new ones guess. Last year a guy from Medical said a prison, and I bought him a beer."
+"Where it's going. Everybody gets a guess, it's a tradition." She leaned back against the railing with the sea behind her. "Mao's been flying down there three times a day since Christmas. Desks. Beds. A piano, once, which she's still angry about. Nobody's allowed to say what it is, so we make the new ones guess. Last year a guy from Medical said a prison, and I bought him a beer."
 
-I looked at the cranes and tried to think like a boy who'd been on the island for six days. A boy who'd found Schicksal through weather data, who knew it fought something called the Honkai and had soldiers called Valkyries, and knew nothing else.
+I looked at the place where the dot had been and tried to think like a boy who'd been on the island for six days. A boy who'd found Schicksal through weather data, who knew it fought something called the Honkai and had soldiers called Valkyries, and knew nothing else.
 
-"Desalination plant," I said.
+"A church," I said.
 
 Asami shut her eyes. "God."
 
-"It's an island. They'd need water."
+"It was a bell."
 
-"That's the most boring guess I've ever heard. Brenner's going to love you." She opened her eyes. "It's a school."
+"That's the most boring guess I've ever heard. Brenner's going to love you." She opened her eyes. "It's a school. Two hours south, on its own island. They're nearly done with it."
 
 "A school for what?"
 
-"For girls like me. Better ones, with good stigmata, who'll actually go out and fight." She said it lightly, and then she kept looking at me for a beat longer than she needed to. "You've been staring at that wall all morning, you know."
+"For girls like me. Better ones, with good stigmata, who'll actually go out and fight." She tipped her head at the cranes. "And they all come through here first, to get fitted for suits and tested and measured by you lot. That's their barracks. So they've got somewhere to sleep while you poke them." She said it lightly, and then she kept looking at me for a beat longer than she needed to. "You were staring at that bell like it owed you money, you know."
 
 "It's the only thing here that isn't gray."
 
@@ -136,7 +138,7 @@ She thought about that. She blew a bubble, slowly, and let it go flat without po
 
 ---
 
-The last stop was the cafeteria, which had a roof you could get onto through a fire door nobody had locked. From up there you could see the whole island at once, the runway and the mud and the harbor and the long gray wall around everything, and past the wall the sea, going on in every direction until it turned into sky. There was a ship very far out, small, going somewhere. I'd lived my whole second life in Hangzhou and had never seen this much water.
+The last stop was the cafeteria, which had a roof you could get onto through a fire door nobody had locked. From up there you could see the whole island at once, the runway and the helipad and the harbor and the long gray wall around everything, and past the wall the sea, going on in every direction until it turned into sky. There was a ship very far out, small, going somewhere. Away to the south a helicopter was coming back with an empty net. I'd lived my whole second life in Hangzhou and had never seen this much water.
 
 "Menu," Asami said, and pointed down through a skylight at a whiteboard by the serving line. Each day of the week was written up in neat marker, and Tuesday said CURRY in letters twice as big as the others.
 
@@ -380,21 +382,21 @@ Then I made instant noodles and ate them sitting in it.
 
 ---
 
-In June, the something by the cranes turned out to be a school.
+In June, the bell got a name.
 
-I found out the same way everyone else on the eleventh floor did, from a memo. The Far East Branch was getting a new head. She would also be the principal of a new academy for training young Valkyries, to be built on the island, called St. Freya. All departments were asked to support the transition. The memo was signed by an administrator I'd never heard of, and the new head's name was at the top.
+I found out the same way everyone else on the eleventh floor did, from a memo. The Far East Branch was getting a new head. She would also be the principal of a new academy for training young Valkyries, called St. Freya, on its own island two hours to the south, which was nearly finished. All departments were asked to support the transition. The memo was signed by an administrator I'd never heard of, and the new head's name was at the top.
 
 Theresa Apocalypse.
 
 I read the memo at my desk four times and then went to the bathroom so I could make a face nobody would see.
 
-I knew this part. In the game, St. Freya was where everything started. Theresa had built it after the Second Eruption, after she found out what had happened to Cecilia, after she fell out with Otto so badly that she couldn't stand to be near him and couldn't leave Schicksal either. The island had been his gift to her. I'd always thought it was a strange gift, and I thought so even more now that I was standing on it and had been sick off the side of its ferry.
+I knew this part. In the game, St. Freya was where everything started. Theresa had built it after the Second Eruption, after she found out what had happened to Cecilia, after she fell out with Otto so badly that she couldn't stand to be near him and couldn't leave Schicksal either. The school's island had been his gift to her, made for her out of the seabed. I'd always thought it was a strange gift. I thought so even more now that I'd watched its bell go past under a helicopter.
 
 She arrived at the end of June. Nobody on the eleventh floor saw her arrive, because we were underground with no windows, and the first I saw of her was three days later, on a Tuesday, in the cafeteria.
 
-I was in the curry queue behind the girl from Accounts. The room was full, as it always was on Tuesdays, and loud, and smelled of curry and floor polish, and then the swinging door from the kitchen banged open and the head chef came out of it backward.
+I was in the curry queue behind Hirano from Accounts. The room was full, as it always was on Tuesdays, and loud, and smelled of curry and floor polish, and then the swinging door from the kitchen banged open and the head chef came out of it backward.
 
-He was a very big man, six foot four, with a shaved head and forearms covered in old burn scars, and I'd once seen him throw a sack of rice onto his shoulder as if it were a coat. Now he was walking backward out of his own kitchen with his hands half raised, saying "Principal, Principal," and following him out, still talking, came someone I couldn't see over the counter.
+He was a very big man, six foot four, with a shaved head and a neck as thick as my thigh, and I'd once seen him throw a sack of rice onto his shoulder as if it were a coat. Behind him in the kitchen doorway Lao Chen stood holding a ladle, with the face of a man trying very hard not to laugh. Now he was walking backward out of his own kitchen with his hands half raised, saying "Principal, Principal," and following him out, still talking, came someone I couldn't see over the counter.
 
 Then she stepped up onto a chair.
 
@@ -402,11 +404,11 @@ She did it without any fuss. She put one foot on a chair by the drinks station a
 
 She was tiny even on the chair. Long white hair tied low and hanging over one shoulder. A white and blue dress with a lot of lace, like a nun's habit designed by somebody who liked frills. From the curry queue, fifteen meters away, I couldn't see her face properly, only that it was small and pale and not happy. In one hand she was holding a carrot.
 
-"Hello," she said. Her voice was high and very clear, and it reached the back of the room without her raising it. "I'm Theresa Apocalypse. I'm the new head of this branch, and I'm the principal of the school they're building outside, and I've just been in your kitchen." She held up the carrot. "This is the only carrot."
+"Hello," she said. Her voice was high and very clear, and it reached the back of the room without her raising it. "I'm Theresa Apocalypse. I'm the new head of this branch, and I'm the principal of the school on the other island, and I've just been in your kitchen." She held up the carrot. "This is the only carrot."
 
 Nobody said anything. The chef looked at the floor.
 
-"There are four hundred people on this island," she said. "In September there will be another hundred and twenty, and every one of them will be a growing girl, and growing girls need vegetables. Not curry. Vegetables." She looked at the carrot, and then at the chef. "I'd like more than one."
+"There are four hundred people on this island," she said. "In September a hundred and twenty more will come through it on their way to my school, and they'll eat here, and until my kitchens pass inspection this kitchen will be cooking for all of them. Every one of them is a growing girl, and growing girls need vegetables. Not curry. Vegetables." She looked at the carrot, and then at the chef. "I'd like more than one."
 
 "Principal," the chef said, very unhappily, "the menu comes from HQ."
 
@@ -420,11 +422,11 @@ She got down off the chair, neatly, one foot and then the other, and patted the 
 
 The door shut behind her. Somebody at the back laughed, and then everybody did, and the noise came back up all at once.
 
-"She's tiny," said the girl from Accounts in front of me, very seriously, as if she were reporting a weather event. She held her hand at about the height of her own shoulder. "She was shorter than the counter. And she shouted at him. He's six foot four."
+"She's tiny," said Hirano in front of me, very seriously, as if she were reporting a weather event. She held her hand at about the height of her own shoulder. "She was shorter than the counter. And she shouted at him. He's six foot four."
 
 "She didn't shout."
 
-"She didn't need to." The girl from Accounts took a tray. "My boss says she's an S-rank."
+"She didn't need to." Hirano took a tray. "My boss says she's an S-rank."
 
 "Is she?"
 
@@ -442,7 +444,7 @@ The door at the far end of the floor banged open, and the whole room went quiet.
 
 She came down the aisle between the desks very fast. She was tiny. I'd seen her once, across the cafeteria, standing on a chair, and on the floor and up close she was smaller still. She was about a head and a half shorter than me, with long white hair tied in a low ponytail that hung over one shoulder, and she was wearing a frilly white and blue dress that looked a little like a nun's habit designed by somebody who liked lace. In the game she'd had the face of a twelve-year-old. In person she didn't. She had a grown woman's face, small and sharp-featured, with bright blue eyes, and right then it was furious.
 
-She was carrying a battlesuit gauntlet. It was a training model, white plastic and metal, the kind the first St. Freya students had started wearing in the simulation rooms that summer. The wrist joint was bent at an angle that wrist joints don't bend.
+She was carrying a battlesuit gauntlet. It was a training model, white plastic and metal, the kind we were making for the first St. Freya intake. The wrist joint was bent at an angle that wrist joints don't bend.
 
 She walked straight past every desk and into Dr. Mori's office without knocking. The sign on his door still said DO NOT KNOCK UNLESS ON FIRE, so technically she was following the rules.
 
@@ -528,9 +530,9 @@ I sat there for a while with the sweet in front of me. It was a strawberry hard 
 
 ---
 
-The running started in September, the week the first St. Freya students arrived.
+The running started in September, the week the first St. Freya intake came through.
 
-I watched them come in from the roof of the cafeteria. Two buses came off the ferry and drove the length of the island with their windows down, and girls leaned out of every window, twelve and thirteen and fourteen years old, with their hair blowing everywhere, shrieking at the sea as if nobody had ever shown them one before. The school was still half scaffolding. They didn't seem to care. When the buses stopped, the girls poured out onto the mud in front of the new dormitory block and stood around in clumps with their bags, and a small figure in a white and blue dress came out of the building and clapped her hands twice, and every one of them went quiet.
+I watched them come in from the roof of the cafeteria. Two buses came off the ferry and drove the length of the island with their windows down, and girls leaned out of every window, twelve and thirteen and fourteen years old, with their hair blowing everywhere, shrieking at the sea as if nobody had ever shown them one before. They were with us for one week, for fittings and tests on the floors under mine, and then the helicopters would take them south. When the buses stopped, the girls poured out in front of the new barracks and stood around in clumps with their bags, and a small figure in a white and blue dress came out of the building and clapped her hands twice, and every one of them went quiet.
 
 I stood on the roof with my can of coffee and thought about what was going to happen to some of them.
 
@@ -540,9 +542,9 @@ And I knew the other numbers too, the ones that mattered to me. A man with an F 
 
 The next morning I set my alarm for six and went out onto the seawall in a pair of canvas shoes and the tracksuit bottoms I'd slept in.
 
-I made it two kilometers. Then I stopped, and leaned on the railing, and was sick over it onto the concrete blocks, which was getting to be a habit of mine with that particular stretch of sea. A girl in a St. Freya tracksuit went past me running easily, ponytail swinging, about thirteen years old, and called "Good morning!" over her shoulder without slowing down. I waved at her, and walked back.
+I made it two kilometers. Then I stopped, and leaned on the railing, and was sick over it onto the concrete blocks, which was getting to be a habit of mine with that particular stretch of sea. A girl in a brand-new St. Freya tracksuit went past me running easily, ponytail swinging, about thirteen years old, and called "Good morning!" over her shoulder without slowing down. I waved at her, and walked back.
 
-I went out again the next morning, and the one after that. I bought proper running shoes through the supply office, and the supply officer wrote down RUNNING and stamped it. By the end of October I could do three kilometers without stopping. By Christmas I could do four, slowly, in the dark, with the wind trying to push me off the wall. The St. Freya girls lapped me every morning. After a few weeks they started calling me "the engineer", as in "Morning, engineer!", and one of them, a red-faced girl with glasses who was even slower than me, started running with me some days, and we didn't talk, and then in November she stopped coming and I never found out why.
+I went out again the next morning, and the one after that. I bought proper running shoes through the supply office, and the supply officer wrote down RUNNING and stamped it. By the end of October I could do three kilometers without stopping. By Christmas I could do four, slowly, in the dark, with the wind trying to push me off the wall. The intake had gone south by then, and it was the island's own Valkyries who lapped me every morning, the suit-trial squad and the logistics crews and Dr. Aasen, who shouted at my knees as she went past. After a few weeks they started calling me "the engineer", as in "Morning, engineer!", and one of them, a red-faced radio girl with glasses who was even slower than me, started running with me some days, and we didn't talk, and then in November she stopped coming and I never found out why.
 
 I didn't tell anyone what it was for. Asami worked it out anyway.
 
@@ -854,11 +856,11 @@ Walking back along the seawall in the dark, she bumped my shoulder with hers.
 
 ---
 
-St. Freya opened its doors properly that September, with the scaffolding down and a bell tower and a lot of very new red brick, and with the doors came a rule that staff could sit in on one class a term, at the back, if the teacher agreed.
+That September I went south for the first time. The training simulators in St. Freya's basement were ours, built on the eleventh floor and shipped down in crates, and somebody had to sit with them for two weeks until they stopped crashing. Mori sent me. The school was a year old by then, all very new red brick under the bell tower, and it had a rule that visiting staff could sit in on one class, at the back, if the teacher agreed.
 
 I signed up for history.
 
-I told myself it was research. The history of Schicksal as taught to its own children was data, and I wanted it. But I'd also found out who taught first-year history that autumn, and when the list went up on the noticeboard by the cafeteria I put my name on it before I could talk myself out of it.
+I told myself it was research. The history of Schicksal as taught to its own children was data, and I wanted it. But I'd also found out who taught first-year history that autumn, and when I saw the timetable in the staff room I asked the secretary before I could talk myself out of it.
 
 The classroom was on the second floor of the new building, with windows on the sea and the smell of fresh paint. There were twenty-two girls in navy uniforms, about twelve years old, sitting very straight. I sat at the back on a chair that was too small, next to a medical officer who was auditing too and who fell asleep almost at once. At nine o'clock exactly the door opened and Theresa came in with a book under her arm and a lollipop in her mouth, and twenty-two girls stood up as one.
 
@@ -994,7 +996,7 @@ We climbed the mast. That is, I climbed it, in a harness, in the rain, holding o
 
 I brought it down in a coffee can. He took it to the edge of the breakwater and tipped it out onto the rocks, and it went sideways into the water and was gone, and Hamada stood there for a moment watching the place where it had been, with the rain running off his hood.
 
-"I was on the dredger," he said. "When they made this. Ninety-eight, ninety-nine. We pumped sand up off the seabed for eleven months, night and day, and poured it on a reef that was here, until it was a reef with an island on top. Nobody told us what it was for." He took the cigarette from behind his ear and looked at it and put it back. "Somebody said a rich man in Europe wanted it. For his granddaughter. A present."
+"I was on the dredger," he said. "When they made this. Ninety-eight, ninety-nine. We pumped sand up off the seabed for eleven months, night and day, and poured it on a reef that was here, until it was a reef with an island on top. Then in oh-six they took us two hours south and we did it again, bigger, on another reef. Nobody told us what either one was for." He took the cigarette from behind his ear and looked at it and put it back. "Somebody said a rich man in Europe wanted the second one. For his granddaughter. A present."
 
 I knew who the rich man was, and I knew the granddaughter, and I'd watched her hold up a carrot in a cafeteria. I thought about a man in white and gold having a reef buried under sand for eleven months so that a small woman who couldn't stand him would have somewhere to put a school.
 
@@ -1942,7 +1944,7 @@ I closed the laptop and looked out of the window at the cloud for a long time.
 
 The island was the same.
 
-That was the thing I noticed first, coming off the plane into the wind on the runway with the sea all around me and the red brick of St. Freya at the far end and a line of girls in tracksuits running along the seawall in the heat. The cafeteria still did curry on Tuesdays. Mori was still asleep on his cot. Asami met me at the hangar with a can of coffee and said "You look like you've been somewhere fancy," and pushed the can into my chest. Yoon had left a cup of coffee from the blue machine on my console in the watch room, with one sugar in it, on the morning I came back, and it was cold, because she'd put it there the day before.
+That was the thing I noticed first, coming off the plane into the wind on the runway with the sea all around me and the helicopters lined up on the pad and a line of Valkyries from the trial squad running along the seawall in the heat. The cafeteria still did curry on Tuesdays. Mori was still asleep on his cot. Asami met me at the hangar with a can of coffee and said "You look like you've been somewhere fancy," and pushed the can into my chest. Yoon had left a cup of coffee from the blue machine on my console in the watch room, with one sugar in it, on the morning I came back, and it was cold, because she'd put it there the day before.
 
 I went up to my flat. The plant in the corner by the glass door had grown about twenty centimeters, because Asami had been watering it, and when I opened the door to the balcony the sea came into the room, and the noise of it, and the smell of salt and diesel from the harbor, and the line of Shiomi's lights on the mainland, coming on one by one as it got dark.
 
