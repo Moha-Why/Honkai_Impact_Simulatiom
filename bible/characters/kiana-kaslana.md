@@ -11,7 +11,8 @@ December 2013, after her birthday.
 usually in braids, with a cowlick (ahoge) sticking up on top. Fights with
 dual pistols (not at school).
 
-**Who she really is (canon, unknown to her):** K-423, a clone made by Otto,
+**Who she really is (canon, unknown to her):** K-423, a clone made by Otto from the real Kiana Kaslana (who lives as
+Bianka "Durandal" Ataegina, see bianka-durandal.md),
 with the damaged core of Sirin, the Herrscher of the Void, inside her. She
 believes she is Siegfried's daughter and is looking for him. Her hidden
 core makes her immune to Honkai corruption. (The K-423 timeline with the
