@@ -2,135 +2,331 @@
 
 On my first Saturday, Asami came to show me the island.
 
-She knocked on my door at nine with a can of coffee in each hand and her hood up, and when I opened it she pushed one of the cans into my chest and said, "Shoes. Real ones. We're walking."
+She knocked at nine. I knew it was nine because I'd been sitting on the end of the bed, dressed, since eight, waiting for something to happen. When I opened the door she pushed a hot can of coffee into my chest and looked past me into the room.
 
-"Is this part of my induction?"
+"You made the bed," she said.
 
-"It's part of me being on escort duty until Monday." She looked past me into the room, at the bed I'd made and the desk I hadn't, and at the window. "Oh, you got a wall one. Nice. Mine was a drainpipe."
+"It's a bed."
 
-We went up in the lift and out through a door I hadn't been through before, and then I was standing outside for the first time since a van in Hangzhou.
+"It's got corners. Who taught you corners, the army?"
 
-It was cold and bright and very windy. The technical center turned out to be a low gray building with a lot of antennas on the roof, sitting at the end of something long and flat. Everything around it was concrete or new grass. On my left there was a runway with a hangar at the end of it, the one I'd been driven out of with the doors shut, and beyond the runway there was nothing but sea, dark blue and choppy and going on until it hit the sky. On my right there was a lot of churned-up mud, a fence, and a row of yellow cranes standing over it like herons.
+"An orphanage."
 
-"Island," Asami said, and swept her coffee across all of it. "Man-made. They pumped it up out of the seabed about ten years ago, if you believe the plaques. Five kilometers long, a bit less than two across, seawall all the way round. Runway, harbor, us, and whatever that's going to be." She pointed at the cranes. "Nobody's allowed to say what that's going to be. Everybody knows it's a school."
+She chewed her gum and looked at the corners again. I waited for her face to do what faces usually did when I said that word, the soft careful thing, and it didn't. She blew a small bubble and popped it, and looked at the window and the concrete wall outside it.
 
-"A school."
+"Oh, you got a wall," she said. "Mine was a drainpipe. Shoes. Real ones. We're walking."
 
-"For girls like me, except better." She drank. "Come on. Harbor first, it's the only interesting part."
+"Where?"
 
-The harbor was at the far end, half an hour's walk along the top of the seawall. The wall was wide enough for a truck, with a railing on the sea side and a long drop to big gray concrete blocks that the waves ran in and out of. Joggers went past us in Schicksal sweatshirts. A woman in a full combat harness went past us on a bicycle with a loaf of bread under one arm, and Asami waved to her and she waved back with the bread.
+"Everywhere. It's a small island and I've got you until Monday." She was already heading for the lift with her hands in the front pocket of her hoodie. "Monday I write your escort report, and then you're Brenner's problem and I go back to sleeping on helicopters."
 
-"Medical," Asami said. "She does knees. If you ever do your knee, ask for her."
+I caught her up at the lift. "What goes in an escort report?"
 
-"Why would I do my knee?"
+"Three lines." She held up three fingers and folded them down with her thumb. "Ate. Slept. Didn't try to swim to Korea. That's the standard. If I write a fourth line it means I noticed something, and then Brenner calls me into his office and offers me a peppermint, and I hate his peppermints." The lift came. She stepped in and looked at me sideways. "So don't make me write a fourth line, genius."
 
-"Everyone here does their knee eventually. It's the stairs."
+"I'll be boring."
 
-The harbor had a breakwater, two big cranes for unloading ships, a fuel depot, a row of warehouses, and a small blue ferry tied up at a concrete jetty with SHIOMI LINE painted on its side. There was a low building by the docks with a corrugated roof and a hand-painted sign that just said BAR.
-
-"Ferry goes to Shiomi Tuesdays and Fridays," Asami said. "An hour and twenty if the sea's good, two hours if it isn't, and you'll be sick either way the first time. Shiomi's a fishing town with a train station. From the station you can get anywhere." She nodded at the bar. "That's the bar. It's the only one. The logistics crews drink there because it's the only place on this rock that doesn't feel like work. Rule one, never order the squid on Mondays."
-
-"What's wrong with it on Mondays?"
-
-"It's Friday's squid." She looked at me. "You drink?"
-
-"Not much."
-
-"You'll learn. Rule two." She held up two fingers, pointed one of them at the technical center behind us and the other at the cranes. "What happens in there, you don't say out here, even to us. Out here we talk about football and the weather and who's sleeping with who in Accounts. It's not because anyone's listening, although they are. It's because if you talk about it all the time you go strange. The ones who go strange don't last."
-
-I thought about that while we walked back. The wind had dropped a little, and the sea had gone from dark blue to a sort of polished gray, and there was a ship far out on it, very small, going somewhere. I'd lived in Hangzhou my whole second life and had never once been somewhere I could see this much water.
-
-"How many people live here?" I asked.
-
-"About four hundred now. There'll be more when that's built." She jerked her chin at the cranes. "Engineers, medical, logistics, admin, a few security people like Brenner, and the girls who come through on their way somewhere. Supply office is on the ground floor of the technical center, by the way. You can order almost anything if you've got a reason. Last year somebody in Simulation ordered a full-size inflatable whale for 'collision testing.'"
-
-"Did they get it?"
-
-"It's in a warehouse. Nobody's allowed to deflate it. It's like a pet now." She finished her coffee and crushed the can in one hand, without seeming to notice she'd done it, as someone else might fold a receipt. It was the first time I'd seen what she was. I filed it away.
-
-At the cafeteria she showed me the roof, where you could see the whole island at once, and the menu board, where Tuesday said CURRY in letters twice as big as the other days.
-
-"Curry Tuesday," she said, with real respect. "Don't miss it. People have come back from deployments with broken arms and gone straight to the curry. Somebody tried to change it to pasta once."
-
-"What happened?"
-
-"He works in Antarctica now."
-
-I laughed. She looked pleased with herself, and then she looked at me properly, as she had on the plane, and stopped smiling.
-
-"You're taking this really well, you know," she said. "Most of the tech recruits spend the first week in their room. One girl last year cried for three days. She's fine now, she runs half the network, but she cried for three days."
-
-"I don't really have anything to cry about," I said. "I didn't leave anybody."
-
-She thought about it for a while. Then she said, "Huh," the same as she'd said on the plane, and that was the end of the tour.
+"Everyone says that." The doors closed. "Nobody's boring their first week. You'd be amazed what people ask."
 
 ---
 
-The orientation course was three afternoons in a seminar room on the second floor, with eleven of us around a long table and a projector that hummed.
+We went out through a door at the end of the ground floor corridor, and I was outside for the first time since a van in Hangzhou with the windows blacked out.
 
-There were two other engineers, a girl from Accounts who really had cried for a day, four medical staff, a radio technician, a cook from Taiwan, and a pair of identical twin brothers from Security who sat with their arms folded and didn't speak to anyone. Everyone else had been with Schicksal for a few weeks or a few months. I'd been with it for six days, and I was the only one who wasn't taking notes.
+The wind got to me first. It came straight off the sea, cold and wet, smelling of salt and diesel, and it found its way inside my jacket and stayed. Then the light. I'd spent six days under fluorescent tubes, and the sky was huge and white and hurt to look at.
 
-The course was taught by the archivist. He was called Professor Ōta, and he was very old and very small, with a bald head and eyebrows that seemed to have been designed for a much larger man, and he wore a tweed jacket even though the heating in the seminar room was turned up so high that the cook had taken off his sweater. He had a slide clicker that he held like a conductor's baton.
+The technical center was a low gray building with a forest of antennas on the roof. It sat at one end of a long flat strip of land that was mostly concrete and thin new grass, and all round it, as far as I could see in either direction, there was sea. On my left was the runway and the hangar I'd been driven out of with the doors shut. On my right was a fenced field of churned mud with a row of yellow cranes standing over it.
 
-"Before you can work here," he said on the first afternoon, "you should know a little about where you are. Not much. A little. Most of it is classified, and the rest of it is long."
+I did what I'd have done on any new map. I looked for the exits.
 
-He clicked. The first slide was a photograph of a cave painting. Stick figures, a lot of them, all running in the same direction, and above them something that wasn't a stick figure, a big shape done in red ochre with too many limbs.
+The runway was one, if you had a pilot and a reason, and I had neither. The sea was another, and that was a joke. At the far end of the island, where Asami was pointing her coffee, I could see the masts of boats.
 
-"This is from France," Ōta said. "About thirty thousand years old. What you are looking at is a Honkai."
+"Harbor," she said. "Half an hour along the wall. Only interesting part. Come on."
 
-Somebody from Medical said, "Oh," very quietly.
+The seawall went all the way round the island. It was wide enough for a truck, with a railing on the sea side and a long drop to gray concrete blocks that the waves ran in and out of. People jogged past us in Schicksal sweatshirts. Asami walked down the middle of the path and made them go round her.
 
-I'd seen that painting before. It wasn't in the game exactly, but there'd been a piece of concept art in a collector's book that looked a lot like it, and a fan on the forums had once spent four thousand words arguing it was based on something real in Lascaux. I made my face do what everyone else's face was doing, which was go a little pale and lean forward.
+"Five kilometers long," she said. "Two across, bit less. They pumped it up off the seabed about ten years ago, according to the plaques, and the plaques also say it's a wind research station, so." She shrugged one shoulder. "About four hundred people. Engineers, medical, logistics, admin, a few guys like Brenner. And girls coming through on their way to somewhere worse."
 
-"The Honkai," Ōta went on, "is not new. It comes, it grows, it nearly destroys whoever is living at the time, and then it goes quiet, and then it comes back. We call each of those cycles an era. Ours is not the first. We believe there were others before ours, much more advanced than ours, and that they lost." He let that sit. "We would prefer not to lose."
+"Is that you? On your way somewhere worse?"
 
-He clicked again. The next slide was a woodcut. Knights on horses, and in front of them a woman in armor with a sword, and behind her a cross.
+She turned her head. I'd said it without thinking, in the voice I'd have used in my first life on a junior who'd said something silly in a meeting, and for a second I thought I'd got her wrong. Then one side of her mouth went up.
 
-"Schicksal," he said, and he said it like an old man saying the name of his old school. "Founded in Europe many centuries ago, to fight the Honkai when nobody else understood what it was. For most of history, we were the only ones who did."
+"I'm on my way to lunch," she said. "Forever. That's the dream."
 
-The cook from Taiwan put his hand up. "How many centuries?"
+A bicycle bell rang behind us, hard and fast. A tall woman with a sunburned face and a white-blonde braid came past us wearing a full combat harness over her sweatshirt, with a loaf of bread sticking out of one of the pouches. She braked so hard her back wheel skidded on the concrete.
 
-"Many," Ōta said, and smiled at him with great kindness, and clicked.
+"Kudo!" she shouted, from two meters away. "Thursday!"
 
-It was like watching the opening cutscene of a game I'd already finished. I knew where every part of it was going. When he talked about the Honkai being drawn to human civilization, I knew he was simplifying something that took six chapters of the main story and two spin-off manga to explain. When he talked about Valkyries and stigmata, I knew he was leaving out where the first stigmata had come from. When he put up a slide about the Second Eruption in Siberia, a satellite photograph of a white circle in a white landscape, and said that it had been "contained with heavy losses", I thought about a man in a white coat called Welt Yang and a woman with white hair called Cecilia, and kept my eyes on the slide.
+"Morning, Doctor Aasen."
 
-It was the strangest three afternoons of my life, and the hardest part was the acting. I'd never been a good actor. In my first life I'd been the kind of person who couldn't pretend to like a birthday present. Now I had to look surprised every five minutes at things I'd known since my twenties, and look surprised at the right moments, and not look surprised at the wrong ones, because some of what Ōta said was news to everyone in that room and some of it was only news to the medical staff.
+"You missed Thursday!"
 
-On the second afternoon, he got to the Overseer.
+"I had a flight."
+
+"You did not have a flight. I looked at the board." She pointed at Asami's left knee, then at her own eyes, then at the knee again. "That knee clicks. I heard it click from the canteen. Next Thursday, or I tell your commander you're unfit to fly." Her eyes went to me and looked me up and down, as though I were a horse someone was trying to sell her. "New?"
+
+"Engineer," I said.
+
+"Good. Engineers never do their knees. They sit." She stood up on the pedals and was gone, the bread bouncing.
+
+Asami watched her go. "Rule one," she said. "Never let Aasen see you limp."
+
+"Does your knee click?"
+
+"No." She walked on. About ten steps later I heard it click. She didn't look at me and I didn't say anything, and she chewed her gum a little harder for a while.
+
+---
+
+The harbor had a breakwater, two big cranes for the supply ships, a fuel depot and a row of warehouses, and a small blue ferry tied up at a concrete jetty with SHIOMI LINE painted on its side. Next to the warehouses was a low building with a corrugated roof and a hand-painted sign that said BAR.
+
+I counted the boats. The ferry. Two orange rescue launches hanging on davits. A gray patrol boat with something on its bow under a canvas cover. A couple of little aluminum things with outboards, pulled up on the slipway.
+
+"Ferry goes to Shiomi Tuesdays and Fridays," Asami said. "An hour twenty if the sea's good. Two hours if it isn't. You'll be sick the first time."
+
+"I don't get seasick."
+
+"Everybody says that too." She looked out at the water with real contempt. "My dad had a boat in Kōchi. I've watched grown fishermen cry. You'll be sick. Shiomi's a fishing town with a train station, and from the station you can go anywhere in Japan, so people get ideas. Don't get ideas. They check the ferry list." She nodded at the bar. "That's the bar. Rule two, never order the squid on a Monday."
+
+"Because it's Friday's squid."
+
+She pointed at me. "See, that's your problem. You're quick." She didn't sound as if she thought it was a problem. "Rule three."
+
+"What's rule three?"
+
+"There isn't one, I forgot it. Rule four." She took a hand out of her pocket and pointed two fingers, one back at the technical center and the other at the bar. "What happens in there, you don't say out here. Not even to us. Out here it's football and the weather and who's sleeping with who in Accounts."
+
+"Because somebody's listening?"
+
+"Somebody's always listening. That's not why." Her jaw stopped moving. "There was a girl my first year. Radio. Very good at it. She talked about it all the time, at the bar, on the ferry, the calls she heard on the headset. The ones that stopped in the middle." The gum started again. "She's not here anymore. So, rule four. You keep one place where it isn't."
+
+I didn't ask where the girl had gone. Asami didn't look as though she wanted me to, and I'd read enough of Dr. Mori's binder by then to have an idea of the places people went.
+
+---
+
+On the way back she took us along the other side of the seawall, the side that ran past the cranes.
+
+I'd been looking at them all morning. I knew I had, and I'd been trying not to. Close up the site was bigger than it had looked from the door, a long rectangle of mud behind a fence hung with green mesh. Inside it there were foundations already poured, and the steel frames of something going up in a long line, and at the far end, on its own, one finished wall of red brick that somebody had built first as a sample.
+
+I knew that brick. I'd walked a girl with white hair past it a few thousand times, on a phone screen, on the bus to work.
+
+"Guess," Asami said.
+
+"Guess what?"
+
+"What it is. Everybody gets a guess, it's a tradition." She leaned back against the railing with the sea behind her. "Nobody's allowed to say what it is, so we make the new ones guess. Last year a guy from Medical said a prison, and I bought him a beer."
+
+I looked at the cranes and tried to think like a boy who'd been on the island for six days. A boy who'd found Schicksal through weather data, who knew it fought something called the Honkai and had soldiers called Valkyries, and knew nothing else.
+
+"Desalination plant," I said.
+
+Asami shut her eyes. "God."
+
+"It's an island. They'd need water."
+
+"That's the most boring guess I've ever heard. Brenner's going to love you." She opened her eyes. "It's a school."
+
+"A school for what?"
+
+"For girls like me. Better ones, with good stigmata, who'll actually go out and fight." She said it lightly, and then she kept looking at me for a beat longer than she needed to. "You've been staring at that wall all morning, you know."
+
+"It's the only thing here that isn't gray."
+
+She thought about that. She blew a bubble, slowly, and let it go flat without popping it, and peeled it back into her mouth with her tongue.
+
+"Fair," she said.
+
+---
+
+The last stop was the cafeteria, which had a roof you could get onto through a fire door nobody had locked. From up there you could see the whole island at once, the runway and the mud and the harbor and the long gray wall around everything, and past the wall the sea, going on in every direction until it turned into sky. There was a ship very far out, small, going somewhere. I'd lived my whole second life in Hangzhou and had never seen this much water.
+
+"Menu," Asami said, and pointed down through a skylight at a whiteboard by the serving line. Each day of the week was written up in neat marker, and Tuesday said CURRY in letters twice as big as the others.
+
+"Curry Tuesday," I said.
+
+"Don't say it like that. People have come back from deployments with broken arms and gone straight to the curry. There's a new cook starting this week. If he touches the curry there'll be a riot."
+
+"What happened to the old cook?"
+
+"He tried to make it pasta." She took a long drink. "He works in Antarctica now."
+
+"There's a branch in Antarctica?"
+
+"There's a branch everywhere you'd hate to be." She finished the can and closed her fist on it, without looking, as someone else might crumple a receipt. The steel folded down into a flat disc the size of a large coin. She put it in her pocket.
+
+I'd known what she was. I'd known it out of a game, the way I knew everything about this world. A D-rank Valkyrie was the weakest kind there was, the kind the story never bothered to draw. Watching a girl fold a steel can like paper while she talked about curry was something else, and I didn't have a face ready for it.
+
+She saw me looking.
+
+"Supply office is on the ground floor," she said, as though nothing had happened. "You can order almost anything if you've got a reason. Somebody in Simulation ordered a full-size inflatable whale last year for collision testing."
+
+"And they got it."
+
+"It's in Warehouse Six. Nobody's allowed to let the air out. People visit it." She sat down on the frame of the skylight and took her phone out. "Okay. Report."
+
+"Now?"
+
+"I'm not doing it Monday, Monday I'll be asleep." She started typing with her thumb. "Ate. You ate, right?"
+
+"Noodles."
+
+"Ate." Tap. "Slept."
+
+"Some."
+
+"Slept. Didn't try to swim to Korea." She looked up at me. "You weren't going to swim to Korea."
+
+"I was going to take the ferry."
+
+She snorted, and her thumb stopped over the screen, and she looked at me properly, the same look she'd given me on the plane.
+
+"You're taking all this really well, you know," she said. "Most tech recruits don't come out of their room for a week. A girl last year cried for three days. She runs half the network now, she's fine, but three days."
+
+"There's nobody I left behind to cry about."
+
+She chewed for a while. Then she said "Huh," as she had on the plane, and looked down at the phone again, and her thumb moved. I couldn't see the screen from where I was standing. I didn't try to.
+
+She put the phone away and stood up and stretched until something in her back cracked.
+
+"Lunch," she said, and went down the fire stairs without waiting to see if I was coming.
+
+---
+
+The orientation course was three afternoons in a seminar room on the second floor, eleven of us round a long table under a projector that hummed.
+
+Most of them I only ever knew by their jobs. Two other engineers. Four people from Medical who sat together and passed a packet of mints along their row. A radio technician. A small neat girl from Accounts called Hirano, with a row of colored pens lined up beside her notebook and eyes that were still a little pink at the corners. A pair of identical twins from Security, the Vargas, very big and very bored, with their arms folded. And a round bald man with old burn scars all up his forearms, who came in already sweating, pulled his sweater off over his head before he sat down, and said to the whole room, "Is it always this hot? I'm the cook. If it's always this hot I'm moving the walk-in."
+
+He heard me say something to the engineer next to me and turned all the way round in his chair.
+
+"You're from the mainland," he said, in Mandarin. Taiwanese Mandarin, slow and broad, like the soap operas the aunties used to watch at Willow Street. "Where?"
+
+"Hangzhou."
+
+"Hangzhou! West Lake. Dongpo pork." He reached a hand across the corner of the table. "Chen Jianhong. Everybody calls me Lao Chen. Tainan. Twenty years in hotel kitchens, and now this." He looked round the seminar room as if it were a kitchen someone had asked him to fix. "Xiao di. You know what any of this is?"
+
+"I know they make battlesuits," I said, which was what I'd been told.
+
+"I know they eat lunch," said Lao Chen. "That's enough for me."
+
+Then the door opened and the archivist came in, and the room went quiet on its own.
+
+Professor Ōta was very old and very small, with a bald head and a pair of thick black eyebrows that seemed to belong to a much larger man and moved about independently of the rest of his face. He wore a tweed jacket with patches on the elbows, although the heating was up so high that Lao Chen was fanning himself with the handout, and he held his slide clicker like a conductor's baton. He put on a pair of reading glasses to look at us, and took them off again to look at the screen.
+
+"Before you can work here," he said, "one ought to know a little about where one is. Not a great deal. A little. Most of it is classified, and the rest is very long."
+
+He clicked. The first slide was a photograph of a cave wall. Stick figures, a crowd of them, all running the same way, and above them a large shape done in red ochre with too many limbs.
+
+"What do you suppose that is?" he asked the room.
+
+Nobody said anything. Hirano wrote down the question.
+
+"A bear," said Lao Chen.
+
+"How many legs has a bear, Mr. Chen?"
+
+Lao Chen counted on the screen with his finger. He got to nine and stopped. "A bad bear."
+
+Ōta's eyebrows went up and stayed up, and it took me a moment to work out that he was delighted. "France," he said. "Thirty thousand years old, give or take. And what you are looking at, I'm afraid, is a Honkai."
+
+One of the Medical people said "Oh," very quietly.
+
+I'd seen that painting before. There'd been a piece of concept art in a collector's book that looked a lot like it, and a man on a forum had once spent four thousand words arguing that it was based on a real cave. I put my hands under the table and leaned forward a little, as the Medical people were doing, and let my mouth come open.
+
+Ōta told us about eras. The Honkai came, he said, and grew, and very nearly destroyed whoever happened to be living at the time, and then it went quiet, and then it came back. Ours was not the first civilization it had come for. There had been others before ours, a great deal more advanced, and they had lost.
+
+"We would prefer," he said, "not to."
+
+Lao Chen put his hand up. "Do they eat?"
+
+"I beg your pardon?"
+
+"The Honkai. Do they eat things? People? What do they want?"
+
+That was the question. It was the one at the center of the whole story, the one that took six chapters and two manga to answer, and a cook from Tainan had asked it in the first twenty minutes because he wanted to know what was on the menu. Ōta looked at him over his glasses for a long moment.
+
+"What do you think it wants, Mr. Chen?"
+
+"I don't know. That's why I asked."
+
+"Then you are already ahead of a great many people who think they do." Ōta clicked. "We shall come back to it. One always does."
+
+The next slide was a woodcut, knights on horses with a woman in armor in front of them holding up a sword. Schicksal, Ōta said, had been founded in Europe many centuries ago, to fight the Honkai when nobody else understood what it was.
+
+"How many centuries?" Hirano asked, and went red. "Sorry. For my notes."
+
+"How many would you like?" Ōta said kindly, and moved on.
+
+I wasn't writing anything down. I hadn't since the cave painting. Everything he'd said so far I'd known for twenty years, in more detail than he was giving, and it hadn't occurred to me that holding a pen was part of the costume until Ōta stopped in the middle of a sentence about the Crusades and looked straight down the table at me.
+
+"Mr. Eros."
+
+"Professor."
+
+"You aren't writing."
+
+The room turned round. Hirano looked at her own page, which was full, and then at my empty one, as if I'd done something indecent in public.
+
+"I've got a good memory," I said.
+
+"Have you." He put his glasses on. "Then tell me, please, what I said about the painting in France. My words, if you would. Not yours."
+
+I could hear my pulse. It was a trivial thing to be asked and there was no reason to be afraid of it. But a week ago I'd been sitting in a van while a security man read my file to me, and lying on my bed that first night I'd decided I was going to be boring, and here I was on day six with the whole table looking at me.
+
+So I did what I'd have done in a code review with a senior I didn't like. I gave him exactly what he'd asked for and not a word more.
+
+"'France. Thirty thousand years old, give or take. And what you are looking at, I'm afraid, is a Honkai.' Before that you asked Mr. Chen how many legs a bear has."
+
+There was a short silence. One of the Varga twins unfolded his arms and folded them again the other way.
+
+Ōta took his glasses off. "How many legs has a bear," he said. "But very good." He looked at me a little longer, and his eyebrows did something I couldn't read. "You may go on not writing, Mr. Eros. I shall ask you again tomorrow."
+
+He did ask me again the next day, and I gave it back to him word for word, and he nodded and moved on. After that I took notes anyway. I wrote down more or less what Hirano wrote, in worse handwriting, and once when he walked past behind my chair his eyebrows settled a little, which I took to mean he'd noticed that too.
+
+On the second afternoon he got to the Overseer.
 
 "Schicksal," he said, "has been led by the Overseer for a very long time."
 
-He paused.
+He stopped. He waited until people began to wonder whether the projector had frozen.
 
 "A very long time," he said.
 
-He didn't say anything else about it. He didn't need to. Everyone in that room had walked past the portrait in the corridor downstairs, the man in white and gold with his hand on a book. A couple of people glanced at the door, as if the portrait might be listening.
+He didn't say anything else. Everyone at that table had walked past the portrait in the corridor downstairs, the young man in white and gold with one hand resting on a book.
 
-On the third afternoon he got to the Kaslanas, and I stopped having to act.
+"How long is a very long time?" said Lao Chen.
 
-"Every army has its great families," Ōta said, and clicked, and there was a painting I knew. A young woman with white hair and a long coat, standing on a battlefield with two pistols, painted in oils by someone who'd loved her. "In Schicksal, there was one family above all the others. The Kaslanas. They served Schicksal for generations, as its knights and its champions, from the very beginning. This is Kallen Kaslana. She lived in the fifteenth century, and she gave her life for Schicksal, and we regard her as a saint."
+Ōta looked at him. The eyebrows came down, slowly, until they were nearly over his eyes, and stayed there.
 
-I looked at the painting and felt my chest go tight in a way that had nothing to do with acting.
+"Longer than your contract, Mr. Chen," he said, very gently. "And longer than mine."
 
-I knew how Kallen Kaslana had really died. I knew who had loved her, and what he'd done for five hundred years because of it, and whose portrait hung in the corridor two floors down. I'd cried about her once, at two in the morning, over a cutscene I'd watched on a phone in a bathroom at work because I couldn't wait until I got home. And here she was on a slide in a seminar room, with a cook and two accountants and a radio technician looking at her and thinking, nice painting.
+Then he clicked, and Lao Chen, who wasn't a stupid man, didn't ask anything else for the rest of the afternoon. One of the twins glanced at the door.
+
+The last slide that day was a satellite photograph of a white circle in a white landscape. Siberia, Ōta said, February 2000. The Second Eruption, contained with heavy losses. Hirano asked how heavy, and he said "Heavy," and that was the slide. I knew who had been inside that circle. A man called Welt Yang, and a woman with white hair called Cecilia, and a girl with six Herrscher cores in her who wanted everyone in the world to die. I looked at it until he clicked.
+
+On the third afternoon he got to the Kaslanas, and I didn't have to act anymore.
+
+"Every army has its great families," Ōta said, and clicked, and there was a painting I knew. A young woman with white hair and a long coat, standing on a battlefield with a pistol in each hand, painted in oils by someone who had loved her. "In Schicksal there was one above all the others. The Kaslanas. Our knights and our champions, from the very beginning. This is Kallen Kaslana. Fifteenth century. She gave her life for Schicksal, and we regard her as a saint."
+
+My chest went tight.
+
+I knew how Kallen Kaslana had really died. I knew who had loved her, and what he'd spent five hundred years doing because of it, and whose portrait hung two floors down. I'd cried over her once at two in the morning, in a bathroom at work, over a cutscene on my phone, because I couldn't wait until I got home to watch it. And here she was on a slide, with a cook and a girl from Accounts and two security guards looking up at her and thinking, nice painting.
 
 "Are there any Kaslanas now?" I asked.
 
-It came out before I'd decided to say it. Ōta's eyebrows went up. Everyone else turned to look at me, because it was the first question I'd asked in three days.
+It was out before I'd decided to say it. Everyone turned round. It was the first question I'd asked in three days.
 
-"There is one," Ōta said. "Siegfried Kaslana."
+Ōta didn't look at me straight away. He looked at the painting, and something went across his face that I had no word for, and then it was gone and he was a small old man holding a clicker.
+
+"There is one," he said. "Siegfried Kaslana."
 
 I waited.
 
 "He left," Ōta said, and clicked.
 
-The next slide was about stigmata. Nobody else seemed to notice that he'd skipped something. One of the twins from Security murmured "traitor" without unfolding his arms, as if he were mentioning the weather, and his brother nodded, and that was all anyone said about Siegfried Kaslana.
+Nobody else seemed to notice that he'd skipped something. One of the Varga twins said "Traitor" without unfolding his arms, in the voice of a man mentioning rain, and his brother nodded, and that was all anyone said about Siegfried Kaslana. The next slide was about stigmata.
 
-I sat there with my hands under the table and thought about a man with white hair and a gun on each hip who had walked out of Schicksal with the woman he loved, and about the little girl they'd had together, and about a lot of other things that nobody in that room would know for years. Then I looked at the slide about stigmata and nodded at the right moments, and when it was over I went to the bathroom and stood at the sink for a while with the tap running.
+I sat with my hands under the table and thought about a man with white hair and a gun on each hip who had walked out of Schicksal with the woman he loved, and about the little girl they'd had, and about a great deal else that nobody in that room would know for years. When the course finished I went to the bathroom and stood at the sink with the tap running.
 
-I'd made a mistake. It was a small one, and nobody had noticed it except a man with too many eyebrows and two security guards who didn't care. But I'd asked a question that a boy who'd found Schicksal with weather data six days ago had no reason to ask, and I'd asked it because I couldn't help myself. That was the part that worried me. I'd been in this building for less than a week, and the fan had already got his mouth open once.
+A boy who'd found Schicksal through weather data six days ago had no reason to ask about the Kaslanas, and I'd asked anyway, because I couldn't stop myself. Ōta had noticed. The twins hadn't cared. Somewhere in Brenner's files it might turn into a line, or it might not.
 
-I dried my hands, and went back to my room, and added a line to the timeline in my wallet. It was a comment over a block of code. It said, roughly, don't.
+I dried my hands and went back to my room. I took the folded page out of my wallet, the scheduling function with the dates in it, and under the last line I added a comment in the same code, a warning to some future programmer about a function that kept running before anyone had called it. Then I folded the page up and put it away and went down to the cafeteria, where Lao Chen had started that morning. He was standing behind the serving line in a white hat with a ladle in his hand, looking into the big curry pot as though it had threatened him.
 
 ---
 

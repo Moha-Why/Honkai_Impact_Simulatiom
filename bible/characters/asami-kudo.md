@@ -3,7 +3,8 @@
 **Role:** D-rank Valkyrie, logistics. Medical and transport. Escort and
 intake for new recruits. Not a heroine.
 
-**Age:** 25 in 2009. Japanese.
+**Age:** 25 in 2009. Japanese, from Kōchi; her father ran a fishing boat,
+which is why she can't be seasick and has no sympathy for anyone who is.
 
 **Appearance:** short black bob, tired eyes, a small scar through one
 eyebrow. Wears a hoodie over her uniform whenever she can get away with it.
@@ -14,7 +15,33 @@ recruits like luggage. Has seen enough of the front line from the back to
 have no illusions about it, and jokes about it instead.
 
 **How she talks:** casual, teasing, short. Calls Eros "genius" and doesn't
-mean it as a compliment.
+mean it as a compliment. English on base, with Japanese when she swears or
+counts. In detail:
+
+- **Gives orders instead of answers.** Ask her a question and she tells you
+  to do something. "Where are we going?" "Shoes."
+- **Pokes until something gives.** She says the rude thing out loud to see
+  what the other person does with it, then decides about them from that.
+  If you push back, she likes you more.
+- **Numbered rules she loses count of.** "Rule one... rule four. There's
+  no rule three, I forgot it."
+- **Grim things, flat.** She talks about the girls she flies back from
+  deployments in the same voice she uses for the squid. When something
+  actually gets to her, she goes quiet and chews her gum harder; she never
+  says it.
+- **Lies badly to medical staff** about her own injuries, and everyone
+  knows.
+- Never says thank you. Hands people things instead.
+
+**Body language:** slouches, hands in her hoodie pocket, feet up on any
+spare chair. Crushes empty cans one-handed without noticing (Valkyrie
+strength she's stopped thinking about). Blows a gum bubble when she's
+bored and pops it when she's decided something.
+
+**Her escort report:** every new recruit gets one, sent to Brenner on the
+Monday after intake. Hers are famous for being three lines long ("Ate.
+Slept. Didn't try to swim to Korea."). A fourth line means she noticed
+something.
 
 - "Lunch." (about the case)
 - "Normal for a guy. Don't take it personally."
