@@ -67,7 +67,7 @@ several Valkyries together; the Archives wiki says a lineup of A-ranks.
 | Parvati | First sighted Christmas Eve 1973. Controls ice and snow. Killed alone by Theresa while she was B-rank, after she refused to retreat. An A-rank named Kali fought it too. |
 | Ashvins | Appeared on the Second Eruption battlefield in Siberia, 2000. Splits into two, Son of Dawn and Son of Darkness. Strong enough to match Siegfried Kaslana; killed by Welt Yang. |
 | Vishnu | In 1972 Otto merged Vishnu's genes with Kallen Kaslana's cells in the A-3 experiments. Devours other beasts and takes their power. |
-| Ganesha | First sighted in India, 2012. Killed two A-ranks and badly wounded twelve Valkyries. "Requires special forces or S-rank Valkyries to handle." |
+| Ganesha | First sighted in India, 2012, near Agra Fort, where it wiped out the first squad in except Bianka. Killed two A-ranks and badly wounded twelve Valkyries. "Requires special forces or S-rank Valkyries to handle." |
 | Raziel, Ramiel | Their cores were made into Schicksal's Cross weapons. |
 | Soma | Caused heavy casualties fighting the Dawn and Dusk squad. |
 | Others | Assaka (born in the Second Eruption, splits in two), Imperator, Queen, Flame Emperor, Frost Emperor, Padishah, Asura, Mahamayuri, Sumo. |

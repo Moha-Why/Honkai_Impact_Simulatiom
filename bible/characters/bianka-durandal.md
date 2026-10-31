@@ -39,6 +39,10 @@ firmware). She fights with a lance.
 - **2012:** the only survivor of her squad on her first mission, at Agra
   Fort. On another mission she watched her teammates die in a wave of Honkai
   radiation and then slept for a week.
+  In this story the Agra Fort mission is the Ganesha (May 2012): her squad of two
+  A-ranks and her, first in at Agra Fort; both A-ranks die. Eros sees her
+  suit camera footage in the simulation data. In April 2013 at HQ she asks
+  him to unlock the Ganesha sim: "I've seen the real one."
 - **2013:** a rising B-rank at HQ, and later (canon) an A-rank squad leader,
   and in time Schicksal's strongest S-rank.
 
