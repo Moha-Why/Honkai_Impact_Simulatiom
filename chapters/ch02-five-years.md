@@ -890,7 +890,7 @@ I didn't ask who. She told me anyway.
 
 The football on the television went to a replay. Somebody at the bar groaned.
 
-"They offered me C again," Asami said. "This morning. Combat support. More pay. A real stigma upgrade, not the logistics set. My commander says I'd be good at it."
+"They offered me C again," Asami said. "This morning. Combat support. More pay. A combat suit with a full reactor in it, not the logistics rig. My commander says I'd be good at it."
 
 "Your commander's right," I said. "You would be."
 

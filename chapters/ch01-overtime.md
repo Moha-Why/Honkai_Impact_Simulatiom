@@ -476,7 +476,7 @@ She stared at me. "What opera?"
 
 "Things you don't want to see." She closed her eyes again and slid down in her seat. "You'll see the files. Wake me up when we land."
 
-I sat there with my hands in my lap. I'd come very close, a few seconds earlier, to asking her whether Logistics Valkyries were issued the standard stigma sets or customized ones. I'd actually had my mouth open. If I'd said it, Brenner would have turned around in his seat at the front of the plane and looked at me with his polite gray eyes.
+I sat there with my hands in my lap. I'd come very close, a few seconds earlier, to asking her whether Logistics Valkyries had natural stigmata or artificial ones, and how many years the artificial ones took off. I'd actually had my mouth open. If I'd said it, Brenner would have turned around in his seat at the front of the plane and looked at me with his polite gray eyes.
 
 ---
 

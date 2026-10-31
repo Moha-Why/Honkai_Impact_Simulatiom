@@ -75,8 +75,8 @@ for life.
 |---|---|---|
 | F | Peak Human | Normal human. Honkai energy only harms him. |
 | E | Low D | Survives mild exposure. |
-| D | High D | Basic battlesuits and weak stigmata. |
-| C | High C | Standard battlesuits and stigmata. |
+| D | High D | Basic battlesuits. Can survive an artificial stigma transplant. |
+| C | High C | Standard battlesuits. |
 | B | High B | Frontline gear. |
 | A | High A | Elite gear. |
 | S | High S | Top-tier gear; can touch a Divine Key without dying. |
@@ -97,15 +97,30 @@ There is no stat transfer from the runs. His real body has to earn its rank.
   past his ceiling.
 - **Experience packages** give him technique. His body has to catch up
   through training before he can use it fully.
-- **Items and gear** (battlesuits, stigmata, weapons) add power, within what
-  his Adaptability allows.
+- **Items and gear** (battlesuits, weapons) add power, within what his
+  Adaptability allows. A stigma is not gear (see below). How Eros gets one
+  is still open.
 
 ## Gear
 
 - **Battlesuits:** combat suits that amplify the wearer. Each needs a
   minimum Adaptability grade.
-- **Stigmata:** imprints that grant a figure's strengths. Each needs a
-  minimum Adaptability grade.
+- **Stigmata are part of the body, not equipment.** Swapping stigmata in and
+  out is a game mechanic, not lore. Canon has three types:
+  - **True (Herrscher) stigmata:** tied to a Herrscher Core; every Previous
+    Era Herrscher had one. Only these connect to a core of their type.
+  - **Natural stigmata:** designed by Dr. MEI and Mobius in the Previous Era
+    and written into human DNA. Everyone carries one dormant; it wakes only
+    after enough Honkai exposure, so awakened ones are very rare. Bloodlines
+    like the Kaslanas and Schariacs carry strong ones.
+  - **Artificial stigmata:** Schicksal's copies, modeled on natural ones and
+    the weakest type. Given by transplant surgery to girls whose
+    compatibility is too low (Himeko, 2006). Side effects: a shorter
+    lifespan, slow bodily decay, and the cascade risk stays.
+  - **Battlesuits** feed an artificial stigma through the suit's reactor to
+    boost the wearer's body (Moegirl, 女武神装甲). A better suit means more
+    power; the stigma itself isn't upgraded. Canon never shows one being
+    replaced, so in this story a Valkyrie keeps the stigma she got.
 - **Divine Keys:** pre-era weapons, the strongest gear that exists. They
   kill anyone below S-grade Adaptability who tries to use one.
 

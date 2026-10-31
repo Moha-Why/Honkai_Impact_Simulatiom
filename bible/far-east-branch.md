@@ -39,8 +39,9 @@ purpose.
   in May 2013 and moors at the technical center's north tower. Theresa calls
   it hers; HQ calls it theirs. Canon: sent to Nagazora in February 2014 to
   investigate the spike, and Kiana, Mei and Bronya are taken aboard.
-- **Stigmata and genetics:** artificial stigmata are grown and fitted in
-  labs.
+- **Stigmata:** artificial stigmata are given by transplant surgery, once,
+  to girls whose natural compatibility is too low. They shorten the
+  lifespan. Battlesuits feed them through the suit's reactor.
 
 **Deliberately ordinary:**
 - **The ferry:** off-duty staff travel by ferry because Shiomi's harbor
