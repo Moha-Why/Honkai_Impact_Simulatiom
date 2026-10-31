@@ -34,11 +34,11 @@ We went out through a door at the end of the ground floor corridor, and I was ou
 
 The wind got to me first. It came straight off the sea, cold and wet, smelling of salt and diesel, and it found its way inside my jacket and stayed. Then the light. I'd spent six days under fluorescent tubes, and the sky was huge and white and hurt to look at.
 
-The technical center was a low gray building with a forest of antennas on the roof. It sat at one end of a long flat strip of land that was mostly concrete and thin new grass, and all round it, as far as I could see in either direction, there was sea. On my left was the runway and the hangar I'd been driven out of with the doors shut. On my right was a helipad with three dark gray helicopters on it, and past the helipad a fenced field of churned mud with a row of yellow cranes standing over the steel frame of a long new building.
+The technical center was a low gray building with a forest of antennas on the roof. It sat at one end of a long flat strip of land that was mostly concrete and thin new grass, and all round it, as far as I could see in either direction, there was sea. On my left was the runway and the hangar I'd been driven out of with the doors shut. On my right was a helipad with two big cargo helicopters on it and, at the far end, a pair of something else, dark gray and flat and smooth as river stones, with their engines turned up to the sky, and past the helipad a fenced field of churned mud with a row of yellow cranes standing over the steel frame of a long new building.
 
 I did what I'd have done on any new map. I looked for the exits.
 
-The runway was one, if you had a pilot and a reason, and I had neither. The helicopters were the same, only louder. The sea was another, and that was a joke. At the far end of the island, where Asami was pointing her coffee, I could see the masts of boats.
+The runway was one, if you had a pilot and a reason, and I had neither. The helicopters were the same, only louder. The two gray things at the end of the pad were Valkyrie transports, tilt-rotors with no markings, and I'd seen their bigger cousins in cutscenes crossing a city in about a minute. Nobody was going to lend me one of those. The sea was another, and that was a joke. At the far end of the island, where Asami was pointing her coffee, I could see the masts of boats.
 
 "Harbor," she said. "Half an hour along the wall. Only interesting part. Come on."
 
@@ -81,6 +81,10 @@ The harbor had a breakwater, two big cranes for the supply ships, a fuel depot a
 I counted the boats. The ferry. Two orange rescue launches hanging on davits. A gray patrol boat with something on its bow under a canvas cover. A couple of little aluminum things with outboards, pulled up on the slipway.
 
 "Ferry goes to Shiomi Tuesdays and Fridays," Asami said. "An hour twenty if the sea's good. Two hours if it isn't. You'll be sick the first time."
+
+"You've got transports that could do it in ten minutes."
+
+"On duty, sure. Off duty you take the ferry like a normal person." She jerked her chin at the jetty. "Shiomi's harbor office writes down every boat that comes in. Four hundred people working at a wind research station come and go by ferry. Four hundred people at a wind research station who fly around in those," she nodded back toward the helipad, "get written about in newspapers."
 
 "I don't get seasick."
 
@@ -376,7 +380,7 @@ I put the coins back in my pocket and bought a can of coffee from the machine in
 
 My first payday was the twenty-fifth of April.
 
-I knew it had come because the ATM in the harbor building told me. It was the only cash machine on the island, in a little lobby between the post room and the supply office, with a plastic plant beside it that someone watered. I went down after work because I wanted to check that the money was real, much as I'd check that a server you'd been promised actually existed before you deployed anything to it. I put my card in, and typed my number, and pressed the button for my balance.
+I knew it had come because the ATM in the harbor building told me. It was the only cash machine on the island, in a little lobby between the post room and the supply office, with a plastic plant beside it that someone watered. It was only there for Shiomi. On the island your badge paid for everything, the curry and the bar and the vending machines, and every one of those payments went into a ledger that somebody in Brenner's office could read if they wanted to. Cash was for the far side of the water. I went down after work because I wanted to check that the money was real, much as I'd check that a server you'd been promised actually existed before you deployed anything to it. I put my card in, and typed my number, and pressed the button for my balance.
 
 I looked at it for a long time.
 
@@ -396,7 +400,7 @@ The rest of the money sat in the account. I didn't know what to do with it. I'd 
 
 So I did what I'd always done when I had a new resource and no plan for it. I didn't touch it, and I watched it.
 
-On the first of May I spent some of it. I went to the supply office and ordered a desk chair. A proper one, with lumbar support and arms that went up and down, the kind that costs as much as a cheap motorbike, because I'd died the first time with my back in pieces and I'd decided that whatever happened in this life, I was going to sit properly. The supply officer didn't look up. "Reason?" he asked. I said my back. He wrote down BACK, stamped it, and the chair came on the Tuesday ferry, and I spent an evening putting it together with a hex key while the concrete wall outside my window stood there being a wall.
+On the first of May I spent some of it. I went to the supply office and ordered a desk chair. A proper one, with lumbar support and arms that went up and down, the kind that costs as much as a cheap motorbike, because I'd died the first time with my back in pieces and I'd decided that whatever happened in this life, I was going to sit properly. The supply officer didn't look up. "Reason?" he asked. I said my back. He wrote down BACK on a paper form in triplicate and stamped all three. Everything physical that came onto the island or left it went through his desk on paper, because paper couldn't be hacked from Hamburg or anywhere else, and one of the three copies went to Security, who read them. It was the same organization that grew Valkyries' stigmata in a lab and built suits that let a girl punch through a tank, and it ran its deliveries like a church in 1950, and both of those were on purpose. The chair came on the Tuesday ferry, and I spent an evening putting it together with a hex key while the concrete wall outside my window stood there being a wall.
 
 Then I made instant noodles and ate them sitting in it.
 
@@ -616,7 +620,7 @@ I'd been saving it. Everyone on a team has one bug they're saving, the one weird
 
 So I showed him, and we were still there at three in the morning.
 
-Once you saw it, the bug was stupid, which is worse than hard. The simulation loaded the walls of each training room, the invisible shapes that told a beast where it couldn't go, from a cache on the core. Every Tuesday at two in the afternoon a maintenance job somebody had written in 2005 woke up, cleared that cache and rebuilt it, to save space. For about a second and a half, while it rebuilt, every simulation that happened to be running had no walls at all. A beast moving toward a wall in that second and a half just kept going. Nobody had seen it in the logs because the maintenance job didn't write any. Whoever wrote it had thought it was too boring to log.
+Once you saw it, the bug was stupid, which is worse than hard. The training rooms on the sixth floor were empty white halls until the core filled them. It built the terrain out of hard light and shaped Honkai energy, solid enough to stand on and to bleed on, and it built the beasts the same way, and every wall in every room was a shape the core held in place from a cache. I'd seen my first run there in April, a girl in a trial suit fighting three Chariots across a street of shopfronts that hadn't existed a minute before, and I'd had to go and sit down afterward. The walls, the shapes that told a beast where it couldn't go, came from that cache. Every Tuesday at two in the afternoon a maintenance job somebody had written in 2005 woke up, cleared that cache and rebuilt it, to save space. For about a second and a half, while it rebuilt, every simulation that happened to be running had no walls at all. A beast moving toward a wall in that second and a half just kept going. Nobody had seen it in the logs because the maintenance job didn't write any. Whoever wrote it had thought it was too boring to log.
 
 "Tuesday," Dr. Mori said, when I put the timestamps side by side. He looked at them for a long time. Then he put his hand over his eyes and started to laugh, almost without sound. "Three years. Cron job."
 
@@ -688,7 +692,7 @@ They were bad. I'd never made the filling myself. The aunties had always made th
 
 "Nobody died. It's ginger."
 
-"It's a crime scene of ginger." She came in. Behind her were two of the logistics girls I'd seen at the bar. Mao was tall, from Okinawa, with long black hair in a low tail and a flight jacket, and she flew the helicopters. Ji-woo was short and round, from Busan, with a sunburned nose in February, and she drove the trucks. They'd been on their way somewhere with a carrier bag of beer, and Ji-woo went straight past me to the tray.
+"It's a crime scene of ginger." She came in. Behind her were two of the logistics girls I'd seen at the bar. Mao was tall, from Okinawa, with long black hair in a low tail and a flight jacket, and she flew the helicopters and the transports. Ji-woo was short and round, from Busan, with a sunburned nose in February, and she drove the trucks. They'd been on their way somewhere with a carrier bag of beer, and Ji-woo went straight past me to the tray.
 
 "Oh, are these mandu? These are so big. My grandmother makes them this big, no, smaller, these are like hers but sad. Why are they sad? Are they supposed to be sad?"
 
@@ -1178,7 +1182,7 @@ She stood there for another few seconds, a short woman in a fleece over her paja
 
 ---
 
-The squad was in the air in twenty-five minutes, from the runway at the other end of the island. Three B-ranks and a C-rank medic, in a helicopter flown by Mao, the tall logistics pilot from Okinawa who'd made dumplings like tiny boats. They got to the town at a quarter to seven, as it was getting light, and found nothing at all, a fishing harbor and some boats and a few old men on the quay with cigarettes. They set up on the hill above the town and waited. Yoon stood in front of the screen and waited too. So did I. Nobody on the ninth floor said anything for an hour and a half.
+The squad was in the air in twenty-five minutes, off the end of the helipad. Three B-ranks and a C-rank medic, in one of the gray tilt-rotor transports flown by Mao, the tall pilot from Okinawa who'd made dumplings like tiny boats. They crossed the strait at a speed the civilian radar on the Korean coast logged as a weather fault, and got to the town at twenty to six, still in the dark, and found nothing at all, a fishing harbor and some boats and a few old men on the quay with cigarettes. They set up on the hill above the town and waited. Yoon stood in front of the screen and waited too. So did I. Nobody on the ninth floor said anything for two and a half hours.
 
 At twelve minutes past eight, the orange circle on the map went red.
 
@@ -1492,7 +1496,7 @@ I went out onto the balcony afterward and stood in the cold looking at the light
 
 The other thing I spent the money on, that winter, was a way out.
 
-I hadn't decided to. I'd just started doing it, as I'd started running. In the first week of November I opened a locked case I'd ordered for "equipment", and started putting cash in it. Yen first, because the island was in Japanese waters and Shiomi was the nearest town. Then yuan, because I'd grown up in Hangzhou and could disappear there better than anywhere. Then euros, because the money came in euros and it was the easiest to get. I drew a little out every week from the machine in the harbor lobby with the plastic plant, never enough for anyone to notice, and put it in the case, and put the case under the bed.
+I hadn't decided to. I'd just started doing it, as I'd started running. In the first week of November I opened a locked case I'd ordered for "equipment", and started putting cash in it. Yen first, because the island was in Japanese waters and Shiomi was the nearest town. Then yuan, because I'd grown up in Hangzhou and could disappear there better than anywhere. Then euros, because the money came in euros and it was the easiest to get. I drew it out of the machine in the harbor lobby with the plastic plant. Every withdrawal was a line in somebody's ledger, so I took the same amount every Friday morning before the ferry, like a man who liked the noodles in Shiomi, and some Fridays I even took the ferry. The cash went in the case, and the case went under the bed.
 
 Then I packed a bag.
 
@@ -1552,7 +1556,7 @@ I didn't. I walked past it at exactly the speed I'd been walking before, and loo
 
 ---
 
-The Battlesuit Division was in one of the glass buildings, three floors of labs and workshops full of half-built suits on stands like suits of armor in a museum. My new colleague was a man called Klaus Hoffmann, big and bearded and loud, who came to work on a bicycle through the snow in cycling clothes and changed into a lab coat at his desk with no embarrassment at all.
+The Battlesuit Division was in one of the glass buildings, three floors of labs and workshops. Half-built suits hung on gantries with their chest plates open, and robot arms the size of cranes threaded something like nerve fiber through their joints, slowly, all night. On the ground floor a finished suit with nobody in it walked round and round a test track, turning its empty helmet to look at things, and nobody but me ever looked at it twice. My new colleague was a man called Klaus Hoffmann, big and bearded and loud, who came to work on a bicycle through the snow in cycling clothes and changed into a lab coat at his desk with no embarrassment at all.
 
 "You are the Tuesday man!" he said, the first morning, shaking my hand so hard it hurt. "The Tuesday bug! We heard about it here. Eleven exclamation marks. We have a bug with fourteen. You will love it."
 
@@ -1742,7 +1746,7 @@ I'd never seen her stop. She stood in the middle of the bridge with the lance in
 
 "Ah," said Klaus quietly.
 
-She ran at the cracked pillar and hit it with the lance, side on, with everything she had. It broke. A section of the roof came down, timber and snow and stone, onto the Templars, and when the dust cleared two of them were under it and the other four were on the far side of it, and she was alone on her side with the Hasty ones, which she killed in about twenty seconds, angrily, as if they'd insulted her. Then she walked to the end of the bridge along the top of the parapet, above the gorge, past the trapped Templars, and the simulation ended.
+She ran at the cracked pillar and hit it with the lance, side on, with everything she had. The rooms at HQ were the same kind as ours, hard light and shaped energy, and the pillar weighed what a stone pillar weighs. It broke. A section of the roof came down, timber and snow and stone, onto the Templars, and when the dust cleared two of them were under it and the other four were on the far side of it, and she was alone on her side with the Hasty ones, which she killed in about twenty seconds, angrily, as if they'd insulted her. Then she walked to the end of the bridge along the top of the parapet, above the gorge, past the trapped Templars, and the simulation ended.
 
 She came out red-faced and limping a little out of habit, with her hair half down, and walked straight across the lab to the booth and stood in the doorway.
 
@@ -2002,9 +2006,15 @@ I closed the laptop and looked out of the window at the cloud for a long time.
 
 ---
 
-The island was the same.
+The island was the same, except for the ship.
 
-That was the thing I noticed first, coming off the plane into the wind on the runway with the sea all around me and the helicopters lined up on the pad and a line of Valkyries from the trial squad running along the seawall in the heat. The cafeteria still did curry on Tuesdays. Mori was still asleep on his cot. Asami met me at the hangar with a can of coffee and said "You look like you've been somewhere fancy," and pushed the can into my chest. Yoon had left a cup of coffee from the blue machine on my console in the watch room, with one sugar in it, on the morning I came back, and it was cold, because she'd put it there the day before.
+I saw it from the plane before I saw anything else. While I'd been away, something had come to the north end of the island, past the harbor, where a new mooring tower had gone up beside the breakwater, and it was hanging there in the air. A long gray hull, longer than the runway was wide, with a blunt prow and banks of engines along its flanks humming so low that I felt it in the seat of the plane before I heard it. There was a name along the side in white letters. HYPERION.
+
+I knew that ship. In the game it was the first thing the girls saw of Schicksal, coming down out of the smoke over Nagazora. Here it was tied to a tower at the end of my island like a ferry, with a crane loading crates into its belly and a man in overalls on its upper deck eating a sandwich.
+
+"Theresa's," Asami said, when she met me at the hangar. She saw where I was looking. "Came in from the yards in May. She calls it hers. HQ calls it theirs. Nobody's allowed to say it's here, so obviously everyone in Shiomi has seen it." She pushed a can of coffee into my chest. "You look like you've been somewhere fancy."
+
+Everything else was the same. That was the thing I noticed next, walking from the hangar into the wind with the sea all around me and a line of Valkyries from the trial squad running along the seawall in the heat. The cafeteria still did curry on Tuesdays. Mori was still asleep on his cot. Yoon had left a cup of coffee from the blue machine on my console in the watch room, with one sugar in it, on the morning I came back, and it was cold, because she'd put it there the day before.
 
 I went up to my flat. The plant in the corner by the glass door had grown about twenty centimeters, because Asami had been watering it, and when I opened the door to the balcony the sea came into the room, and the noise of it, and the smell of salt and diesel from the harbor, and the line of Shiomi's lights on the mainland, coming on one by one as it got dark.
 

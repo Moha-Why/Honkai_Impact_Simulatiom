@@ -10,6 +10,7 @@
 | [tracker.md](tracker.md) | Eros's current status, what he holds, who knows what |
 | [characters/](characters/) | One profile per character |
 | [power-scale.md](power-scale.md) | Combat Rating, Valkyrie ranks, Honkai Adaptability, how Eros gets stronger, gear |
+| [far-east-branch.md](far-east-branch.md) | The branch's two islands, its technology level, and why daily life is kept ordinary |
 | [honkai-beasts.md](honkai-beasts.md) | What Honkai beasts are, their classes, canon examples |
 | [simulation-system.md](simulation-system.md) | Simulation types, starts, meters, objectives, aftermath, entering a run |
 | [system-interface.md](system-interface.md) | The System's panel and voice, Eros's starting panel, starter pack |

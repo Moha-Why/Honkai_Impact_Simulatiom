@@ -178,7 +178,8 @@ Valkyries.
 
 ### Higa Mao
 
-- **Age:** 24 in 2010. From Okinawa. Helicopter pilot.
+- **Age:** 24 in 2010. From Okinawa. Pilot: cargo helicopters and the
+  tilt-rotor Valkyrie transports (flies the Pohang squad in 2011).
 - **Appearance:** tall, long black hair in a low tail, flight jacket.
 - **How she talks:** slow, deadpan, says little. Argues with Ji-woo about
   whether helicopters or trucks are more dangerous, every time.
