@@ -1,6 +1,6 @@
 # Chapter 2 rewrite plan: Five Years
 
-Status: written (about 44,000 words; Part One about 27,500). Replaces the earlier Chapter 2 plan (that
+Status: written (about 50,500 words; Part One about 34,000). Replaces the earlier Chapter 2 plan (that
 version is written and in the repo; this rewrite expands it).
 
 - **Length:** about 55,000 to 60,000 words, one chapter.
