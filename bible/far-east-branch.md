@@ -18,6 +18,22 @@ Apocalypse heads the whole branch from June 2009.
   intake spends a week at the technical center for suit fittings and tests
   first. Eros's team builds and maintains St. Freya's training simulators.
 
+## The world's technology (everyone, not just Schicksal)
+
+The HI3 world is ahead of real-world Earth, and the gap grows every year:
+a few years further on for each year that passes. Civilian life too:
+phones, computers, cars, media, games. Rough guide:
+
+- **2000:** about where Earth was in the early 2000s, a little ahead.
+- **2009:** civilian tech feels like Earth around 2014 to 2015.
+- **2011:** like Earth around 2017 (motion-rig arcades, handhelds ahead of
+  Earth's 2011). Physical media is mostly memory sticks, not CDs.
+- **2014:** close to light science fiction for civilians.
+- Eros died on Earth in his own era (the 2020s), so in 2009 the world still
+  feels slightly behind what he remembers; by 2011 to 2012 it has caught up
+  with his first life, and by 2014 it has passed it.
+- Schicksal's own tech (below) is further ahead again.
+
 ## Technology level
 
 Schicksal is decades ahead of the 2009 world in anything that fights the

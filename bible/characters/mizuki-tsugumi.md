@@ -90,8 +90,8 @@ Quick, warm, teasing, a little scattered. Thinks out loud. Calls him
 
 ## How it goes (story)
 
-- **2011, the seed:** at the summer Comiket in Tokyo, Eros buys a burned CD
-  of Paper Lantern from a tired girl with ink on her fingers. That night he
+- **2011, the seed:** at the summer Comiket in Tokyo, Eros buys Paper Lantern on
+  a hand-labeled memory stick from a tired girl with ink on her fingers. That night he
   sends her a three-page bug report, and she replies, "Who ARE you?"
 - **2011 to 2013, pen pals:** once or twice a year she sends him a new demo
   and he sends back an absurdly careful report. Short, funny emails across

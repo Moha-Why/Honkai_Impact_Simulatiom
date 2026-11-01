@@ -1164,7 +1164,7 @@ I'd thought about it a lot, on the seawall in the mornings. In my first life, th
 
 So I went to Akihabara, and spent two days walking up and down it in the heat, in and out of every game shop and every arcade and every eight-floor electronics store with music blaring from the doors.
 
-There was nothing. Of course there was nothing. There was no Honkai Impact, no Guns GirlZ, no little purple-haired swordswoman on a poster in a shop window. The games were the games of this world, and a lot of them were the same as the ones I remembered from the same years in my first life, and some of them weren't, and none of them were mine. I knew that before I went. I'd checked online years ago, at fifteen, in a university library. Knowing it and walking past a wall of three thousand games and not finding the one you were looking for were different things, and by the second evening I was sitting in a family restaurant at a table for one, eating a hamburger steak I didn't want, feeling more like a foreigner than I'd ever felt on the island.
+There was nothing. Of course there was nothing. There was no Honkai Impact, no Guns GirlZ, no little purple-haired swordswoman on a poster in a shop window. The games were the games of this world, and this world was ahead of mine. It always had been, a few years further on for every year that passed, and by 2011 the gap had got wide enough to feel. The arcades had motion rigs that tipped you upside down. The handhelds did things my phone in my first life had only managed around 2017. There were shelves of games I'd never heard of on hardware I'd never seen, and none of them were mine. I knew that before I went. I'd checked online years ago, at fifteen, in a university library. Knowing it and walking past a wall of three thousand games and not finding the one you were looking for were different things, and by the second evening I was sitting in a family restaurant at a table for one, eating a hamburger steak I didn't want, feeling more like a foreigner than I'd ever felt on the island.
 
 I bought a handheld anyway, a new one, and three games for it that the man in the shop said were good. They were good.
 
@@ -1174,7 +1174,7 @@ It was enormous and very hot. It was in a convention center on the bay, a buildi
 
 Near the end of the last row, there was a table with almost nothing on it.
 
-It had a cloth over it that had once been a curtain, and a small hand-drawn sign propped against a stack of CD cases in plain plastic sleeves, and a laptop with a game running on it. The sign said PAPER LANTERN, DEMO, ¥500, and underneath, in smaller letters, sorry it's buggy. Behind the table, on a folding stool, there was a young woman with her chin in her hand, watching the crowd go past her table without stopping. She had messy dark brown hair in a clip that was losing the fight, big round glasses, and ink on her fingers, black and blue, as if she'd been drawing all night, which I found out later she had.
+It had a cloth over it that had once been a curtain, and a small hand-drawn sign propped against a shallow box of memory sticks in little plastic bags, each with a hand-drawn label, and a laptop with a game running on it. The sign said PAPER LANTERN, DEMO, ¥500, and underneath, in smaller letters, sorry it's buggy. Behind the table, on a folding stool, there was a young woman with her chin in her hand, watching the crowd go past her table without stopping. She had messy dark brown hair in a clip that was losing the fight, big round glasses, and ink on her fingers, black and blue, as if she'd been drawing all night, which I found out later she had.
 
 I stopped and looked at the laptop. On the screen, a little girl in a raincoat was walking through a flooded town at night, holding up a paper lantern. The water came up to her knees. The light from the lantern was the only light, and as she walked through the streets, the houses she passed lit up one window at a time, as though somebody inside had been waiting for her. It was very simple. It was lovely. As I watched, the little girl walked into a lamppost and fell straight through it into the water, and the screen went black and said ERROR 0x00F in white letters.
 
@@ -1190,7 +1190,7 @@ She looked up at me, surprised, as if nobody had asked her that all day.
 
 I gave her a thousand yen and said she could keep the change if she told me what happened at the end.
 
-"I don't know what happens at the end," she said. "I haven't made the end yet." But she put the thousand yen in a biscuit tin under the table and gave me a CD in a plastic sleeve, and on the sleeve, in black marker, she'd written Paper Lantern and a long string of letters that turned out to be an email address. "If you find any bugs," she said, "you can tell me. Nobody ever does. Everyone just says it's pretty and goes away."
+"I don't know what happens at the end," she said. "I haven't made the end yet." But she put the thousand yen in a biscuit tin under the table and gave me a memory stick in a little plastic bag, and on the label, in black marker, she'd written Paper Lantern and a long string of letters that turned out to be an email address. "If you find any bugs," she said, "you can tell me. Nobody ever does. Everyone just says it's pretty and goes away."
 
 That night, in my hotel room near the station, I played the demo on my laptop. It was about forty minutes long. The little girl walked through the flooded town, lighting windows, and found a cat on a roof, and a boat with no oars, and an old man asleep in a doorway who woke up when the lantern's light touched him and told her a story about the town before the water. Then she walked into the lamppost again and fell through it.
 
@@ -1204,7 +1204,7 @@ Who ARE you?
 
 I lay on the hotel bed in the dark with the handheld on my chest and read it about ten times. Then I wrote back and said I was a software engineer who liked her game, and she wrote back at six to say thank you, and that she'd fixed the lamppost, and that nobody had ever read anything she made that carefully in her life, and that her name was Mizuki Tsugumi and she lived in a town nobody had heard of on the coast.
 
-She didn't say which town. I didn't ask. I put the CD in the inside pocket of my bag, next to my passport, and went to sleep with the handheld still on my chest.
+She didn't say which town. I didn't ask. I put the memory stick in the inside pocket of my bag, next to my passport, and went to sleep with the handheld still on my chest.
 
 ---
 
@@ -1220,7 +1220,7 @@ I went to platform four instead and took the train to the sea at Kamakura, becau
 
 I didn't swim. I sat on the beach in the afternoon with my shoes off and my feet in the sand and ate a whole grilled squid on a stick, and watched families and surfers and a very old man walking a very old dog along the edge of the water. The sea at Kamakura was a different sea from the one at the island. It was warmer and greener and full of people. Nobody on that beach had a case at their feet, or a stigma, or a file. Nobody on that beach knew there was anything to know.
 
-I sat there until the sun went down, and somewhere in that afternoon I noticed that I was happy, plainly and for no particular reason, with sand on my feet and squid on my fingers and a girl's bad demo on a disc in my bag and nothing I had to do until Monday. The old man and the old dog came back the other way at sunset, and the dog stopped to smell my shoes, and the old man said "Sorry, sorry," and they went on.
+I sat there until the sun went down, and somewhere in that afternoon I noticed that I was happy, plainly and for no particular reason, with sand on my feet and squid on my fingers and a girl's bad demo on a memory stick in my bag and nothing I had to do until Monday. The old man and the old dog came back the other way at sunset, and the dog stopped to smell my shoes, and the old man said "Sorry, sorry," and they went on.
 
 Then I got up and went back to the station, and caught the last train to the airport, and flew home to the island, and on Monday I went back to the watch room and switched the anomaly watch on.
 
@@ -1458,13 +1458,13 @@ So I made it worse. When it was finished in August, it was the hardest simulatio
 
 In June a parcel came on the Friday ferry with a Shiomi postmark on it, which surprised me, because I didn't know anyone in Shiomi.
 
-Inside, wrapped in bubble wrap, there was a CD in a plain plastic sleeve, and on the sleeve, in black marker, Paper Lantern, demo 2. Under it, in smaller letters, Bug Report, please break this one too.
+Inside, wrapped in bubble wrap, there was a memory stick in a little plastic bag, and on its label, in black marker, Paper Lantern, demo 2. Under it, in smaller letters, Bug Report, please break this one too.
 
-There was a note folded in with it, on paper from a print shop, with a letterhead that had the same name on it as the hand-lettered sign over the window with the cat in it. It said, I looked up your company. It has a very good website. I'm sending this to the address on your email because I don't trust the internet with my discs, it's a long story. The lamppost is fixed. The cat is fixed. There are new bugs. T.
+There was a note folded in with it, on paper from a print shop, with a letterhead that had the same name on it as the hand-lettered sign over the window with the cat in it. It said, I looked up your company. It has a very good website. I'm sending this to the address on your email because I don't trust the internet with my builds, it's a long story. The lamppost is fixed. The cat is fixed. There are new bugs. T.
 
 I sat on my bed in my room and looked at the postmark for a long time. Mizuki Printing, the letterhead said. Shiomi. A town nobody had heard of on the coast. I'd been sick off the side of the ferry to it, and eaten noodles by its terminal, and walked past her family's shop window most months for three years.
 
-The mail went to Hamburg and came back to the island, Ms. Vogel had said, so somebody in a post room somewhere had read the note before me, and a disc from a girl in Shiomi to a man who worked for Lindgren Automation in Hamburg had been put on a ferry back to Shiomi's own harbor. I thought about how that must have looked to whoever read it. Then I thought about whether I ought to stop, and decided that a man with a girl's game demo was the most boring thing a security officer would ever read about, and that being boring was the whole plan.
+The mail went to Hamburg and came back to the island, Ms. Vogel had said, so somebody in a post room somewhere had read the note before me, and a memory stick from a girl in Shiomi to a man who worked for Lindgren Automation in Hamburg had been put on a ferry back to Shiomi's own harbor. I thought about how that must have looked to whoever read it. Then I thought about whether I ought to stop, and decided that a man with a girl's game demo was the most boring thing a security officer would ever read about, and that being boring was the whole plan.
 
 I played the new demo that night. The girl with the lantern got further. The town had a church now, and a bell, and a woman at the top of the bell tower who'd been waiting there since before the water came. The cat no longer fell out of the world. There were nineteen new bugs. I found all of them, and wrote them up, and at the bottom of the email I said that the woman in the bell tower was the best thing in it and that she should please, please finish it.
 
