@@ -1680,7 +1680,7 @@ She didn't hide that. That was the strange part. She never pretended to be anyth
 
 One afternoon in the second week of February, she came at four with a tray.
 
-It had a pot of tea on it, and two cups, and two slices of apple cake from the café on the residential island on two small plates. She put it down on the corner of my desk, between my keyboard and Klaus's stapler, and poured, and handed me a cup, and stood.
+It had a pot of tea on it, and two cups, and two slices of apple cake from the café on the residential island on two small plates. Before she put it down she took a folded cloth out of her apron pocket and wiped the corner of my desk with it, twice, and looked at Klaus's stapler as if it had personally disappointed her. Then she set the tray down between my keyboard and the stapler, and poured, and handed me a cup, and stood.
 
 "You can sit," I said. "There's a chair."
 
@@ -1692,7 +1692,15 @@ I ate some of the cake. It was very good. Klaus, at the next desk, looked at the
 
 "It's an island. It's windy."
 
-"And the principal?" She said it lightly, holding her cup. "Is it true she keeps sweets in every pocket?"
+"And the principal?" She said it lightly, but she'd put her cup down first, very carefully, as though she wanted both hands free for the answer. "I saw her once, here, when I was thirteen. She came to see the Overseer and left after ten minutes. She was so small, standing in that great hall under his portrait, and so furious about something." Her smile changed. It got warmer, and younger, and a good deal less professional. "Theresa is one cute little..."
+
+She stopped. The smile went back to exactly where it had been.
+
+"Excuse me," she said. "I spoke out of turn."
+
+I knew that line. I'd heard it a few hundred times out of a phone speaker on the bus, every time I tapped her on the bridge screen to see what she'd say, and I'd always thought it was a joke the writers had slipped in. Hearing it said for real, in a lab, by a seventeen-year-old in an apron about a woman I'd watched hold up a carrot, took everything I had to keep my face where it was.
+
+"Is it true," she went on, picking up her cup again, "that she keeps sweets in every pocket?"
 
 "I've been given one," I said.
 

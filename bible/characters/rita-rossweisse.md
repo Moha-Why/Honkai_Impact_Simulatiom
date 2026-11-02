@@ -35,21 +35,56 @@ bow at the back. In battle, a scythe.
 
 - Polite and elegant to a degree that makes people forget she's one of
   Schicksal's strongest Valkyries.
-- Loves cleaning, cooking and being useful.
-- Very well read (she relates to Catcher in the Rye), and speaks over a
-  dozen languages, including Chinese and Japanese.
-- Teases the people she likes, gently and relentlessly.
-- Under the sweetness, she sees everything and reports what she must.
+- Loves cleaning, cooking and being useful. **A germaphobe** ("Daily life
+  is hard for a germaphobe. Especially when they have to live amongst
+  people."): wipes surfaces before she sets anything down, always wears
+  gloves, notices dust on everything.
+- Very well read (she relates to Catcher in the Rye, a fragment of which
+  she found in Reanna's archives), and speaks over a dozen languages,
+  including English, Chinese, Japanese and Spanish.
+- **Adores small, cute girls, and Theresa above all.** Her canon line:
+  "Theresa is one cute little... excuse me, I spoke out of turn." (The
+  Biligame wiki even lists her hobby as small cute girls.) Kept as
+  affection and teasing in this story, never anything more; Theresa is an
+  adult, and it's played as Rita's soft spot and Theresa's mortification.
+- Teases the people she likes, gently and relentlessly: offers to wash
+  Durandal's back, calls her cute, enjoys flustering her. Under it, she
+  worries every time Durandal goes somewhere dangerous, and cried when
+  Bianka admitted feeling powerless.
+- **Dog-like loyalty** (a canon gift joke: she's given a dog plush).
+- Fans call her the "涩之律者", the Herrscher of allure: her teasing is
+  full of double meanings ("Don't keep me waiting~", "Which complements
+  the autumn better, the red leaves or me?"). **Age gate:** in Chapter 2
+  she's 17 until March 1, 2013, so with Eros before then her teasing stays
+  wit and needling only, never flirtation. After she turns 18 it can carry
+  a hint of that, lightly.
+- Hates World Serpent later (Arc City), and is willing to act against
+  Otto's orders to save civilians.
+- Her favorite flower is the sunflower, not the rose (Ragna). "People are
+  like roses; they prick each other when they get too close."
+- Under the sweetness, she sees everything and reports what she must. "A
+  maid is a watcher."
 
 ## How she talks
 
 Soft, formal, unhurried, always smiling. Answers the question you should
-have asked.
+have asked. Uses "-sama" with people she serves in canon ("Captain-sama",
+"Durandal-sama"); with a guest in 2013, "Master Eros."
 
+Canon lines to keep her voice true:
+- "A good maid will do ANY thing to see her master's command through."
+- "Let me handle the shady side of the deal."
+- "My past? It was uneventful... in all honesty."
+- "Tips on becoming an S-rank Valkyrie? Work no less than 16 hours a day."
+- "A maid is a watcher. Her duty is to help her master reach their dreams."
+- "Interested in becoming a maid? I strongly advise against it."
+- "Oh dear, you raised the dust on the bridge."
+- "Theresa is one cute little... excuse me, I spoke out of turn."
+
+Story lines (Chapter 2):
 - "Master Eros. The Overseer hopes your stay will be comfortable."
 - "That portrait is Kallen Kaslana. You've been looking at her for some
   time. Is something wrong with her?"
-- "I'm only a maid."
 - In German, once, to see what he does: "Your German is very poor for a
   man who works in Hamburg."
 
@@ -61,5 +96,8 @@ have asked.
   Siegfried's frame is empty. She notices him looking at Kallen too long.
 - **Wit against wit:** she teases his cover story apart with one
   sentence in German.
+- **Theresa:** over tea she lets slip her canon line about Theresa being
+  "one cute little..." and catches herself. Eros recognizes it from the
+  game's bridge voice lines.
 - **What stays:** mutual wariness, some enjoyment of each other, and a seed
   of interest that stays only that.
