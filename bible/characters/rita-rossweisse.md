@@ -42,11 +42,10 @@ bow at the back. In battle, a scythe.
 - Very well read (she relates to Catcher in the Rye, a fragment of which
   she found in Reanna's archives), and speaks over a dozen languages,
   including English, Chinese, Japanese and Spanish.
-- **Adores small, cute girls, and Theresa above all.** Her canon line:
-  "Theresa is one cute little... excuse me, I spoke out of turn." (The
-  Biligame wiki even lists her hobby as small cute girls.) Kept as
-  affection and teasing in this story, never anything more; Theresa is an
-  adult, and it's played as Rita's soft spot and Theresa's mortification.
+- **She's into petite girls.** That's her type, plainly. Theresa is the
+  canon example: "Theresa is one cute little... excuse me, I spoke out of
+  turn." On the page it shows as her soft spot and her teasing, and it's
+  never acted on with anyone under 18.
 - Teases the people she likes, gently and relentlessly: offers to wash
   Durandal's back, calls her cute, enjoys flustering her. Under it, she
   worries every time Durandal goes somewhere dangerous, and cried when

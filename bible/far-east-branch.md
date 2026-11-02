@@ -104,3 +104,22 @@ purpose.
   flies Eros down to it in February 2013.
 - Staff cover story for HQ postings: "Germany" (Lindgren Automation,
   Hamburg).
+
+## Valkyrie life
+
+- Valkyries live and fight almost entirely among women, through life and
+  death, so relationships between them are common and ordinary. On the
+  technical center island about half the Valkyries are with another girl,
+  and nobody remarks on it. Asami: "You fly into a burning city with
+  somebody and you fly back out... Who else are you going to love? A man
+  from Accounts who's never been shot at?" The ones who marry men mostly do
+  it after they leave the front line.
+- Canon couple on the page: Mao and Ji-woo (adults), together from the
+  winter of 2011 to 2012.
+- Adults' relationships are shown through affection (arriving together, a
+  hand in a back pocket, sharing a chair); anything more stays off the page.
+  St. Freya students (16 to 18) get crushes and YA-level romance at most,
+  and only with each other (see [content-rules.md](content-rules.md)).
+- What it means for Eros: a desk engineer who's never been shot at is
+  "safe to drink with", not someone to fall for. Being handsome gets him
+  glances, not love.

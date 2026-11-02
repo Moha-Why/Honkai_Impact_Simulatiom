@@ -183,6 +183,9 @@ Valkyries.
 - **Appearance:** tall, long black hair in a low tail, flight jacket.
 - **How she talks:** slow, deadpan, says little. Argues with Ji-woo about
   whether helicopters or trucks are more dangerous, every time.
+- **Ji-woo:** in love with her from the first week. They get together in
+  the winter of 2011 to 2012 and arrive at the bar together from then on.
+  Nobody comments, least of all Mao.
 
 ### Bae Ji-woo
 
@@ -190,4 +193,5 @@ Valkyries.
 - **Appearance:** short and round, a permanent sunburned nose, laughs with
   her whole body.
 - **How she talks:** fast, loud, talks over everyone, heart broken weekly
-  by men she never actually dated.
+  by men she never actually dated, until she finally notices Mao (winter
+  2011 to 2012). "Took her two years," says Asami.

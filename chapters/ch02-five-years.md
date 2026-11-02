@@ -716,7 +716,7 @@ Asami looked at me a moment longer. Then she put the bag down on the counter, pu
 
 "Show me how you fold them," she said. "Those are going to die in the water."
 
-So I showed them. Asami folded hers too tight, like a medic tying off a wound. Mao folded hers slowly and with enormous care and made each one look like a tiny boat, and didn't say a word the whole time. Ji-woo gave up after three, sat on the counter with her beer and told us about a truck driver at the harbor she was in love with who didn't know she existed, and then about another one. Half of mine opened in the water. Asami's didn't open at all, because nothing could have got out of them. We ate them standing round the counter straight out of the pot, with soy sauce and the beer, and they tasted of ginger and too-thick wrappers and somebody's first try.
+So I showed them. Asami folded hers too tight, like a medic tying off a wound. Mao folded hers slowly and with enormous care and made each one look like a tiny boat, and didn't say a word the whole time. Ji-woo gave up after three, sat on the counter with her beer and told us about a truck driver at the harbor she was in love with who didn't know she existed, and then about another one. Mao went on folding boats and didn't look up, and the boat she was folding when Ji-woo got to the second driver came out lopsided. Half of mine opened in the water. Asami's didn't open at all, because nothing could have got out of them. We ate them standing round the counter straight out of the pot, with soy sauce and the beer, and they tasted of ginger and too-thick wrappers and somebody's first try.
 
 At some point Ji-woo lifted her can and said, "Happy New Year, then!" Mao said "Happy Valentine's," and they clinked. Asami said "Happy whatever this is," and drank.
 
@@ -1050,7 +1050,7 @@ On the last night of 2010 the logistics crews took a boat out past the breakwate
 
 It was a supply launch, flat and ugly, with a deck of steel plates that rang when you walked on them, and there were about fifteen of us on it in coats and hats, with a cool box of beer and a flask of something Ji-woo had brought back from Busan that tasted like cough medicine and set fire to the back of your throat. The pilot cut the engine a few hundred meters out and we sat there rocking on the black water, with the island a line of lights behind us and the mainland a line of lights in front, waiting.
 
-At midnight Shiomi set off its fireworks. There weren't many. It was a small town. They went up from the harbor in ones and twos, red and gold and green, and opened over the water, and the sound reached us a second after the light, a soft thump each time, like someone knocking on a door a long way off. Everybody on the launch cheered. Ji-woo kissed Mao on the cheek, and then, for reasons she never explained, the pilot.
+At midnight Shiomi set off its fireworks. There weren't many. It was a small town. They went up from the harbor in ones and twos, red and gold and green, and opened over the water, and the sound reached us a second after the light, a soft thump each time, like someone knocking on a door a long way off. Everybody on the launch cheered. Ji-woo kissed Mao on the cheek, and then, for reasons she never explained, the pilot. Mao put her fingers to her cheek where she'd been kissed and stood very still at the rail for the next three fireworks.
 
 Asami stood beside me at the rail with her hood up, watching.
 
@@ -1344,13 +1344,13 @@ Brenner came in March, as he always did, and asked his questions, as he always d
 
 ---
 
-A week later, on a Friday evening, Asami asked me to come down to the bar because Ji-woo had broken up with the truck driver she'd never actually been going out with and needed cheering up.
+A week later, on a Friday evening, Asami asked me to come down to the bar because Ji-woo and Mao had had a fight and Ji-woo needed cheering up. I should have known it was a lie. Ji-woo and Mao never fought about anything except trucks.
 
 I walked down the seawall in the dark. The bar's windows were lit and there was music coming out of it, louder than usual, and when I opened the door the music stopped and about twenty people shouted "HAPPY BIRTHDAY" at me at once.
 
 I stood in the doorway with my hand still on the handle.
 
-They were all there. Asami at the front, grinning, with a party hat on sideways over her hood. Ji-woo, who had clearly never been heartbroken in her life. Mao, the pilot, and half the logistics crews. Yoon with her mug, which she'd brought from the ninth floor. Hamada the technician. Two of the engineers from my row, and Hirano from Accounts, and Lao Chen, who had made the cake stand out of a baking tray, and Dr. Aasen, who shouted "Engineer!" from the back as if I were late for an appointment. In the corner, in a chair against the wall with a glass of beer going warm on the table in front of him, there was Dr. Mori, asleep, with his glasses on his head.
+They were all there. Asami at the front, grinning, with a party hat on sideways over her hood. Ji-woo, who had clearly never had a fight with anyone in her life, and Mao beside her with one hand in the back pocket of Ji-woo's jeans. They'd started arriving at the bar together that winter and leaving together, and Ji-woo had stopped falling in love with truck drivers at about the same time, and nobody had said a word about it, least of all Mao. Half the logistics crews were there too. Yoon with her mug, which she'd brought from the ninth floor. Hamada the technician. Two of the engineers from my row, and Hirano from Accounts, and Lao Chen, who had made the cake stand out of a baking tray, and Dr. Aasen, who shouted "Engineer!" from the back as if I were late for an appointment. In the corner, in a chair against the wall with a glass of beer going warm on the table in front of him, there was Dr. Mori, asleep, with his glasses on his head.
 
 "How did you know?" I said.
 
@@ -1379,6 +1379,22 @@ At Willow Street, birthdays had been once a month, for everyone born in that mon
 So I made one, standing there with the plastic knife. It was a stupid wish for a man who knew what the next two years held. It was about being somewhere far from Nagazora with all of these people when it happened, and it was a stupid wish because I didn't know which of them would be dead by then.
 
 Then I cut the cake. Asami got the piece with the R on it, and ate it with her fingers.
+
+Later she found me at the end of the bar, watching Ji-woo explain something to Mao with both hands while Mao listened with her chin on her fist and her eyes half closed, like a cat listening to rain.
+
+"Took her two years," Asami said.
+
+"Ji-woo?"
+
+"Ji-woo. Mao knew the first week." She leaned on the bar next to me and looked round the room, at a pair from the trial squad sharing one chair by the window, at two of the medics dancing badly to the football commentary. "Half the girls on this island are with another girl, genius. Didn't you notice?"
+
+"I noticed."
+
+"You fly into a burning city with somebody and you fly back out. Then you do it again next month." She shrugged. "Who else are you going to love? A man from Accounts who's never been shot at?"
+
+"I'm a man who's never been shot at."
+
+"I know. That's why you're safe to drink with." She knocked her bottle against mine. "The ones who marry men mostly do it after. When they're done, if they get to be done."
 
 ---
 
