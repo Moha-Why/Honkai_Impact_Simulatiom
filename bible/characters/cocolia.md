@@ -54,7 +54,10 @@ Believes the ends are the point.
 **In Chapter 3:**
 
 - **Every loop:** on television in December as the new head of ME Corp.
-- **Loop 1:** Eros names her to Ryoma's office and a journalist; her man in
-  the gray car kills him.
-- **Loop 4:** her outbreak at Chiba Academy, and Bronya on the roof.
-- She never meets Eros in person.
+- **Loop 1:** Eros names her; her man in the gray car kills him.
+- **Loop 3:** Eros is one of her orphans (Second Eruption, Siberia), sent to
+  Nagazora to isolate Mei. She meets him in person in December in a hotel
+  suite above the bay, warm as with all her children: "A girl who has
+  someone won't come to me, Eros. I need her alone. Pull back." He lies
+  that he will, and she sends Bronya.
+- **Loop 8:** her outbreak at Chiba Academy.

@@ -41,6 +41,9 @@ sister.
 
 **In Chapter 3:**
 
-- **Loop 4:** comes for Mei on the roof on Cocolia's orders. "Subject Eros is
-  an obstacle." Mei breaks Project Bunny and drives her off the roof. She
-  survives.
+- **Loop 3:** his sister in Cocolia's orphanage for two years. In January,
+  on Cocolia's orders, she comes to his apartment in Nagazora and kills him.
+  "Bronya regrets this. Matushka's orders."
+- **Loop 8:** a small gray-haired figure on the roof across from the school
+  gate on the morning of the Eruption. She doesn't reach the school roof
+  before the Hyperion does.

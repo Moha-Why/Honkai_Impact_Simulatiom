@@ -15,8 +15,8 @@ hear.
 - **Natsumi:** follows Sayaka. Laughs a beat after everyone else. Is the one
   who moves her desk away from Mei's first.
 
-**In Chapter 3:** Loop 3, Eros lets Sayaka see what she wants to see. Loop
-4, he knows when they'll say it in the corridor and makes sure he's beside
+**In Chapter 3:** Loop 7, Eros lets Sayaka see what she wants to see. Loop
+8, he knows when they'll say it in the corridor and makes sure he's beside
 Mei when she hears it, and does nothing to stop it.
 
 ## Kuroda Shun
@@ -43,12 +43,12 @@ rejected confessor looks like when he goes the other way.
 - "You still bothering her, scholarship? Read the news."
 - "I'm not doing anything. I'm just talking."
 
-**Bullying he leads or starts (Loop 4):** "criminal's daughter" written on
+**Bullying he leads or starts (Loop 8):** "criminal's daughter" written on
 her desk, her indoor shoes in the trash, a bento knocked off her desk "by
 accident", the joke that she'll be going to visit her father soon.
 
-**In Chapter 3:** Loop 3, Eros feeds him gossip through a friend of a friend
-and lets him do the damage. Loop 4, Eros lets the bullying run, then lets
+**In Chapter 3:** Loop 7, Eros feeds him gossip through a friend of a friend
+and lets him do the damage. Loop 8, Eros lets the bullying run, then lets
 Kuroda's group catch him behind the gym. They go further than he bet (a
 pipe, a cracked rib). Mei breaks Kuroda's wrist with a bokken at the next
 practice. When the outbreak hits, Kuroda is the first in the school to turn.

@@ -19,9 +19,11 @@ of the staff. The limousine stops coming.
 **In Chapter 3:**
 
 - Before the arrest, he drives Mei to and from school every day.
-- **Loop 1.5:** Eros is his nephew, in a room above his garage.
-- **Loop 2:** Eros tells Mei he was paid to watch her. It's a lie.
-- **Loop 4:** on the first rainy afternoon after the arrest he comes to the
-  gate in his own small old car, on his own time, to drive her home. Eros
-  walks her out the back gate. Tanabe waits in the rain, and she never
-  knows he came.
+- **Loop 2:** Eros is his nephew from birth, and Mei has known that boy
+  since she was six. Waking at 18, Eros isn't him.
+- **Loop 4:** Eros tells Mei he was paid to watch her. It's a lie.
+- **Loop 6:** driving the car in 2004 when Mei is taken; the housekeeper's
+  boy dies on the road beside it.
+- **Loop 8:** on the first rainy afternoon after the arrest he comes to the
+  gate in his own small old car to drive her home. Eros walks her out the
+  back gate. Tanabe waits in the rain, and she never knows he came.

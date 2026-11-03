@@ -67,18 +67,13 @@ In the run she carries the roof fight.
 
 **In Chapter 3 (Mei run):**
 
-- **Loop 1 and 1.5:** not yet enrolled when Eros dies.
-- **Loop 2:** enrolls and sees through him in a day: "You're the one who
-  makes her sad." Fights the early Herrscher; can't stop it killing him.
-- **Loop 2.5:** he finds her in the park in early December and sends her
-  north with a ticket and a lead on her father. The train is canceled for
-  snow and she enrolls anyway.
-- **Loop 3:** enrolls; he sends her north again after the fixed node, with
-  the Siegfried lead, and this time she goes. With no Kiana, nobody can pull
-  Mei back.
-- **Loop 4:** the rival confessor ("If he gets to, I get to!"), eats his
-  noodles, loves Mei's food so Mei cooks a second box. On the roof she holds
-  out her hand and Mei takes his instead. Bleeding, she can't stop them
-  leaving.
-- **After the run:** a faint echo in the real Kiana: a hand she held out
-  that nobody took.
+- **Loops 1 to 3:** not yet enrolled when Eros dies, or never met.
+- **Loop 4:** "You're the one who makes her sad." Fights the early Herrscher.
+- **Loop 5:** he sends her north before she enrolls; the snow cancels the
+  train and she enrolls anyway.
+- **Loop 7:** he sends her north after she enrolls, and she goes.
+- **Loop 8:** the rival confessor ("If he gets to, I get to!"), the third
+  box, "You want her to need you. I want her to be okay." On the roof she
+  fights the persona and then kneels beside Mei and holds out her hand, and
+  Mei won't let go of him to take it.
+- **After the run:** a faint echo, a hand she held out that nobody took.

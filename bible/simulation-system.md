@@ -50,16 +50,28 @@ each run writes a branch into the Imaginary Tree.
 ## Life Path (heroine runs)
 
 Before a heroine run, and again after every reset, the System shows the
-life of Eros's identity as a line of nodes. Heroine runs **plan** a life.
+life of Eros's identity as a line of nodes, **from birth to the heroine's
+arc**: birth, then a node every few years (for Mei: ages 5, 6, 9, 12 and
+15), then the year the run is about. Heroine runs **plan** a whole life.
+
+- **The start, chosen each loop:** *wake at the arc* (he arrives with his
+  memories, and the childhood nodes become a past he never lived, which the
+  people who knew that child can notice) or *live it* (he's born into the
+  run; his memories and the System stay sealed until the heroine turns 18,
+  and a real child lives the years; see Starts above).
 
 - **Fixed nodes** are gray and locked: the canon events the run is built
   around (for Mei: her father's arrest on November 16, Kiana enrolling in
   December, the Eruption at Chiba Academy in February) and the frame of his
   identity (in her class).
-- **Open nodes** offer two to four options each: background, housing, club,
-  start date, and similar. Each changes where he begins and who he can reach.
+- **Open nodes** offer two to four options each: a family at birth, where
+  he is at each age, and in the arc year background, housing, club and start
+  month. Each changes where he begins, what he's been through and who he can
+  reach. Some lead to strange places (for Mei: an orphanage in Siberia, the
+  car on the day she's kidnapped).
 - **Locked "?" nodes** open only after a loop shows him something (for
-  example, "Raiden Ryoma's lawyer" after he learns the lawyer exists).
+  example, "Mr. HOMU's other student" after he reads about a second child
+  in the Raiden dojo).
 - The System never says how fixed a fixed node really is. He learns by
   pushing on one. Fixed nodes push back through Fate Deviation and
   correction events, so trying to break one is possible and usually lethal.
@@ -110,6 +122,11 @@ it says, "I never said it was possible. I said it was worth a lot."
 - **What holds:** the big events of history still happen as in canon unless
   Eros changed them directly. What changes is the heroine's fate and who
   remembers him.
+- **Items from a living heroine's run are her real things (hidden; only
+  the System knows).** When he takes her personal item at settlement, the
+  real heroine loses it the same night. For Mei: from February 5, 2014 she
+  wears one hair pin, can't remember losing the other, and Eros has it. He
+  believes it's something the System made.
 - **Living heroines:** a completed run collapses into her as echoes (dreams,
   déjà vu, a sense she knows him), stronger with each objective completed.
   The echoes only surface once the real timeline reaches the run's start.

@@ -82,6 +82,7 @@ stronger.
 
 - The simulations are real. Each run writes a branch into the Imaginary
   Tree.
+- What he takes out of a living heroine's run, she loses. Mei's pin is hers.
 - Its true identity, its goal, and whether it had anything to do with his
   rebirth or the note with his name. (Not decided yet.)
 
@@ -97,11 +98,12 @@ the math for running Frayed, pitches the shop, talks him out of soul repair,
 and steers him to the double payout. When Mei's run unlocks it pushes, and
 when he says no it says "Okay." and nothing else.
 
-**In Chapter 3:** opens the Life Path screen without a word, still sulking
-after "Okay." Sells him Corruption ("Everything pays, Eros. Some things pay
-more."). Approves of every reset and every exploit ("Now you're playing."),
-keeps the Herrscher's appetite for Corruption to itself, and reveals the
-lock-in only after his first objective completes. Says nothing at all when
-he walks Mei out the back gate past Tanabe. At settlement it shows him the
-hidden objectives he missed ("Four of eight. One short, Eros."), notices the
-hair pin he left, and unlocks Crossroads like a patch note.
+**In Chapter 3:** opens the Life Path without a word, still sulking after
+"Okay." Sells him Corruption ("Everything pays, Eros. Some things pay
+more."). Offers him whole childhoods, and Willow Street as a joke. Approves
+of every reset ("Now you're playing."), tells him "You could always live it"
+and waits for him to give in. Keeps the Herrscher's appetite for Corruption
+to itself, and reveals the lock-in only after his first objective. Says
+nothing at all when he walks Mei out the back gate past Tanabe. At
+settlement it shows him the hidden objectives he missed ("Four of eight. One
+short, Eros.") and lets him believe the pin is something it made.

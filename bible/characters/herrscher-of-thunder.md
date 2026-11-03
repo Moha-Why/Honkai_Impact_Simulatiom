@@ -78,12 +78,13 @@ costs Eros a large chunk of soul and drops him a whole stage
 
 ## In Chapter 3
 
-- **Loop 2:** wakes a week early, fed by Corruption built from pain. Goes
+- **Loop 4:** wakes a week early, fed by Corruption built from pain. Goes
   through Kiana's guard to kill Eros. A soul attack; he drops to Worn.
-- **Loop 3:** wakes three weeks early with no Kiana in the city and takes Mei
+- **Loop 7:** wakes three weeks early with no Kiana in the city and takes Mei
   completely. Kills Eros itself so the end of the world can't have him. He
   drops to Torn.
-- **Loop 4:** wakes on the fixed date. Fights Kiana. When Mei surfaces and
-  takes Eros's hand instead of Kiana's, the persona and Mei want the same
-  thing. Breaks Project Bunny for him. Stays beside him in the dojo all
-  night, and its nearness is what runs out his hours.
+- **Loop 8:** wakes on the fixed date, possessive of Mei and hating what she
+  needs ("She's mine. You only rented her."). Turns from Kiana and puts its
+  hand through the right side of his chest. When he holds up the pin, Mei
+  surfaces under it and pulls the lightning out of him, so the wound stays a
+  wound and not a soul attack.

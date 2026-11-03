@@ -154,27 +154,33 @@ needs at least five of eight, plus In Love and Fallen.
 7. **Not Kiana's hand:** on the roof she refuses Kiana's hand and takes his.
 8. **Thunder for him:** she uses the Herrscher's power for him.
 
-## In Chapter 3 (Mei run: four full loops and two short ones)
+## In Chapter 3 (Mei run: eight loops)
 
-- **Loop 1:** he mentions her kendo win, her mother and Mr. HOMU. "How do you
-  know that name?" Trust Wary. Untouched when he dies in December.
-- **Loop 1.5:** shuts him out within three weeks over something he never
-  identifies.
-- **Loop 2:** he breaks her down himself after the arrest. Corruption
-  Compromised, built on fear; Trust stalls at Open. She wakes a week early
-  and the persona kills him.
-- **Loop 2.5:** barely appears; he's busy with Kiana.
-- **Loop 3:** she lets him watch her dawn practice. When Kiana leaves because
-  of something he told her, she's glad and ashamed of it. Fallen too early,
-  Trust Open. The persona takes her completely in mid-January and kills him
-  to keep him.
-- **Loop 4:** rejects him every morning, then waits for it. Cooks for him,
-  then for Kiana too. Tells him about Mr. HOMU and teaches him her father's
-  sword. Relies in January. Breaks Kuroda's wrist for him. On the roof she
-  refuses Kiana's hand and takes his, kisses him, and turns the Herrscher's
-  power on Bronya for him (Fallen, In Love). Holds him in her father's dojo
-  until he dies at dawn, and says she loves him after he's gone.
-- **Hidden objectives in Loop 4:** 2, 5, 7 and 8 hit; 1, 3, 4 and 6 missed.
-- **After the run:** strong echoes in the real Mei at once, the same night as
-  the real Eruption: the pull and the darkness, not the facts. On the real
-  roof she hesitates for one second before taking the real Kiana's hand.
+- **Loop 1:** he mentions her kendo final, her mother and Mr. HOMU. "How do
+  you know that name?" Trust Wary.
+- **Loop 2:** he's Tanabe's nephew, whom she's known since they were six,
+  woken at 18. "You're not him."
+- **Loop 3:** he's Cocolia's operative, sent to isolate her.
+- **Loop 4:** he breaks her down himself. The persona kills him.
+- **Loop 5:** barely appears.
+- **Loop 6:** lived. The housekeeper's son, Mr. HOMU's other student,
+  killed at nine in the car when she's taken. In that branch she grows up
+  having lost him.
+- **Loop 7:** the dawn dojo. Kiana sent north, Fallen too early, the persona
+  kills him to keep him.
+- **Loop 8:** lived. The nurse's son at the ME Corp institution, 2004 to
+  2007. He teaches her to count until she sleeps (the origin of her habit).
+  At twelve she gives him one of her two pins, "So you'll come back," and
+  wears one from then on. In September 2013 he comes back. The rest of the
+  autumn as before. On the roof the persona puts its hand through his chest;
+  he holds up the pin; she comes back through him, pulls the lightning out,
+  and breaks down with him in her lap. She won't let go of him to take
+  Kiana's hand. She tells him she loves him while he's alive, and kisses
+  him. He dies as the Hyperion arrives.
+- **Hidden objectives in Loop 8:** 2, 3, 5 and 7 hit; 1, 4, 6 and 8 missed.
+- **After the run (real world):** from February 5, 2014 she wears **one
+  pin**. She can't remember losing the other. Strong echoes surface at once,
+  vivid as memory and known to be false: a children's ward at night, a boy
+  teaching her to count, "So you'll come back." Her habit of touching her
+  pins becomes touching the gap. On the real roof she hesitates one second
+  before taking the real Kiana's hand.

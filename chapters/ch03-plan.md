@@ -270,14 +270,21 @@ Project Bunny for him. That would make it 5 of 8.
 
 ## Settlement and waking
 
-- **Grade A, 3 of 5 cards:** Honkai Resistance, Liar's Face, the bond gift
-  Lightning Knows Your Name (Gold), Raiden Kenjutsu (Master), and the pin.
-- **The pin is now the pin from the children's ward.** He leaves it anyway,
-  power first, and the System makes him look at it before it fades.
+- **Grade A, 3 of 5 cards:** Honkai Resistance (Blue), Liar's Face (Green),
+  **Raiden Mei's Hair Pin (Gold item)**, Raiden Kenjutsu (Master), and double
+  payout.
+- **The pin carries the bond:** Honkai lightning knows whoever carries it.
+  Lose the pin, lose the effect.
+- **He takes** Resistance, the pin and the kenjutsu, and leaves Liar's Face.
+  He tells himself the pin is the bond gift in a convenient shape.
+- **Hidden rule (only the System knows):** items from a living heroine's run
+  are her real things. The real Mei loses that pin the same night.
 - Crossroads unlocks. Soul Torn; heroine runs locked for months.
-- **Waking:** as written. His memories return, and this time that includes
-  the childhood he lived in the run, so the merge is heavier. The watch room,
-  1,184 HW, "That's a Herrscher," the Hyperion leaving the north tower.
+- **Waking:** the pin is in his hand. His memories return, including the
+  childhood he lived in Loop 8, so the merge is heavier. He examines the
+  pin like an engineer (metal, lacquer, no maker's mark) and decides it's
+  something the System made. The watch room, 1,184 HW, "That's a
+  Herrscher," the Hyperion leaving the north tower.
 
 ## What the run changed (hidden from Eros)
 
@@ -286,7 +293,11 @@ Project Bunny for him. That would make it 5 of 8.
   hesitates one second before taking the real Kiana's hand.
 - **Kiana:** a faint echo, a hand nobody took.
 - **The real Herrscher's lightning** knows his name.
-- **The branch** goes on: a Fallen Mei, holding a pin, as the Hyperion lands.
+- **The real pin:** from February 5 the real Mei wears one pin and can't
+  remember losing the other. Her echoes feel like memories she knows never
+  happened.
+- **The branch** goes on: a Fallen Mei, holding nothing, as the Hyperion
+  lands. (He took the pin out of her hand.)
 
 ## Continuity checks
 

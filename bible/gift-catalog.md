@@ -24,7 +24,6 @@ Gifts that have appeared in the story, in order of first appearance.
 | Loud Voice | White | Can be heard clearly over almost anything. | Ch 2, Run 4 draw |
 | Honkai Resistance | Blue | His body withstands Honkai energy at Low D: hours in Eruption-level air. A ceiling, not power. | Ch 3, Mei run draw (held for the run, then kept permanently) |
 | Liar's Face | Green | His face doesn't give away a lie, even under stress. Does nothing for his voice or his words. | Ch 3, Mei run draw (held for the run; not kept) |
-| Lightning Knows Your Name | Gold | Mei's bond gift. Honkai lightning arcs around him, and what lands does a fraction of the harm. With a stigma and a suit he can take it in and carry it. Nothing against fire, blades, beasts or Honkai air. | Ch 3, Mei run settlement (kept) |
 
 ## Experience packages
 
@@ -42,4 +41,4 @@ Gifts that have appeared in the story, in order of first appearance.
 |---|---|---|---|
 | Technician's Multitool | White | A sturdy Schicksal-issue multitool. | Ch 2, Run 1 settlement (not taken) |
 | Porter's Key Ring | White | A heavy ring of hospital keys. | Ch 2, Run 2 settlement (not taken) |
-| Mei's Hair Pin | Item | The pin she touches when she's nervous. | Ch 3, Mei run settlement (not taken) |
+| Raiden Mei's Hair Pin | Gold | Her bond item: one of the two pins she wore, given to him at twelve in the run ("So you'll come back"). Honkai lightning knows whoever carries it: lightning from Mei, from the Herrscher of Thunder or from any Honkai source arcs around him, and what lands does a fraction of the harm. With a stigma and a suit he can take it in and carry it. Nothing against fire, blades, beasts or Honkai air. Lose the pin, lose the effect. Hidden: it's the real Mei's pin. | Ch 3, Mei run settlement (taken) |
