@@ -1,7 +1,7 @@
 # Chapter 3 plan: The Lightning Queen (Mei's heroine run)
 
 Status: plan, rewritten from scratch on the current rules. Waiting for
-approval. Target length: 36k to 42k words.
+approval. Target length: 38k to 44k words.
 
 ## The spine
 
@@ -78,7 +78,7 @@ at that moment.
   not days, and the air is worst right next to her.
 - **The lock-in.** The first objective he completes takes away his resets.
 
-## Why four loops
+## Why four full loops and two short ones
 
 The count comes from the rules, not the old plan.
 
@@ -91,6 +91,12 @@ The count comes from the rules, not the old plan.
 - **One lesson per loop,** each from a different obstacle. Loop 1 is Mei's
   eyes and Cocolia. Loop 2 is the Herrscher as judge. Loop 3 is possession
   and Kiana. Loop 4 puts it together.
+- **Two short loops** sit between the full ones, both before Loop 3 while his
+  soul can still afford them. A min-maxer who thinks it's a game restarts a
+  bad run instead of playing it out, and the short loops show that, plus the
+  first fixed node pushing back by itself. Without them every loop teaches
+  exactly the right lesson and the plan works on its first try, which is
+  too tidy.
 - **The last loop is played Torn.** He remembers the earlier loops as facts,
   not experiences, and most of his Earth life is gone, including the fan who
   loved this game. What plays Loop 4 is the cold one underneath. That's the
@@ -184,6 +190,21 @@ choice costs him in Loop 1.
 - **Comedy:** the class, the Lightning Queen, the steady line of boys who
   confess and get "I'm sorry. No." Kuroda's spring rejection, told as legend.
 
+## Loop 1.5: "Reroll" (about 1.5k words, mostly log lines)
+
+- **Nodes:** Mr. Tanabe's nephew, a room above his garage, no club, October
+  start. Close to the Raidens without any ME Corp ties.
+- **Three weeks in,** Mei shuts him out over something small he never
+  identifies. Trust drops to Wary and stays there.
+- **He calls the loop bricked and resets it himself.** As in Loop 1, the reset
+  is an intention and a log line, never shown.
+- **The cost shows:** another scattered detail goes. He notices he's started
+  losing names (the cafeteria cook on the island, then a St. Freya
+  instructor), and that it isn't free.
+- **The System:** approving. "Now you're playing."
+- **One scene:** his last morning in the loop, watching her at the gate,
+  already planning the next one.
+
 ## Loop 2: "The Knife and the Bandage" (about 7k words)
 
 - **Nodes:** scholarship kid, a cheap apartment by the station, kendo club
@@ -223,6 +244,25 @@ choice costs him in Loop 1.
 - **Handling:** the narration doesn't dress up what he does in this loop.
   The persona's line and the System's glee frame it as what it is.
 
+## Loop 2.5: "The Fixed Node" (about 1.5k words, mostly log lines)
+
+- **Nodes:** scholarship kid, the house next door, no club, September start.
+- **He starts Worn.** He doesn't wait for Kiana to become a problem. In early
+  December he finds her sleeping in the park before she enrolls, and gives
+  her a train ticket north and a lead on her father.
+- **The world corrects.** The train is canceled for snow, the lead turns out
+  to be a day late, and she enrolls in mid-December anyway, as if nothing
+  happened.
+- **He pushes again,** this time with a call to the school about her papers
+  before her first day. A truck skids on the ice on his way home. It's an
+  ordinary death, a correction event that looks like an accident.
+- **Death:** ordinary, a scattered detail (still Worn). Fate Deviation went
+  Disturbed to Unstable in a week, just from pushing on one node.
+- **What he learns:** a fixed node can't be stopped, but what happens after
+  it can be moved. Kiana's enrollment is fixed; whether she stays isn't.
+  That's the opening he uses in Loop 3.
+- **The System:** "The world's very attached to that girl. I wonder why."
+
 ## Loop 3: "The Only One" (about 7k words)
 
 - **Nodes:** scholarship kid, a rented room in the house next to the
@@ -236,7 +276,8 @@ choice costs him in Loop 1.
   - After the arrest he feeds Kuroda gossip through a friend of a friend and
     lets Sayaka see what she wants to see. He's there every time, right after
     it lands.
-- **Kiana enrolls in mid-December, and her honesty starts winning.** He
+- **Kiana enrolls in mid-December, and her honesty starts winning.** This
+  time he waits until after the fixed node, as Loop 2.5 taught him, and
   removes her with the one thing he learned not to use on Mei: foreknowledge.
   He tells Kiana that Siegfried Kaslana was seen up north, and she's gone
   before Christmas to chase him. Using it on Kiana costs him nothing he can
@@ -304,7 +345,13 @@ choice costs him in Loop 1.
     finished one. The next time you die, it's over." His resets are gone. From
     here every risk is real.
   - **Compromised, on schedule.** He lets Kuroda's group catch him behind the
-    gym and doesn't fight back. It's a bet, now that he can't reset. Mei
+    gym and doesn't fight back. It's a bet, now that he can't reset.
+  - **The thing his facts didn't cover.** Kuroda's group goes further than he
+    bet: someone has a length of pipe, and he goes down and doesn't get up.
+    Locked in, one death from the end of the run at a low grade, he has to
+    improvise. He gets himself out on Quick Reflexes, a knife he doesn't draw
+    and a lie Liar's Face carries, and limps to the dojo with a cracked rib.
+    The plan isn't a guarantee, and he knows it from here on. Mei
     sees. At the next practice she breaks Kuroda's wrist with a bokken and
     doesn't look sorry. He keeps her there and doesn't push for Fallen.
   - **A mark from the other loops:** she tells him she dreamed he died on a
@@ -409,8 +456,10 @@ choice costs him in Loop 1.
 
 ## Eros across the chapter
 
-- **Loop 1:** the gamer who thinks it's a game.
+- **Loop 1 and 1.5:** the gamer who thinks it's a game, restarting bad runs
+  without a second thought.
 - **Loop 2:** finds out he can be cruel, and that it doesn't cost him much.
+- **Loop 2.5:** finds out the world pushes back by itself.
 - **Loop 3:** gets loved to death.
 - **Loop 4:** the fan is gone, and what's left is very good at this.
 - **Waking:** the fan comes back and doesn't like what it sees. The villain's
@@ -431,13 +480,15 @@ choice costs him in Loop 1.
 - **Mei's cooking** is bad at first, per canon. In Loop 4 it starts for Eros,
   not Kiana.
 - **The bait objective** is on screen before Loop 1, and he pokes it in Loop 1.
-- **No objective completes** in Loops 1 to 3. The lock-in appears only in
+- **No objective completes** in Loops 1 to 3 or the two short loops. The lock-in appears only in
   Loop 4.
-- **Soul:** Frayed going in. Loop 1 ends Frayed (a scattered detail), Loop 2
-  Worn, Loop 3 Torn, Loop 4 Torn (a whole memory). The gaps inside each loop
+- **Soul:** Frayed going in. Loop 1 ends Frayed (a scattered detail), Loop
+  1.5 Frayed (another, and he notices the names going), Loop 2 Worn, Loop
+  2.5 Worn (a scattered detail), Loop 3 Torn, Loop 4 Torn (a whole memory). The gaps inside each loop
   match the stage.
-- **Fate Deviation:** Disturbed, Unstable, Collapse risk, then Disturbed in
-  Loop 4 until the roof, where it goes to Collapse risk.
+- **Fate Deviation:** Loop 1 Disturbed, Loop 1.5 Stable, Loop 2 Unstable,
+  Loop 2.5 Unstable, Loop 3 Collapse risk, then Disturbed in Loop 4 until
+  the roof, where it goes to Collapse risk.
 - **The awakening's date:** a week early in Loop 2 (Compromised), three weeks
   early in Loop 3 (Fallen), on the fixed date in Loop 4.
 - **The ♪ budget** is 2 to 3: the opening decision, the roof, and at most one
