@@ -1856,6 +1856,26 @@ She looked at me for a while, breathing hard. Something happened at the corner o
 
 Klaus watched her go and then turned to me. "Four suits," he said. "She has broken four of our suits in a month. You give her a bridge and she breaks a bridge." He shook his head. "You are a dangerous man, Tuesday."
 
+The door was in the same week.
+
+The lab's back door stuck in wet weather. Everyone knew it. You turned the handle and lifted, and it opened, and Klaus had stopped noticing he did it. One afternoon Bianka came in from the rain with her hair dripping, pulled at it, and it didn't move.
+
+"It sticks," Klaus called, without looking up. "Lift it."
+
+She lifted it. There was a short, very loud noise of metal giving up, and then she was standing in the doorway holding the whole door in both hands, upright, like a tray, with the hinge pins still in it and a little rain blowing in past her.
+
+Klaus looked up. I looked up. She looked at the door.
+
+"You said lift it," she said.
+
+"A little," said Klaus. "Lift it a little."
+
+She looked at the hinges, and at the frame, and at the door again, with a small honest frown, as though she were going back over it to find where the mistake had been.
+
+"That was a little," she said.
+
+Then she leaned it carefully against the wall, so that it wouldn't fall on anyone, and went to get changed. Klaus put his face in his hands. The next morning there was a maintenance ticket on the board by the coffee machine in very neat handwriting. It said Lab 3, rear door (lifted a little). Please reinforce. R.R.
+
 That was how it went, for the rest of the spring. She broke my simulations, and I made them harder, and she broke them again. She never said thank you. She never said anything nice about my work at all, except once, in April, when she came out of a run that had nearly beaten her and stood by my desk getting her breath back and said, "That one was good," and then looked annoyed with herself for saying it. She respected results. That was all she respected. She told me so herself, in March, sitting on the edge of Klaus's desk while he was at lunch, eating an apple with great violence.
 
 "The world doesn't care how hard you tried," she said. "It cares if you won. Everybody who tells you different has never lost anything."
