@@ -133,6 +133,10 @@ whether everyone has brought an umbrella.
   until she can't, and that's the only kind of respect she gives. She treats
   him like an annoying engineer, then a useful one. To him she's an annoying
   genius little sister.
+- **The lab door (March 2013):** told to "lift it" when the sticky door
+  jams, she lifts it off its hinges. "You said lift it." "A little."
+  "That was a little." Rita files the repair ticket. The first seed of the
+  literal-minded, monstrously strong "dumb goose" Durandal.
 - **What he carries:** the weight of knowing she's the real Kiana, that a
   clone of her is about to enroll at a school in Nagazora, and that her
   father is alive. Every time she says she has no family, he has to let it
