@@ -2579,7 +2579,7 @@ I stood in the dark and looked at the cards, and for the first time since the ba
 
 This was the part I was good at. Five options, two picks, incomplete information. I didn't know the scenario yet. That was the main thing. In every game I'd ever played that worked like this, the smart move was to take what would help no matter where you ended up, because a gift that was perfect for one scenario was useless in nine others.
 
-Quick Learner was easy. It was the only green, and it helped with everything. Whatever I was going to be doing in there, I'd learn it twice as fast.
+Quick Learner was easy. It was the only green, and it helped with almost anything. Whatever I was going to be doing in there, I'd learn it faster than the people around me.
 
 The second one took longer. Iron Stomach was nice but small. Steady Hands would help with fine work, and I was probably going to end up doing some kind of fine work, because that was the job I had. Cold Tolerance was very specific. Light Sleeper was the one I kept coming back to. In a world with Honkai in it, the person who woke up first when something went wrong was the person who got the head start, and a head start was worth more than steady hands.
 
@@ -2898,7 +2898,7 @@ I looked at the cards for a long time. My hands had stopped shaking, mostly.
 
 The experience would make me good at my job. Battlesuits were machines, and somebody who'd kept generators running at forty below would understand them faster than somebody who hadn't. The multitool was a joke. I didn't need a multitool.
 
-Quick Learner, though, would make me better at everything, forever. Every skill I ever got from any simulation, every language, every lesson, I'd pick up in half the time. The experience package was a year of work. Quick Learner was all the years after it.
+Quick Learner, though, would keep paying, forever. Every language, every drill, every lesson I sat through in any life, this one included, I'd pick up faster than I would without it. It wouldn't build muscle or make my lungs any bigger. It would only make the practice count for more. The experience package was a year of work. Quick Learner was all the years after it.
 
 "Quick Learner," I said.
 

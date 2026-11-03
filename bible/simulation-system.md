@@ -116,5 +116,8 @@ freely"; a kiss under high Corruption fails the objective).
 
 - He enters through sleep. His body stays put, and one run takes about one
   night however many years pass inside.
-- One normal run per day is free.
+- One normal run per day is free in Fate Fragments, offered every night.
+  Unused runs don't stack. The real price is the soul: about one run a week
+  is sustainable (see [soul-and-fate.md](soul-and-fate.md), "The real limit
+  on runs"). Extra runs from the shop (100) cost the same soul.
 - Heroine runs unlock when the System decides and announces it.

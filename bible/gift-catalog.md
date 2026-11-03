@@ -8,7 +8,7 @@ Gifts that have appeared in the story, in order of first appearance.
 | Iron Stomach | White | Can eat almost anything without getting sick. | Ch 2, Run 1 draw |
 | Steady Hands | White | Hands don't shake during fine work, even under stress. | Ch 2, Run 1 draw |
 | Cold Tolerance | White | Handles cold far better than a normal person. | Ch 2, Run 1 draw |
-| Quick Learner | Green | Picks up skills and languages about twice as fast. | Ch 2, Run 1 draw (kept for the run, then kept permanently) |
+| Quick Learner | Green | Picks up skills and languages by practice or study about half again as fast as most people. Doesn't speed up his body (muscle, stamina, Adaptability), doesn't change how deep an experience package goes, and doesn't raise his ceiling. He gets competent sooner, not better than the best. | Ch 2, Run 1 draw (kept for the run, then kept permanently) |
 | Night Owl | White | Stays alert at night without getting tired. | Ch 2, Run 2 draw |
 | Thick Skin | White | Bruises and cuts less easily. | Ch 2, Run 2 draw |
 | Good Lungs | White | Breathes deeper and recovers faster after running. | Ch 2, Run 2 draw; kept for Run 4 |

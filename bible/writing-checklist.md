@@ -58,6 +58,18 @@ Check these before planning a chapter and again before sending it.
   bathroom at work, putting the phone down at a cutscene) appears once.
 - "I knew" about 30 times a chapter at most.
 
+## Gifts on the page
+
+- Each gift he holds shows up at least once in a chapter where it matters,
+  through something he does, and with its limit showing too. Sprinter wins
+  the first ten meters and loses the next hundred. Quick Reflexes catches
+  the falling cup and makes him flinch before the punch. Quick Learner gets
+  the footwork in a week while his lungs still give out.
+- The narration doesn't name the gift ("thanks to Quick Learner"). The log
+  lines can, in brackets.
+- A gift does one thing. Don't let it quietly cover things outside its
+  effect in [gift-catalog.md](gift-catalog.md).
+
 ## Prose check (lint before sending)
 
 - No em or en dashes.

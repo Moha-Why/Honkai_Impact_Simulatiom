@@ -65,6 +65,19 @@ reset, the System shows his identity's life as a line of nodes.
 **Gifts:** a fresh 5-keep-2 draw at the start of each loop, so every loop is
 a different build.
 
+**Showing the gifts:** each loop's build has to be visible in what he does.
+His three permanent gifts appear in every loop, with their limits:
+
+- **Quick Learner:** he gets kendo footwork, the school's routines and
+  Mei's recipes faster than anyone expects, and still can't keep up with
+  her in a drill because his body is a desk worker's.
+- **Sprinter:** he reaches the gate or the stairwell first, and he's done
+  after that.
+- **Quick Reflexes:** he catches what falls, dodges a bokken by instinct,
+  and flinches at things that aren't attacks.
+- The two drawn gifts per loop each get one scene that shows them. The log
+  lines can name them; the narration doesn't.
+
 **Mei's meters:** Affection, Trust, Corruption. **Run meter:** Fate
 Deviation.
 
@@ -283,6 +296,8 @@ it's the most honest thing he does.
 - The bait objective must be shown on screen in Loop 1, so it can pay off.
 - The ♪ budget is 2 to 3 for the chapter: Loop 2's Corruption line, plus at
   most one more.
+- Gifts: every gift held in a loop shows in action at least once, with its
+  limit (see "Showing the gifts" above).
 - Soul: Frayed going in, then Frayed, Worn, Worn, Torn by the end of each
   loop. Gaps inside loops must match those stages.
 - Fate Deviation by loop: Disturbed, Unstable, Collapse risk, then

@@ -10,11 +10,14 @@ by what he has lost.
 
 | Death | What it takes |
 |---|---|
+| Peaceful (old age, illness in bed) | A scattered detail. Living a whole life wears the soul even when the end is gentle. |
 | Ordinary (fall, bullet, zombie, beast) | A scattered detail: a minor name, a face, a small part of an earlier loop |
 | Honkai-tainted (Honkai energy exposure, corrupted beasts) | A whole memory: a day, a conversation, one loop's key event |
 | Minor soul attack (mental attacks, soul-targeting Honkai weapons) | A stretch: weeks of a loop, a skill learned in the run, a chapter of his Earth life |
 | Herrscher-level soul attack | A large chunk, enough to drop him a whole stage at once |
 
+- **Every run costs something.** Every run ends in a death, and no death
+  is free, so even a long, quiet life takes at least a scattered detail.
 - Repeating the same death changes nothing.
 - His **foreknowledge** of the game is never lost. His name goes last.
 
@@ -46,10 +49,25 @@ by what he has lost.
 
 | Stage after a run | Healing time | What he can do |
 |---|---|---|
-| Frayed | A few days | Any run |
-| Worn | A couple of weeks | Any run, starting with gaps |
+| Frayed | About a week to Whole | Any run |
+| Worn | About a week to Frayed, another to Whole | Any run, starting with gaps |
 | Torn | Months | Normal runs only |
 | Hollow (after ejection) | A long recovery | No runs at all |
+
+### The real limit on runs
+
+The System offers a free normal run every night. The soul is what makes
+that offer a temptation instead of a power button.
+
+- **About one run a week** keeps him Whole or close to it.
+- **A run every night** takes him to Worn in about three nights (Chapter 2,
+  January 14 to 16) and toward Torn within a couple of weeks.
+- **Torn locks heroine runs for months,** so bingeing normal runs costs him
+  the runs that matter most.
+- The System always says the damage is small ("Frayed's a scratch on the
+  case"). It's lying by tone, never by fact.
+- Most nights he says no. When he says yes several nights running, it's a
+  decision with a visible cost, and the story shows the cost.
 
 ## Fate Deviation
 
