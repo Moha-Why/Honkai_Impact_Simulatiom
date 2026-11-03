@@ -51,7 +51,10 @@ accident", the joke that she'll be going to visit her father soon.
 thirteen (baseball, his father's company, a dog called Leo, "a girl in my
 year everybody's afraid of"). He hugs Eros at the shoe lockers on his first
 day and gives him a table in 3-B. After the arrest he writes on Mei's desk
-and tells Eros at lunch, waiting for him to laugh. Eros laughs. Loop 7, Eros feeds him gossip through a friend of a friend
+and tells Eros at lunch, waiting for him to laugh. Eros laughs. Loop 2, at
+fourteen he pays the chauffeur's nephew two thousand yen for advice on her
+and is told she likes boys who confess in front of everyone, which is how
+the spring courtyard confession happens (in that file). Loop 7, Eros feeds him gossip through a friend of a friend
 and lets him do the damage. Loop 8, Eros lets the bullying run, then lets
 Kuroda's group catch him behind the gym. They go further than he bet (a
 pipe, a cracked rib). Mei breaks Kuroda's wrist with a bokken at the next

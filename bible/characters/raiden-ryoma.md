@@ -35,6 +35,14 @@ the blade."
   cat comes home."). In November 2013 the secretary puts the grown boy
   through because of it. Ryoma listens to him name Cocolia and says "Thank
   you. Don't call this number again." The arrest happens anyway.
+- **Loop 2:** thanks the chauffeur's nephew for telling him about the
+  burst bulb, and in 2010 pays his Chiba Academy fees "for October." Is
+  Mr. HOMU; the boy knows from the shoes.
+- **Loop 4:** in 2003 interviews the port home's clever boys for the ME
+  Corp foundation, in a plain suit, and sees that Eros failed on purpose.
+  Sets up the 2012 scholarship.
+- **Loop 8:** in 2005 the nurse's son asks why he's always tired.
+  "Because I'm keeping something asleep."
 - **Every loop:** the arrest on the news on November 16 (a fixed node).
 - **Loop 6:** teaches two children the sword as Mr. HOMU, his daughter and the housekeeper's boy.
 - **Loop 8:** Mei finds the Mr. HOMU costume in January, tells Eros, and

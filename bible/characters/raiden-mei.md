@@ -158,8 +158,10 @@ needs at least five of eight, plus In Love and Fallen.
 
 - **Loop 1:** he mentions her kendo final, her mother and Mr. HOMU. "How do
   you know that name?" Trust Wary.
-- **Loop 2:** he's Tanabe's nephew, whom she's known since they were six,
-  woken at 18. "You're not him."
+- **Loop 2:** he's Tanabe's nephew, her friend from six. He tells her father
+  about the burst bulb at thirteen. "You promised." Five years of silence.
+  In October 2013 he tells her who Mr. HOMU is. "You kept his. I lied to
+  him for you with my arm in a cast. You couldn't keep mine for a night."
 - **Loop 3:** he's Cocolia's operative, sent to isolate her.
 - **Loop 4:** he breaks her down himself. The persona kills him.
 - **Loop 5:** barely appears.

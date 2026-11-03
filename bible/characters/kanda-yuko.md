@@ -17,3 +17,8 @@ together at night because it's the only thing that makes the girl sleep.
 
 **How she talks:** short, warm, practical. "Ten more minutes, then bed. Both
 of you. I'm counting."
+
+**Remarriage (Loop 8 childhood):** in 2008 Dr. Matsuda, a doctor at the
+Osaka clinic, asks her twelve-year-old son if he may marry her. The boy says
+no. She marries him anyway in spring 2009. He's kind and dull and calls the
+boy "young man." She stays Kanda at work.
