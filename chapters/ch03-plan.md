@@ -46,13 +46,10 @@ All from the bible as it stands now.
   the Hyperion come only once it starts (Chapter 2 ruling).
 - **His body:** Civilian, Honkai Resistance F before the draw.
 
-### When a heroine run ends (proposed ruling)
+### When Mei's run ends
 
-The bible says what happens when he dies, but not when a run ends if he
-doesn't. Proposed: the run ends at his death after an objective, or when the
-heroine's arc closes, whichever comes first. For Mei the arc closes when the
-Hyperion reaches Nagazora. "Both alive and together at the end" means alive
-at that moment.
+Mei's run ends when the Hyperion arrives over Nagazora. In Loop 4 that's
+also the moment he dies.
 
 ## What makes the corruption route hard
 
@@ -388,8 +385,8 @@ choice costs him in Loop 1.
 - **Dawn.** The Hyperion's lights come over the city.
   - She holds him and asks who she should burn for this, and he can't answer,
     because the answer is her.
-  - He dies of the Honkai air, a Honkai-tainted death and a whole memory, a
-    few minutes before the arc closes.
+  - He dies of the Honkai air, a Honkai-tainted death and a whole memory, at
+    the moment the Hyperion arrives, which is also when the run ends.
   - The persona's last line, to him or to Mei: "She'll find you."
 - **End meters:** Affection In Love, Trust Relies, Corruption Fallen. Fate
   Deviation Collapse risk.

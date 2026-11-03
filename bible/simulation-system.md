@@ -42,6 +42,9 @@ each run writes a branch into the Imaginary Tree.
   hidden events), not from how many objectives he finished.
 - Once at least one objective is complete, his next death ends the run as a
   success instead of resetting it.
+- **Each heroine run also has a set end,** the point where her arc closes.
+  If he's still alive then, the run ends there. Mei's run ends when the
+  Hyperion arrives over Nagazora.
 
 ## Life Path (heroine runs)
 
