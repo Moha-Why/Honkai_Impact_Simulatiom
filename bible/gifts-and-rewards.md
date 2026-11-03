@@ -69,8 +69,8 @@ which items are allowed, and how many Fate Fragments he's paid.
 - **Normal runs:** how long he lived, what he achieved, how much he changed
   in that life, and any hidden events he triggered (witnessing or surviving
   something historic, killing something far above his level).
-- **Heroine runs:** hidden criteria (Love, Corruption, Staying, plus hidden
-  events), not how many objectives he completed (see Heroine runs below).
+- **Heroine runs:** two pillars, Love and Corruption, plus her hidden
+  objectives for S (see Heroine runs below).
 
 ### What each grade gives
 
@@ -99,25 +99,26 @@ which items are allowed, and how many Fate Fragments he's paid.
 
 - **Objectives** are only the conditions for finishing the run. Completing
   one means his next death ends the run as a success.
-- **The grade** comes from hidden criteria the System never lists in
-  advance. They measure how deep he went with her, not whether he
-  finished:
+- **The grade** rests on two pillars, shown on her meters:
   1. **Love:** how far she fell for him (Affection).
   2. **Corruption:** how far she'd go for him. The darker she is, and the
      more she's his, the higher the grade.
-  3. **Staying:** whether he's still alive at her side after the objective.
 
-| Grade | What it looks like |
+| Grade | Love and Corruption |
 |---|---|
-| F–E | The objective barely made it. She hardly knows him. |
-| D | She likes him, and that's all. |
-| C | Fond or In Love, but still Untouched, and he died right after the objective. |
-| B | In Love and Bending: she'd break rules for him. He lived past the objective. |
-| A | In Love and Compromised: she'd turn on other people for him. He stayed with her. |
-| S | In Love and Fallen: she's his completely. Both alive and together at the end. |
+| S | In Love and Fallen, **and** most of her hidden objectives |
+| A | In Love and Fallen, or In Love and Compromised, or Fond and Fallen |
+| B | In Love and Bending, or Fond and Compromised |
+| C | Fond or In Love but Untouched, or Close with any Corruption |
+| D | Friendly |
+| E–F | Noticed or less |
 
-- **Hidden events:** a few moments per heroine that the System loves. Each
-  one hit raises the grade a step, two steps at most.
+- **Hidden objectives:** each heroine has her own set, about eight, split
+  between Love's side and Corruption's side. The System never lists them; at
+  settlement it shows which ones he hit. They're always achievable from the
+  background and situation the run puts him in.
+- **S needs most of them:** at least five of eight (more than half), on top
+  of In Love and Fallen. Below S they don't change the grade.
 - **Settlement** then uses the same table as normal runs (picks, colors,
   experience depth, Fate Fragments).
 - **Extras on the cards:** a **bond gift** unique to her (its color follows

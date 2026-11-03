@@ -33,8 +33,9 @@ All from the bible as it stands now.
 - **Objectives** only finish the run. Once one is complete, his next death
   ends it as a success. The System doesn't tell him that second part until
   it happens.
-- **The grade** comes from Love, Corruption (higher is better) and Staying,
-  plus hidden events (see gifts-and-rewards.md, Heroine runs).
+- **The grade** rests on two pillars, Love and Corruption (higher is
+  better). S also needs at least five of Mei's eight hidden objectives,
+  which are listed in her profile (see gifts-and-rewards.md, Heroine runs).
 - **Gifts:** one 5-keep-2 draw before Loop 1, kept through every loop.
 - **Death resets the loop** at a soul cost, and the gaps carry into the next
   loop. A Herrscher's lightning is a soul attack and drops him a whole stage.
@@ -327,7 +328,12 @@ choice costs him in Loop 1.
     "It's terrible. Make it again tomorrow." She cooks for him.
 - **Kiana enrolls in mid-December,** and he keeps her.
   - She eats his noodles and announces "If he gets to, I get to!" Now Mei
-    gets two confessions a day, one meant and one engineered.
+    gets two confessions a day, one meant and one engineered. He's no longer
+    the last one standing (hidden objective 1 missed), and keeping Kiana is
+    what cost it.
+  - Kiana loves Mei's terrible food with her whole heart, and Mei, still
+    partly the girl from canon, starts making a second box. Cooking for one
+    is missed too (hidden objective 6).
   - He makes Kiana his friend, and he makes sure Mei sees that Kiana loves
     everybody. "That's what's good about her." It's true, and it's poison.
   - Kiana can't lie: "You're kind of creepy. But you didn't leave her." Mei
@@ -337,7 +343,7 @@ choice costs him in Loop 1.
 - **January.**
   - **Mr. HOMU.** She finds the costume and tells him, and he lets her tell
     him. Then she asks him to learn her father's sword at dawn, because she
-    has no one else to give it to. (Hidden event.)
+    has no one else to give it to. (Hidden objective 2.)
   - **Relies.** Objective complete. The System: "Did I mention? You've
     finished one. The next time you die, it's over." His resets are gone. From
     here every risk is real.
@@ -350,7 +356,8 @@ choice costs him in Loop 1.
     and a lie Liar's Face carries, and limps to the dojo with a cracked rib.
     The plan isn't a guarantee, and he knows it from here on. Mei
     sees. At the next practice she breaks Kuroda's wrist with a bokken and
-    doesn't look sorry. He keeps her there and doesn't push for Fallen.
+    doesn't look sorry (hidden objective 5). He keeps her there and doesn't
+    push for Fallen.
   - **A mark from the other loops:** she tells him she dreamed he died on a
     roof, and that she was the one who did it.
 - **February, the Eruption at Chiba Academy (fixed).** Cocolia and Bronya's
@@ -364,14 +371,14 @@ choice costs him in Loop 1.
     and fights it. Kiana gets close enough to hold out her hand, and Mei
     surfaces, as in canon.
   - **Mei looks at Kiana's hand, looks at him, and takes his.** (Hidden
-    event. Second ♪.) Corruption: Fallen. For the first time the persona and
+    objective 7. Second ♪.) Corruption: Fallen. For the first time the persona and
     Mei want the same thing. In canon, Mei's joy breaks the persona's hold.
     Here her joy is him, so it feeds the persona instead.
   - **The kiss.** Objective complete. Mei, with the horns and the lightning
     crawling over the roof. Brief.
   - **Bronya** comes for Mei on Cocolia's orders. "Subject Eros is an
     obstacle." Mei breaks Project Bunny and drives her off the roof. (Hidden
-    event: she uses the Herrscher's power for him.) Kiana is bleeding and
+    objective 8: she uses the Herrscher's power for him.) Kiana is bleeding and
     can't stop them. Mei takes him down into the city. Fate Deviation:
     Collapse risk.
 - **The night.** Her father's dojo in the empty house, the city burning
@@ -386,18 +393,24 @@ choice costs him in Loop 1.
   - She holds him and asks who she should burn for this, and he can't answer,
     because the answer is her.
   - He dies of the Honkai air, a Honkai-tainted death and a whole memory, at
-    the moment the Hyperion arrives, which is also when the run ends.
+    the moment the Hyperion arrives, which is also when the run ends. Wake
+    beside him is missed (hidden objective 4).
+  - She never said it first. She says she loves him into his hair after
+    he's gone (hidden objective 3 missed).
   - The persona's last line, to him or to Mei: "She'll find you."
 - **End meters:** Affection In Love, Trust Relies, Corruption Fallen. Fate
   Deviation Collapse risk.
 
 ## Settlement (about 2k words)
 
-- **Grade: A.** In Love and Fallen are as high as they go, and all three
-  hidden events landed. Staying is what holds it: he stayed with her through
-  the climax, but he wasn't alive at the end.
-- **S shows grayed out:** "Both alive and together at the end." The System:
-  "One sunrise short, Eros." At S she'd have given him something red.
+- **Grade: A.** In Love and Fallen, the top of both pillars. S needed five of
+  the eight hidden objectives, and he hit four: her father's sword, the
+  Queen's cruelty, not Kiana's hand, and thunder for him.
+- **What he missed:** the last one standing and cooking for one (both lost
+  by keeping Kiana, the lesson that made the loop work at all), her own
+  words, and waking beside him.
+- **The System shows the eight,** hits and misses, and S grayed out. "Four of
+  eight. One short, Eros." At S she'd have given him something red.
 - **A pays 3 of 5 cards, up to Gold, plus 300 to 500 Fate Fragments.**
 
 | Card | Color | What it is |
@@ -477,7 +490,10 @@ choice costs him in Loop 1.
 - **Mei's cooking** is bad at first, per canon. In Loop 4 it starts for Eros,
   not Kiana.
 - **The bait objective** is on screen before Loop 1, and he pokes it in Loop 1.
-- **No objective completes** in Loops 1 to 3 or the two short loops. The lock-in appears only in
+- **No objective completes** in Loops 1 to 3 or the two short loops.
+- **Hidden objectives in Loop 4:** 2, 5, 7 and 8 hit; 1, 3, 4 and 6 missed.
+  All eight have to be reachable from his scholarship start next door, and
+  they are. The lock-in appears only in
   Loop 4.
 - **Soul:** Frayed going in. Loop 1 ends Frayed (a scattered detail), Loop
   1.5 Frayed (another, and he notices the names going), Loop 2 Worn, Loop
@@ -530,13 +546,3 @@ Checked for the first version of this plan; nothing new is added here.
   agreement in Loop 4), kiana-kaslana, bronya-zaychik, cocolia,
   man-in-gray-car, chiba-classmates, tanabe, raiden-ryoma, the-system, eros.
 - **future-arcs.md:** the moral knot now includes what the echoes carry.
-
-## Rules questions for you
-
-1. **The end of a run:** add the ruling above (the arc closes when the
-   Hyperion reaches Nagazora) to the rules?
-2. **Hidden events and Staying:** the rules say each hidden event raises the
-   grade a step. In Loop 4 that would lift his A to S even though S says
-   "both alive and together at the end." This plan reads Staying as a cap:
-   hidden events can't give him a row whose Staying he didn't meet. Add that
-   to the rules?

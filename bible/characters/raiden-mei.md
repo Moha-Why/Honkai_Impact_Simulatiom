@@ -105,6 +105,27 @@ and her joy. Corruption feeds it.
 - **Corruption** rises when she's isolated, used or made dependent. High
   Corruption speeds up the awakening and makes the Herrscher crueler.
 
+## Hidden objectives (her heroine run)
+
+The System never lists these. At settlement it shows which ones he hit. S
+needs at least five of eight, plus In Love and Fallen.
+
+**Love's side**
+
+1. **The last one standing:** after November 16 he's the only one still
+   confessing every morning, and she starts waiting for it.
+2. **Her father's sword:** she teaches him the Raiden family art.
+3. **Her own words:** she tells him she loves him first, while he's alive.
+4. **Wake beside him:** both of them alive when the Hyperion arrives.
+
+**Corruption's side**
+
+5. **The Queen's cruelty:** she hurts someone for him and isn't sorry.
+6. **Cooking for one:** she cooks only for him; nobody else gets her food,
+   Kiana included.
+7. **Not Kiana's hand:** on the roof she refuses Kiana's hand and takes his.
+8. **Thunder for him:** she uses the Herrscher's power for him.
+
 ## In Chapter 3 (Mei run, four loops)
 
 - **Loop 1:** rejects the fanboy daily; unsettled when he knows about her

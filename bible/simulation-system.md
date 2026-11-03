@@ -38,8 +38,9 @@ each run writes a branch into the Imaginary Tree.
 
 - Objectives are the conditions for finishing the run, nothing more.
   Several run at once and completing one is enough.
-- The grade comes from hidden criteria (Love, Corruption, Staying, plus
-  hidden events), not from how many objectives he finished.
+- The grade comes from two pillars, Love and Corruption, and S also needs
+  most of her hidden objectives (see gifts-and-rewards.md). How many
+  objectives he finished doesn't change it.
 - Once at least one objective is complete, his next death ends the run as a
   success instead of resetting it.
 - **Each heroine run also has a set end,** the point where her arc closes.
