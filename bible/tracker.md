@@ -14,24 +14,26 @@ Combat Rating: Civilian
 Honkai Resistance: Low D
 Honkai Adaptability: None
 Soul: Torn
-Gifts: Quick Learner (Green), Sprinter (White), Quick Reflexes (Green), Honkai Resistance (Blue), Lightning Knows Your Name (Gold)
+Gifts: Quick Learner (Green), Sprinter (White), Quick Reflexes (Green), Honkai Resistance (Blue)
+Items: Raiden Mei's Hair Pin (Gold)
 Experience: Hunting and Field Craft (Professional), Raiden Kenjutsu (Master)
 Fate Fragments: 770
 ```
 
 - **Soul: Torn.** Heroine runs locked for months; normal runs only.
 - **Crossroads** unlocked for normal runs (forks, final, some are traps).
-- **Mei's run complete, grade A** (In Love, Relies, Fallen; 4 of 8 hidden
-  objectives; S needed 5). Her branch continues without him: a Fallen
-  Herrscher Mei who lost him at dawn as the Hyperion arrived.
-- **Left behind at settlement:** Liar's Face (Green) and Mei's hair pin.
+- **Mei's run complete, grade A** (In Love, Relies, Fallen; hidden objectives
+  2, 3, 5, 7 hit, 4 of 8; S needed 5). Her branch continues without him.
+- **Left behind at settlement:** Liar's Face (Green) and the double payout.
+- **The pin** is in his wallet, behind the note with his name. He believes the
+  System made it. It's the real Mei's (hidden rule).
 - Still saving toward the 300-fragment scenario pick; he can afford it now.
 
 ### Heroine runs
 
 | Run | Heroine | Loops | Result | Reward taken |
 |---|---|---|---|---|
-| Mei | Raiden Mei, Nagazora, Sept 2013 to Feb 2014 | 1 (gray car), 1.5 (self-reset), 2 (Herrscher), 2.5 (truck), 3 (Herrscher), 4 (Honkai air at dawn) | Grade A. Objectives 1 and 2 complete. | Honkai Resistance (Blue), Lightning Knows Your Name (Gold), Raiden Kenjutsu (Master); +420 |
+| Mei | Raiden Mei, Nagazora, 1995 to Feb 2014 | 1 gray car; 2 Tanabe's nephew, self-reset; 3 Cocolia's orphan, Bronya; 4 Herrscher; 5 truck; 6 lived, killed at nine in the kidnapping; 7 Herrscher; 8 lived, the institution, the pin, dies as the Hyperion arrives | Grade A. Objectives 1 and 2 complete. | Honkai Resistance (Blue), Raiden Mei's Hair Pin (Gold item), Raiden Kenjutsu (Master); +420 |
 
 ### Runs completed
 
@@ -54,13 +56,13 @@ Lungs (Run 4). Danger Sense and Pain Tolerance were lost to the grade cap.
   whole run; it returned on waking.
 - Rest January 17 to 24; Worn healed to Frayed.
 - Run 4: a scattered detail.
-- Mei run: Frayed going in. Loop 1 and 1.5, scattered details (Hamada's
-  first name; Lao Chen's name and Captain Rahman). Loop 2, Herrscher
-  lightning, Worn. Loop 2.5, a scattered detail (the Willow Street dog,
-  Doudou). Loop 3, Herrscher lightning, Torn: earlier loops became facts,
-  Earth life mostly gone, Director Zhou's face going. Loop 4, a whole
-  memory (Theresa's candy in August 2009). All returned on waking; the
-  soul stays Torn.
+- Mei run: Frayed going in. Loops 1 to 3, scattered details (Hamada's first
+  name, Lao Chen's name, Captain Rahman's). Loop 4, Herrscher lightning, Worn.
+  Loops 5 and 6, scattered details (the Willow Street dog, Doudou). Loop 7,
+  Herrscher lightning, Torn: earlier loops became facts, Earth life mostly
+  gone, Director Zhou's face going. Loop 8, the wound (she pulled the
+  lightning out), a scattered detail (Theresa's candy). All returned on
+  waking, including the two childhoods he lived; the soul stays Torn.
 
 ### What Eros holds
 
@@ -127,5 +129,6 @@ Lungs (Run 4). Danger Sense and Pain Tolerance were lost to the grade cap.
   Yoshida; two sons (one did not come back from the war), one daughter.
 - Run 4: Sergeant Ilse Brandt ("Good hands. Slow feet.").
 - Mei run: Anders Lindqvist (Loop 1 father), Hoshino Kei (Loop 1
-  journalist), Mrs. Okada (landlady next door, Loops 2.5 to 4), Mochizuki
-  and his cousin (Loop 3 gossip line), plus the Chiba Academy cast.
+  journalist), Cocolia and Bronya in person (Loop 3), Mori Haruko (Loop 6
+  mother), Kanda Yūko (Loop 8 mother), Mrs. Okada (landlady next door),
+  Mochizuki and his cousin (Loop 7 gossip line), plus the Chiba Academy cast.
