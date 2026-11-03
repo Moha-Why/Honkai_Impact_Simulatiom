@@ -36,16 +36,16 @@ Schicksal instead of against it.
 **Later:** his reports on Eros go up the chain. He's one of the first people
 who might notice that Eros knows things he shouldn't.
 
-**By 2014:** 49. Has coffee with Eros every March. Asked in 2010 why he
-said yes so fast. In 2013: "You know, Eros, you're very boring." The
-closest he has come to smiling.
+**By 2014:** 49. Has had coffee with Eros once (March 2010), when he asked
+why Eros said yes so fast and why he asked about the Kaslanas.
 
 **In Chapter 1:** waits in Eros's room, makes the offer, takes him to the
 Far East Branch.
 
 **In the Chapter 2 rewrite:** in March 2010 he also asks, "You asked about
 the Kaslanas in orientation. Why?" Eros says he likes old families and old
-stories; Brenner writes nothing down. The March 2013 coffee happens at HQ
-during the secondment ("You're very boring"), and afterward he closes the
-file. A collected drive from an outbreak zone (see ../future-arcs.md) could
+stories; Brenner writes nothing down. In March 2013 the four-year review of Eros as
+a leak recruit ends routinely, with a short email: "No further meetings are
+required... P.S. You've become useful. Useful people are much less
+interesting to people like me." A collected drive from an outbreak zone (see ../future-arcs.md) could
 open it again.

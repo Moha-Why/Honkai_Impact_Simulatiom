@@ -75,16 +75,15 @@ purpose.
 - **The ferry:** off-duty staff travel by ferry because Shiomi's harbor
   office logs every boat, and a "wind research station" whose staff fly
   around in tilt-rotors would end up in the newspapers.
-- **Money:** everything on the island is paid with the staff badge, and
-  every payment is in a ledger Security can read. The one ATM (harbor
-  building) exists only for cash to spend in Shiomi. Regular withdrawals are
-  visible, which is why Eros draws the same amount every Friday.
-- **The request log:** everything physical that arrives or leaves goes
-  through a supply request with a stated reason (the supply officer's screen
-  stamps a red seal, an old IT joke). Every request goes into the same log
-  as badge payments, door swipes and the ferry list, and Security reads the
-  log. Schicksal isn't worried about being hacked; it simply watches its
-  own people.
+- **Money:** everything on the island is paid with the staff badge. The
+  one ATM (harbor building) exists only for cash to spend in Shiomi. Eros
+  draws the same amount every Friday out of his own paranoia; as far as he
+  knows, nobody checks.
+- **Supply requests:** everything physical that arrives or leaves goes
+  through a request with a stated reason (the supply officer's screen
+  stamps a red seal, an old IT joke). Ordinary bookkeeping.
+- **The ferry list:** everyone's departure and return time is written
+  down, for the boat's head count.
 - **The staff network** is monitored (Vogel, Chapter 1). Mail goes via the
   Hamburg cover address and is read.
 
@@ -123,3 +122,18 @@ purpose.
 - What it means for Eros: a desk engineer who's never been shot at is
   "safe to drink with", not someone to fall for. Being handsome gets him
   glances, not love.
+
+## How closely Schicksal watches Eros (ruling)
+
+Not much, and that's the point. He's a junior engineer recruited after a
+data leak. The staff network is monitored for everyone. Brenner checks in
+once, in March 2010 (the Kaslana question), and his four-year review of
+Eros as a leak recruit ends routinely in March 2013 with a one-line email.
+Rita becomes his liaison at HQ because she has just been assigned to
+Bianka and he writes Bianka's suit firmware, not because Otto is watching
+him. Otto glances at him once, as he glances at everyone.
+
+The paranoia is Eros's own. He's a fan who knows what Otto is, so he hides
+from a man who hasn't noticed him. Keep it that way until the System,
+Fate Deviation or his runs give someone a real reason to look; that moment
+should land because nothing like it came before.

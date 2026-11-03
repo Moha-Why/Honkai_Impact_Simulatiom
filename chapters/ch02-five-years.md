@@ -18,13 +18,13 @@ She chewed her gum and looked at the corners again. I waited for her face to do 
 
 "Where?"
 
-"Everywhere. It's a small island and I've got you until Monday." She was already heading for the lift with her hands in the front pocket of her hoodie. "Monday I write your escort report, and then you're Brenner's problem and I go back to sleeping on helicopters."
+"Everywhere. It's a small island and I've got you until Monday." She was already heading for the lift with her hands in the front pocket of her hoodie. "Monday I write your escort report, and then I'm off escort duty and I go back to sleeping on helicopters."
 
 I caught her up at the lift. "What goes in an escort report?"
 
-"Three lines." She held up three fingers and folded them down with her thumb. "Ate. Slept. Didn't try to swim to Korea. That's the standard. If I write a fourth line it means I noticed something, and then Brenner calls me into his office and offers me a peppermint, and I hate his peppermints." The lift came. She stepped in and looked at me sideways. "So don't make me write a fourth line, genius."
+"Three lines." She held up three fingers and folded them down with her thumb. "Ate. Slept. Didn't try to swim to Korea. That's the standard. It goes to Personnel and nobody reads it. I wrote 'Ate a seagull' on one once to check. Nobody called." The lift came. She stepped in and looked at me sideways. "So relax, genius. You're not that interesting."
 
-"I'll be boring."
+"I'll try to keep it that way."
 
 "Everyone says that." The doors closed. "Nobody's boring their first week. You'd be amazed what people ask."
 
@@ -344,7 +344,7 @@ They did check the ferry list. A security man stood at the foot of the gangway w
 
 "Yes."
 
-He wrote 1600 next to the tick and gave me my badge back. The man behind me in the queue was from Medical, and he got a tick and nothing else. I noticed that, and went up the gangway, and didn't look back at the clipboard.
+He wrote 1600 next to the tick and gave me my badge back. The man behind me in the queue was from Medical, and he got a tick and a time too. Everybody did. I went up the gangway anyway feeling as if mine had been underlined.
 
 The ferry was small and blue and smelled of diesel and old fish. There were about twenty of us on it, logistics crews and medical staff and a couple of engineers I half recognized, and all of them went straight inside and sat with their eyes closed, which I took for weakness. I stood at the back and watched the island get smaller, a flat gray line with antennas on it and a helicopter lifting off the end. Then the sea started doing something long and slow underneath us, and I went to the rail.
 
@@ -380,7 +380,7 @@ I put the coins back in my pocket and bought a can of coffee from the machine in
 
 My first payday was the twenty-fifth of April.
 
-I knew it had come because the ATM in the harbor building told me. It was the only cash machine on the island, in a little lobby between the post room and the supply office, with a plastic plant beside it that someone watered. It was only there for Shiomi. On the island your badge paid for everything, the curry and the bar and the vending machines, and every one of those payments went into a ledger that somebody in Brenner's office could read if they wanted to. Cash was for the far side of the water. I went down after work because I wanted to check that the money was real, much as I'd check that a server you'd been promised actually existed before you deployed anything to it. I put my card in, and typed my number, and pressed the button for my balance.
+I knew it had come because the ATM in the harbor building told me. It was the only cash machine on the island, in a little lobby between the post room and the supply office, with a plastic plant beside it that someone watered. It was only there for Shiomi. On the island your badge paid for everything, the curry and the bar and the vending machines, and nobody on the island had carried cash for years. Cash was for the far side of the water. I went down after work because I wanted to check that the money was real, much as I'd check that a server you'd been promised actually existed before you deployed anything to it. I put my card in, and typed my number, and pressed the button for my balance.
 
 I looked at it for a long time.
 
@@ -400,7 +400,7 @@ The rest of the money sat in the account. I didn't know what to do with it. I'd 
 
 So I did what I'd always done when I had a new resource and no plan for it. I didn't touch it, and I watched it.
 
-On the first of May I spent some of it. I went to the supply office and ordered a desk chair. A proper one, with lumbar support and arms that went up and down, the kind that costs as much as a cheap motorbike, because I'd died the first time with my back in pieces and I'd decided that whatever happened in this life, I was going to sit properly. The supply officer didn't look up. "Reason?" he asked. I said my back. He typed BACK into the request, and a red seal stamped itself across his screen with a little thud from the speaker, an animation somebody in IT had made years ago as a joke and nobody had ever taken out. Every request went into the same log as everything else on the island, the badge payments and the door swipes and the ferry list, and Security read the log. The chair came on the Tuesday ferry, and I spent an evening putting it together with a hex key while the concrete wall outside my window stood there being a wall.
+On the first of May I spent some of it. I went to the supply office and ordered a desk chair. A proper one, with lumbar support and arms that went up and down, the kind that costs as much as a cheap motorbike, because I'd died the first time with my back in pieces and I'd decided that whatever happened in this life, I was going to sit properly. The supply officer didn't look up. "Reason?" he asked. I said my back. He typed BACK into the request, and a red seal stamped itself across his screen with a little thud from the speaker, an animation somebody in IT had made years ago as a joke and nobody had ever taken out. The chair came on the Tuesday ferry, and I spent an evening putting it together with a hex key while the concrete wall outside my window stood there being a wall.
 
 Then I made instant noodles and ate them sitting in it.
 
@@ -766,7 +766,7 @@ Brenner looked at me for what felt like a long time. His eyes were the same poli
 
 "I'll get a card."
 
-"Good." He stood up, and picked up the folder, and tucked it under his arm. "Thank you for your time, Eros. Same time next year."
+"Good." He stood up, and picked up the folder, and tucked it under his arm. "Thank you for your time, Eros."
 
 He walked out. I sat at the table and finished my coffee very slowly, because I didn't trust my hands with anything else, and on the walk back to the eleventh floor I passed the portrait in the corridor and didn't look at it.
 
@@ -1334,17 +1334,7 @@ He looked at me. "How do you know?"
 
 ---
 
-Brenner came in March, as he always did, and asked his questions, as he always did, and didn't open his folder. He didn't mention the Kaslanas. He asked about the anomaly watch, and when I told him about the town in Korea he nodded as though he'd read the report, which he certainly had.
-
-"You've become useful," he said.
-
-"That sounds like a threat."
-
-"It's the opposite of one." He unwrapped a peppermint. "Useful people are much less interesting to people like me."
-
----
-
-A week later, on a Friday evening, Asami asked me to come down to the bar because Ji-woo and Mao had had a fight and Ji-woo needed cheering up. I should have known it was a lie. Ji-woo and Mao never fought about anything except trucks.
+In March, on a Friday evening, Asami asked me to come down to the bar because Ji-woo and Mao had had a fight and Ji-woo needed cheering up. I should have known it was a lie. Ji-woo and Mao never fought about anything except trucks.
 
 I walked down the seawall in the dark. The bar's windows were lit and there was music coming out of it, louder than usual, and when I opened the door the music stopped and about twenty people shouted "HAPPY BIRTHDAY" at me at once.
 
@@ -1582,7 +1572,7 @@ I went out onto the balcony afterward and stood in the cold looking at the light
 
 The other thing I spent the money on, that winter, was a way out.
 
-I hadn't decided to. I'd just started doing it, as I'd started running. In the first week of November I opened a locked case I'd ordered for "equipment", and started putting cash in it. Yen first, because the island was in Japanese waters and Shiomi was the nearest town. Then yuan, because I'd grown up in Hangzhou and could disappear there better than anywhere. Then euros, because the money came in euros and it was the easiest to get. I drew it out of the machine in the harbor lobby with the plastic plant. Every withdrawal was a line in somebody's ledger, so I took the same amount every Friday morning before the ferry, like a man who liked the noodles in Shiomi, and some Fridays I even took the ferry. The cash went in the case, and the case went under the bed.
+I hadn't decided to. I'd just started doing it, as I'd started running. In the first week of November I opened a locked case I'd ordered for "equipment", and started putting cash in it. Yen first, because the island was in Japanese waters and Shiomi was the nearest town. Then yuan, because I'd grown up in Hangzhou and could disappear there better than anywhere. Then euros, because the money came in euros and it was the easiest to get. I drew it out of the machine in the harbor lobby with the plastic plant. As far as I knew, nobody looked at withdrawals. I took the same amount every Friday morning before the ferry anyway, like a man who liked the noodles in Shiomi, because I'd watched too many cutscenes about Otto to believe nobody was looking at anything. Some Fridays I even took the ferry. The cash went in the case, and the case went under the bed.
 
 Then I packed a bag.
 
@@ -1680,9 +1670,9 @@ She went. She walked very quietly, for someone in heels. Klaus watched her go do
 
 "She seemed nice."
 
-"Nice. Yes. Very nice. Nobody gets Rossweisse. Department heads get a man from Personnel with a clipboard." He thought about it. "Rossweisse is the Overseer's. His own. She trained under him. She is seventeen and she is maybe the most dangerous Valkyrie in this building." He picked up his coffee. "If she is your liaison, Tuesday man, somebody upstairs wants to know about you."
+"Nice. Yes. Very nice. Nobody gets Rossweisse. Department heads get a man from Personnel with a clipboard." He thought about it. "Rossweisse is the Overseer's. His own. She trained under him. She is seventeen and she is maybe the most dangerous Valkyrie in this building." He picked up his coffee. "Last month they gave her to the little Ataegina. Adjutant, nanny, I don't know what you call it. And you write the little Ataegina's suit. So." He shrugged. "Now you also have Rossweisse."
 
-I sat down. I already knew that. I'd known it when she said the Overseer hoped my stay would be comfortable, because in the game Otto never hoped anything about anyone he wasn't watching.
+I sat down. It was the sensible explanation, and it was probably the true one. I didn't believe it for a second. In the game Otto never hoped anything about anyone he wasn't watching, and I'd decided before I landed that I'd act as if he was.
 
 ---
 
@@ -1690,9 +1680,9 @@ She came at four, as she'd said, and every day after that, at four, and some day
 
 She was perfectly helpful. My room in the staff building had heating that didn't work, and she had it fixed by the evening. My access card wouldn't open the door to Simulation, and she had it changed in ten minutes. She brought me a map of the site that showed which corridors I was allowed in, and at the bottom of it, in her own very neat handwriting, she'd added the opening hours of the canteens and the name of a café on the residential island that did good apple cake. She remembered how I took my coffee after one day. She asked about my work and listened to the answers and asked better questions than most engineers would have.
 
-And everything I said to her, I knew, went somewhere.
+And everything I said to her, I assumed, went somewhere.
 
-She didn't hide that. That was the strange part. She never pretended to be anything but what she was, which was the Overseer's maid, assigned to the new engineer from the Far East. She just did it with such good manners that it was impossible to object. I'd say something about the code, and she'd nod and smile and say, "How interesting," and I'd know that somebody would read those words before the end of the day. I started saying things to her very carefully. She noticed, and seemed to find it charming.
+She never pretended to be anything but what she was, which was the Overseer's maid, lent to the engineer who worked on her new charge's suit. I'd say something about the code, and she'd nod and smile and say, "How interesting," and I'd picture somebody upstairs reading those words before the end of the day. She very probably wrote nothing down at all. I said things to her very carefully anyway. She noticed, and seemed to find it charming, and I think it was the carefulness she found interesting, not anything I said.
 
 One afternoon in the second week of February, she came at four with a tray.
 
@@ -1746,15 +1736,11 @@ She went. I sat there with my cup of tea and found that my hand wasn't quite ste
 
 In the third week she took me on a tour of the archives.
 
-"The Overseer thought you might enjoy it," she said. "You asked about the old families, I believe. At your orientation."
+"Mr. Hoffmann says you read every plaque in every corridor," she said. "I thought you might like the old ones. I go down once a month to check the humidity, and it's dull on my own."
 
 We were in the back of a transport at the time, an hour north over the sea and then the Alps, going down. The archive had never gone up into the sky with the rest of Schicksal. It was still where it had been for most of the organization's history, at the old headquarters in Kolosten, a small town outside Vienna, in a cathedral and a cloister on a hill above the town with snow on every roof and a staff of about thirty people to keep it. Rita walked ahead of me down a long stone corridor under the old cathedral with a ring of keys at her waist.
 
-I kept walking. My face kept doing what it was supposed to. I thought about Brenner, at a café table by a window, folding his peppermint wrapper in half, and in half again.
-
-"I did," I said. "It was a long time ago."
-
-"Four years." She stopped at a door and opened it with a key from a ring at her waist. "Not so long."
+She stopped at a door and opened it with one of the keys.
 
 The archive was a long vaulted room under the old cathedral, very cold and very dry, with shelves going back into the dark and glass cases down the middle, and on the walls, between the shelves, portraits. They went back centuries. Men and women in armor, in robes, in uniforms, some of them so dark with age you could barely see the faces. Rita walked me down the room past them, telling me who each one was in her soft voice, a crusader, a bishop, a woman who'd founded the first Valkyrie school in 1702, and I listened, and nodded, and looked at the cases.
 
@@ -1944,39 +1930,13 @@ She went. I sat at my desk and looked at my screen for a long time without readi
 
 ---
 
-Brenner was at HQ in March. I don't know if it was for me. He was there for a week of meetings, he said, and he found me in the canteen on the ground floor on his second day and sat down across from me with a coffee and his folder and a peppermint, and it was our fourth year, and he asked his questions.
+In the middle of March an email came from Brenner. It was the first I'd had from him in three years, and it was four lines long.
 
-How I was finding HQ. Whether I had any concerns. Whether anyone had approached me about anything unusual.
+*Your review period as a recruit from a security incident ended on 12 March. No further meetings are required. Regards, L. Brenner.*
 
-"Rossweisse is my liaison," I said.
+*P.S. You've become useful. Useful people are much less interesting to people like me.*
 
-"I know." He unwrapped the peppermint. "Is that a concern?"
-
-"She's very helpful."
-
-"She is." He looked at me over his glasses. "Rossweisse reports to the Overseer directly. I expect you've worked that out."
-
-"I have."
-
-"Good." He drank his coffee. "Then you'll also have worked out that her reports about you have been very boring."
-
-I didn't say anything.
-
-He put down his cup, and took his paper napkin, and folded it into exact halves, and then into halves again, and lined it up with the edge of the table. Then he said, in the same mild voice he used for everything, "You know, Eros, you're very boring."
-
-"Thank you," I said.
-
-He almost smiled. I'd known him four years, and that was the closest I ever saw him come.
-
-Then he opened the folder, for the first time in four years, in front of me, and took a pen out of his inside pocket, and wrote one line on the last page, and closed it.
-
-"I'm closing your file," he said. "Not the file. Your file. The one that says you need watching. You'll still see me in March, because I like the coffee on your island better than the coffee here." He put the folder under his arm and stood up. "Don't make me open it again."
-
-He walked out of the canteen. I sat there with my coffee going cold and thought about a question about old families, four years ago, in a seminar room with a humming projector, and about a maid in a cold archive saying "You asked about the old families, I believe." Somebody had told Rita that. Brenner had written it down in 2010, in a folder he never opened, and somebody had read the folder, and four years later it had come to HQ before I did.
-
-And now the folder was closed.
-
-I didn't believe it was as simple as that. I didn't think Brenner did either. But I finished my coffee, and went back to the lab, and made Bianka's simulation harder.
+I read it three times. Then I deleted it, and emptied the trash, and sat looking at my screen with the feeling of a man who's been told the dog doesn't bite and has no intention of putting his hand out. Then I went back to the lab and made Bianka's simulation harder.
 
 ---
 
@@ -2268,7 +2228,7 @@ These didn't go away. Through December and into January they kept coming, a litt
 
 I knew what it was. Somewhere in Nagazora, a girl in her third year at Chiba Academy who had won a kendo tournament in the spring was carrying something inside her that was starting to wake up. In a few weeks it would wake up properly, and the city would come apart.
 
-I didn't tell anyone. I thought about it every night, lying in bed in the flat with the sea outside the glass. I could have walked into Dr. Mori's office or the watch room and said, that city is about to be hit by the worst Honkai event since Siberia. And they would have asked me how I knew. The anomaly watch already told them everything the data could tell them. Anything I added would have to come from somewhere, and the only place it could come from was a game on a different planet. I thought about the portrait in the main hall at HQ, three meters tall and lit from below, and about a man in a white coat looking into a control booth for less than a second. I thought about a closed folder that I didn't believe was closed. It wasn't a difficult decision. I made it in about a minute and spent the next three weeks feeling sick about how easy it had been.
+I didn't tell anyone. I thought about it every night, lying in bed in the flat with the sea outside the glass. I could have walked into Dr. Mori's office or the watch room and said, that city is about to be hit by the worst Honkai event since Siberia. And they would have asked me how I knew. The anomaly watch already told them everything the data could tell them. Anything I added would have to come from somewhere, and the only place it could come from was a game on a different planet. I thought about the portrait in the main hall at HQ, three meters tall and lit from below, and about a man in a white coat looking into a control booth for less than a second. I thought about a four-line email from Brenner that I didn't quite believe. It wasn't a difficult decision. I made it in about a minute and spent the next three weeks feeling sick about how easy it had been.
 
 ---
 

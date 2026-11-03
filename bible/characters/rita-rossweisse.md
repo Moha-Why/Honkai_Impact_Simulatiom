@@ -89,8 +89,12 @@ Story lines (Chapter 2):
 
 ## With Eros (story, 2013)
 
-- She's his liaison and guide, and plainly Otto's eyes. He knows it, she
-  knows he knows, and both are perfectly polite about it.
+- She's his liaison and guide because Otto has just assigned her to Bianka
+  and Eros writes Bianka's suit firmware. Eros assumes she reports
+  everything to Otto; she very probably doesn't bother. She finds his
+  carefulness interesting.
+- **The archive trip** is her own idea ("Mr. Hoffmann says you read every
+  plaque in every corridor"); she checks the humidity there monthly.
 - **The archive tour:** past the Kaslana portraits. Kallen hangs there and
   Siegfried's frame is empty. She notices him looking at Kallen too long.
 - **Wit against wit:** she teases his cover story apart with one
