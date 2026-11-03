@@ -134,13 +134,14 @@ higher it climbs, the more the Honkai notices him.
 
 Only two things, never a settlement "raise":
 
-- **Gifts.** A gift is a trait, and Honkai Resistance is one (see
+- **Gifts.** A gift is a trait. Honkai Resistance is one (Blue D, Purple
+  B, Gold A), and a Red gift can wake Honkai Adaptability (see
   [gifts-and-rewards.md](gifts-and-rewards.md)).
 - **Body modifications** taken out of a run: an artificial stigma, a
   World Serpent chimera procedure, a Previous Era MANTIS fusion, or a beast
   core fused into him (see [gifts-and-rewards.md](gifts-and-rewards.md),
-  "Body modification"). A MANTIS fusion or a core is the most likely way a
-  man ever gets Adaptability, and the most likely to kill him.
+  "Body modification"). Besides the Red gift, a MANTIS fusion or a core is
+  the only way a man ever gets Adaptability, and the most likely to kill him.
 
 ## How Eros gets stronger
 

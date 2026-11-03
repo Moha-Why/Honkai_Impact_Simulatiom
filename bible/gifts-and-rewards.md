@@ -31,13 +31,28 @@ A trait like any other: his body withstands Honkai energy at that grade.
 
 | Color | Resistance |
 |---|---|
-| Blue | D: hours in Eruption-level air; survives an artificial stigma |
-| Purple | C |
-| Gold | B |
+| Blue | D: the lowest Valkyrie-tier body; hours in Eruption-level air; survives an artificial stigma |
+| Purple | B: a frontline body |
+| Gold | A: the top of what resistance can reach |
 
-There is no White or Green version. Merging two copies gives the next color
-as usual. Resistance A is out of reach of gifts; only body modifications go
-there.
+- There is no White or Green version, and no gift gives C (C comes from body
+  modifications, such as a Schicksal artificial stigma).
+- Merging two copies gives the next color as usual.
+- It's a ceiling, not power. With B Resistance and no training he's still a
+  Civilian, only one who's allowed to grow into a frontline Valkyrie.
+
+### Honkai Adaptability (Red gift)
+
+- **Effect:** wakes Honkai Adaptability at C. From there it grows through
+  exposure and fighting like anyone's, and his dormant natural stigma can
+  wake with it.
+- **Drawback:** the Honkai starts to notice him. Honkai activity drifts
+  toward wherever he is, beasts single him out, and the higher his
+  Adaptability climbs, the closer he gets to being a vessel.
+- **Rarity:** Red, so it can only be drawn (0.2%) and only kept from an
+  S-grade run. It can't be made by merging.
+- Together with body modifications (a MANTIS fusion or a fused core), it's
+  one of the only two ways a man gets Adaptability.
 
 ## Settlement
 
