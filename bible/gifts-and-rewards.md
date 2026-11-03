@@ -41,6 +41,9 @@ A trait like any other: his body withstands Honkai energy at that grade.
 - Merging two copies gives the next color as usual.
 - It's a ceiling, not power. With B Resistance and no training he's still a
   Civilian, only one who's allowed to grow into a frontline Valkyrie.
+- With an artificial stigma, Resistance can climb to A by training and
+  combat anyway. The gift's grade decides how cheap that climb is (see
+  [power-scale.md](power-scale.md), "How he climbs").
 
 ### Honkai Adaptability (Red gift)
 

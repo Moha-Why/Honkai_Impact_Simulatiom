@@ -50,7 +50,7 @@ stigmata and can fight when they must.
 | D | Logistics, far from the fighting | Survives being hit by a car; can kill a lone Honkai zombie with a weapon | Breaks doors, cracks concrete |
 | C | Logistics / combat support | Flips a car, fires heavy weapons by hand; dispatches Honkai zombies easily | Punches through brick walls, wrecks a room |
 | B | Frontline | Fast enough to dodge small-arms fire; handles Archangel types and Chariots; fights Templars as a squad | Levels a house, craters a road |
-| A | Elite, ace of a branch | Handles a Templar alone; a lineup of A-ranks takes on an Emperor-class | Destroys a building or a city block |
+| A | Veteran squad leaders and branch aces | Handles a Templar alone; a lineup of A-ranks takes on an Emperor-class | Destroys a building or a city block |
 | S | Extremely rare: one or two at a time at most, some years none | Can handle an Emperor-class; Judgment-class needs a team with a few S-ranks and Divine Key-level weapons | Devastates a district; craters hundreds of meters wide |
 | Herrscher | — | Wields an authority over reality | City-level and up; the strongest are continental or worse |
 
@@ -87,7 +87,7 @@ his rank ceiling exactly: Mid C Resistance means a Mid C ceiling.
 | D | Hours in Eruption-level air. Basic battlesuits. |
 | C | Standard battlesuits. |
 | B | Frontline gear. |
-| A | Elite gear. The top of what resistance can reach. |
+| A | Elite gear. The top of what resistance can reach, even with an artificial stigma. |
 
 - **Without a stigma:** resistance alone is survival and a ceiling, not
   power. Training and exposure can take him past Peak Human, up to Low D at
@@ -107,8 +107,8 @@ higher Honkai energy adaptability," but it shortens the candidate's life
 significantly and the cascade risk rises over time. In this story's terms,
 it raises Resistance, and the drawbacks are the price.
 
-Each stigma has a grade: a **standard Schicksal stigma is C**, a
-**top-quality one is B**.
+**Where he starts.** Each stigma has a grade: a **standard Schicksal stigma
+is C**, a **top-quality one is B**.
 
 | His Resistance | What the stigma does | Drawbacks |
 |---|---|---|
@@ -116,9 +116,30 @@ Each stigma has a grade: a **standard Schicksal stigma is C**, a
 | Below the stigma's grade | Lifts him to the Low of the stigma's grade | They show, and the bigger the gap, the worse. One grade: Himeko's shortened life and slow decay. Two grades: visible symptoms, faster decay, and regular maintenance from someone who knows Schicksal stigmata. |
 | At or above the stigma's grade | Raises him to the High (peak) of his own grade | Mild and slow. His life is still shorter, as canon says it always is, but his body barely fights it. |
 
-Examples for Eros: the Blue gift (Low D) plus a standard stigma lifts him
-to Low C with Himeko-level drawbacks. A Purple gift (Low B) plus the same
-stigma raises him to High B with mild ones.
+**How he climbs.** From there, a stigma lets Resistance grow through
+training and real combat, up to High A. That's how ordinary girls become
+frontline B-ranks and veteran A-ranks; most of Schicksal's A-ranks carry
+artificial stigmata.
+
+- **The cost grows with the climb.** The further his Resistance rises above
+  his innate level (what he had before the stigma, from gifts), the faster
+  the decay and the higher the cascade risk. Himeko started low, climbed to
+  A, and her body is paying for it.
+- **A is the wall.** Pushing an artificial stigma toward S-rank output
+  triggers a cascade. S needs Adaptability: a natural stigma, a bloodline
+  (Kaslana, Schariac), the Red gift, a MANTIS fusion or a core.
+- **Gifts are cost reducers.** The stigma opens the path; his gift
+  Resistance decides what the climb costs. From the Blue gift (Low D) the
+  climb to A burns a lot of life. From a Gold gift (Low A) it barely costs
+  anything.
+- **Suits** decide the abilities and how much power he gets within his
+  ceiling. They don't raise it. A suit he understands better than anyone
+  gets more out of it.
+
+Examples for Eros: the Blue gift (Low D) plus a standard stigma starts him
+at Low C with Himeko-level drawbacks, and every grade he climbs from there
+costs more. A Purple gift (Low B) plus the same stigma starts him at High B
+with mild drawbacks, and the climb to A is cheap.
 
 ### What each one gives
 
@@ -147,8 +168,9 @@ whatever his resistance allows.
    stronger.
 2. **It wakes a natural stigma,** which doesn't carry an artificial one's
    shortened life.
-3. **It grows** with exposure and fighting. Resistance doesn't grow by
-   itself.
+3. **It grows** with exposure and fighting, with no stigma needed and no
+   wall at A. Resistance only grows through an artificial stigma, at a
+   cost, and stops at A.
 4. **Lower cascade risk,** never zero, because the body isn't at war with
    itself.
 5. **Faster healing** in tainted air.
