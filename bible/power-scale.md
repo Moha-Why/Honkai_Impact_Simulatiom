@@ -154,10 +154,19 @@ on the structure without a number:
 | 0.1 to 1 HW | A flicker; most are noise, some are a small event starting |
 | 1 to 100 HW | Small Honkai: zombies, a few beasts. Pohang 2011 peaked at 41 HW |
 | 100 to 999 HW | A bad Honkai: Emperor-class territory (the Ganesha, 2012) |
-| 1000+ HW (instantaneous) | An Eruption; a Herrscher is born. Berlin 1953 (first), Siberia 2000 (second, well over 1000), Nagazora 2014 (third) |
+| 1000 HW (instantaneous) | The threshold: an Eruption; a Herrscher core forms. Berlin 1953 (first), Siberia 2000 (second), Nagazora 2014 (third) |
+| 2000+ HW | A Herrscher's own reading (Baidu Baike infobox: 崩坏能强度2000HW以上). A newly awakened or partial Herrscher sits in the low thousands |
+| 5000 to 20,000 HW | A fully awakened one-core Herrscher (Honkai Gakuen 2 notes later Herrschers start above 6000 HW). Mei at the Third Eruption: about 8000 |
+| Tens of thousands | Multi-core Herrschers. Sirin in 2000 with six cores peaked around 60,000 HW |
 
 **Nagazora's climb:** 0.3 HW (December 4, 2013), 9 HW (January 14, 2014,
 the core surge), 12 (January 24), 15 (January 30), 28 HW (February 3, 1:11
-a.m.), then over 1000 at the Third Eruption.
+a.m.), then past the 1000 HW threshold at the Third Eruption and up to
+about 8000 when Mei fully awakens.
+
+**Note:** 1000 HW is only the birth threshold. Actual Herrscher readings are
+much higher (above). Chinese fan works commonly treat Herrschers in the
+thousands to tens of thousands; we follow that. The figures past 2000 are
+our rulings, not canon numbers.
 
 Honkai beasts and their classes are in [honkai-beasts.md](honkai-beasts.md).

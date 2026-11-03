@@ -2999,7 +2999,7 @@ I kept my eyes on the screen.
 
 She looked at the screen for a long time.
 
-"Nine," she said, quietly, to nobody. "Siberia was over a thousand."
+"Nine," she said, quietly, to nobody. "Siberia peaked at sixty thousand."
 
 Nobody answered her. Then she looked at Yoon.
 
