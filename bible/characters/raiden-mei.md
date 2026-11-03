@@ -98,12 +98,16 @@ and her joy. Corruption feeds it.
 
 ## Meters in her run
 
-- **Affection** moves on sincerity, not technique. Clever lines and game
-  knowledge don't move it; meaning it does. (Eros learns this in Loop 4.)
+- **Affection** moves on what he actually does: showing up, staying, eating
+  what she cooks. Clever lines and game knowledge don't move it. That's why
+  manipulation by omission works on her in Loop 4. What he does is real;
+  what he lets happen around her is the lie.
 - **Trust** drops hard on anything that feels like being studied or used
   (game knowledge, money, being handled).
 - **Corruption** rises when she's isolated, used or made dependent. High
   Corruption speeds up the awakening and makes the Herrscher crueler.
+  Built from pain he caused, it turns the persona against him. Without
+  Trust under it, it turns into possession.
 
 ## Hidden objectives (her heroine run)
 
@@ -126,19 +130,27 @@ needs at least five of eight, plus In Love and Fallen.
 7. **Not Kiana's hand:** on the roof she refuses Kiana's hand and takes his.
 8. **Thunder for him:** she uses the Herrscher's power for him.
 
-## In Chapter 3 (Mei run, four loops)
+## In Chapter 3 (Mei run: four full loops and two short ones)
 
-- **Loop 1:** rejects the fanboy daily; unsettled when he knows about her
-  mother and Mr. HOMU (Trust: Wary, Affection: Noticed).
-- **Loop 2:** isolated and made dependent by Eros. Kisses him in January; the
-  kiss fails the objective (Corruption: Compromised). Wakes early as the
-  Herrscher and the persona kills him.
-- **Loop 3:** gets on the train with him the night before the Eruption. The
-  awakening follows her.
-- **Loop 4:** rejected confessions turn into the one kind thing anyone says
-  to her after November 16. Her first awful bento, shared with Eros and
-  Kiana. The Mr. HOMU story, told by her this time. Turns on the roof;
-  surfaces in flashes; comes back when he kisses her as he dies, and holds
-  him on the roof's edge.
-- **After the run:** living-heroine echoes surface in the real Mei at once
-  (dreams, déjà vu, a boy who confessed every morning).
+- **Loop 1:** he mentions her kendo win, her mother and Mr. HOMU. "How do you
+  know that name?" Trust Wary. Untouched when he dies in December.
+- **Loop 1.5:** shuts him out within three weeks over something he never
+  identifies.
+- **Loop 2:** he breaks her down himself after the arrest. Corruption
+  Compromised, built on fear; Trust stalls at Open. She wakes a week early
+  and the persona kills him.
+- **Loop 2.5:** barely appears; he's busy with Kiana.
+- **Loop 3:** she lets him watch her dawn practice. When Kiana leaves because
+  of something he told her, she's glad and ashamed of it. Fallen too early,
+  Trust Open. The persona takes her completely in mid-January and kills him
+  to keep him.
+- **Loop 4:** rejects him every morning, then waits for it. Cooks for him,
+  then for Kiana too. Tells him about Mr. HOMU and teaches him her father's
+  sword. Relies in January. Breaks Kuroda's wrist for him. On the roof she
+  refuses Kiana's hand and takes his, kisses him, and turns the Herrscher's
+  power on Bronya for him (Fallen, In Love). Holds him in her father's dojo
+  until he dies at dawn, and says she loves him after he's gone.
+- **Hidden objectives in Loop 4:** 2, 5, 7 and 8 hit; 1, 3, 4 and 6 missed.
+- **After the run:** strong echoes in the real Mei at once, the same night as
+  the real Eruption: the pull and the darkness, not the facts. On the real
+  roof she hesitates for one second before taking the real Kiana's hand.

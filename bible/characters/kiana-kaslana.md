@@ -52,8 +52,8 @@ matter what your father did. You're Mei."
 - She can't lie, so she always says exactly what she thinks of him. Some of
   it is "you're kind of creepy" and some of it is "you're the only one who
   didn't leave her."
-- In Loop 4 they argue alone about who's better for Mei and end it with a
-  truce: whoever Mei picks, the other doesn't get in the way.
+- In Loop 4 they argue alone about Mei: "You want her to need you. I want
+  her to be okay."
 
 **Fighting (canon):** dual pistols, fast, fearless, and immune to Honkai
 corruption, so she's the only one who can go toe to toe with the Herrscher.
@@ -65,16 +65,20 @@ In the run she carries the roof fight.
 - "Good morning! I love you! Do you have any more of that egg thing?"
 - "You're weird, Eros. But you didn't run. That counts."
 
-**In Chapter 3 (Mei run, four loops):**
+**In Chapter 3 (Mei run):**
 
-- **Loop 1:** not yet enrolled when Eros dies in December.
-- **Loop 2:** enrolls, starts winning Mei over; Eros tips the school off
-  about her forged papers and park bench, and she's gone within a week. With
-  no Kiana in the city, nobody can stop the Herrscher.
-- **Loop 3:** stays; Eros takes Mei away on the train without her.
-- **Loop 4:** the rival confessor; friends with Eros, truce with Eros; fights
-  the Herrscher on the roof and does the heavy lifting. Eros takes the
-  killing blow meant for her. She holds out her hand to Mei and Eros on the
-  roof's edge.
-- **After the run:** faint echoes in the real Kiana (a boy she knows and
-  can't place).
+- **Loop 1 and 1.5:** not yet enrolled when Eros dies.
+- **Loop 2:** enrolls and sees through him in a day: "You're the one who
+  makes her sad." Fights the early Herrscher; can't stop it killing him.
+- **Loop 2.5:** he finds her in the park in early December and sends her
+  north with a ticket and a lead on her father. The train is canceled for
+  snow and she enrolls anyway.
+- **Loop 3:** enrolls; he sends her north again after the fixed node, with
+  the Siegfried lead, and this time she goes. With no Kiana, nobody can pull
+  Mei back.
+- **Loop 4:** the rival confessor ("If he gets to, I get to!"), eats his
+  noodles, loves Mei's food so Mei cooks a second box. On the roof she holds
+  out her hand and Mei takes his instead. Bleeding, she can't stop them
+  leaving.
+- **After the run:** a faint echo in the real Kiana: a hand she held out
+  that nobody took.

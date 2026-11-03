@@ -29,8 +29,8 @@ the blade."
 
 **In Chapter 3:**
 
-- **Loop 1:** Eros calls his office and writes to him trying to warn him
-  about Cocolia. It goes nowhere; the arrest happens anyway.
+- **Loop 1:** the bait. Eros calls his office naming Cocolia and digs into
+  the project that never existed. The arrest happens anyway.
 - **Every loop:** the arrest on the news on November 16 (a fixed node).
-- **Loop 4:** Mei tells Eros about Mr. HOMU in January, after she finds the
-  costume, and this time he lets her tell him instead of already knowing.
+- **Loop 4:** Mei finds the Mr. HOMU costume in January, tells Eros, and
+  teaches him the family sword because she has no one else to give it to.

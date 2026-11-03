@@ -53,8 +53,8 @@ Believes the ends are the point.
 
 **In Chapter 3:**
 
-- Loop 1: Eros names her to a journalist and dies for it.
-- Every loop: in December she appears on television as the new head of ME
-  Corp, and Eros recognizes her instantly.
-- Loop 3: her orders put Bronya on the train.
+- **Every loop:** on television in December as the new head of ME Corp.
+- **Loop 1:** Eros names her to Ryoma's office and a journalist; her man in
+  the gray car kills him.
+- **Loop 4:** her outbreak at Chiba Academy, and Bronya on the roof.
 - She never meets Eros in person.

@@ -97,10 +97,11 @@ the math for running Frayed, pitches the shop, talks him out of soul repair,
 and steers him to the double payout. When Mei's run unlocks it pushes, and
 when he says no it says "Okay." and nothing else.
 
-**In Chapter 3:** opens the Life Path screen without a word (still sulking
-after "Okay."), then shows the objectives with the bait on top. It eggs him
-on through each loop's exploit, savors Corruption moving, because Corruption is what it pays for. (Chapter 3
-is being reworked after the rules change.) It unlocks Crossroads for normal runs as a reward,
-like a patch note. When he asks whether any of it was real, it dodges
-cheerfully.
-
+**In Chapter 3:** opens the Life Path screen without a word, still sulking
+after "Okay." Sells him Corruption ("Everything pays, Eros. Some things pay
+more."). Approves of every reset and every exploit ("Now you're playing."),
+keeps the Herrscher's appetite for Corruption to itself, and reveals the
+lock-in only after his first objective completes. Says nothing at all when
+he walks Mei out the back gate past Tanabe. At settlement it shows him the
+hidden objectives he missed ("Four of eight. One short, Eros."), notices the
+hair pin he left, and unlocks Crossroads like a patch note.

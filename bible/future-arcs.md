@@ -11,7 +11,9 @@ See [characters/mizuki-tsugumi.md](characters/mizuki-tsugumi.md).
    romance: Shiomi, the print shop, her family, the game they build together
    from the story he "makes up".
 2. **The moral knot.** While he's with her, the real Mei is at St. Freya with
-   echoes of a boy who confessed to her every morning. Eros tells himself the
+   echoes of a boy who confessed to her every morning, and of a devotion
+   that went dark for him: a pull toward a man she's never met, a dojo at
+   dawn, a white-haired girl's hand she didn't take. Eros tells himself the
    runs aren't real, so they aren't cheating. The merges keep bleeding
    feelings into him anyway.
 3. **The outbreak nobody wrote.** A sudden Honkai outbreak hits Shiomi. It is

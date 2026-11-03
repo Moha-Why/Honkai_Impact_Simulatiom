@@ -41,10 +41,6 @@ sister.
 
 **In Chapter 3:**
 
-- **Loop 3:** already on the night train out of Nagazora when Eros takes Mei
-  on it, with orders to bring Mei to Cocolia. Her move against Mei in the
-  tunnel is what tips the awakening.
-- **Loop 4:** a small gray-haired girl on the roof of the building across
-  from Chiba Academy on the morning of the Eruption, watching. She's part of
-  the outbreak's trigger. In canon she joins Mei and Kiana after the
-  Eruption, so she survives the run.
+- **Loop 4:** comes for Mei on the roof on Cocolia's orders. "Subject Eros is
+  an obstacle." Mei breaks Project Bunny and drives her off the roof. She
+  survives.

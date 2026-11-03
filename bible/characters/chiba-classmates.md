@@ -15,9 +15,9 @@ hear.
 - **Natsumi:** follows Sayaka. Laughs a beat after everyone else. Is the one
   who moves her desk away from Mei's first.
 
-**In Chapter 3:** Loop 2, Eros shows Mei their group chat to push her toward
-him. Loop 4, he doesn't; Mei hears them herself in the corridor, and he's
-the one standing next to her when she does.
+**In Chapter 3:** Loop 3, Eros lets Sayaka see what she wants to see. Loop
+4, he knows when they'll say it in the corridor and makes sure he's beside
+Mei when she hears it, and does nothing to stop it.
 
 ## Kuroda Shun
 
@@ -47,10 +47,11 @@ rejected confessor looks like when he goes the other way.
 her desk, her indoor shoes in the trash, a bento knocked off her desk "by
 accident", the joke that she'll be going to visit her father soon.
 
-**In Chapter 3:** Loop 2, Eros quietly feeds him gossip and lets him do the
-damage. Loop 4, Eros stands between him and Mei every day and never wins a
-fight, because he never throws a punch. When the outbreak hits, Kuroda is
-one of the first in the school to turn.
+**In Chapter 3:** Loop 3, Eros feeds him gossip through a friend of a friend
+and lets him do the damage. Loop 4, Eros lets the bullying run, then lets
+Kuroda's group catch him behind the gym. They go further than he bet (a
+pipe, a cracked rib). Mei breaks Kuroda's wrist with a bokken at the next
+practice. When the outbreak hits, Kuroda is the first in the school to turn.
 
 ## Hayashi Rin
 

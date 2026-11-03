@@ -1,8 +1,8 @@
 # The Herrscher of Thunder (the 3rd Herrscher)
 
 **Role:** the Herrscher core (the Gem of Conquest) inside Mei, and the
-persona that wakes with it. Appears in Chapter 3 (Mei run) on the Chiba
-Academy roof in Loops 2 and 4, and as the thing on the train in Loop 3.
+persona that wakes with it. Appears in Chapter 3 (Mei run) in Loops 2, 3
+and 4.
 
 ## Canon
 
@@ -39,10 +39,13 @@ smells of ozone and burnt metal.
   else have her.
 - **It knows everything Mei felt,** and uses it. It knows about every
   confession, and despises Eros for how much Mei came to wait for them.
-- **Its weakness is that it feels her joy.** A moment of real happiness in
-  Mei hits it like a wave. That's what breaks its hold in Loop 4.
-- Corruption shapes it. The more Mei was used and isolated, the crueler and
-  stronger it is (Loop 2 is the worst).
+- **Its weakness is that it feels her joy.** In canon, a moment of real
+  happiness in Mei breaks its hold. When her joy is Eros (Loop 4), it feeds
+  the persona instead.
+- **Corruption shapes it.** Built from pain he caused, it hates him (Loop 2).
+  Devotion without trust makes it possessive, and it keeps things by
+  breaking them (Loop 3). Devotion with trust makes it agree with Mei for
+  the first time (Loop 4).
 
 ## How it talks
 
@@ -54,8 +57,8 @@ names like insults.
 - "She doesn't need you. She has me."
 - "Come closer, Kaslana. I want to see your face when it breaks."
 - To Eros in Loop 2: "You. You're the one who made her small."
-- Its last line in Loop 4, as Mei comes up: "Keep her, then. He won't need
-  her."
+- Loop 3, to Eros: "Everything dies tonight. I'm not letting it have you."
+- Its last line in Loop 4, at dawn: "She'll find you."
 
 ## Power
 
@@ -66,10 +69,12 @@ costs Eros a large chunk of soul and drops him a whole stage
 
 ## In Chapter 3
 
-- **Loop 2:** wakes early (January) because of Corruption. No Kiana in the
-  city. Kills Eros on the roof.
-- **Loop 3:** wakes in a train tunnel outside Nagazora; the outbreak spreads
-  down the line.
-- **Loop 4:** wakes on the roof in February. Fights Kiana; taunts Eros;
-  throws the killing blow at Kiana, which Eros takes through the heart. When
-  he kisses Mei and she kisses him back, her joy breaks its hold.
+- **Loop 2:** wakes a week early, fed by Corruption built from pain. Goes
+  through Kiana's guard to kill Eros. A soul attack; he drops to Worn.
+- **Loop 3:** wakes three weeks early with no Kiana in the city and takes Mei
+  completely. Kills Eros itself so the end of the world can't have him. He
+  drops to Torn.
+- **Loop 4:** wakes on the fixed date. Fights Kiana. When Mei surfaces and
+  takes Eros's hand instead of Kiana's, the persona and Mei want the same
+  thing. Breaks Project Bunny for him. Stays beside him in the dojo all
+  night, and its nearness is what runs out his hours.

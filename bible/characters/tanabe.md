@@ -18,8 +18,10 @@ of the staff. The limousine stops coming.
 
 **In Chapter 3:**
 
-- Before the arrest, he drives Mei to and from school and nods to Eros once
-  Eros starts walking her to the car.
-- Loop 4: on the first rainy afternoon after the arrest, while Mei is
-  walking home, he turns up at the gate in his own small old car, on his own
-  time, and drives her home. It's the last time he can.
+- Before the arrest, he drives Mei to and from school every day.
+- **Loop 1.5:** Eros is his nephew, in a room above his garage.
+- **Loop 2:** Eros tells Mei he was paid to watch her. It's a lie.
+- **Loop 4:** on the first rainy afternoon after the arrest he comes to the
+  gate in his own small old car, on his own time, to drive her home. Eros
+  walks her out the back gate. Tanabe waits in the rain, and she never
+  knows he came.

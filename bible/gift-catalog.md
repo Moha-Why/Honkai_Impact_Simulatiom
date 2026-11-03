@@ -22,6 +22,9 @@ Gifts that have appeared in the story, in order of first appearance.
 | Quick Reflexes | Green | Reacts faster than almost anyone. | Ch 2, Run 3 (kept for the run, then kept permanently) |
 | Pain Tolerance | Blue | Pain still arrives, but it doesn't stop you. | Ch 2, Run 4 (kept for the run; lost to the grade cap) |
 | Loud Voice | White | Can be heard clearly over almost anything. | Ch 2, Run 4 draw |
+| Honkai Resistance | Blue | His body withstands Honkai energy at Low D: hours in Eruption-level air. A ceiling, not power. | Ch 3, Mei run draw (held for the run, then kept permanently) |
+| Liar's Face | Green | His face doesn't give away a lie, even under stress. Does nothing for his voice or his words. | Ch 3, Mei run draw (held for the run; not kept) |
+| Lightning Knows Your Name | Gold | Mei's bond gift. Honkai lightning arcs around him, and what lands does a fraction of the harm. With a stigma and a suit he can take it in and carry it. Nothing against fire, blades, beasts or Honkai air. | Ch 3, Mei run settlement (kept) |
 
 ## Experience packages
 
@@ -31,6 +34,7 @@ Gifts that have appeared in the story, in order of first appearance.
 | Field First Aid (Basic) | A trainee's knowledge of wounds, bleeding and shock. | Ch 2, Run 2 settlement (not taken) |
 | Hunting and Field Craft (Professional) | Forty years of the bow, the knife and the forest. | Ch 2, Run 3 settlement (taken) |
 | Infantry Basic Training (Basic) | A recruit's grounding in rifles, drill and squad movement. | Ch 2, Run 4 settlement (not taken) |
+| Raiden Kenjutsu (Master) | The Raiden family sword, taught by Mei at dawn in her father's dojo. His hands know it like a master; his body can use a fraction of it. | Ch 3, Mei run settlement (taken) |
 
 ## Items
 
@@ -38,3 +42,4 @@ Gifts that have appeared in the story, in order of first appearance.
 |---|---|---|---|
 | Technician's Multitool | White | A sturdy Schicksal-issue multitool. | Ch 2, Run 1 settlement (not taken) |
 | Porter's Key Ring | White | A heavy ring of hospital keys. | Ch 2, Run 2 settlement (not taken) |
+| Mei's Hair Pin | Item | The pin she touches when she's nervous. | Ch 3, Mei run settlement (not taken) |
