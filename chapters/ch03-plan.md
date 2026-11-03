@@ -1,548 +1,326 @@
 # Chapter 3 plan: The Lightning Queen (Mei's heroine run)
 
-Status: plan, rewritten from scratch on the current rules. Waiting for
-approval. Target length: 38k to 44k words.
+Status: plan, version 3 (the Life Path is his whole life before 18). Waiting
+for approval before the chapter is rewritten. Target length: 42k to 48k
+words.
 
 ## The spine
 
 Eros plays Mei's run as the corruption route, on purpose. He leans villain,
 he believes the System when it says none of it is real, and the System pays
-for Corruption. He also already knows the worst months of Mei's life to the
-day: her father's arrest, the friends who leave, the bullies, the vote, the
-empty house. To a villain that isn't a tragedy, it's a funnel.
+for Corruption. He already knows the worst months of Mei's life to the day:
+her father's arrest, the friends who leave, the bullies, the vote, the empty
+house. To a villain that isn't a tragedy, it's a funnel.
 
-Each loop he tries a different way to make Mei his, and each one breaks on
-something different that pushes back: Mei's own eyes, Cocolia's people, the
-Herrscher inside her, and Kiana. The last loop works. He makes a woman who
-would burn the world for him, and in a sense she does, and the burning is
-what kills him a sunrise before the end.
+The Life Path lets him plan his whole life in the run, from birth. So he
+fucks around with it: different births, different childhoods, different
+doors into her life. Every choice finds out something, and most of them kill
+him. The last loop is the one where he gives up control and lives a
+childhood with her for real, and then, when his memories come back at 18,
+uses it.
 
-He comes out with the best haul of his life, a soul too damaged for heroine
-runs, a feeling he can't put down, and no idea that the real Mei, in the
-real city, is waking up that same night with him in her dreams.
-
-Underneath it: the thing he builds is the thing he wants. Two lives without
-a family, and he engineers someone who needs him completely. It works, and
-it feels good. That's the horror of the chapter. It isn't a punishment and
-it isn't a redemption.
+Underneath: the thing he builds is the thing he wants. Two lives without a
+family, and he engineers someone who needs him completely. It works, and it
+feels good. That's the horror of the chapter. It isn't a punishment and it
+isn't a redemption.
 
 ## The rules it runs on
 
-All from the bible as it stands now.
-
 - **Objectives** only finish the run. Once one is complete, his next death
-  ends it as a success. The System doesn't tell him that second part until
-  it happens.
-- **The grade** rests on two pillars, Love and Corruption (higher is
-  better). S also needs at least five of Mei's eight hidden objectives,
-  which are listed in her profile (see gifts-and-rewards.md, Heroine runs).
-- **Gifts:** one 5-keep-2 draw before Loop 1, kept through every loop.
-- **Death resets the loop** at a soul cost, and the gaps carry into the next
-  loop. A Herrscher's lightning is a soul attack and drops him a whole stage.
-- **Corruption feeds the Herrscher** (Mei's profile). The darker she goes,
-  the earlier and crueler the awakening. The System never mentions this.
-- **Fixed nodes:** the arrest on November 16, Kiana enrolling in December,
-  the Eruption at Chiba Academy in February, Eros in Mei's class.
-- **Nobody from Schicksal** enters Nagazora before the Eruption. Himeko and
-  the Hyperion come only once it starts (Chapter 2 ruling).
-- **His body:** Civilian, Honkai Resistance F before the draw.
+  ends it. The System doesn't mention that until it happens.
+- **The grade:** Love and Corruption, and S needs at least five of Mei's
+  eight hidden objectives (her profile).
+- **Gifts:** chosen once, before the first loop: Honkai Resistance (Blue)
+  and Liar's Face (Green), over Danger Sense.
+- **Death resets the loop.** Herrscher lightning is a soul attack and drops
+  him a whole stage. Ordinary deaths cost a scattered detail each; enough of
+  them wear on him, but they don't drop a stage by themselves.
+- **Corruption feeds the Herrscher.** The System never mentions it.
+- **Fixed:** the arrest on November 16, Kiana enrolling in December, the
+  Eruption at Chiba Academy in February, his place in Mei's class. Canon's
+  2004 kidnapping of Mei is fixed too, though the screen doesn't say so.
+- **Schicksal** doesn't enter Nagazora before the Eruption.
+- **The run ends** when the Hyperion arrives over Nagazora.
 
-### When Mei's run ends
+## The Life Path (rebuilt)
 
-Mei's run ends when the Hyperion arrives over Nagazora. In Loop 4 that's
-also the moment he dies.
+The screen is a line of his life from birth to the third year, with a node
+at each age. Some options are open from the start, some are "???" until a
+loop shows him something.
 
-## What makes the corruption route hard
+**The start, chosen each loop:**
 
-- **Mei's eyes.** She's quick and perceptive, and Trust drops hard on
-  anything that feels like being studied or used. Corruption needs Trust
-  and Affection under it first. You can't corrupt someone who doesn't care
-  what you think.
-- **The Herrscher.** Corruption feeds it, and the persona feels everything
-  Mei felt. If he's the one who hurt her, it knows who to kill.
-- **Trust against Corruption.** Devotion without Trust turns into
-  possession. A Mei who is his but doesn't trust him wants to keep him, and
-  the persona keeps things by breaking them (canon: it won't let anyone else
-  kill Kiana because it wants to do it itself).
-- **Kiana.** Her honesty pulls Mei toward the light. She's also the only one
-  who can pull Mei up out of the persona on the roof. Without her there,
-  there's no Mei left to choose him.
-- **Cocolia's operation.** Her people watch the Raidens and kill anyone who
-  digs (the man in the gray car). Bronya is coming for Mei, and a Mei who
-  won't leave his side makes him an obstacle.
-- **The clock.** Push Corruption too fast and the Herrscher wakes early,
-  before he's ready.
-- **His body.** Even with the Resistance gift he has hours in Eruption air,
-  not days, and the air is worst right next to her.
-- **The lock-in.** The first objective he completes takes away his resets.
+- **Wake at 18:** he arrives in September or October 2013 with his memories.
+  The childhood nodes become a past he never lived.
+- **Live it:** he's born into the run. His memories and the System are
+  sealed until April 13, 2013, Mei's 18th birthday. A real child lives the
+  years, told in log lines, and nothing romantic happens before 18.
 
-## Why four full loops and two short ones
+| Node | Options (??? = opens later) |
+|---|---|
+| **Birth (1995)** | An ME Corp manager's son, Nagazora / a Nagazora orphan / ??? Mr. Tanabe's nephew / ??? the Raidens' housekeeper's son / ??? an orphan in Siberia |
+| **Age 5 (2000)** | Nothing happens / ??? (Siberia only) survives the Second Eruption; Cocolia's orphanage |
+| **Age 6 (2001)** | Starts school / a city kendo dojo / ??? Mr. HOMU's other student |
+| **Age 9 (2004)** | Nowhere near / ??? there when she's taken / ??? a patient at the ME Corp institution |
+| **Age 12 (2007)** | Stays in Nagazora / his family moves away / ??? Willow Street, Hangzhou |
+| **Age 15 (2010)** | Keeps in touch / lets it go / ??? the junior kendo nationals |
+| **Third year (2013)** | Background (scholarship / transfer / returning), housing (tower / station / the empty house next door / Tanabe's garage), club (none / kendo member / ??? kendo manager), start month |
 
-The count comes from the rules, not the old plan.
+**Interesting situations the nodes lead to:**
 
-- **The soul budget.** He goes in Frayed. Two Herrscher deaths take him to
-  Torn. A third would put him at Hollow, and that's a different, bigger story
-  for a later run.
-- **The lock-in.** No objective can complete before the last loop, or the
-  next death ends the run. So the first three loops have to fail early,
-  before Relies or a kiss.
-- **One lesson per loop,** each from a different obstacle. Loop 1 is Mei's
-  eyes and Cocolia. Loop 2 is the Herrscher as judge. Loop 3 is possession
-  and Kiana. Loop 4 puts it together.
-- **Two short loops** sit between the full ones, both before Loop 3 while his
-  soul can still afford them. A min-maxer who thinks it's a game restarts a
-  bad run instead of playing it out, and the short loops show that, plus the
-  first fixed node pushing back by itself. Without them every loop teaches
-  exactly the right lesson and the plan works on its first try, which is
-  too tidy.
-- **The last loop is played Torn.** He remembers the earlier loops as facts,
-  not experiences, and most of his Earth life is gone, including the fan who
-  loved this game. What plays Loop 4 is the cold one underneath. That's the
-  bible's arc for him (deaths strip him down), shown at full strength.
+- **Tanabe's nephew from birth:** she grew up with him. Waking at 18 in his
+  life, Eros isn't the boy she knew, and she can tell: "You're not him."
+- **An orphan in Siberia:** he survives the Second Eruption at five and grows
+  up in Cocolia's orphanage. At 18 Cocolia sends him to Nagazora as part of
+  her operation, and his job is to isolate Mei.
+- **The Raidens' housekeeper's son and Mr. HOMU's other student:** raised on
+  the estate beside her, taught the sword with her. At nine he's in the car
+  when she's taken.
+- **A patient at the ME Corp institution:** the three years she spends there
+  after the kidnapping, he spends there too.
+- **The junior kendo nationals:** he meets her across a court, as a rival.
+- **Willow Street:** his own real childhood, offered as a joke by the
+  System. He never takes it.
 
-## Opening (real world, about 2k words)
+## The loops
 
-- **February 4.** The System hasn't spoken since "Okay." He goes through a
-  work day with the Nagazora line on every screen. Yoon, the watch room, the
-  Hyperion's engines at the north tower.
-- **His math, in his own head all day.** He knows Mei's whole arc. He knows
-  it's the best-written route in the game. And the System has said, word for
-  word, that the simulations aren't real. So nothing he does in there can
-  hurt anyone.
-- **That night he says yes himself.** The System's only answer is to open the
-  Life Path screen.
+Eight attempts. Four full loops, four short ones. Each tries a different
+part of the Life Path.
 
-## Before Loop 1: the screens (about 2k words)
+| # | Name | Start | Key nodes | How it ends | Soul |
+|---|---|---|---|---|---|
+| 1 | The Test Save | Wake at 18 | ME Corp manager's son | The gray car (ordinary) | Frayed |
+| 2 | Reroll | Wake at 18 | Tanabe's nephew from birth | "You're not him." He resets himself. | Frayed |
+| 3 | The Inside Man | Wake at 18 | Siberia, Cocolia's orphanage | Bronya, on Cocolia's orders (ordinary) | Frayed, close to Worn |
+| 4 | The Knife and the Bandage | Wake at 18 | Scholarship, station, kendo manager | Herrscher lightning | **Worn** |
+| 5 | The Fixed Node | Wake at 18 | Scholarship, the house next door | The truck on the ice (ordinary) | Worn |
+| 6 | Nine | **Live it** | Housekeeper's son, Mr. HOMU's other student, there when she's taken | Killed at nine in the kidnapping (ordinary) | Worn |
+| 7 | The Only One | Wake at 18 | Scholarship, the house next door | Herrscher lightning | **Torn** |
+| 8 | The Pin | **Live it** | Nurse's son, the institution at 9, moves away at 12, comes back | The wound, at the moment the Hyperion arrives | Torn |
 
-**The Life Path:** fixed nodes gray. Open nodes for background, housing,
-club and start date. A few "?" nodes.
+### Loop 1: "The Test Save" (about 5k words)
 
-**Objectives as shown:**
+As written: an ME Corp manager's son. He uses foreknowledge on Mei ("How do
+you know that name?"), calls the loop bricked, pokes the bait, and the gray
+car kills him. **Unlocks:** kendo manager; Tanabe's nephew (birth).
+**Lesson:** never use what he knows on her; Cocolia's people kill diggers.
 
-1. Mei's first kiss.
-2. Become the one she relies on (Trust: Relies).
-3. Keep Raiden Ryoma out of prison. Huge reward. The bait, since the arrest
-   is fixed. ("I never said it was possible. I said it was worth a lot.")
+### Loop 2: "Reroll" (about 1.5k words)
 
-"Complete one to finish." Nothing about what happens after.
+- **Nodes:** Tanabe's nephew from birth, wake at 18.
+- She's known the nephew since they were six. For eighteen days it's fine.
+  Then she looks at him at the car door and says, very quietly, "You're not
+  him." Trust drops to Wary and stays there. He resets himself (a log line,
+  never shown).
+- **Lesson:** he can't wear a history he didn't live.
+- **The System:** "Now you're playing." And, when he asks how to have a
+  history with her: "You could always live it." He refuses. Sealed memories
+  means giving up control.
+- **Unlocks:** an orphan in Siberia. He'd asked himself in Loop 1 where
+  Cocolia's people came from.
 
-**The meters:** Affection, Trust, Corruption, and Fate Deviation. He asks what
-Corruption is.
+### Loop 3: "The Inside Man" (about 4k words)
 
-- The System: "How far she'd go for you."
-- "Does it pay?"
-- "Everything pays, Eros. Some things pay more."
-- He decides right there, out loud, and the System gives him the first ♪ of
-  the chapter.
+- **Nodes:** an orphan in Siberia, survives the Second Eruption at five,
+  Cocolia's orphanage, wake at 18.
+- He wakes at 18 as one of Cocolia's children. He arrives in Nagazora in
+  September as a scholarship transfer with orders: get close to the Raiden
+  girl, report, and make sure she has nobody. The corruption route,
+  sanctioned. He thinks it's perfect.
+- **Cocolia in person:** in December, in a hotel suite above the bay, after
+  her first press conference as head of ME Corp. She's warm with him, as with
+  all her children. She reads his reports and sees what he's doing. "A girl
+  who has someone won't come to me, Eros. I need her alone. Pull back." He
+  says yes, and Liar's Face carries it.
+- **She doesn't believe him.** In January, Bronya, who has been his sister in
+  the orphanage for two years, comes to his apartment. "Bronya regrets
+  this. Matushka's orders."
+- **Lesson:** Cocolia's plan needs Mei alone and will remove anything she
+  holds on to. Stay invisible to the operation. And Bronya is coming for Mei
+  at the end.
+- **Unlocks:** Mr. HOMU's other student (Cocolia's file on the Raidens
+  mentioned a second child in the dojo, years ago).
 
-**The gift draw (once, for the whole run).** Five cards:
+### Loop 4: "The Knife and the Bandage" (about 6k words)
 
-| Card | Color | Why it's there |
+As written (scholarship, station, kendo manager; he breaks her down himself;
+Kiana, "You're the one who makes her sad"; the persona, "You're the one who
+made her small"). **Unlocks:** the house next door. **Lesson:** be the cure,
+never the knife.
+
+### Loop 5: "The Fixed Node" (about 1.5k words)
+
+As written (Kiana, the snow, the truck on the ice). **Lesson:** a fixed node
+can't be stopped; what comes after it can be moved.
+
+### Loop 6: "Nine" (about 3k words, mostly log lines)
+
+- **Nodes:** live it. The Raidens' housekeeper's son, Mr. HOMU's other
+  student at six, there when she's taken at nine.
+- The first time he gives up control. A real child lives it: a boy raised on
+  the estate, who learns the sword beside her from a man in a ridiculous
+  mask, and who is in the back of the car with her and Mr. Tanabe one day in
+  2004.
+- **The kidnapping** is fixed. The child does what a brave, stupid nine-year-
+  old does with a bokken against grown men. He dies on the road. The log
+  lines are short and the scene is offscreen.
+- **The white:** he gets it all back at once, nine years of a childhood he
+  lived, and the last of it. The first time in the run he can't keep his
+  voice level.
+- **Lessons:** a lived history is real, and he can't steer the child who
+  lives it. The kidnapping can't be touched. But the three years after it
+  are a door.
+- **Unlocks:** a patient at the ME Corp institution.
+- **The System:** "He was very brave. You'd never have done that."
+
+### Loop 7: "The Only One" (about 6k words)
+
+As written (the house next door, the dawn dojo, Kiana sent north after she
+enrolls, Fallen too early, "I'm not letting it have you"). He drops to
+Torn. **Lessons:** Trust to Relies before Corruption peaks; Kiana has to be
+there; and, from Loops 2 and 6, a history has to be lived.
+
+### Loop 8: "The Pin" (about 13k words)
+
+**Nodes:** live it. Birth, an ME Corp night nurse's son; age 9, a patient at
+the ME Corp institution, where his mother works; age 12, his mother is
+transferred to Osaka; age 15, he keeps writing; third year, he comes back on
+a scholarship, the house next door, kendo manager, September.
+
+He chooses this Torn, and it's the cleanest decision he makes in the
+chapter. He gives up control because the facts say it's the only way.
+
+**The childhood (log lines, real, with no adult in it):**
+
+- 2004 to 2007, the institution. She doesn't sleep after the kidnapping. He
+  sits with her at night in the children's ward and teaches her to count
+  things until she falls asleep (the origin of her habit of counting when
+  she's flustered).
+- 2007, he's leaving. She takes one of the two pins out of her hair and puts
+  it in his hand. "So you'll come back."
+- 2007 to 2013, letters. Fewer as they get older. He keeps them all, and the
+  pin.
+- **April 13, 2013:** in Osaka, on her 18th birthday, his memories return,
+  Torn, as facts, into a boy who has loved her since he was nine. The cold
+  one reads the boy's feelings like a file and decides what to do with them.
+
+**The third year:**
+
+- **September:** he comes back. The Lightning Queen sees him at the gate and,
+  for one second, isn't the Lightning Queen. "You came back."
+- **The daily confessions** become a childhood friend's joke, then a
+  calculation. Everyone else stops after November 16; he doesn't.
+- **November 16 and after,** as in the current Loop 4: he's with her when
+  they take her father, lets the cruelty run, walks her out the back gate past
+  Tanabe in the rain, eats the first bento and tells her the truth.
+- **Kiana in December:** "If he gets to, I get to!", the third box, the
+  friendship. "You want her to need you. I want her to be okay."
+- **January:** Mr. HOMU, and she teaches him the family sword (she doesn't
+  know he'd been offered that childhood in another loop). Relies, and the
+  lock-in. Kuroda's pipe and the cracked rib. Kuroda's wrist. Corruption at
+  Compromised, held there.
+- **The dream:** she dreams he died on a roof and she did it.
+
+**The Eruption and the roof (rewritten):**
+
+- The outbreak at Chiba Academy, on its date. Because Corruption has been
+  feeding it all winter, the first spike is far above canon. Theresa's
+  standing order (anything over ten, call me) and the Hyperion's two-hour
+  standby mean it launches at once. That's why it arrives early.
+- He gets through the school on the Resistance gift, knife work and
+  Sprinter.
+- **The roof:** the persona has her. It's possessive of Mei and hates what
+  Mei needs. "She's mine. You only rented her." Kiana fights it.
+- **The hand:** it turns away from Kiana and puts its hand, lightning and
+  all, through the right side of his chest.
+  - The lightning cauterizes and burns the nerves, so the pain arrives as
+    one huge dull pressure.
+  - It misses the heart, which gives him minutes.
+- **The act:** with her hand still in his chest, he smiles. Liar's Face holds
+  his face while his voice shakes and his breath bubbles. He takes the pin out
+  of his pocket and holds it up where she can see it, and says the words: the
+  children's ward, the counting, "So you'll come back," "I came back." Every
+  word is true, and every word is an act.
+- **Mei comes back through him,** not Kiana. She pulls the lightning out of
+  him the moment she surfaces. That's why it stops being a soul attack and
+  becomes a wound. She breaks down, kneeling, with his head in her lap.
+- **Kiana's hand:** Kiana kneels beside her and holds out her hand to pull her
+  up. Mei won't let go of him. Corruption: Fallen.
+- **Her own words:** she tells him she loves him while he's still alive, and
+  she kisses him. Both objectives are complete now.
+- **The Hyperion's lights** come over the roof. He dies at that moment,
+  with the pin in her hand.
+
+**Hidden objectives in Loop 8:**
+
+| # | Objective | Loop 8 |
 |---|---|---|
-| Honkai Resistance | Blue | Low D. Hours in Eruption air. |
-| Danger Sense | Purple | He had it once, in Krakow, and lost it to the grade cap. |
-| Liar's Face | Green | His face doesn't give away a lie, even under stress. Does nothing for his voice or his words. |
-| Iron Stomach | White | The System's joke ("For the bento.") |
-| Calm Voice | White | People listen when he speaks quietly. |
+| 1 | The last one standing | ✗ Kiana confesses too |
+| 2 | Her father's sword | ✓ |
+| 3 | Her own words | ✓ She says it while he's alive |
+| 4 | Wake beside him | ✗ He dies as the ship arrives |
+| 5 | The Queen's cruelty | ✓ Kuroda's wrist |
+| 6 | Cooking for one | ✗ The third box |
+| 7 | Not Kiana's hand | ✓ She won't let go of him |
+| 8 | Thunder for him | ✗ The ship arrives before anyone else reaches the roof, so she never uses the power for him |
 
-He takes **Honkai Resistance** without thinking, because he knows what's
-coming in February. The second pick is the real choice: Danger Sense keeps
-him alive, and Liar's Face serves the route. He picks Liar's Face. The
-System: "You'd rather lie well than see it coming. Interesting." That
-choice costs him in Loop 1.
+**Four of eight. Grade A.** If you'd rather he get the S, the easy version
+is that Bronya reaches the roof a minute before the Hyperion and Mei breaks
+Project Bunny for him. That would make it 5 of 8.
 
-## Loop 1: "The Test Save" (about 6k words)
+## Settlement and waking
 
-- **Nodes:** son of an ME Corp executive (access to the Raidens' world), the
-  ME Corp staff tower, no club, October start.
-- **The idea:** a speedrun. He plays it like the game and uses what he knows
-  to look like fate. He mentions her regional kendo win before she does, her
-  mother, then Mr. HOMU.
-- **"How do you know that name?"** Liar's Face holds. His face is perfect.
-  It's his words she catches, and Trust drops to Wary in one line.
-- **He declares the loop bricked** and turns it into a test save, the way a
-  speedrunner burns a file to learn a level. He pushes buttons to see what
-  moves:
-  - He says something cruel to her, and nothing moves. Corruption needs her
-    to care first.
-  - He pokes the bait. He uses his father's access to dig into the project
-    that never existed, calls Ryoma's office naming Cocolia, and hands a
-    journalist a folder.
-- **November 16 happens anyway.** Cocolia is on television in December as the
-  new head of ME Corp. He watches the class turn on Mei and catches himself
-  thinking that the arrest is the best thing that ever happens to his route.
-- **Early December:** a gray sedan on a quiet street. "You've been asking
-  about ME Corp." No Danger Sense, so no warning. He was going to reset
-  himself that weekend anyway; the world got there first. (His plan to reset
-  is stated, never shown.)
-- **Death:** ordinary, a scattered detail. He loses Hamada's first name.
-- **End meters:** Affection Noticed, Trust Wary, Corruption Untouched. Fate
-  Deviation Disturbed.
-- **What he learns:**
-  - Never use foreknowledge on her. Use it on the world.
-  - Corruption sits on top of Trust and Affection.
-  - Cocolia's people kill anyone who digs.
-  - He wants the arrest. It's his route.
-- **The System:** "Very educational. For both of us."
-- **"?" node opened:** kendo club manager (he saw the club was short one).
-- **Comedy:** the class, the Lightning Queen, the steady line of boys who
-  confess and get "I'm sorry. No." Kuroda's spring rejection, told as legend.
-
-## Loop 1.5: "Reroll" (about 1.5k words, mostly log lines)
-
-- **Nodes:** Mr. Tanabe's nephew, a room above his garage, no club, October
-  start. Close to the Raidens without any ME Corp ties.
-- **Three weeks in,** Mei shuts him out over something small he never
-  identifies. Trust drops to Wary and stays there.
-- **He calls the loop bricked and resets it himself.** As in Loop 1, the reset
-  is an intention and a log line, never shown.
-- **The cost shows:** another scattered detail goes. He notices he's started
-  losing names (the cafeteria cook on the island, then a St. Freya
-  instructor), and that it isn't free.
-- **The System:** approving. "Now you're playing."
-- **One scene:** his last morning in the loop, watching her at the gate,
-  already planning the next one.
-
-## Loop 2: "The Knife and the Bandage" (about 7k words)
-
-- **Nodes:** scholarship kid, a cheap apartment by the station, kendo club
-  manager, September start.
-- **The idea:** build Trust the honest-looking way first, then after November
-  16 break her down himself and be the only one who puts her back together.
-- **September to November:** no foreknowledge, no ME Corp. He's useful and
-  quiet beside her at practice. Quick Learner shows in the footwork he picks
-  up from the bench; his lungs give out when he tries it. Trust Open,
-  Affection Friendly.
-- **After the arrest he holds the knife himself.**
-  - He tells her the cruel truths while she's raw: "They were never your
-    friends. They were your father's."
-  - He steers her away from Rin and the club.
-  - He tells her Mr. Tanabe was paid to watch her. It's a lie, and Liar's
-    Face carries it.
-  - Then he's the only kindness. Cold, then warm, then cold.
-- **It works the wrong way.** Corruption climbs fast, Bending to Compromised,
-  but it's built out of fear and pain. Affection rises to Close, the way it
-  does with people who hurt you. Trust stalls at Open: she can't trust what
-  hurts her. Nothing completes.
-- **Kiana enrolls in mid-December** and sees it in a day. "You're the one who
-  makes her sad." She stands between them, and he can't move against her
-  without showing himself.
-- **Late January, a week early:** Corruption fed the clock. Fate Deviation
-  goes Unstable and Mei wakes on the roof ahead of the fixed date. Kiana is
-  there and fighting. The persona goes through Kiana's guard for him.
-  "You. You're the one who made her small."
-- **Death:** Herrscher lightning, a soul attack. Frayed to **Worn**.
-- **End meters:** Affection Close, Trust Open, Corruption Compromised.
-- **What he learns:**
-  - Corruption built from pain makes a Herrscher that knows who to kill.
-  - He has to be the cure, never the knife. Other people hold the knife.
-- **The System:** "She remembered you. Isn't that sweet?"
-- **"?" node opened:** the empty house next to the Raidens'. In this loop she
-  told him she practices alone at dawn in her father's dojo.
-- **Handling:** the narration doesn't dress up what he does in this loop.
-  The persona's line and the System's glee frame it as what it is.
-
-## Loop 2.5: "The Fixed Node" (about 1.5k words, mostly log lines)
-
-- **Nodes:** scholarship kid, the house next door, no club, September start.
-- **He starts Worn.** He doesn't wait for Kiana to become a problem. In early
-  December he finds her sleeping in the park before she enrolls, and gives
-  her a train ticket north and a lead on her father.
-- **The world corrects.** The train is canceled for snow, the lead turns out
-  to be a day late, and she enrolls in mid-December anyway, as if nothing
-  happened.
-- **He pushes again,** this time with a call to the school about her papers
-  before her first day. A truck skids on the ice on his way home. It's an
-  ordinary death, a correction event that looks like an accident.
-- **Death:** ordinary, a scattered detail (still Worn). Fate Deviation went
-  Disturbed to Unstable in a week, just from pushing on one node.
-- **What he learns:** a fixed node can't be stopped, but what happens after
-  it can be moved. Kiana's enrollment is fixed; whether she stays isn't.
-  That's the opening he uses in Loop 3.
-- **The System:** "The world's very attached to that girl. I wonder why."
-
-## Loop 3: "The Only One" (about 7k words)
-
-- **Nodes:** scholarship kid, a rented room in the house next to the
-  Raidens', no club, September start.
-- **He starts Worn.** Big parts of Loop 1 are gone, and pieces of his Earth
-  life (his old apartment, his coworkers' faces). The System: "That's the fun
-  part."
-- **The idea:** others hold the knife, and he removes every other light.
-  - He hears her bokken through the wall at dawn and starts coming over. She
-    lets him watch.
-  - After the arrest he feeds Kuroda gossip through a friend of a friend and
-    lets Sayaka see what she wants to see. He's there every time, right after
-    it lands.
-- **Kiana enrolls in mid-December, and her honesty starts winning.** This
-  time he waits until after the fixed node, as Loop 2.5 taught him, and
-  removes her with the one thing he learned not to use on Mei: foreknowledge.
-  He tells Kiana that Siegfried Kaslana was seen up north, and she's gone
-  before Christmas to chase him. Using it on Kiana costs him nothing he can
-  see.
-- **Mei finds out Kiana left because of something he said.** She's glad, and
-  she's ashamed of being glad. Corruption jumps. Trust drops from Confides to
-  Open: he sent someone away, and he could send her away. Nothing completes.
-- **Early January:** Corruption hits Fallen far too early. Fate Deviation
-  reaches Collapse risk. In mid-January, three weeks early, the Herrscher
-  wakes with no Kiana in the city to pull Mei back up, and the persona takes
-  the body completely. Mei is gone, and what's left is possessive of what
-  Mei loved. "Everything dies tonight. I'm not letting it have you."
-- **Death:** Herrscher lightning, a soul attack. Worn to **Torn**.
-- **End meters:** Affection Fond, Trust Open, Corruption Fallen.
-- **What he learns (kept only as facts in Loop 4):**
-  - Fallen too early wakes it early. Pace it.
-  - Get Trust to Relies before Corruption peaks, or devotion turns into
-    possession.
-  - Kiana has to be there, so Mei stays herself long enough to choose him.
-- **The System:** "She loved you so much she killed you. You should be
-  flattered." Then, when he asks how to stop it happening: "Choosing only
-  means something if there's something else to choose."
-
-## Loop 4: "The Choice" (about 13k words)
-
-- **Nodes:** scholarship kid, the house next door, kendo club manager,
-  September start.
-- **He starts Torn.** He knows what killed him three times, as facts. He
-  doesn't remember being afraid. Most of his Earth life is gone: the office,
-  the second monitor, the bathroom where he cried over a cutscene. The
-  foreknowledge stays, because it always does. Director Zhou's face is going.
-  The narration gets colder and cleaner in this loop, and that change is how
-  the reader sees the stripping.
-- **The plan, as facts:** Trust to Relies first, then Corruption. Never the
-  knife. Keep Kiana. Keep the Eruption on its date. Stay alive.
-- **Daily confessions from day one.** Calculated. Everyone stops confessing
-  after November 16; he won't, and in December he'll be the only one left.
-  "I'm sorry. No." every morning. The class counts.
-- **Dawn in the dojo next door.** She lets him watch, then spar. Quick
-  Reflexes makes him dodge a bokken he shouldn't, and flinch at one that was
-  never coming. Sprinter gets him to the gate first and leaves him wrecked.
-- **November 16.** He arranged to be with her when the news broke.
-  - Canon's cruelty runs by itself: Sayaka and Natsumi, the desk, the shoes,
-    Rin's vote. He knows when each one is coming. He doesn't stop any of it.
-    He arrives right after it lands.
-  - **The rainy afternoon Mr. Tanabe comes** in his own small car, on his own
-    time, to drive her home: Eros walks her out the back gate. Tanabe waits
-    in the rain. She never knows he came. The System says nothing at all.
-  - **Her first bento** is awful. He eats every bite and tells her the truth.
-    "It's terrible. Make it again tomorrow." She cooks for him.
-- **Kiana enrolls in mid-December,** and he keeps her.
-  - She eats his noodles and announces "If he gets to, I get to!" Now Mei
-    gets two confessions a day, one meant and one engineered. He's no longer
-    the last one standing (hidden objective 1 missed), and keeping Kiana is
-    what cost it.
-  - Kiana loves Mei's terrible food with her whole heart, and Mei, still
-    partly the girl from canon, starts making a second box. Cooking for one
-    is missed too (hidden objective 6).
-  - He makes Kiana his friend, and he makes sure Mei sees that Kiana loves
-    everybody. "That's what's good about her." It's true, and it's poison.
-  - Kiana can't lie: "You're kind of creepy. But you didn't leave her." Mei
-    chooses to hear the second half.
-  - Alone, arguing over Mei: "You want her to need you. I want her to be
-    okay."
-- **January.**
-  - **Mr. HOMU.** She finds the costume and tells him, and he lets her tell
-    him. Then she asks him to learn her father's sword at dawn, because she
-    has no one else to give it to. (Hidden objective 2.)
-  - **Relies.** Objective complete. The System: "Did I mention? You've
-    finished one. The next time you die, it's over." His resets are gone. From
-    here every risk is real.
-  - **Compromised, on schedule.** He lets Kuroda's group catch him behind the
-    gym and doesn't fight back. It's a bet, now that he can't reset.
-  - **The thing his facts didn't cover.** Kuroda's group goes further than he
-    bet: someone has a length of pipe, and he goes down and doesn't get up.
-    Locked in, one death from the end of the run at a low grade, he has to
-    improvise. He gets himself out on Quick Reflexes, a knife he doesn't draw
-    and a lie Liar's Face carries, and limps to the dojo with a cracked rib.
-    The plan isn't a guarantee, and he knows it from here on. Mei
-    sees. At the next practice she breaks Kuroda's wrist with a bokken and
-    doesn't look sorry (hidden objective 5). He keeps her there and doesn't
-    push for Fallen.
-  - **A mark from the other loops:** she tells him she dreamed he died on a
-    roof, and that she was the one who did it.
-- **February, the Eruption at Chiba Academy (fixed).** Cocolia and Bronya's
-  artificial outbreak.
-  - The school turns, Kuroda first.
-  - **The Resistance gift shows its effect and its limit.** He's alive in air
-    that's turning everyone around him, coughing blood. The zombies can still
-    kill him, so it's knives (forty years of them), Sprinter up the
-    stairwell, and Quick Reflexes in the corridors.
-  - **The roof.** Mei wakes and the persona takes her. Kiana arrives, immune,
-    and fights it. Kiana gets close enough to hold out her hand, and Mei
-    surfaces, as in canon.
-  - **Mei looks at Kiana's hand, looks at him, and takes his.** (Hidden
-    objective 7. Second ♪.) Corruption: Fallen. For the first time the persona and
-    Mei want the same thing. In canon, Mei's joy breaks the persona's hold.
-    Here her joy is him, so it feeds the persona instead.
-  - **The kiss.** Objective complete. Mei, with the horns and the lightning
-    crawling over the roof. Brief.
-  - **Bronya** comes for Mei on Cocolia's orders. "Subject Eros is an
-    obstacle." Mei breaks Project Bunny and drives her off the roof. (Hidden
-    objective 8: she uses the Herrscher's power for him.) Kiana is bleeding and
-    can't stop them. Mei takes him down into the city. Fate Deviation:
-    Collapse risk.
-- **The night.** Her father's dojo in the empty house, the city burning
-  outside.
-  - Nothing that used to be a person comes near her.
-  - But the Honkai is worst right next to her, and his hours are running
-    out. Liar's Face keeps his face still. His nose bleeds anyway, and his
-    hands won't stay steady.
-  - He could leave her side and live longer. He stays. He tells himself it's
-    the grade. The narration doesn't settle whether that's true.
-- **Dawn.** The Hyperion's lights come over the city.
-  - She holds him and asks who she should burn for this, and he can't answer,
-    because the answer is her.
-  - He dies of the Honkai air, a Honkai-tainted death and a whole memory, at
-    the moment the Hyperion arrives, which is also when the run ends. Wake
-    beside him is missed (hidden objective 4).
-  - She never said it first. She says she loves him into his hair after
-    he's gone (hidden objective 3 missed).
-  - The persona's last line, to him or to Mei: "She'll find you."
-- **End meters:** Affection In Love, Trust Relies, Corruption Fallen. Fate
-  Deviation Collapse risk.
-
-## Settlement (about 2k words)
-
-- **Grade: A.** In Love and Fallen, the top of both pillars. S needed five of
-  the eight hidden objectives, and he hit four: her father's sword, the
-  Queen's cruelty, not Kiana's hand, and thunder for him.
-- **What he missed:** the last one standing and cooking for one (both lost
-  by keeping Kiana, the lesson that made the loop work at all), her own
-  words, and waking beside him.
-- **The System shows the eight,** hits and misses, and S grayed out. "Four of
-  eight. One short, Eros." At S she'd have given him something red.
-- **A pays 3 of 5 cards, up to Gold, plus 300 to 500 Fate Fragments.**
-
-| Card | Color | What it is |
-|---|---|---|
-| Honkai Resistance | Blue | Low D, the gift he held all run |
-| Liar's Face | Green | The gift he held all run |
-| **Lightning Knows Your Name** (bond gift; alternative name "Thunder's Chosen") | Gold | Honkai lightning knows him. Lightning from Mei, from the Herrscher of Thunder or from any Honkai source arcs around him, and what lands does a fraction of the harm. With a stigma and a suit he can take it in and carry it; until then it only keeps him alive. It does nothing against fire, blades, beasts or the Honkai air. |
-| Mei's hair pin | Item | The one she touches when she's nervous |
-| **Raiden Kenjutsu** (experience, Master) | | Her family's sword, taught at dawn in her father's dojo. His hands know it like a master; his body is a desk worker's with a Low D ceiling. |
-
-- **He takes** Honkai Resistance, the bond gift and the kenjutsu: power first.
-  He leaves Liar's Face, because his face was good at lying long before the
-  System, and he leaves the hair pin.
-- The System: "You left her pin."
-- **Crossroads unlocks** for normal runs, as a patch note.
-- **Soul: Torn.** Heroine runs locked for months, normal runs only. That's the
-  start of the healing months in future-arcs.md.
-
-## Waking (about 2k words)
-
-- **February 5, before dawn.** The memories come back, because they always do
-  on waking: his Earth life, Director Zhou's face, the fan. The fan looks at
-  what the cold one did in Loop 4.
-- **The merge** carries out what he felt there: being needed completely, and
-  losing it. His judgement says it was a game. The merge is the one thing his
-  judgement can't clear.
-- **His phone:** Nagazora is off the scale. The real Third Eruption has begun.
-- **The watch room:** Yoon, a reading past a thousand HW and still climbing
-  toward Mei's 3,200. "That's a Herrscher."
-- **Outside his window,** the Hyperion lifts off the north tower and turns
-  toward Nagazora, the same ship whose lights he died under an hour ago.
-- **He asks the System** whether any of it was real, and it dodges cheerfully.
-- **No one-liner ending.** It ends on an image: the ship's lights going out
-  over the sea, and him still at the glass.
+- **Grade A, 3 of 5 cards:** Honkai Resistance, Liar's Face, the bond gift
+  Lightning Knows Your Name (Gold), Raiden Kenjutsu (Master), and the pin.
+- **The pin is now the pin from the children's ward.** He leaves it anyway,
+  power first, and the System makes him look at it before it fades.
+- Crossroads unlocks. Soul Torn; heroine runs locked for months.
+- **Waking:** as written. His memories return, and this time that includes
+  the childhood he lived in the run, so the merge is heavier. The watch room,
+  1,184 HW, "That's a Herrscher," the Hyperion leaving the north tower.
 
 ## What the run changed (hidden from Eros)
 
-- **Mei's echoes surface at once,** and they're strong, because two objectives
-  completed. They carry the pull and the darkness, not the facts: a boy who
-  confessed every morning, a dojo at dawn, choosing him over a white-haired
-  girl's hand. That same night the real Kiana holds out her hand on the real
-  roof. Canon holds and the real Mei takes it, but she hesitates for one
-  second Kiana doesn't understand.
-- **Kiana gets a faint echo,** because they were close in Loop 4: a hand she
-  held out that nobody took.
-- **The real Herrscher of Thunder's lightning knows his name.** The bond gift
-  is his half of that.
-- **Global Fate Deviation rises.** That one-second hesitation is part of what
-  later feeds the Shiomi outbreak in future-arcs.md.
-- **The branch goes on without him.** A Fallen Herrscher Mei who lost him at
-  dawn as the Hyperion arrived. If he ever runs Mei again, it continues from
-  there.
+- **Mei's echoes** are strong and surface at once: a boy in a children's ward
+  teaching her to count, a pin she gave away, a roof. On the real roof she
+  hesitates one second before taking the real Kiana's hand.
+- **Kiana:** a faint echo, a hand nobody took.
+- **The real Herrscher's lightning** knows his name.
+- **The branch** goes on: a Fallen Mei, holding a pin, as the Hyperion lands.
 
-## Eros across the chapter
+## Continuity checks
 
-- **Loop 1 and 1.5:** the gamer who thinks it's a game, restarting bad runs
-  without a second thought.
-- **Loop 2:** finds out he can be cruel, and that it doesn't cost him much.
-- **Loop 2.5:** finds out the world pushes back by itself.
-- **Loop 3:** gets loved to death.
-- **Loop 4:** the fan is gone, and what's left is very good at this.
-- **Waking:** the fan comes back and doesn't like what it sees. The villain's
-  judgement says it wasn't real. The merge says he wants it again. What he
-  resolves is to be alive at the end next time. He leans villain, and the
-  chapter doesn't redeem him.
+- Nothing romantic before 18 in the lived childhoods (Loops 6 and 8).
+  Loop 6's child death is offscreen and short.
+- Soul: Frayed in; Loops 1 to 3 ordinary; Loop 4 Worn; 5 and 6 ordinary;
+  Loop 7 Torn; Loop 8 a wound, not a soul attack, because she pulls the
+  lightning out.
+- No objective completes before Loop 8.
+- Cocolia meets Eros in person in Loop 3 (her profile currently says she
+  never does; update it).
+- The rest as before: ages, Kiana after December 7, no Schicksal before the
+  Eruption, the ♪ budget, gifts shown with their limits, the HW numbers, the
+  writing checklist.
 
-## Continuity checks for writing
+## Before writing
 
-- **Ages:** Mei, Kiana (from December 7), Bronya and Eros are all 18 or older
-  in the run.
-- **Content:** Corruption is shown through what Mei does, never as sexual
-  content. The kiss is brief. Loop 2's cruelty isn't romanticized. The
-  self-reset in Loop 1 is an intention only.
-- **Kiana** enrolls only after December 7.
-- **Schicksal:** nobody from it is in Nagazora before the Eruption. Himeko
-  appears only as the Hyperion's lights and a voice at dawn.
-- **Mei's cooking** is bad at first, per canon. In Loop 4 it starts for Eros,
-  not Kiana.
-- **The bait objective** is on screen before Loop 1, and he pokes it in Loop 1.
-- **No objective completes** in Loops 1 to 3 or the two short loops.
-- **Hidden objectives in Loop 4:** 2, 5, 7 and 8 hit; 1, 3, 4 and 6 missed.
-  All eight have to be reachable from his scholarship start next door, and
-  they are. The lock-in appears only in
-  Loop 4.
-- **Soul:** Frayed going in. Loop 1 ends Frayed (a scattered detail), Loop
-  1.5 Frayed (another, and he notices the names going), Loop 2 Worn, Loop
-  2.5 Worn (a scattered detail), Loop 3 Torn, Loop 4 Torn (a whole memory). The gaps inside each loop
-  match the stage.
-- **Fate Deviation:** Loop 1 Disturbed, Loop 1.5 Stable, Loop 2 Unstable,
-  Loop 2.5 Unstable, Loop 3 Collapse risk, then Disturbed in Loop 4 until
-  the roof, where it goes to Collapse risk.
-- **The awakening's date:** a week early in Loop 2 (Compromised), three weeks
-  early in Loop 3 (Fallen), on the fixed date in Loop 4.
-- **The ♪ budget** is 2 to 3: the opening decision, the roof, and at most one
-  more.
-- **Gifts:** Quick Learner, Sprinter, Quick Reflexes, Honkai Resistance and
-  Liar's Face each show in action with their limit at least once. The knife
-  work (Hunting and Field Craft) shows in the outbreak.
-- **HW:** a Herrscher is a thousand HW and up; newly awakened Mei is about
-  3,200 in the real world.
-- **The writing checklist** applies as always.
+- **Rules:** Life Path in simulation-system.md becomes life nodes plus the
+  start choice.
+- **New minor profiles:** Loop 8's mother (an ME Corp night nurse); Loop 6's
+  mother (the Raidens' housekeeper).
+- **Updates:** Mei (the counting habit's origin in Loop 8, the pin), Cocolia
+  and Bronya (Loop 3), Tanabe (Loops 2 and 6), Kiana, the Herrscher (the hand
+  and the pulled lightning), the System, the tracker.
+- **The chapter:** keep Loop 1 and most of Loops 4, 5 and 7 (renumbered),
+  rewrite Loop 2, add Loops 3 and 6, rewrite Loop 8, and redo every Life
+  Path screen with the age nodes.
 
 ## Canon facts this chapter uses
 
-Checked for the first version of this plan; nothing new is added here.
+As checked before. New ones:
 
-- **Mei:** only child of Raiden Ryoma, head of ME Corp. Mr. HOMU, the masked
-  kendo teacher who was really her father. Her father's arrest on November
-  16, 2013, framed by Cocolia, and the classmates who drop her. Her first
-  cooking is awful. Kiana's honesty and joy in her food start Mei's love of
-  cooking. ([HI3 Wiki, Raiden Mei](https://honkaiimpact3.fandom.com/wiki/Raiden_Mei))
-- **The Third Eruption:** Cocolia and Bronya set off an artificial outbreak
-  at Chiba Academy to wake the Gem of Conquest in Mei. Bronya's mission is to
-  bring Mei to Cocolia. ([Cocolia](https://honkaiimpact3.fandom.com/wiki/Cocolia),
-  [Bronya Zaychik](https://honkaiimpact3.fandom.com/wiki/Bronya_Zaychik))
-- **The persona:** malicious and cold. It feels Mei's pain and her joy. It's
-  touched when Kiana catches Mei at the roof's edge. In the manga it won't
-  let Kiana die because it wants to kill her itself.
-- **Kiana:** immune to Honkai corruption, searching for her father Siegfried.
-  ([Kiana Kaslana](https://honkaiimpact3.fandom.com/wiki/Kiana_Kaslana))
-- **Himeko** responds to the Third Eruption with the Hyperion.
-
-## Before writing: profiles and bible updates
-
-- **New minor profiles:** his Loop 1 father (an ME Corp executive) and the
-  Loop 1 journalist.
-- **Gift catalog:** Honkai Resistance (Blue), Liar's Face (Green), the bond
-  gift, and the Raiden Kenjutsu package.
-- **"In Chapter 3" sections to rewrite:** raiden-mei (and her Meters
-  section: Affection moves on what he actually does, like showing up and
-  staying, not on lines, which is why manipulation by omission works on
-  her), herrscher-of-thunder (hate in Loop 2, possession in Loop 3,
-  agreement in Loop 4), kiana-kaslana, bronya-zaychik, cocolia,
-  man-in-gray-car, chiba-classmates, tanabe, raiden-ryoma, the-system, eros.
-- **future-arcs.md:** the moral knot now includes what the echoes carry.
+- **Mei's kidnapping:** by a terrorist group in 2004, followed by three years
+  of therapy at an ME Corp institution (Mei's profile).
+- **Cocolia's orphanage:** founded after the Second Eruption for children the
+  Honkai left behind. Bronya joined it in January 2012 (Cocolia's and
+  Bronya's profiles).
