@@ -146,27 +146,37 @@ on the structure without a number:
 - A Herrscher can trigger small Honkai and spawn beasts loyal to it, like a
   queen bee.
 
-**Story scale (our numbers, for consistency):**
+**HW = Honkai Welt** (HI3 wiki, "Honkai Welt (HW)").
 
-| Reading | Meaning |
+**Canon readings:**
+
+| Reading | Source |
+|---|---|
+| 10 HW | Exposure turns an ordinary human into a zombie; zombies emit over 10 HW |
+| 100 HW | Honkai beasts can emerge; beasts emit over 100 HW |
+| 1000 HW (instantaneous) | A Herrscher can be born (Anti-Entropy VN, ch. 3) |
+| 1000 HW per square meter | The Wall of Asgard (Durandal VN) |
+| 1,380 HW | Hyperion (Gen 1) reactor maximum |
+| 1,500 HW | Schicksal's most powerful reactor |
+| 2,000 HW | Wendy becoming a Herrscher; Babylon Labs reactor in the game (the CN manga says 6,500) |
+| 3,200 HW | The 3rd Herrscher's hit on the Hyperion at Nagazora: newly awakened, incomplete, fighting her own Herrscher persona |
+| 4,458 HW | Kiana as the Herrscher of the Void (two cores; Einstein thought the reader might be broken) |
+| 12,000 HW | The Selene |
+
+**Story rulings (beyond canon):**
+
+| Reading | Who |
 |---|---|
 | 0.01 to 0.05 HW | Background |
-| 0.1 to 1 HW | A flicker; most are noise, some are a small event starting |
-| 1 to 100 HW | Small Honkai: zombies, a few beasts. Pohang 2011 peaked at 41 HW |
-| 100 to 999 HW | A bad Honkai: Emperor-class territory (the Ganesha, 2012) |
-| 1000 HW (instantaneous) | The threshold: an Eruption; a Herrscher core forms. Berlin 1953 (first), Siberia 2000 (second), Nagazora 2014 (third) |
-| 2000+ HW | A Herrscher's own reading (Baidu Baike infobox: 崩坏能强度2000HW以上). A newly awakened or partial Herrscher sits in the low thousands |
-| 5000 to 20,000 HW | A fully awakened one-core Herrscher (Honkai Gakuen 2 notes later Herrschers start above 6000 HW). Mei at the Third Eruption: about 8000 |
-| Tens of thousands | Multi-core Herrschers. Sirin in 2000 with six cores peaked around 60,000 HW |
+| 0.1 to 9 HW | Precursor flickers, below the zombie line |
+| about 2,500 HW | Welt Joyce's awakening, Berlin 1953 (fan-cited figure; treat as a story ruling) |
+| about 8,400 HW | Mei fully awakened as the Herrscher of Thunder (later, canon Chapter 17) |
+| about 14,200 HW | Sirin at her Second Eruption peak with six cores, above even the Selene. Theresa: "Siberia peaked at fourteen thousand." |
 
-**Nagazora's climb:** 0.3 HW (December 4, 2013), 9 HW (January 14, 2014,
-the core surge), 12 (January 24), 15 (January 30), 28 HW (February 3, 1:11
-a.m.), then past the 1000 HW threshold at the Third Eruption and up to
-about 8000 when Mei fully awakens.
-
-**Note:** 1000 HW is only the birth threshold. Actual Herrscher readings are
-much higher (above). Chinese fan works commonly treat Herrschers in the
-thousands to tens of thousands; we follow that. The figures past 2000 are
-our rulings, not canon numbers.
+**Story readings in Chapter 2:** Pohang 2011, 0.6 HW offshore at first,
+418 HW at landfall. Nagazora: 0.3 HW (December 4, 2013), 2.1 (January 14,
+2014, the core surge), 3 (January 24), 3.6 (January 30), 6.4 HW (February
+3, 1:11 a.m.), all below the 10 HW zombie line. Then the Third Eruption,
+and Mei's 3,200 HW blast against the Hyperion.
 
 Honkai beasts and their classes are in [honkai-beasts.md](honkai-beasts.md).
