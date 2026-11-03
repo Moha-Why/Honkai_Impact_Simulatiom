@@ -42,45 +42,23 @@ isn't a redemption.
 - **Schicksal** doesn't enter Nagazora before the Eruption.
 - **The run ends** when the Hyperion arrives over Nagazora.
 
-## The Life Path (rebuilt)
+## The Life Path (as written)
 
-The screen is a line of his life from birth to the third year, with a node
-at each age. Some options are open from the start, some are "???" until a
-loop shows him something.
+Every loop opens with his childhood from birth as detailed log lines, like
+a normal run. The child lives sealed; Eros watches from the white, and the
+System stops the log at forks (usually three options). He picks; the child
+carries it out; the rest of the log changes. He takes over on April 13,
+2013, and plays the third year scene by scene. Repeat loops say "The same
+as the fourth file" and pick up where they change. See simulation-system.md,
+Life Path.
 
-**The start, chosen each loop:**
+Births on offer: Malmö (an ME Corp man), the port children's home,
+Mr. Tanabe's sister, a Siberian village, the Raidens' staff cottage, the ME
+Corp hospital (a night nurse), and Willow Street as the System's joke.
 
-- **Wake at 18:** he arrives in September or October 2013 with his memories.
-  The childhood nodes become a past he never lived.
-- **Live it:** he's born into the run. His memories and the System are
-  sealed until April 13, 2013, Mei's 18th birthday. A real child lives the
-  years, told in log lines, and nothing romantic happens before 18.
-
-| Node | Options (??? = opens later) |
-|---|---|
-| **Birth (1995)** | An ME Corp manager's son, Nagazora / a Nagazora orphan / ??? Mr. Tanabe's nephew / ??? the Raidens' housekeeper's son / ??? an orphan in Siberia |
-| **Age 5 (2000)** | Nothing happens / ??? (Siberia only) survives the Second Eruption; Cocolia's orphanage |
-| **Age 6 (2001)** | Starts school / a city kendo dojo / ??? Mr. HOMU's other student |
-| **Age 9 (2004)** | Nowhere near / ??? there when she's taken / ??? a patient at the ME Corp institution |
-| **Age 12 (2007)** | Stays in Nagazora / his family moves away / ??? Willow Street, Hangzhou |
-| **Age 15 (2010)** | Keeps in touch / lets it go / ??? the junior kendo nationals |
-| **Third year (2013)** | Background (scholarship / transfer / returning), housing (tower / station / the empty house next door / Tanabe's garage), club (none / kendo member / ??? kendo manager), start month |
-
-**Interesting situations the nodes lead to:**
-
-- **Tanabe's nephew from birth:** she grew up with him. Waking at 18 in his
-  life, Eros isn't the boy she knew, and she can tell: "You're not him."
-- **An orphan in Siberia:** he survives the Second Eruption at five and grows
-  up in Cocolia's orphanage. At 18 Cocolia sends him to Nagazora as part of
-  her operation, and his job is to isolate Mei.
-- **The Raidens' housekeeper's son and Mr. HOMU's other student:** raised on
-  the estate beside her, taught the sword with her. At nine he's in the car
-  when she's taken.
-- **A patient at the ME Corp institution:** the three years she spends there
-  after the kidnapping, he spends there too.
-- **The junior kendo nationals:** he meets her across a court, as a rival.
-- **Willow Street:** his own real childhood, offered as a joke by the
-  System. He never takes it.
+Loop 2's failure is now a fork: at thirteen he has the nephew tell Ryoma
+about Mei's bursting lights, breaking a promise, and she never forgives
+him.
 
 ## The loops
 
