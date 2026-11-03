@@ -17,7 +17,7 @@ knows who's been sent where.
 teasing: Yoon is exact, not playful. In detail:
 
 - **Duty-log voice.** Times to the minute, numbers with units. "Oh-four
-  seventeen. Four hundred and twelve microsieverts. Then nothing."
+  seventeen. Nought point six HW. Then nothing."
 - **Corrects people**, including herself, mid-sentence. "Three days. Two
   and a half."
 - **Says "No"** as a complete review. Says "Hm" when something is right,

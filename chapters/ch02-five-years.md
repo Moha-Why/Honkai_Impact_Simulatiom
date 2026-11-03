@@ -304,7 +304,17 @@ He didn't say anything else. Everyone at that table had walked past the portrait
 
 Then he clicked, and Lao Chen, who wasn't a stupid man, didn't ask anything else for the rest of the afternoon. One of the twins glanced at the door.
 
-The last slide that day was a satellite photograph of a white circle in a white landscape. Siberia, Ōta said, February 2000. The Second Eruption, contained with heavy losses. Hirano asked how heavy, and he said "Heavy," and that was the slide. I knew who had been inside that circle. A man called Welt Yang, and a woman with white hair called Cecilia, and a girl with six Herrscher cores in her who wanted everyone in the world to die. I looked at it until he clicked.
+The last slide that day was a satellite photograph of a white circle in a white landscape. Siberia, Ōta said, February 2000. The Second Eruption, contained with heavy losses. Hirano asked how heavy, and he said "Heavy."
+
+"Why second?" said Lao Chen. "What was the first?"
+
+Ōta put his glasses on to look at him. "Small Honkai happen every day, Mr. Chen, somewhere in the world. A few of the dead walking, a beast or two, a village that has a very bad night. We measure them in HW." He held up a hand before Hirano could open her mouth. "Page six of your handout, Miss Hirano. A small one reads a few HW. A bad one, a few hundred. But when a Honkai reaches a thousand HW in a single instant, something is born inside it that we call a Herrscher, and we give that Honkai a number. The first was in Berlin, in 1953. Siberia was the second." He looked at the white circle. "There hasn't been a third."
+
+"Good," said Lao Chen.
+
+"Yes," said Ōta. "Let us keep it that way." And he clicked.
+
+He'd left the photograph up a second longer than he needed to. Inside that circle there'd been a man called Welt Yang, and a woman with white hair called Cecilia, and a girl with six Herrscher cores in her who wanted everyone in the world to die. I looked at it until he clicked.
 
 On the third afternoon he got to the Kaslanas, and I didn't have to act anymore.
 
@@ -1238,7 +1248,7 @@ Yoon was already in the watch room. She was in a fleece over her pajamas, with h
 
 "How long?" I said.
 
-"Oh-four-seventeen. Six minutes ago. Seven." She didn't look round. "Local detector's showing a rise. Small. Point six over baseline, offshore, under the water. The old way, that goes in the pile with the weather." She didn't take her eyes off the circle. "Your program put it together with the seismic array at Pohang and the atmospheric station at Ulsan, and it says it isn't weather. It says something's already started out there, and it's getting bigger." She drank from the mug. There was nothing in it. "My grandmother lives forty kilometers north of there."
+"Oh-four-seventeen. Six minutes ago. Seven." She didn't look round. "Local detector's showing a rise. Small. Nought point six HW, offshore, under the water. Background out there is nought point nought two. The old way, that goes in the pile with the weather." She didn't take her eyes off the circle. "Your program put it together with the seismic array at Pohang and the atmospheric station at Ulsan, and it says it isn't weather. It says something's already started out there, and it's getting bigger." She drank from the mug. There was nothing in it. "My grandmother lives forty kilometers north of there."
 
 "What do you want to do?"
 
@@ -1260,7 +1270,7 @@ What came up out of the sea off that town was not big, as these things went. It 
 
 The report came in at noon. Yoon printed it out, which she never did, and walked down the row of consoles with it and put it on my desk without saying anything, like one of Dr. Mori's printouts.
 
-I read it. It was two pages. It listed the squad, and the time of the event, and the type and number of the things that had come out of the sea, and the damage to property, which was a seawall and three boats and part of a fish market. Under Casualties, Civilian, it said 0. Under Casualties, Schicksal, it said 1, minor, and then in brackets, sprained wrist (fell on the stairs).
+I read it. It was two pages. It listed the squad, and the time of the event, and the type and number of the things that had come out of the sea, and the damage to property, which was a seawall and three boats and part of a fish market. Peak reading at landfall, it said, 41 HW. Under Casualties, Civilian, it said 0. Under Casualties, Schicksal, it said 1, minor, and then in brackets, sprained wrist (fell on the stairs).
 
 At the bottom, under Notes, somebody had typed low-level event detected offshore by Far East anomaly watch approximately three hours before landfall, enabled full evacuation of the harbor district.
 
@@ -2208,7 +2218,7 @@ The first one came on the fourth, at a quarter to three in the afternoon, while 
 
 On the big map of the region, over the coast of Honshu, a little yellow circle had appeared. It was the smallest kind the program drew, the kind that meant something had moved and nothing would probably come of it. It pulsed three times and went pale.
 
-"Nagazora. Fourteen forty-four." Yoon went to her console and pulled the readings up. "Small. Very small. Point three over baseline. One detector, and the seismic array at the edge of the city picked up something at the same time." She looked at the graph. It was a spike, sharp and narrow, the same shape I'd found in the seismic data at seventeen, a hundredth of the size of Siberia. "Thunderstorm?"
+"Nagazora. Fourteen forty-four." Yoon went to her console and pulled the readings up. "Small. Very small. Nought point three HW. One detector, and the seismic array at the edge of the city picked up something at the same time." She looked at the graph. It was a spike, sharp and narrow, the same shape I'd found in the seismic data at seventeen, and small enough to be nothing. "Thunderstorm?"
 
 "There's no storm," I said. My voice sounded all right to me.
 
@@ -2258,7 +2268,7 @@ The core was wrong. The thing inside the glass cylinder, the slow white light th
 
 My phone buzzed in my pocket. I looked at it. It was an alert from the anomaly watch, which I'd set to message me directly about one city only.
 
-Nagazora. A spike, the biggest yet, at two-oh-eight in the morning. The same minute the core had started churning.
+Nagazora. A spike, the biggest yet, nine HW, at two-oh-eight in the morning. The same minute the core had started churning.
 
 "Eros," Dr. Mori said. "Hand on the panel. Now, please."
 
@@ -2975,7 +2985,7 @@ She stopped chewing and stared at me. "That was four and a half years ago."
 
 "That's either very sweet or very strange." She considered me for another second, then shook her head as though she'd decided not to decide, and the brightness went out of her face like a light being turned down. She turned back to the screen and pointed at it with the half-eaten cake, and when she spoke again it was in the other voice, the one she'd used on Dr. Mori. "Tell me about this."
 
-I told her. I didn't tell her anything that wasn't on the screens. Small spikes starting in early December, the same signature as every other Honkai event we'd ever logged. Getting bigger, unevenly, with gaps of a few days between them. The one at eight minutes past two this morning, the biggest yet, about four times the size of the last. I pulled up the comparisons and showed her where Nagazora sat against the events we'd watched rise and then fade away over the last three years, and where it sat against the ones that hadn't faded. It sat closer to the second group every week.
+I told her. I didn't tell her anything that wasn't on the screens. Small spikes starting in early December, the same signature as every other Honkai event we'd ever logged. Getting bigger, unevenly, with gaps of a few days between them. The one at eight minutes past two this morning, nine HW, the biggest yet, about four times the size of the last. I pulled up the comparisons and showed her where Nagazora sat against the events we'd watched rise and then fade away over the last three years, and where it sat against the ones that hadn't faded. It sat closer to the second group every week.
 
 She listened without interrupting. She'd stopped eating. At some point she'd started turning the paper wrapper around and around in her fingers.
 
@@ -2987,7 +2997,11 @@ She listened without interrupting. She'd stopped eating. At some point she'd sta
 
 I kept my eyes on the screen.
 
-She looked at the screen for a long time. Then she looked at Yoon.
+She looked at the screen for a long time.
+
+"Nine," she said, quietly, to nobody. "Siberia was over a thousand."
+
+Nobody answered her. Then she looked at Yoon.
 
 "I'm sending someone to look," she said. "Quietly. Someone I trust. Not a squad, not yet. If I send a squad, HQ will want to know why, and then HQ will want to send its own people." The word HQ came out like the word grandfather had four and a half years ago, flat and cold. "Tell nobody outside this room."
 
@@ -3809,7 +3823,7 @@ Then I got up and ran ten kilometers.
 
 The readings in Nagazora kept climbing through the end of January.
 
-Yoon stopped pretending not to watch them. So did I. I went down to the watch room twice a day on the excuse of calibrations, and every time I went, the line on the Nagazora screen was a little higher, the spikes a little closer together. There was nothing from Murata, or if there was, nobody told me. Theresa didn't come back to the watch room. I heard from Asami that the principal hadn't left her office for two days.
+Yoon stopped pretending not to watch them. So did I. I went down to the watch room twice a day on the excuse of calibrations, and every time I went, the line on the Nagazora screen was a little higher, the spikes a little closer together. Twelve HW on the twenty-fourth. Fifteen on the thirtieth. There was nothing from Murata, or if there was, nobody told me. Theresa didn't come back to the watch room. I heard from Asami that the principal hadn't left her office for two days.
 
 I didn't run any more simulations. The System asked every night, and it never asked the same way twice.
 
@@ -3835,7 +3849,7 @@ I told myself I was saying no because I wanted to be Whole for whatever came nex
 
 On the night of the third of February, the alert on my phone went off at eleven minutes past one in the morning.
 
-I was awake. I was always awake by then. I sat up and looked at it. Nagazora. The biggest spike yet, by a long way, three times the size of the one on the night of the core surge, and the shape of it was different. It was longer, as though whatever was making it had started and then not stopped.
+I was awake. I was always awake by then. I sat up and looked at it. Nagazora. The biggest spike yet, by a long way, twenty-eight HW, three times the one on the night of the core surge, and the shape of it was different. It was longer, as though whatever was making it had started and then not stopped.
 
 I was still looking at the phone when the System spoke.
 

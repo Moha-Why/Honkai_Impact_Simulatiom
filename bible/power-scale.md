@@ -124,4 +124,40 @@ There is no stat transfer from the runs. His real body has to earn its rank.
 - **Divine Keys:** pre-era weapons, the strongest gear that exists. They
   kill anyone below S-grade Adaptability who tries to use one.
 
+## Measuring the Honkai (HW)
+
+Schicksal measures a Honkai by its **instantaneous power in HW**. The
+threshold is canon series lore (Moegirl, 律者, citing the Honkai Gakuen 2
+library): "每一次瞬时功率达到1000HW的崩坏就会诞生一名律者" — every Honkai
+whose instantaneous power reaches 1000 HW gives birth to a Herrscher, and
+that Honkai is then numbered. HI3's official definition (same page) agrees
+on the structure without a number:
+
+- **Small Honkai** happen everywhere, all the time. Limited energy, no
+  Herrscher.
+- **Large Honkai (Eruptions)** produce a Herrscher core, which forms in a
+  suitable vessel (a human with extreme Honkai adaptability, often born
+  with Honkai traits). They're numbered by the Herrscher they produce;
+  Nagazora's will be the Third Eruption. The Eruption isn't caused by the
+  Herrscher; a vessel being there is why it happens there. It's natural and
+  can't be steered by humans.
+- **Residual energy** after a Herrscher leaves can make a pseudo-Herrscher
+  (拟似律者), not a true one.
+- A Herrscher can trigger small Honkai and spawn beasts loyal to it, like a
+  queen bee.
+
+**Story scale (our numbers, for consistency):**
+
+| Reading | Meaning |
+|---|---|
+| 0.01 to 0.05 HW | Background |
+| 0.1 to 1 HW | A flicker; most are noise, some are a small event starting |
+| 1 to 100 HW | Small Honkai: zombies, a few beasts. Pohang 2011 peaked at 41 HW |
+| 100 to 999 HW | A bad Honkai: Emperor-class territory (the Ganesha, 2012) |
+| 1000+ HW (instantaneous) | An Eruption; a Herrscher is born. Berlin 1953 (first), Siberia 2000 (second, well over 1000), Nagazora 2014 (third) |
+
+**Nagazora's climb:** 0.3 HW (December 4, 2013), 9 HW (January 14, 2014,
+the core surge), 12 (January 24), 15 (January 30), 28 HW (February 3, 1:11
+a.m.), then over 1000 at the Third Eruption.
+
 Honkai beasts and their classes are in [honkai-beasts.md](honkai-beasts.md).

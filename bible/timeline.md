@@ -31,7 +31,7 @@ story reaches them.
 | 2014, mid-January | The System binds to Eros during a core surge as Honkai readings climb around Nagazora. Run 1 that night (Siberia, March 1999 to the Second Eruption). |
 | 2014, January 15–16 | Theresa visits the anomaly watch room and decides to send Himeko to Nagazora quietly. Runs 2 and 3. |
 | 2014, late January | Himeko leaves for Nagazora. Run 4 (January 25). |
-| 2014, February 3, 1:11 a.m. | The biggest Nagazora spike yet. Mei's heroine simulation unlocks. Eros doesn't start it. |
+| 2014, February 3, 1:11 a.m. | The biggest Nagazora spike yet (28 HW). Mei's heroine simulation unlocks. Eros doesn't start it. |
 | 2014, February | Third Eruption, Nagazora (canon date), after Mei's partial awakening as the Herrscher of Thunder. Himeko confronts Mei; Theresa later brings Kiana to St. Freya. Canon: Cocolia and Bronya set off an artificial outbreak at Chiba Academy to wake the Gem of Conquest in Mei. Mei's run is set before it: Chiba Academy, Nagazora, her third year, starting September or October 2013 depending on the loop. |
 
 ## Open questions
