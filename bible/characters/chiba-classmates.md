@@ -47,7 +47,11 @@ rejected confessor looks like when he goes the other way.
 her desk, her indoor shoes in the trash, a bento knocked off her desk "by
 accident", the joke that she'll be going to visit her father soon.
 
-**In Chapter 3:** Loop 7, Eros feeds him gossip through a friend of a friend
+**In Chapter 3:** Loop 1, he's been Eros's pen pal since they were
+thirteen (baseball, his father's company, a dog called Leo, "a girl in my
+year everybody's afraid of"). He hugs Eros at the shoe lockers on his first
+day and gives him a table in 3-B. After the arrest he writes on Mei's desk
+and tells Eros at lunch, waiting for him to laugh. Eros laughs. Loop 7, Eros feeds him gossip through a friend of a friend
 and lets him do the damage. Loop 8, Eros lets the bullying run, then lets
 Kuroda's group catch him behind the gym. They go further than he bet (a
 pipe, a cracked rib). Mei breaks Kuroda's wrist with a bokken at the next

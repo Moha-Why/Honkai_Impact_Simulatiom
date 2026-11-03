@@ -29,8 +29,12 @@ the blade."
 
 **In Chapter 3:**
 
-- **Loop 1:** the bait. Eros calls his office naming Cocolia and digs into
-  the project that never existed. The arrest happens anyway.
+- **Loop 1:** in May 2003 he answers an eight-year-old's letter from Malmö
+  addressed to "the boss of the glass tower" ("I have a daughter your age.
+  She is learning kendo, and she is better at it than I was. I hope your
+  cat comes home."). In November 2013 the secretary puts the grown boy
+  through because of it. Ryoma listens to him name Cocolia and says "Thank
+  you. Don't call this number again." The arrest happens anyway.
 - **Every loop:** the arrest on the news on November 16 (a fixed node).
 - **Loop 6:** teaches two children the sword as Mr. HOMU, his daughter and the housekeeper's boy.
 - **Loop 8:** Mei finds the Mr. HOMU costume in January, tells Eros, and
