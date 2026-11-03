@@ -76,8 +76,8 @@ Honkai adaptability"). This story splits them into two different things.
 The body **withstands** Honkai energy. It's a wall, and it's what most
 Valkyries have. Schicksal's cuff test measures it. Women have it far more
 often than men; most men stay at F for life. F is almost always a man:
-women who become Valkyrie candidates usually start at E or higher, even
-the ones with low resistance like Himeko.
+women usually start at E or higher. A Valkyrie candidate needs at least D
+for the transplant; Himeko scraped in at D, the bottom.
 
 Resistance splits into **Low, Mid and High** like Combat Rating, and it is
 his rank ceiling exactly: Mid C Resistance means a Mid C ceiling.
@@ -85,8 +85,8 @@ his rank ceiling exactly: Mid C Resistance means a Mid C ceiling.
 | Grade | What it allows |
 |---|---|
 | F | Normal human; ceiling Peak Human. Honkai energy only harms him. An artificial stigma transplant kills him. |
-| E | Survives mild exposure. Survives an artificial stigma. |
-| D | Hours in Eruption-level air. Basic battlesuits. |
+| E | Survives mild exposure. An artificial stigma transplant still kills him. |
+| D | Hours in Eruption-level air. Basic battlesuits. The minimum to survive an artificial stigma. |
 | C | Standard battlesuits. |
 | B | Frontline gear. |
 | A | Elite gear. The top of what resistance can reach, even with an artificial stigma. |
@@ -114,7 +114,7 @@ is C**, a **top-quality one is B**.
 
 | His Resistance | What the stigma does | Drawbacks |
 |---|---|---|
-| F | The transplant kills him. | |
+| F or E | The transplant kills him. | |
 | Below the stigma's grade | Lifts him to the Low of the stigma's grade | They show, and the bigger the gap, the worse. One grade: Himeko's shortened life and slow decay. Two grades: visible symptoms, faster decay, and regular maintenance from someone who knows Schicksal stigmata. |
 | At or above the stigma's grade | Raises him to the High (peak) of his own grade | Mild and slow. His life is still shorter, as canon says it always is, but his body barely fights it. |
 
@@ -123,8 +123,9 @@ training and real combat, up to High A. That's how ordinary girls become
 frontline B-ranks and veteran A-ranks; most of Schicksal's A-ranks carry
 artificial stigmata.
 
-- **Low innate Resistance caps the climb.** Starting from E, the climb
-  stops at B. Himeko is the example: her low resistance hit its limit at B.
+- **Low innate Resistance caps the climb.** Starting from D, the bottom,
+  the climb stops at B. Himeko is the example: her low resistance hit its
+  limit at B.
 - **The cost grows with the climb.** The further his Resistance rises above
   his innate level (what he had before the stigma, from gifts), the faster
   the decay and the higher the cascade risk. Himeko started low, climbed to
@@ -134,15 +135,15 @@ artificial stigmata.
   (Kaslana, Schariac), the Red gift, a MANTIS fusion or a core.
 - **Gifts are cost reducers.** The stigma opens the path; his gift
   Resistance decides what the climb costs. From the Blue gift (Low D) the
-  climb to A burns a lot of life. From a Gold gift (Low A) it barely costs
-  anything.
+  climb stops at B, like Himeko's, and burns a lot of life getting there.
+  From a Gold gift (Low A) it barely costs anything.
 - **Suits** decide the abilities and how much power he gets within his
   ceiling. They don't raise it. A suit he understands better than anyone
   gets more out of it.
 
 Examples for Eros: the Blue gift (Low D) plus a standard stigma starts him
-at Low C with Himeko-level drawbacks, and every grade he climbs from there
-costs more. A Purple gift (Low B) plus the same stigma starts him at High B
+at Low C with Himeko-level drawbacks, and his climb stops at B, the same
+limit as Himeko. A Purple gift (Low B) plus the same stigma starts him at High B
 with mild drawbacks, and the climb to A is cheap.
 
 ### What each one gives
@@ -247,7 +248,7 @@ There is no stat transfer from the runs. His real body has to earn its rank.
 - **How Eros can get a stigma:**
   - **Artificial:** only as a body modification from a run where he had
     one. It arrives already in his body and follows the Resistance rules
-    above (it kills him at F). It shows on any Schicksal scan as a
+    above (it kills him below D). It shows on any Schicksal scan as a
     Schicksal stigma in a man with no surgery record.
   - **Natural:** his own, dormant in his DNA like everyone's. It wakes only
     with Adaptability. It can't be taken out of a run, because a run body's

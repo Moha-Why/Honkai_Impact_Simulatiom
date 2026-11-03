@@ -143,7 +143,7 @@ which items are allowed, and how many Fate Fragments he's paid.
     life and cascade risk; a MANTIS fusion's beast traits, visible changes
     (Elysia's ears) and instincts.
   - His real body has to be able to survive it. If it can't, the card shows
-    grayed out ("Requires Honkai Resistance E"). He sees it and can't take
+    grayed out ("Requires Honkai Resistance D"). He sees it and can't take
     it.
   - Colors: standard Schicksal artificial stigma (grade C) Purple; top
     quality (grade B) Gold; World
