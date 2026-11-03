@@ -69,8 +69,8 @@ which items are allowed, and how many Fate Fragments he's paid.
 - **Normal runs:** how long he lived, what he achieved, how much he changed
   in that life, and any hidden events he triggered (witnessing or surviving
   something historic, killing something far above his level).
-- **Heroine runs:** how many objectives he completed and how high the
-  meters ended (see Heroine runs below).
+- **Heroine runs:** hidden criteria (Love, Corruption, Staying, plus hidden
+  events), not how many objectives he completed (see Heroine runs below).
 
 ### What each grade gives
 

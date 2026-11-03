@@ -80,7 +80,8 @@ women usually start at E or higher. A Valkyrie candidate needs at least D
 for the transplant; Himeko scraped in at D, the bottom.
 
 Resistance splits into **Low, Mid and High** like Combat Rating, and it is
-his rank ceiling exactly: Mid C Resistance means a Mid C ceiling.
+his body's rank ceiling exactly: Mid C Resistance means a Mid C ceiling. A
+battlesuit can carry him past it (see "Suits" below).
 
 | Grade | What it allows |
 |---|---|
@@ -137,13 +138,20 @@ artificial stigmata.
   Resistance decides what the climb costs. From the Blue gift (Low D) the
   climb stops at B, like Himeko's, and burns a lot of life getting there.
   From a Gold gift (Low A) it barely costs anything.
-- **Suits** decide the abilities and how much power he gets within his
-  ceiling. They don't raise it. A suit he understands better than anyone
-  gets more out of it.
+- **Suits** decide the abilities, and a good suit lifts Combat Rating above
+  what the body holds alone, by about one grade. Himeko is the proof: her
+  body's limit is B, and her suits carried her to A. Fighting above the
+  body has a price: the wider the gap between what the suit puts out and
+  what his Resistance holds, the harder the stigma works and the faster the
+  decay. S is still the wall. A suit built around a Herrscher core
+  (Vermilion Knight: Eclipse, with the Gem of Haste) can reach it, but that
+  power is borrowed and burns the wearer. A suit he understands better than
+  anyone gets more out of it.
 
 Examples for Eros: the Blue gift (Low D) plus a standard stigma starts him
 at Low C with Himeko-level drawbacks, and his climb stops at B, the same
-limit as Himeko. A Purple gift (Low B) plus the same stigma starts him at High B
+limit as Himeko. In a good suit he could fight at A, like her, and pay
+like her. A Purple gift (Low B) plus the same stigma starts him at High B
 with mild drawbacks, and the climb to A is cheap.
 
 ### What each one gives
