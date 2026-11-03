@@ -18,12 +18,20 @@ doesn't hide well.
 - In 2005 an attack meant for her father and Welt nearly killed her. Her
   father died and left her a farewell letter; Welt vanished. She finished
   her PhD and joined Schicksal to find out why.
-- Low innate Honkai Resistance, enough for a transplant, no Adaptability,
-  and no special talent. With an artificial stigma she trained her way into
-  the Valkyrie Assault Squad at 19 and climbed all the way to A rank
-  (canon: "A-Rank Valkyrie (Formerly)", Major). The climb from so low is
-  why her body is decaying faster than most: she's the face of what the
-  artificial path costs.
+- Low innate Honkai Resistance (E), no Adaptability, and no special talent.
+  Canon: "not born with innate Honkai resistance," so she needed an
+  artificial stigma. She trained her way into the Valkyrie Assault Squad at
+  19, and her Resistance climbed until it hit its limit at **B**. Her low
+  start is why it stopped there, and why her body is decaying faster than
+  most: she's the face of what the artificial path costs.
+- Her **A rank** (canon: "A-Rank Valkyrie (Formerly)", Major) comes from
+  her battlesuits, her training under Ragna Lothbrok and her leadership, not
+  from her body.
+- **Vermilion Knight: Eclipse** (canon, later in the story): her final
+  battlesuit, built around the core of the Herrscher of Fire, the 7th
+  Herrscher (the Previous Era Himeko; the same core is in the Divine Key
+  Judgment of Shamash, per the HI3 wiki). The core is the engine, not her
+  body, and running it burns what's left of her life.
 - In 2010 the Assault Squad was destroyed and she was the only survivor
   (Eros read the report in Chapter 2). She became a teacher at St. Freya.
 - In canon she responds to the Third Eruption with the Hyperion, fights the

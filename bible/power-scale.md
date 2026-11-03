@@ -75,7 +75,9 @@ Honkai adaptability"). This story splits them into two different things.
 
 The body **withstands** Honkai energy. It's a wall, and it's what most
 Valkyries have. Schicksal's cuff test measures it. Women have it far more
-often than men; most men stay at F for life.
+often than men; most men stay at F for life. F is almost always a man:
+women who become Valkyrie candidates usually start at E or higher, even
+the ones with low resistance like Himeko.
 
 Resistance splits into **Low, Mid and High** like Combat Rating, and it is
 his rank ceiling exactly: Mid C Resistance means a Mid C ceiling.
@@ -121,6 +123,8 @@ training and real combat, up to High A. That's how ordinary girls become
 frontline B-ranks and veteran A-ranks; most of Schicksal's A-ranks carry
 artificial stigmata.
 
+- **Low innate Resistance caps the climb.** Starting from E, the climb
+  stops at B. Himeko is the example: her low resistance hit its limit at B.
 - **The cost grows with the climb.** The further his Resistance rises above
   his innate level (what he had before the stigma, from gifts), the faster
   the decay and the higher the cascade risk. Himeko started low, climbed to
