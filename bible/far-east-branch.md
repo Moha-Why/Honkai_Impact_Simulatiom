@@ -144,3 +144,22 @@ The paranoia is Eros's own. He's a fan who knows what Otto is, so he hides
 from a man who hasn't noticed him. Keep it that way until the System,
 Fate Deviation or his runs give someone a real reason to look; that moment
 should land because nothing like it came before.
+
+## Nagazora: a gray zone
+
+Nagazora (Honshu, Japan) is in Schicksal's Far East, but it is ME Corp's
+home city, and ME Corp works with Anti-Entropy (Raiden Ryoma is an
+Anti-Entropy scientist). ME Corp runs its own Honkai sensor network inside
+the city and doesn't share it; Schicksal keeps only two detectors near it,
+both outside the city limits, to avoid stepping on Anti-Entropy's ally.
+From November 16, 2013, Cocolia controls ME Corp and its network.
+
+So the watch room sees only small leaks at the edge (0.3 to 6.4 HW), and
+Theresa can't justify sending Valkyries into ME Corp's town on them
+without HQ asking why and Anti-Entropy noticing. Nobody from Schicksal is
+inside Nagazora before the Third Eruption, which Cocolia triggers
+artificially and suddenly. Schicksal responds once it starts (canon: the
+Hyperion is sent after the spike, and Himeko "responded to the 3rd
+Eruption"). Theresa's only precaution is the Hyperion on two hours'
+standby. Himeko is a St. Freya instructor and isn't sent anywhere
+beforehand.

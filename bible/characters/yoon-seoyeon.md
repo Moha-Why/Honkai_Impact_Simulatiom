@@ -30,11 +30,13 @@ teasing: Yoon is exact, not playful. In detail:
 - Polite to Theresa and nobody else.
 
 - "The principal's asking for whoever built this. That's you."
-- "Murata left for Nagazora this morning. Oh-six-forty, off the pad, on the
-  mail helicopter. Don't tell anyone I told you."
+- "That's all we've got near Nagazora. Two birds, both outside. It's ME
+  Corp's town. They run their own network inside it, and they don't share."
+- "Standby. Twelve hours' notice is now two. The principal's orders,
+  oh-five-hundred."
 
 **In Chapter 2:** calls Eros down when Theresa visits the watch room; later
-mentions that Himeko has gone to Nagazora.
+tells him the Hyperion is on two hours' standby.
 
 **In the Chapter 2 rewrite:** meets Eros in 2011 while he builds the anomaly
 watch; they argue about thresholds, then about coffee, and become friends.

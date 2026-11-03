@@ -60,7 +60,9 @@ he fixed her students' battlesuit bug in ten minutes.
 
 **In Chapter 2:** on January 15, 2014 she visits the anomaly watch room,
 remembers him ("The weather data boy!"), hears the Nagazora data, decides
-to send Himeko quietly without telling HQ, and orders him to eat a lemon
+she can't put Valkyries into ME Corp's town on readings that small ("Keep
+watching. Anything over ten, you call me"), later puts the Hyperion on two
+hours' standby, and orders him to eat a lemon
 candy. Earlier, she storms onto the eleventh floor in summer 2009 over a
 training-battlesuit bug that broke the wrist of one of the branch's
 Valkyries in a simulation room, and meets

@@ -83,11 +83,12 @@ Lungs (Run 4). Danger Sense and Pain Tolerance were lost to the grade cap.
 
 - **Nobody** knows about the System.
 - **Theresa** remembers "the weather data boy" and the candy. On January 15
-  he briefed her on Nagazora using only screen data. She sent Himeko
-  quietly, without telling HQ. She told him to sleep and gave him a lemon
+  he briefed her on Nagazora using only screen data. She can't send
+  Valkyries into ME Corp's town on readings that small; she put the
+  Hyperion on two hours' standby instead. She told him to sleep and gave him a lemon
   candy. She hasn't left her office for two days (late January).
-- **Yoon Seo-yeon** (watch room) told him Himeko left for Nagazora.
-  He pretended not to know who Murata was.
+- **Yoon Seo-yeon** (watch room) told him Schicksal has only two detectors
+  near Nagazora, both outside the city, and that the Hyperion is on standby.
 - **Asami** thinks something is badly wrong with him ("you look like the
   girls I fly back"). Caught him with a knife on the seawall; he said
   YouTube. She doesn't believe it, and taught him stance anyway.

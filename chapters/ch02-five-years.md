@@ -2220,7 +2220,7 @@ The first one came on the fourth, at a quarter to three in the afternoon, while 
 
 On the big map of the region, over the coast of Honshu, a little yellow circle had appeared. It was the smallest kind the program drew, the kind that meant something had moved and nothing would probably come of it. It pulsed three times and went pale.
 
-"Nagazora. Fourteen forty-four." Yoon went to her console and pulled the readings up. "Small. Very small. Nought point three HW. One detector, and the seismic array at the edge of the city picked up something at the same time." She looked at the graph. It was a spike, sharp and narrow, the same shape I'd found in the seismic data at seventeen, and small enough to be nothing. "Thunderstorm?"
+"Nagazora. Fourteen forty-four." Yoon went to her console and pulled the readings up. "Small. Very small. Nought point three HW. One detector, and the seismic array at the edge of the city picked up something at the same time." She tapped the map, at two little dots on the coast outside the city limits. "That's all we've got near Nagazora. Two birds, both outside. It's ME Corp's town. They run their own network inside it, and they don't share, and since November I don't know who's reading it." She looked at the graph. It was a spike, sharp and narrow, the same shape I'd found in the seismic data at seventeen, and small enough to be nothing. "Thunderstorm?"
 
 "There's no storm," I said. My voice sounded all right to me.
 
@@ -3005,9 +3005,9 @@ She looked at the screen for a long time.
 
 Nobody answered her. Then she looked at Yoon.
 
-"I'm sending someone to look," she said. "Quietly. Someone I trust. Not a squad, not yet. If I send a squad, HQ will want to know why, and then HQ will want to send its own people." The word HQ came out like the word grandfather had four and a half years ago, flat and cold. "Tell nobody outside this room."
+"Two point one, from two birds outside the city," she said. "I can't put Valkyries into ME Corp's town on that. Anti-Entropy has eyes on every street of it, and if I send a squad, HQ will want to know why, and then HQ will want to send its own people." The word HQ came out like the word grandfather had four and a half years ago, flat and cold. "Keep watching. Anything over ten, you call me, at any hour. Nobody outside this room."
 
-Yoon nodded. I nodded too, a beat late, because I was busy trying to keep my face still. I knew who she was going to send. In the game, a red-haired woman with a big sword had walked into Nagazora a few weeks from now and found a girl in a school uniform with lightning coming off her.
+Yoon nodded. I nodded too, a beat late, because I was busy trying to keep my face still. There wasn't going to be a slow climb to ten for anyone to call her about. In the game the city had gone in a single night, and a red-haired woman with a big sword had come in afterward, off the Hyperion, and found a girl in a school uniform with lightning coming off her.
 
 Theresa crumpled the cake wrapper into a ball and looked around for a bin, and didn't find one, and put it in her pocket. Then she turned to me, and her face softened a little.
 
@@ -3608,13 +3608,9 @@ When she'd gone, I stood there with the knife in my bandaged hand and looked at 
 
 ---
 
-On the Thursday of that week, Yoon told me Himeko had gone.
+On the Thursday of that week, the Hyperion's engines were running at the north tower when I came out for my run, a low hum I could feel in my teeth from the far end of the seawall, and they were still running when I came back.
 
-I was in the watch room checking a calibration. Yoon was at her console with her mug, and without looking up from her screen she said, "Murata left for Nagazora this morning. Oh-six-forty, off the pad, on the mail helicopter. Don't tell anyone I told you."
-
-"Who's Murata?" I asked.
-
-"A teacher at the academy. A-rank. A good one." She turned her mug around in her hands. "The principal doesn't send her places for nothing."
+"Standby," Yoon said, when I asked her about it in the watch room. She didn't look up from her screen. "Twelve hours' notice is now two. The principal's orders, oh-five-hundred." She turned her mug round in her hands. "She didn't say for what. She doesn't need to."
 
 That night I opened the shop for the first time.
 
@@ -3825,7 +3821,7 @@ Then I got up and ran ten kilometers.
 
 The readings in Nagazora kept climbing through the end of January.
 
-Yoon stopped pretending not to watch them. So did I. I went down to the watch room twice a day on the excuse of calibrations, and every time I went, the line on the Nagazora screen was a little higher, the spikes a little closer together. Three HW on the twenty-fourth. Three point six on the thirtieth. Ten was where people stopped being people. There was nothing from Murata, or if there was, nobody told me. Theresa didn't come back to the watch room. I heard from Asami that the principal hadn't left her office for two days.
+Yoon stopped pretending not to watch them. So did I. I went down to the watch room twice a day on the excuse of calibrations, and every time I went, the line on the Nagazora screen was a little higher, the spikes a little closer together. Three HW on the twenty-fourth. Three point six on the thirtieth. Ten was where people stopped being people. The Hyperion's engines didn't stop. Theresa didn't come back to the watch room. I heard from Asami that the principal hadn't left her office for two days.
 
 I didn't run any more simulations. The System asked every night, and it never asked the same way twice.
 

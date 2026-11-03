@@ -29,10 +29,10 @@ story reaches them.
 | 2013, May | The Hyperion, the Far East Branch's flying battleship, leaves its dock on HQ's industrial island (Eros watches from the rim path) and moors at the technical center's north tower. Eros sees it when he returns from HQ in July. |
 | 2013, November 16 | Canon: Raiden Ryoma, CEO of ME Corp, is arrested for fraud, framed by Cocolia. Mei cuts herself off. Kiana enrolls at Chiba Academy afterward (in this story, mid-December, after her 18th birthday). Canon: she gets past Mei's guard, defends her from bullies and eats her (bad) first homemade lunches. |
 | 2014, mid-January | The System binds to Eros during a core surge as Honkai readings climb around Nagazora. Run 1 that night (Siberia, March 1999 to the Second Eruption). |
-| 2014, January 15–16 | Theresa visits the anomaly watch room and decides to send Himeko to Nagazora quietly. Runs 2 and 3. |
-| 2014, late January | Himeko leaves for Nagazora. Run 4 (January 25). |
+| 2014, January 15–16 | Theresa visits the anomaly watch room. On readings this small from two detectors outside ME Corp's city she can't send Valkyries in; she orders a call at anything over 10 HW. Runs 2 and 3. |
+| 2014, late January | Theresa puts the Hyperion on two hours' standby at the technical center. Himeko stays at St. Freya, teaching. Run 4 (January 25). |
 | 2014, February 3, 1:11 a.m. | The biggest Nagazora spike yet (6.4 HW, still under the 10 HW zombie line). Mei's heroine simulation unlocks. Eros doesn't start it. |
-| 2014, February | Third Eruption, Nagazora (canon date), after Mei's partial awakening as the Herrscher of Thunder. Himeko confronts Mei; Theresa later brings Kiana to St. Freya. Canon: Cocolia and Bronya set off an artificial outbreak at Chiba Academy to wake the Gem of Conquest in Mei. Mei's run is set before it: Chiba Academy, Nagazora, her third year, starting September or October 2013 depending on the loop. |
+| 2014, February | Third Eruption, Nagazora (canon date), after Mei's partial awakening as the Herrscher of Thunder. Himeko responds once the Eruption begins (canon: she "responded to the 3rd Eruption"), arriving with the Hyperion, and confronts Mei; Theresa later brings Kiana to St. Freya. Canon: Cocolia and Bronya set off an artificial outbreak at Chiba Academy to wake the Gem of Conquest in Mei. Mei's run is set before it: Chiba Academy, Nagazora, her third year, starting September or October 2013 depending on the loop. |
 
 ## Open questions
 

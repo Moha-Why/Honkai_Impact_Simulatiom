@@ -1,7 +1,8 @@
 # Murata Himeko
 
-**Role:** St. Freya teacher, A-rank Valkyrie. In the real world, Theresa has
-sent her to Nagazora quietly in late January 2014 (Chapter 2). In Chapter 3,
+**Role:** St. Freya teacher, A-rank Valkyrie. In the real world she stays at
+St. Freya teaching until the Third Eruption begins, then responds with the
+Hyperion (canon: she "responded to the 3rd Eruption"). In Chapter 3,
 a cameo in the Mei run. Canon character.
 
 **Age:** born June 11, 1987, so 26 in early 2014.
