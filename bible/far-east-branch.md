@@ -63,8 +63,10 @@ purpose.
 - **Valkyrie transports:** unmarked dark gray tilt-rotors, much faster than
   any civilian craft; Korean civilian radar logs one as a weather fault
   (Pohang, 2011). Cargo still goes by heavy helicopter.
-- **The Hyperion:** the branch's flying battleship. Arrives from the yards
-  in May 2013 and moors at the technical center's north tower. Theresa calls
+- **The Hyperion:** the branch's flying battleship. Built at HQ in the
+  open-sky dock on the industrial island (Eros sees it in its cradle in
+  January 2013 and watches it leave in May), then moored at the technical
+  center's north tower. Theresa calls
   it hers; HQ calls it theirs. Canon: sent to Nagazora in February 2014 to
   investigate the spike, and Kiana, Mei and Bronya are taken aboard.
 - **Stigmata:** artificial stigmata are given by transplant surgery, once,
@@ -94,7 +96,12 @@ purpose.
   center and core research facility. The main island has a runway, towers
   of glass and steel, and a cathedral on its highest ground with Otto's
   portrait in the main hall; smaller islands (residential, industrial) are
-  joined by skybridges. The Battlesuit Division is here. Eros's 2013
+  joined by skybridges, with transports running between them like buses.
+  Several thousand people live and work there; about sixty new secondees
+  arrive in January 2013 alone. The Battlesuit Division (about 200
+  engineers) is here; Eros is one of twelve in Klaus's simulation group,
+  with Permafrost (Siberia), Kangaroo (Oceania) and Sand (North Africa
+  labs) as the other newcomers. Eros's 2013
   secondment is here; he runs the eight-kilometer rim path.
 - **Old HQ:** Kolosten town, outside Vienna, Austria (canon:
   奥地利维也纳柯洛斯滕镇). On land. A cathedral and cloister on a hill

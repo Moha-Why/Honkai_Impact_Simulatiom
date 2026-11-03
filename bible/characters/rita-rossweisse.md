@@ -89,8 +89,9 @@ Story lines (Chapter 2):
 
 ## With Eros (story, 2013)
 
-- She's his liaison and guide because Otto has just assigned her to Bianka
-  and Eros writes Bianka's suit firmware. Eros assumes she reports
+- She's the liaison for the whole simulation team on Bianka's new suit
+  (twelve engineers), because Otto has just assigned her to Bianka. Eros is
+  one of them; their private talks happen when the others are out. Eros assumes she reports
   everything to Otto; she very probably doesn't bother. She finds his
   carefulness interesting.
 - **The archive trip** is her own idea ("Mr. Hoffmann says you read every

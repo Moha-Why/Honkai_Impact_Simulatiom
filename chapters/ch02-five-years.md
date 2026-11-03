@@ -1616,13 +1616,15 @@ Then I went inside and checked the bag by the door, and put a phrasebook in it, 
 
 HQ was above the Mediterranean, and nobody on the staff flight said where exactly.
 
-I flew there in the second week of January on a staff jet with the shutters up, over the Alps under snow and then for a long time over the sea. Then the pilot said something to the cabin in German, and everybody who'd done this before looked out of the left side, so I did too.
+I flew there in the second week of January on a staff jet with the shutters up and every seat full. Two signal engineers from the Siberia branch played cards across the aisle the whole way. A medical team from Oceania slept. A young priest with a briefcase on his knees read the same page for three hours. We went over the Alps under snow and then for a long time over the sea, and then the pilot said something to the cabin in German, and everybody who'd done this before looked out of the left side, so I did too.
 
-It was a cluster of islands in the air. The biggest was a few kilometers across, a slab of rock and steel with its underside tapering away into a long hanging point, like the root of a tooth, and around it at different heights there were eight or nine smaller ones, joined to it by bridges that looked as thin as thread from that distance. Cloud lay under all of them in a flat white floor, with the sea showing dark through the gaps. On the highest ground of the biggest island, among towers of glass and steel, there was a cathedral. Gray stone, spires and buttresses and long thin windows of colored glass, standing up there as if somebody had carried it into the sky whole. A flag with the Schicksal cross on it flew from the highest spire, straight out in the wind.
+It was a cluster of islands in the air. The biggest was a few kilometers across, a slab of rock and steel with its underside tapering away into a long hanging point, like the root of a tooth, and around it at different heights there were eight or nine smaller ones, joined to it by bridges that looked as thin as thread from that distance. Cloud lay under all of them in a flat white floor, with the sea showing dark through the gaps. On the highest ground of the biggest island, among towers of glass and steel, there was a cathedral. Gray stone, spires and buttresses and long thin windows of colored glass, standing up there as if somebody had carried it into the sky whole. A flag with the Schicksal cross on it flew from the highest spire, straight out in the wind. Transports went between the islands like buses, dozens of them, and on the lowest island, the industrial one, a dock hung open to the sky with a ship in it. A long gray hull in a cradle of scaffolding, sparks going along it in a dozen places at once. I couldn't read the name from up there. I didn't need to.
 
 I sat with my forehead nearly on the window and felt, for the first time in years, exactly as I had at two in the morning in my first life in front of a new event banner. I knew that place. I'd seen it on a loading screen a hundred times. I'd seen it lit by explosions, and people dying on the cathedral steps, in a cutscene I'd watched three times in a row.
 
-The jet came down on a runway along the edge of the biggest island, with the wind shoving at it for the whole approach, and stopped a long way short of the edge, which I appreciated. At the foot of the steps a guard in a long coat looked at my badge, and at my face, and at the badge again, and at a tablet. Then a second guard did the same thing. Then they let me through.
+The jet came down on a runway along the edge of the biggest island, with the wind shoving at it for the whole approach, and stopped a long way short of the edge, which I appreciated. There was a queue at the foot of the steps. A guard in a long coat looked at each badge, and each face, and each badge again, and a tablet, and then a second guard did the same, and the priest dropped his briefcase and everybody waited while he picked his papers up out of the wind. Then they let us through, into a terminal as busy as a train station at rush hour, full of uniforms and lab coats and people pulling cases, and a boy selling newspapers in four languages from a cart.
+
+Several thousand people lived and worked on those islands. I was one of about sixty new secondees that month, and nobody looked at me twice.
 
 The security on the island had been a fence and a man named Brenner. Here it was something else. There were cameras on every corner of every corridor. Doors opened only for your badge and only if your badge was supposed to be in that corridor at that hour. Nobody in the corridors talked loudly. When you passed someone, they looked at your badge before they looked at your face. I'd thought, for nearly four years, that the island was where Schicksal kept its secrets. Within a day at HQ I understood that the Far East was where Theresa kept her girls, and that this was where Schicksal kept its secrets, and that the difference was the man who lived here.
 
@@ -1632,11 +1634,11 @@ I didn't. I walked past it at exactly the speed I'd been walking before, and loo
 
 ---
 
-The Battlesuit Division was in one of the glass buildings, three floors of labs and workshops. Half-built suits hung on gantries with their chest plates open, and robot arms the size of cranes threaded something like nerve fiber through their joints, slowly, all night. On the ground floor a finished suit with nobody in it walked round and round a test track, turning its empty helmet to look at things, and nobody but me ever looked at it twice. My new colleague was a man called Klaus Hoffmann, big and bearded and loud, who came to work on a bicycle across the skybridge from the residential island, in the wind, in cycling clothes and changed into a lab coat at his desk with no embarrassment at all.
+The Battlesuit Division was in one of the glass buildings, three floors of labs and workshops and about two hundred engineers. Half-built suits hung on gantries with their chest plates open, and robot arms the size of cranes threaded something like nerve fiber through their joints, slowly, all night. On the ground floor a finished suit with nobody in it walked round and round a test track, turning its empty helmet to look at things, and nobody who worked there looked at it twice. I'd been put in the simulation group, twelve people under a team lead called Klaus Hoffmann, big and bearded and loud, who came to work on a bicycle across the skybridge from the residential island, in the wind, in cycling clothes and changed into a lab coat at his desk with no embarrassment at all.
 
 "You are the Tuesday man!" he said, the first morning, shaking my hand so hard it hurt. "The Tuesday bug! We heard about it here. Eleven exclamation marks. We have a bug with fourteen. You will love it."
 
-He gave me a desk next to his and spent the first week telling me everything about HQ that nobody else would. Which canteen was good and which one gave you food poisoning on Thursdays. Which department heads hated each other. Which corridors you didn't stand in, and why.
+There were four of us new that week, and he had a name for each of us by lunch. A quiet woman from the Siberia branch was Permafrost. A tall boy from Oceania was Kangaroo, which he hated. A Brazilian who'd come from the North Africa labs was Sand. I was the Tuesday man. He put us at the four desks nearest his and spent the first week telling us everything about HQ that nobody else would. Which canteen was good and which one gave you food poisoning on Thursdays. Which department heads hated each other. Which corridors you didn't stand in, and why.
 
 "This floor," he said, on the third day, pointing up through the ceiling with a pencil, "the Overseer sometimes walks. Not often. Sometimes." He lowered his voice, which for Klaus meant ordinary talking. "When he walks, you stand straight, you say nothing, you live long."
 
@@ -1646,15 +1648,15 @@ He gave me a desk next to his and spent the first week telling me everything abo
 
 ---
 
-The second morning, before Klaus had told me anything at all, there was a maid at my desk.
+The second morning, before Klaus had told us anything at all, there was a maid at the end of our row of desks.
 
-I mean that exactly. A young woman in a long black dress and a white apron, with a lace headband and white gloves, standing beside my chair with her hands folded in front of her, as if she'd been there for some time and had been too polite to interrupt. She had honey-blonde hair cut to her neck at the back and longer at the front, so that it fell over her left eye. The eye I could see was a deep pink. She was smiling.
+I mean that exactly. A young woman in a long black dress and a white apron, with a lace headband and white gloves, standing with her hands folded in front of her, as if she'd been there for some time and had been too polite to interrupt. She had honey-blonde hair cut to her neck at the back and longer at the front, so that it fell over her left eye. The eye I could see was a deep pink. She was smiling.
 
-"Master Eros," she said. Her English was very soft and very British. "Good morning. My name is Rita. I've been asked to be your liaison while you're with us. If there is anything you need, anything at all, please ask me, and I'll arrange it." The smile didn't move. "The Overseer hopes your stay will be comfortable."
+"Good morning," she said to the four of us. Her English was very soft and very British. "My name is Rita. I'm Miss Ataegina's adjutant, and Miss Ataegina's new suit is your project, so I'm your liaison for it. If there is anything the team needs, anything at all, please ask me, and I'll arrange it." The smile didn't move. "The Overseer hopes your stay will be comfortable."
 
-I'd stood up without noticing.
+I'd stood up without noticing. Kangaroo had too. Permafrost hadn't, and was looking at me.
 
-Rita Rossweisse. In the game she'd been the maid with the scythe, the S-rank who smiled through everything, Otto's apprentice and then Durandal's lieutenant, polite and lethal and very good at saying things that meant two things at once. The fan in my head was making a noise like a kettle. I made my face do what a new engineer's face would do when a maid turned up at his desk, which was look confused and slightly embarrassed.
+Rita Rossweisse. In the game she'd been the maid with the scythe, the S-rank who smiled through everything, Otto's apprentice and then Durandal's lieutenant, polite and lethal and very good at saying things that meant two things at once. The fan in my head was making a noise like a kettle. I made my face do what a new engineer's face would do when a maid turned up at the end of his row, which was look confused and slightly embarrassed.
 
 "Thank you," I said. "That's very kind. I'm fine."
 
@@ -1664,9 +1666,9 @@ Rita Rossweisse. In the game she'd been the maid with the scythe, the S-rank who
 
 "Then you've met Mr. Hoffmann." She seemed pleased by that. "I'll come by at four to see how your first day has gone. If you need me before then, ask anyone for Rita. They'll know."
 
-She went. She walked very quietly, for someone in heels. Klaus watched her go down the room over the top of his monitor and then looked at me with his eyebrows up.
+She went. She walked very quietly, for someone in heels. Klaus watched her go down the room over the top of his monitor and then looked at the four of us with his eyebrows up.
 
-"You have Rossweisse," he said.
+"We have Rossweisse," he said.
 
 "She seemed nice."
 
@@ -1676,15 +1678,15 @@ I sat down. It was the sensible explanation, and it was probably the true one. I
 
 ---
 
-She came at four, as she'd said, and every day after that, at four, and some days in between.
+She came at four, as she'd said, and every day after that, at four, to the whole team, and some days in between.
 
-She was perfectly helpful. My room in the staff building had heating that didn't work, and she had it fixed by the evening. My access card wouldn't open the door to Simulation, and she had it changed in ten minutes. She brought me a map of the site that showed which corridors I was allowed in, and at the bottom of it, in her own very neat handwriting, she'd added the opening hours of the canteens and the name of a café on the residential island that did good apple cake. She remembered how I took my coffee after one day. She asked about my work and listened to the answers and asked better questions than most engineers would have.
+She was perfectly helpful to all twelve of us. Sand's room had heating that didn't work, and she had it fixed by the evening. My access card wouldn't open the door to Simulation, and she had it changed in ten minutes. She brought the new ones a map of the site that showed which corridors we were allowed in, and at the bottom of it, in her own very neat handwriting, she'd added the opening hours of the canteens and the name of a café on the residential island that did good apple cake. She remembered how all twelve of us took our coffee after one day. She asked about our work and listened to the answers and asked better questions than most engineers would have.
 
 And everything I said to her, I assumed, went somewhere.
 
 She never pretended to be anything but what she was, which was the Overseer's maid, lent to the engineer who worked on her new charge's suit. I'd say something about the code, and she'd nod and smile and say, "How interesting," and I'd picture somebody upstairs reading those words before the end of the day. She very probably wrote nothing down at all. I said things to her very carefully anyway. She noticed, and seemed to find it charming, and I think it was the carefulness she found interesting, not anything I said.
 
-One afternoon in the second week of February, she came at four with a tray.
+Most days she poured for the whole table and moved on. One afternoon in the second week of February, when the others had gone down to the test floor and I'd stayed behind with a crash log, she came to my desk last with what was left on the tray.
 
 It had a pot of tea on it, and two cups, and two slices of apple cake from the café on the residential island on two small plates. Before she put it down she took a folded cloth out of her apron pocket and wiped the corner of my desk with it, twice, and looked at Klaus's stapler as if it had personally disappointed her. Then she set the tray down between my keyboard and the stapler, and poured, and handed me a cup, and stood.
 
@@ -1734,15 +1736,15 @@ Rita smiled.
 
 She went. I sat there with my cup of tea and found that my hand wasn't quite steady, and that I'd enjoyed every second of it, and that I didn't trust either of those things.
 
-In the third week she took me on a tour of the archives.
+In the third week she took some of the new secondees to see the archives.
 
-"Mr. Hoffmann says you read every plaque in every corridor," she said. "I thought you might like the old ones. I go down once a month to check the humidity, and it's dull on my own."
+"I go down once a month to check the humidity," she told the four of us, "and it's dull on my own. Mr. Hoffmann says some of you read every plaque in every corridor." Permafrost and the priest from the jet signed up, and Sand, and me.
 
-We were in the back of a transport at the time, an hour north over the sea and then the Alps, going down. The archive had never gone up into the sky with the rest of Schicksal. It was still where it had been for most of the organization's history, at the old headquarters in Kolosten, a small town outside Vienna, in a cathedral and a cloister on a hill above the town with snow on every roof and a staff of about thirty people to keep it. Rita walked ahead of me down a long stone corridor under the old cathedral with a ring of keys at her waist.
+We were in the back of a transport at the time, an hour north over the sea and then the Alps, going down. The archive had never gone up into the sky with the rest of Schicksal. It was still where it had been for most of the organization's history, at the old headquarters in Kolosten, a small town outside Vienna, in a cathedral and a cloister on a hill above the town with snow on every roof and a staff of about thirty people to keep it. Rita walked ahead of us down a long stone corridor under the old cathedral with a ring of keys at her waist.
 
 She stopped at a door and opened it with one of the keys.
 
-The archive was a long vaulted room under the old cathedral, very cold and very dry, with shelves going back into the dark and glass cases down the middle, and on the walls, between the shelves, portraits. They went back centuries. Men and women in armor, in robes, in uniforms, some of them so dark with age you could barely see the faces. Rita walked me down the room past them, telling me who each one was in her soft voice, a crusader, a bishop, a woman who'd founded the first Valkyrie school in 1702, and I listened, and nodded, and looked at the cases.
+The archive was a long vaulted room under the old cathedral, very cold and very dry, with shelves going back into the dark and glass cases down the middle, and on the walls, between the shelves, portraits. They went back centuries. Men and women in armor, in robes, in uniforms, some of them so dark with age you could barely see the faces. Rita walked us down the room past them, telling us who each one was in her soft voice, while the priest took notes and Sand tried to photograph things and was asked very kindly not to, a crusader, a bishop, a woman who'd founded the first Valkyrie school in 1702, and I listened, and nodded, and looked at the cases.
 
 Near the end of the room, there was a group of portraits hung together, under a plaque that said KASLANA.
 
@@ -1754,9 +1756,9 @@ It was a good frame, carved and gilded, the same as the others. There was nothin
 
 "Siegfried Kaslana," Rita said, beside me. "The last of them. He left Schicksal some years ago." She looked at the empty frame with her head a little on one side. "The Overseer had the portrait taken down. He said it seemed rude to keep him on the wall when he so obviously didn't want to be here."
 
-I didn't say anything. I was looking at Kallen.
+I didn't say anything. The others had drifted on to a case of medieval stigma fragments. I was looking at Kallen.
 
-I knew I was looking at her too long. I could feel the seconds going by. I knew that a new engineer from the Far East would look at a five-hundred-year-old portrait for two or three seconds and then look at the next one. I knew that the woman beside me had been sent to watch how long I looked at things. And I couldn't look away from her face, because I knew who'd commissioned this painting, and who'd stood in front of it in this cold room for five hundred years, and what he'd done to the world because she was dead, and I'd cried about her once in a bathroom at work in a life I'd already lost, and here she was.
+I knew I was looking at her too long. I could feel the seconds going by. I knew that a new engineer from the Far East would look at a five-hundred-year-old portrait for two or three seconds and then look at the next one. I knew that the woman beside me noticed how long people looked at things, because she noticed everything. And I couldn't look away from her face, because I knew who'd commissioned this painting, and who'd stood in front of it in this cold room for five hundred years, and what he'd done to the world because she was dead, and I'd cried about her once in a bathroom at work in a life I'd already lost, and here she was.
 
 "That portrait is Kallen Kaslana," Rita said softly. "You've been looking at her for some time." She turned the smile on me. "Is something wrong with her?"
 
@@ -1772,9 +1774,9 @@ I followed her. That night in my room in the staff building I didn't sleep at al
 
 Bianka found me in the fourth week.
 
-I'd been brought to HQ to work on the next generation of battlesuit firmware, and the next generation of battlesuits was being built around about six Valkyries who'd test it. Five of them were A-ranks in their twenties, calm professional women who came into the lab, did what they were asked, said "Thank you" and left. The sixth was a seventeen-year-old B-rank with strawberry-blonde hair who'd broken four of their suits in a month.
+I'd been brought to HQ to work on the next generation of battlesuit firmware, along with sixty other engineers in that building alone, and the next generation of battlesuits was being built around about six Valkyries who'd test it. Five of them were A-ranks in their twenties, calm professional women who came into the lab, did what they were asked, said "Thank you" and left. The sixth was a seventeen-year-old B-rank with strawberry-blonde hair who'd broken four of their suits in a month.
 
-"You," she said, coming into the lab one afternoon in a training suit with her hair tied up in a high ponytail. She pointed at me. "You're the one who writes the beasts."
+"Which one of you writes the beasts?" she said, coming into the lab one afternoon in a training suit with her hair tied up in a high ponytail. Klaus pointed at me without looking up. She came over and pointed at me too. "You."
 
 It had been two years. She'd grown a little taller, and the anger had gone somewhere further in, where it was harder to see. Her eyes were the same.
 
@@ -2020,7 +2022,7 @@ She didn't say anything else either. She stood there for a moment by my desk, a 
 
 Otto came into the simulation building at the end of April.
 
-I didn't know he was coming. Nobody did, except possibly Rita. I was in the control booth of Simulation Room Two at seven in the evening, watching Bianka run the hardest thing I'd ever built for her, and the door of the booth opened behind me and Klaus's voice outside it stopped in the middle of a word.
+I didn't know he was coming. Nobody did, except possibly Rita. I was in the control booth of Simulation Room Two at seven in the evening with Permafrost and a test technician, watching Bianka run the hardest thing I'd ever built for her, and the door of the booth opened behind me and Klaus's voice outside it stopped in the middle of a word.
 
 I turned round.
 
@@ -2036,13 +2038,13 @@ He opened the door of the simulation room and went in. I watched through the gla
 
 Then he came back out, and walked past the booth.
 
-He looked in through the open door as he passed. His eyes went over the control panel, and the screens, and Klaus against the wall, and me in my chair, and they rested on me for one second. Less than one. I didn't move. I didn't look away and I didn't look too long. I had practiced it walking past a plant.
+He looked in through the open door as he passed. His eyes went over the control panel, and the screens, and Klaus against the wall, and the three of us in our chairs, and rested on each of us for about a second. Less than one. I didn't move. I didn't look away and I didn't look too long. I had practiced it walking past a plant.
 
-"Good evening," he said. His voice was soft and pleasant.
+"Good evening," he said, to the booth in general. His voice was soft and pleasant.
 
-"Good evening," I said.
+"Good evening," we said, more or less together.
 
-He walked on. Rita followed him down the corridor. As she passed the door, she glanced in at me, and smiled.
+He walked on. Rita followed him down the corridor. As she passed the door, she glanced in at the booth, and smiled at all of us.
 
 Klaus came into the booth a minute later and sat down in the other chair and put his head in his hands.
 
@@ -2088,7 +2090,9 @@ I saw it from the plane before I saw anything else. While I'd been away, somethi
 
 I knew that ship. In the game it was the first thing the girls saw of Schicksal, coming down out of the smoke over Nagazora. Here it was tied to a tower at the end of my island like a ferry, with a crane loading crates into its belly and a man in overalls on its upper deck eating a sandwich.
 
-"Theresa's," Asami said, when she met me at the hangar. She saw where I was looking. "Came in from the yards in May. She calls it hers. HQ calls it theirs. Nobody's allowed to say it's here, so obviously everyone in Shiomi has seen it." She pushed a can of coffee into my chest. "You look like you've been somewhere fancy."
+I'd last seen it at HQ in its cradle on the industrial island, with sparks running along its flanks. One morning in May I'd stopped on the rim path and watched it come out of the dock for the first time, slow and enormous and very nearly silent, and turn east.
+
+"Theresa's," Asami said, when she met me at the hangar. She saw where I was looking. "Came in from HQ in May. She calls it hers. HQ calls it theirs. Nobody's allowed to say it's here, so obviously everyone in Shiomi has seen it." She pushed a can of coffee into my chest. "You look like you've been somewhere fancy."
 
 Everything else was the same. That was the thing I noticed next, walking from the hangar into the wind with the sea all around me and a line of Valkyries from the trial squad running along the seawall in the heat. The cafeteria still did curry on Tuesdays. Mori was still asleep on his cot. Yoon had left a cup of coffee from the blue machine on my console in the watch room, with one sugar in it, on the morning I came back, and it was cold, because she'd put it there the day before.
 

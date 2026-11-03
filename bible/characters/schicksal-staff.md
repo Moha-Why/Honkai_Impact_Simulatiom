@@ -75,8 +75,9 @@ Kaslana question with "There is one... He left."
 
 ## Klaus Hoffmann (engineer, HQ)
 
-**Role:** Eros's colleague in the Battlesuit Division during the 2013 HQ
-secondment.
+**Role:** team lead of the twelve-person simulation group in the HQ
+Battlesuit Division, Eros's boss during the 2013 secondment. Gives every
+newcomer a nickname by lunch on day one.
 
 **Age:** 34. German.
 
@@ -195,3 +196,40 @@ Valkyries.
 - **How she talks:** fast, loud, talks over everyone, heart broken weekly
   by men she never actually dated, until she finally notices Mao (winter
   2011 to 2012). "Took her two years," says Asami.
+
+## The 2013 HQ newcomers (simulation group, Chapter 2)
+
+Seconded to HQ in January 2013 with Eros. Background, with a line or two
+each.
+
+### "Permafrost" (Olga Vetrova)
+
+- **Age:** 31. Signal and sensor engineer from the Siberia branch.
+- **Appearance:** pale, short ash-blonde hair, a gray cardigan over
+  everything, always cold.
+- **Personality and voice:** quiet, observant, dry. Notices who stands up
+  when Rita walks in. Says one sentence where others say five.
+
+### "Kangaroo" (Liam Okafor)
+
+- **Age:** 24. Junior physics programmer from the Oceania branch (Perth).
+- **Appearance:** very tall, gangly, sunburned in January.
+- **Personality and voice:** eager, talkative, hates the nickname, stands
+  up whenever a Valkyrie enters the room.
+
+### "Sand" (Rafael Duarte)
+
+- **Age:** 38. Brazilian materials engineer seconded from the North Africa
+  labs.
+- **Appearance:** stocky, bald, laugh lines, a camera always round his
+  neck.
+- **Personality and voice:** cheerful, nosy, photographs everything and is
+  asked very kindly to stop.
+
+### The priest from the jet (Brother Anselm)
+
+- **Age:** about 28. A junior archivist-priest going to HQ's records office.
+- **Appearance:** thin, black cassock, a briefcase he never lets go of.
+- **Personality:** nervous and studious; reads the same page for three
+  hours on the flight, drops his papers in the wind on arrival, takes notes
+  through the whole archive visit.

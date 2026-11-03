@@ -26,7 +26,7 @@ story reaches them.
 | 2012 | Canon: the Emperor-class beast Ganesha appears in India; two A-ranks die. Bianka is the sole survivor of her first mission (Agra Fort). Eros is promoted to senior engineer and moves to a sea-view staff flat. |
 | 2013, January to July | Eros's secondment to Schicksal HQ (the floating island cluster above the Mediterranean; Rita also takes him to the archive at the old HQ in Kolosten, outside Vienna): Rita Rossweisse is his liaison; he writes Bianka's battlesuit firmware; Rita is newly assigned to Bianka. Rita turns 18 on March 1. |
 | 2013 | The four heroines turn 18. Mei is in her third year of high school in Nagazora. |
-| 2013, May | The Hyperion, the Far East Branch's flying battleship, arrives from the yards and moors at the technical center's north tower. Eros sees it when he returns from HQ in July. |
+| 2013, May | The Hyperion, the Far East Branch's flying battleship, leaves its dock on HQ's industrial island (Eros watches from the rim path) and moors at the technical center's north tower. Eros sees it when he returns from HQ in July. |
 | 2013, November 16 | Canon: Raiden Ryoma, CEO of ME Corp, is arrested for fraud, framed by Cocolia. Mei cuts herself off. Kiana enrolls at Chiba Academy afterward (in this story, mid-December, after her 18th birthday). Canon: she gets past Mei's guard, defends her from bullies and eats her (bad) first homemade lunches. |
 | 2014, mid-January | The System binds to Eros during a core surge as Honkai readings climb around Nagazora. Run 1 that night (Siberia, March 1999 to the Second Eruption). |
 | 2014, January 15–16 | Theresa visits the anomaly watch room and decides to send Himeko to Nagazora quietly. Runs 2 and 3. |
