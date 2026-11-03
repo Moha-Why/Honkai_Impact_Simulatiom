@@ -588,38 +588,60 @@ I told it, out loud, because I wanted to hear it in my own voice.
 
 "It's my route."
 
-The subway map hung in front of me with its padlocks and its pulsing white stations. Something new had appeared under the club node, a small white circle that hadn't been there before.
+The subway map hung in front of me with its padlocks and its pulsing white stations, and it had changed.
 
 ```
-Club: none / kendo club (member) / kendo club (manager)
+Life Path
+Loop 1.5
+
+Fixed
+November 16, 2013. Raiden Ryoma is arrested.
+December. Kiana Kaslana enrolls at Chiba Academy.
+February 2014. Chiba Academy.
+Throughout. You are in her class.
+
+Open
+Background: ME Corp family / scholarship student / Mr. Tanabe's nephew (new)
+Housing: company tower / apartment near the station / a room above Mr. Tanabe's garage (new)
+Club: none / kendo club (member) / kendo club (manager) (new)
+Start: September / October
+
+Locked
+???
 ```
 
-[You noticed they were short one,] said the System. [In October. You noticed and then you forgot about it, because you were busy being clever about her mother. I didn't forget.]
+Two of the question marks had opened while I was dying, and one I hadn't seen before had come up under the club.
+
+[You noticed they were short a manager,] said the System. [In October. You saw the sign on the hall door and forgot about it, because you were busy being clever about her mother. I didn't forget.]
+
+"And the nephew?"
+
+[You looked at the old man twice. Once when he smiled at her, and once when he shut the car door so it wouldn't slam.] It sounded fond. [I notice what you look at, Eros. Even when you don't.]
 
 "What else haven't you forgotten?"
 
-[Lots,] said the System happily. [Pick your life.]
+[Lots.]
 
----
+I stood in front of the map and did it properly this time, as I'd have gone through a config file at work, line by line.
 
-For the second file I didn't go near ME Corp at all.
+ME Corp family was a gun in a gray car. I went past it without stopping.
+
+The scholarship was nothing. A scholarship kid had no badge, no laptop, no father who left his access card in a bowl of keys. Nothing that could ever come up in an audit. It was clean, and it was a long way from her.
+
+The nephew was the interesting one. A nephew had no access either, nothing worth auditing, and he'd be right there at the bottom of the Raidens' lives every morning and every afternoon without being part of them. The quiet kid who sometimes helped his uncle polish the car. If anyone was going to see her when the gate closed and the girls weren't watching, it was the chauffeur, and whoever lived over his garage.
+
+The club I left alone. The manager's job was a good door, and I wanted it, and I didn't take it. I'd learned that in the first week of my first job on the island, debugging Mori's simulation code. You change one thing at a time. If you change four and the test passes, you don't know which one did it, and if it fails you don't know which one broke it.
+
+So I changed one thing. Who I was. Everything else I left as it had been in the file I'd burned.
 
 ```
-Background: ??? (Mr. Tanabe's nephew)
-Housing: ??? (a room above his garage)
+Background: Mr. Tanabe's nephew
+Housing: a room above Mr. Tanabe's garage
 Club: none
 Start: October
 ```
 
-The question marks had opened while I was standing there. I hadn't noticed the old man in the white gloves the first time round except as part of the furniture of the car, and the System had noticed him for me, and turned him into a door.
-
-[You liked him,] it said. [You don't know that yet. I can tell.]
-
-"I didn't look at him."
-
-[You looked at him twice. Once when he smiled at her, and once when he shut the car door so it wouldn't slam.]
-
-A nephew was a good start. A nephew had no badge and no laptop and no access, nothing that would ever come up in an audit, and he'd be right there at the bottom of the Raidens' lives every morning and every afternoon without being part of them. The quiet kid who sometimes helped his uncle polish the car. If anyone was going to see her when the gate closed and the girls weren't watching, it was the chauffeur.
+[Very methodical,] said the System. [I'd almost think you'd done this before.]
 
 [Loop 1.5,] said the System, and the white went out.
 
@@ -716,7 +738,41 @@ I hadn't forgotten. It was in the codex, a single paragraph. She'd been taken wh
 
 [You came on like someone who'd planned it,] said the System. [Which you had. Pick your life.]
 
----
+```
+Life Path
+Loop 2
+
+Open
+Background: ME Corp family / scholarship student / Mr. Tanabe's nephew
+Housing: company tower / apartment near the station / a room above Mr. Tanabe's garage
+Club: none / kendo club (member) / kendo club (manager)
+Start: September / October
+
+Locked
+???
+```
+
+Nothing new. The nephew was still there, lit up white like all the others, as if it had never happened.
+
+"Can I take the nephew again?"
+
+[You can take anything that's lit.]
+
+"Will she do the same thing?"
+
+[I couldn't say.]
+
+I looked at it for a long time. Then I took it off the table in my head. I didn't know what had bricked the garage, and a start you can't debug is worse than a worse start you can.
+
+That meant breaking my own rule. One variable at a time had told me exactly nothing in the last file, because I'd changed the right one and still lost. So this time I changed all of them, and I picked each one for what it would look like from her side of the desk.
+
+The scholarship, because a scholarship kid had nothing anyone wanted, and nothing anyone would have to explain.
+
+The apartment by the station, because it was twenty minutes from the house on the hill. A boy who lived twenty minutes away and turned up some of the time looked like luck. A boy over the garage looked like a plan.
+
+The club, because the manager sat on a bench at the side of the hall with a record book, and had a reason to be there that had nothing to do with her.
+
+And September, for the extra month.
 
 ```
 Background: scholarship student
@@ -725,9 +781,7 @@ Club: kendo club (manager)
 Start: September
 ```
 
-I took September this time, for the extra month. I took the scholarship because a scholarship kid had nothing anyone wanted, and nothing anyone would have to explain, and I took the club because the System had remembered that they were short a manager when I'd forgotten.
-
-And I came on slowly. I'd learned that much from a garage. The rule I'd written down in the white was don't use what you know on her, and under it now there was a second one, smaller, in my own handwriting. Don't be there every time the door opens. Be there some of the time, and make it look like luck.
+And I'd come on slowly. I'd learned that much from a garage. The rule I'd written down in the white was don't use what you know on her, and under it now there was a second one, smaller, in my own handwriting. Don't be there every time the door opens. Be there some of the time, and make it look like luck.
 
 [Loop 2,] said the System. [Be patient. You hate being patient.]
 
@@ -1073,12 +1127,28 @@ I got up. My legs worked. They were the eighteen-year-old legs again, the ones f
 The subway map came back up in front of me, and there was a new white circle on it, under housing.
 
 ```
-Housing: company tower / apartment near the station / the empty house next to the Raidens'
+Life Path
+Loop 2.5
+
+Open
+Background: ME Corp family / scholarship student / Mr. Tanabe's nephew
+Housing: company tower / apartment near the station / a room above Mr. Tanabe's garage / the empty house next to the Raidens' (new)
+Club: none / kendo club (member) / kendo club (manager)
+Start: September / October
+
+Locked
+???
 ```
 
 [She told you about the dawn,] said the System. [The dojo. You were so busy with your knife you didn't even notice it was a door.]
 
----
+I looked at the new circle for a long time. A room on the other side of a wall from her garden. Five in the morning, every morning, since she was six.
+
+It was the best door on the map, and I wasn't going to walk through it this time.
+
+The roof had taught me what Corruption cost if I made it myself. But something else had gone wrong in that file before the roof, in the middle of December, and I'd spent the last six weeks of it unable to touch the thing that had gone wrong, because she was sitting at Mei's elbow every lunchtime eating everything in reach. If I came back in and did it right, she'd walk in on the sixteenth and stand in the middle of it again.
+
+So the next file was about Kiana. It didn't need the club. A manager was tied to the hall four afternoons a week. It didn't need her mornings either, but the house was on the hill, ten minutes from the park below the station where a broke girl with no address would be sleeping in December, and a long way from anyone who'd notice what I did there.
 
 ```
 Background: scholarship student
@@ -1086,6 +1156,14 @@ Housing: the empty house next to the Raidens'
 Club: none
 Start: September
 ```
+
+[You're not going to go over the wall,] said the System. [Are you.]
+
+"Not this time."
+
+[What a waste of a wall.]
+
+---
 
 I went in Worn, and the first thing I found out was what that meant from the inside.
 
@@ -1224,7 +1302,31 @@ It had climbed two steps in a week, from nothing but pushing on one girl.
 
 "I swore I'd never use it on Mei," I said. "I never said anything about Kiana."
 
----
+```
+Life Path
+Loop 3
+
+Open
+Background: ME Corp family / scholarship student / Mr. Tanabe's nephew
+Housing: company tower / apartment near the station / a room above Mr. Tanabe's garage / the empty house next to the Raidens'
+Club: none / kendo club (member) / kendo club (manager)
+Start: September / October
+
+Locked
+???
+```
+
+[Nothing new,] said the System. [You didn't learn anything about her that time. Only about the world.]
+
+"That's what it was for."
+
+I went down the lines faster than I had before. I noticed that, and noted it, and went on.
+
+The house, this time, for the wall and what was on the other side of it. The scholarship again, because it was clean. September again, for the time.
+
+The club was the only one I had to think about. The manager's bench had worked in the second file. It had got me Open by November, and it had given me a reason to be near her that she could see. But the dojo was a door into her mornings, and the hall was a door into her afternoons, and a boy who came through both of them every day was a boy who'd planned it. I'd learned that one in a garage.
+
+I only had room for one door. I took the mornings.
 
 ```
 Background: scholarship student
@@ -1232,6 +1334,8 @@ Housing: the empty house next to the Raidens'
 Club: none
 Start: September
 ```
+
+---
 
 The same room above the same wall, and the old woman in the back rooms, and the crack of the sword on the post at five in the morning.
 
@@ -1528,7 +1632,35 @@ I couldn't remember being afraid on the dojo floor. I knew I had been. It was wr
 
 "Pick my life," I said.
 
----
+```
+Life Path
+Loop 4
+
+Fixed
+November 16, 2013. Raiden Ryoma is arrested.
+December. Kiana Kaslana enrolls at Chiba Academy.
+February 2014. Chiba Academy.
+Throughout. You are in her class.
+
+Open
+Background: ME Corp family / scholarship student / Mr. Tanabe's nephew
+Housing: company tower / apartment near the station / a room above Mr. Tanabe's garage / the empty house next to the Raidens'
+Club: none / kendo club (member) / kendo club (manager)
+Start: September / October
+
+Locked
+???
+```
+
+I read it once.
+
+The family was a gray car. The nephew was a garage where something I couldn't account for had happened. The tower and the station were too far. The house was on the other side of the wall from her mornings. The scholarship was clean.
+
+The club had been the only hard one in the last file, because of the rule about doors. The rule had been right, for what I'd been doing then. I hadn't been doing this. Trust had to reach the top before anything else moved, and the dojo had only got me to Confides in three months. The manager's bench was the other half of her day. I'd come through both doors, and I'd do it so slowly that by the time she noticed there were two of them, she'd be glad.
+
+September, for the time.
+
+It took me about as long as reading it.
 
 ```
 Background: scholarship student
@@ -1536,6 +1668,14 @@ Housing: the empty house next to the Raidens'
 Club: kendo club (manager)
 Start: September
 ```
+
+The last circle on the map was still a question mark in a circle, gray, as it had been since the first screen.
+
+"What's that one?"
+
+[That one's for people who've been relied on,] said the System. [You never have been. Not once, in any of them.] A pause. [Maybe next time.]
+
+---
 
 ```
 [Status]
