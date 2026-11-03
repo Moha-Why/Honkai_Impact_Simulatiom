@@ -863,10 +863,27 @@ A chauffeur's nephew had no badge and no laptop, nothing anyone would ever audit
 [1997. Your uncle comes to dinner on Sundays in his good suit. He calls you "boy" from the day you're born and never once calls you anything else. He brings you a toy car every time, always black, always a limousine.]
 [1999. You are four. Your father lets you sit in the driver's seat of the number 14 at the depot and turn the big wheel. You decide you're going to drive buses.]
 [2000. Your mother gets a job at the dry cleaner's downstairs. The flat smells of steam and starch. You sleep through anything.]
+[2000, December 30. Your father has the last late run of the year on the number 14, along the coast road and back. He asks if you want to ride it with him and ring the bell at every stop.]
+Ride it / Stay home with your mother / Ask your uncle to take you out in the long car instead
 ```
 
+"Ride it," I said.
+
+A bus on the coast road at night, in winter, with a five-year-old in the front seat. If anything in that life was going to go wrong early, I wanted to see what the System did when it did.
+
 ```
-[2001, January. The coast road, in the rain, at night. A truck crosses the center line. Your parents don't come home.]
+[2000, December 30. You ride the last 14 of the year. You ring the bell at every stop, forty-one of them, and your father lets you. Nobody gets on after nine. At the terminus he buys you a can of hot corn soup from the machine and you drink it in the driver's seat with the engine running.]
+[2000, December 30. Nothing happens. You get home at midnight and your mother is asleep on the sofa with the television on.]
+[2001, January. The coast road, in the rain, at night. Your parents have gone to a New Year party at the depot and left you with the woman next door. A truck crosses the center line. Your parents don't come home.]
+```
+
+I waited for the tape to stop. It didn't.
+
+"There wasn't a fork."
+
+[Not for that one,] said the System. [You had your night on the coast road. I gave it to you on the thirtieth.]
+
+```
 [2001, January. You are five. At the funeral, three people want you.]
 Your uncle, in the room over the Raidens' garage / Your father's mother, in Fukuoka / The city, until someone decides
 ```
@@ -883,7 +900,29 @@ I didn't have to think. It was the door I'd come for.
 [2001. She doesn't speak to you for a month. Then one morning she leans forward between the seats and asks if it's true that your father drove a bus. You say yes. She asks if he let you turn the wheel. You say yes. She sits back and doesn't say anything else, but the next morning she leans forward again.]
 [2002. You are six. You and Raiden Mei are friends. Your uncle calls her "young lady" and you call her Mei, which nobody else in the house does, and nobody tells you to stop.]
 [2002. Once a week a man in a white mask with a cartoon face comes to the house dojo and teaches her the sword. You're not allowed in. You watch through the gap in the hedge. Afterward she shows you everything he taught her, with sticks, behind the garage, and gets cross when you can't do it.]
-[2003. You learn every cut she knows, badly. She learns to ride your bicycle, badly. Your uncle pretends not to see either of you.]
+[2002, November. You're seven. On Friday nights your uncle polishes the master's shoes at the kitchen table over the garage, and you hold the tin. On Saturday, through the gap in the hedge, you watch the man in the mask take his shoes off at the dojo door. There's a scuff on the left heel. You held the tin while your uncle tried to get it out.]
+Tell her / Tell your uncle / Keep it to yourself
+```
+
+"Keep it."
+
+A secret about her father was worth more held than spent. I wanted to see how long a seven-year-old could carry one.
+
+```
+[2002 to 2013. You keep it. You never say it out loud, not to her, not to your uncle, not to the master. On Saturdays you watch him through the hedge and think, That's Mr. Raiden, and it's the best thing you know.]
+[2003, May. You're eight. She's learned to ride your bicycle, badly, on the gravel behind the garage. Now she wants to ride it down the hill road to the gate, which is steep, and which you've never ridden down yourself.]
+Let her / Say no / Go down first and show her
+```
+
+"Let her."
+
+I wanted to see what she did when something of mine cost her.
+
+```
+[2003, May. She goes down the hill road on your bicycle with her hair flying and doesn't use the brakes, because she doesn't know where they are. At the bend she comes off into the hedge and breaks her wrist.]
+[2003, May. In the hospital her father asks her whose bicycle it was. She says it was hers. She says she found it by the gate and took it without asking anyone. Her arm is in a cast to the elbow, and she looks straight at him while she says it. Your uncle keeps his job.]
+[2003, May. In the car the next week she leans forward between the seats and says, "You'd have got your uncle sacked. You're very stupid." Then she holds out the cast for you to sign.]
+[2003. When the cast comes off you learn every cut she knows, badly, with sticks behind the garage. Your uncle pretends not to see either of you.]
 ```
 
 The boy laughed a lot, it turned out. I'd never laughed that much at his age. He had a dead father's bus cap on a shelf and a friend in the back of a limousine, and he laughed at almost everything she said.
@@ -907,6 +946,18 @@ I knew what happened on that road in June 2004. It was a paragraph in a codex, i
 [2004, June. Your uncle comes home at midnight with stitches above his eye and his white gloves black with something. He sits on the end of your bed for a long time without saying anything. Then he says, "It's good you were sick, boy." His voice isn't right.]
 [2004, August. She comes back. You don't see her. They take her straight to the ME Corp institution on the other side of the city.]
 [2004 to 2007. You visit with your uncle on Sundays. The first two months she won't look at anyone. In the third month she looks at you. In the fourth month she asks if you've still got her bicycle. You have.]
+[2005, February. A doctor at the institution, Dr. Sakai, stops you in the corridor after a visit. She asks if you'd come into a little room with toys in it, on Sundays, and tell her what the girl says to you. It would help the girl, she says.]
+Agree / Refuse / Tell the girl
+```
+
+"Tell the girl."
+
+A grown-up who asked one child to watch another was a grown-up the boy could sell to her.
+
+```
+[2005, February. You tell her. She's quiet for a long time. Then she says, "Tell her yes."]
+[2005 to 2007. Every Sunday, in the little room with the toys, you tell Dr. Sakai what the girl dreamed that week. The girl makes the dreams up in the car park before you go in. A lighthouse that walks. A cat with her father's voice. A sea made of rice. Dr. Sakai writes them all down.]
+[2005, March. On the way out, after the lighthouse, the girl laughs in the corridor, once, very loudly, and puts her hand over her mouth. It's the first time since the van.]
 [2007, March. She comes home. You ride in the front of the car again. She rides in the back. Some mornings she leans forward between the seats, and some mornings she doesn't.]
 ```
 
@@ -933,6 +984,27 @@ If her father knew, he'd shore the seal up. The thing in her would sleep longer,
 [2008, December. She finds out. Her father told her who'd come to him, because he thought it would comfort her to know someone was watching over her.]
 [2008, December. She meets you behind the garage. She doesn't cry. "You promised," she says. That's all. Then she goes back to the house.]
 [2009 to 2013. You ride in the front of the car every morning. She rides in the back, behind your uncle, where she can't see you in the mirror. She says good morning to him. She doesn't say anything to you. Five years.]
+[2009, June. You're fourteen. A boy from her school stops you at the gate where you wait for the car. Kuroda Shun, from a construction family, with a watch too big for his wrist. He offers you two thousand yen to tell him what she likes.]
+Take the money and tell him the truth / Take the money and lie / Walk away
+```
+
+"Lie."
+
+Anything that made a fool of a boy in front of her made the boy in the front seat look better beside him, and I wasn't going to find a cheaper fool.
+
+```
+[2009, June. You take the money. You tell him she likes boys who are brave about it, who say it in front of everyone so she knows they mean it. Your face is very serious. He thanks you and gives you another five hundred.]
+[2010, March. Mr. Raiden calls you up to the study. He says there's a place for you at Chiba Academy from April, in the young lady's year, with the fees paid. "For October," he says. "I haven't forgotten."]
+Accept / Refuse / Ask him to give the money to your uncle instead
+```
+
+"Accept."
+
+I'd need a desk in her class at eighteen, and from a room over a garage there was no other way to get one.
+
+```
+[2010, April. You start at Chiba Academy. Within a week the other students know who's paying, and nobody's sure why. They call you the master's boy. She hears them. She doesn't correct them.]
+[2013, March. Kuroda Shun confesses to her in the courtyard, in front of all his friends, absolutely sure of a yes. "I'm sorry. No." She's looking across the courtyard at you while she says it. Kuroda has told half the school whose idea it was.]
 [2013, April 13.]
 ```
 
@@ -940,7 +1012,7 @@ If her father knew, he'd shore the seal up. The thing in her would sleep longer,
 
 I woke up in the room over the garage at the bottom of a boy who'd been ashamed of himself for five years.
 
-It came up with me all at once, as it had in Malmö, and this time it had a taste. Her hand with the burst bulb in it. A man's gray face in a study. "You promised." Five years of mornings in the front seat, watching her not look at me in the mirror.
+It came up with me all at once, as it had in Malmö, and this time it had a taste. Her hand with the burst bulb in it. Her arm in a cast, held out across the seat for me to sign. A man's gray face in a study. "You promised." Five years of mornings in the front seat, watching her not look at me in the mirror.
 
 I lay on the worn tatami and went through it as I'd go through anything. It was a fork with a cost five years out. I'd picked it in the white for a reason that had been good, and the boy had paid it, and now I'd woken up in what he'd paid for.
 
@@ -976,6 +1048,16 @@ On the last day of October, in the car, she spoke to me for the first time in fi
 "Yes."
 
 "Good."
+
+I had one card left that the boy had never spent. He'd been holding it since he was seven.
+
+"I know who the man in the mask was," I said. "Mr. HOMU. I've known since I was seven, from his shoes. My uncle polished them on Friday nights, and I held the tin." She didn't move. "I never told anyone. Not you. Not him. Eleven years."
+
+She didn't say anything until we were halfway down the hill. Then she moved across the seat, to where she could see me in the mirror, for the first time in five years. Her face was perfectly still. Only her eyes had changed, as if something very old in her had been moved an inch and set down again.
+
+"You kept his," she said. "I lied to him for you with my arm in a cast. You couldn't keep mine for a night."
+
+She moved back behind my uncle, and didn't say anything else.
 
 ```
 Raiden Mei
@@ -1090,17 +1172,30 @@ If they stayed, it was February 2000 in a village ninety kilometers from the res
 [2000, February 16. You are five. In the afternoon the sky to the north goes white, all of it, from one side to the other, and stays white, and doesn't stop.]
 [2000, February 16. Your mother takes you down into the root cellar under the schoolroom with the other children and tells you all to count to a thousand with your eyes shut. You get to six hundred and twelve. Above you something goes past the village that sounds like the whole world being torn in half.]
 [2000, February 17. In the morning it's quiet. Your mother doesn't come back down. You push the cellar door open with your shoulder, which takes a long time. There's nobody in the village. There's nothing in the village that you can look at.]
-[2000, February 18. You walk south on the road because it's the only road. You walk for most of a day. A truck finds you. There are other children in the back, eleven of them, from other villages, under blankets.]
+[2000, February 18. You walk south on the road because it's the only road. At noon a woman comes up the road toward you, walking north, alone, toward the white. She has long white hair and a yellow and black cape, and there's blood on the cape that isn't hers. She stops.]
+[2000, February 18. "Are you on your own?" she says, in Russian, with an accent.]
+Say yes / Say no / Ask her where she's going
+```
+
+The cape was Schicksal's. I'd seen it on a hundred loading screens. Cecilia Schariac was walking north into the Second Eruption on her own, toward the thing that was going to kill her, and in the game I'd only ever met her inside somebody else's memory.
+
+She'd also, that same week, saved a captain in a Russian army coat from the beasts on a road like this one.
+
+"Ask her where she's going."
+
+```
+[2000, February 18. "To make a world my daughter can grow up in," she says. She crouches in the snow and looks at you. She gives you a sweet from a packet in her pocket, the soft kind they make for babies, and closes your hand on it. "Keep walking south. There'll be a truck. Tell them Cecilia sent you." Then she stands up and walks on north into the white, and doesn't look back.]
+[2000, February 18. You walk for most of the day. A truck finds you. There are other children in the back, eleven of them, from other villages, under blankets. "Who sent you?" says the driver. "Cecilia," you say, and he goes very quiet and lifts you in himself.]
 ```
 
 ```
-[2000, February 18. A woman in a Russian army coat climbs into the back of the truck and looks at all of you. She takes off her gloves and holds them out to you, because you're the one without any.]
+[2000, February 18. A woman in a Russian army coat climbs into the back of the truck and looks at all of you, and then at you for longer, because the driver has told her what you said. She takes off her gloves and holds them out to you, because you're the one without any.]
 Take the gloves / Give them to the girl beside you, who's younger / Don't move
 ```
 
 I knew who she was. A captain who'd refused to keep quiet about a colonel selling guns, and had come out of the ruins of a jail with a dead man's wife and a pistol, and had been saved by a woman with white hair. She was going to open an orphanage for children like these. She was going to love them, and use them.
 
-If I wanted to be the one she chose, I had to be the one she noticed.
+She'd noticed me already. If I wanted to be the one she chose, I had to give her something to keep noticing.
 
 "Give them to the girl."
 
@@ -1110,10 +1205,71 @@ If I wanted to be the one she chose, I had to be the one she noticed.
 
 ```
 [2000, February 18. You give the gloves to the girl beside you, who is three and has stopped crying because she doesn't have any crying left. The woman in the army coat watches you do it. She doesn't say anything. She takes her own scarf off and wraps it round your hands.]
-[2000, April. The woman's name is Cocolia. She opens a house in the old district of Krasnoyarsk for the children nobody has come for. You're the fourth one she takes in. She asks your name, and writes it on a card, and pins the card above your bed.]
+[2000, April. The woman's name is Cocolia. She opens a house in the old district of Krasnoyarsk for the children nobody has come for. You're the fourth one she takes in. She asks your name, and writes it on a card, and pins the card above your bed. When nobody else is listening she calls you Cecilia's boy.]
+[2001, March. A photographer from a Swedish newspaper comes to the house for a story about the children of the Siberian city. Matushka stands at the gate in her greatcoat for the picture. She needs two children to hold her hands.]
+Hold her hand / Hide in the boiler room / Push the girl with the gloves forward
+```
+
+I'd seen this picture. Page nine of a scrapbook in Malmö, in another file, with a distance written underneath in pencil.
+
+"Hold her hand."
+
+```
+[2001, March. You hold her left hand. The girl with the gloves holds her right. The photographer says something in Swedish and everyone laughs except you.]
+[2001, March. Two thousand nine hundred kilometers away, in another file, a boy with a ball of red wool cuts you out of Sydsvenskan and glues you onto page nine.]
+```
+
+[I like that one,] said the System.
+
+```
 [2001 to 2005. The house fills up. Thirty children, then fifty. You call her matushka, like the others. She's strict and fair and she knows every one of your names and birthdays. On your birthday she makes a cake with too much sugar and sits with you while you eat it.]
+[2003, October. Two men from Anti-Entropy come to the house with a case of needles and a machine that hums. Every child gets a needle in the arm and a number. Matushka says it's nothing. The older children say the ones with good numbers get sent away.]
+Go when they call you / Hide in the boiler room / Ask matushka what the numbers are for
+```
+
+"Go."
+
+A good number would make him worth something to her.
+
+```
+[2003, October. You go. The machine hums over your blood for a long time. One of the men reads the number, and then looks at you, and says something to the other one, and they both look at you.]
+[Honkai Resistance: Low D. In a boy.]
+[2003, October. That night matushka takes the men's papers into her office and shuts the door. In the morning the men leave without you. Nobody tells you your number.]
+[2005, January. Matushka is in Moscow for three weeks. The older boys pick the lock on her office to look for the Christmas money.]
+Go in with them / Stop them / Keep watch at the end of the corridor
+```
+
+"Go in." I wanted her files.
+
+```
+[2005, January. There's no money. There's a filing cabinet with every child's name in it. In yours, on the page from the 2003 test, somebody has crossed out a letter and written F over it in matushka's handwriting.]
+[2005, February. When she comes back she knows at once. She stands at the end of the dinner table and asks who was in her office. The older boys look at their plates. You say you were.]
+[2005, February. She looks at you for a long time. Then she says, "Then you know why," and takes you off the washing-up for a month, and nobody understands it.]
+```
+
+"I didn't tell him to own up," I said.
+
+[No,] said the System. [He doesn't lie to her. Hadn't you noticed?]
+
+```
 [2006. You're eleven. You fix the house's boiler when the man from the city can't. Matushka watches you do it, and that night she gives you a book about engines, in English, and tells you to learn English.]
 [2008. You're thirteen, and taller than her. She stands you against the kitchen doorframe and marks it, and says, "Now you'll have to look after me," and laughs.]
+[2009, March. You're fourteen. The girl you gave the gloves to is twelve now, and she's been hiding bread under her mattress. She tells you she's going to run away in the spring to find her family. She tells you because you're the one she trusts.]
+Tell matushka / Help her pack / Say nothing
+```
+
+"Tell matushka."
+
+Her right hand reported. I wanted him to be her right hand.
+
+```
+[2009, March. You tell matushka. She listens to all of it with her hands folded on the desk. She doesn't punish anyone.]
+[2009, June. Matushka finds the girl's aunt in Irkutsk, through people who owe her things, and the girl goes to live there. On the morning she leaves she puts the gloves from the truck on your pillow and doesn't say goodbye.]
+```
+
+[She'd have frozen in a ditch by April,] said the System. [You saved her life. How annoying for you.]
+
+```
 [2010. A girl called Seele arrives, soft and shy and always reading. She follows you around for a month. You help her with mathematics. She helps you with nothing at all and you don't mind.]
 ```
 
@@ -1131,6 +1287,18 @@ A sister at the end of it might be very useful.
 ```
 [2012, January. You sit with her. She doesn't speak. You put a handheld console on the table between you with a game on it. After ten minutes she picks it up. After twenty she has beaten your best score. "Subject Eros is bad at this," she says, in English. It's the first thing she says to anyone in the house.]
 [2012. Bronya beats you at every game in the building. You stop trying to win. She notices and is offended. You start trying again.]
+[2012, August. Matushka needs one of the older children for an experiment in the autumn. Seele has said yes, because she says yes to everything matushka asks. The night before it's decided she comes to your door in her nightdress with her book held against her chest. She's shaking. "Would you go instead?" she says. "You're braver than me."]
+Go instead / Let her go / Ask matushka if you can go with her
+```
+
+I didn't have to think about it. Seele Vollerei went into the Sea of Quanta in the autumn of 2012, and the woman downstairs spent the next year and a half tearing a hole in Nagazora to get her back. That grief was the engine of the whole February, and I wasn't taking it out of the car.
+
+"Let her go."
+
+[She asked so nicely,] said the System.
+
+```
+[2012, August. You tell her you can't. She nods as if she'd expected it. She gives you her book, with the corner turned down at the page she's on. "Keep my place," she says.]
 [2012, autumn. Seele goes away with matushka for one of matushka's experiments and doesn't come back. Bronya goes very quiet. She sits in Seele's chair at dinner and won't move. You sit next to her every night.]
 [2013, April 13.]
 ```
@@ -1139,7 +1307,7 @@ A sister at the end of it might be very useful.
 
 I woke up in a narrow bed in a dormitory in Krasnoyarsk with snow on the window and eighteen years of a boy in me, and the first thing I felt, before anything else, was that I loved the woman downstairs in the kitchen.
 
-He did. The boy had loved her since a truck in February 2000, since a scarf wrapped round his hands. She'd marked him on a doorframe. She'd made him cakes with too much sugar. And the boy had loved the small gray-haired girl at the end of the table, too, as you love a sister who beats you at everything and needs you anyway, and now I had all of it, lived, and I lay in the dark and looked at it.
+He did. The boy had loved her since a truck in February 2000, since a scarf wrapped round his hands. She'd marked him on a doorframe. She'd made him cakes with too much sugar. And the boy had loved the small gray-haired girl at the end of the table, too, as you love a sister who beats you at everything and needs you anyway. There was a book on the shelf by the bed with its corner turned down, and a pair of army gloves in the drawer under it. Now I had all of it, lived, and I lay in the dark and looked at it.
 
 Then I put it where it belonged, with everything else that was going to be useful.
 
@@ -1201,6 +1369,8 @@ She was sitting by the window in her green uniform with the cape over the back o
 "Eros," she said, and put the spoon down and held out both hands.
 
 I went to her. It was what the boy would have done. She took my face in her hands and looked at it, smiling, as a mother looks at a child she hasn't seen in months, and I let her, with my face perfect, and she kissed me on the forehead.
+
+"Cecilia's boy," she said, very quietly, as she always had when nobody else could hear.
 
 "Sit," she said. "Eat something. You're too thin. They don't feed you in this country."
 
@@ -1314,8 +1484,32 @@ So I went back to the plainest life on the map. A children's home by the old por
 ```
 [1995, May. You are found at four in the morning on the step of the Sakura-no-Ie children's home, down by the old port, in a cardboard box that once held mandarins. There's no note. The night porter names you after a character in the film he was watching on the little television in his booth, and the director, Mrs. Hōjō, changes it the next morning to the only name on the hospital band round your wrist, which is Eros.]
 [1997. Twenty-two children, two bathrooms, a garden full of gulls. You learn to stand in queues. You learn to eat fast.]
+[1997, October. You're two. A couple from the hill come to the home on a Sunday to meet the little ones. The husband sits on the floor with you for an hour and makes you a paper boat. At the end his wife asks Mrs. Hōjō about you.]
+Go to them when they hold out their arms / Cry / Hide under the long table
+```
+
+"Under the table."
+
+A boy with a family on the hill was a name on somebody's list. I wanted him on nobody's.
+
+```
+[1997, October. You hide under the long table and won't come out, even for the boat. They come back in November, and again in the spring. Each time you go under the table. In the spring they stop coming. Mrs. Hōjō writes "shy with families" in your file. The paper boat stays on the common room windowsill until somebody sits on it.]
+[1997. Their name was Okada.]
 [2001. You start school with the other home children, in a line, in secondhand uniforms. The teacher reads the register and stops at your name and says, "Eros? Is that a mistake?" and the class laughs. You don't.]
 [2003. You're eight. You read the whole of the school library's mathematics shelf. The librarian orders you more from the city. Mrs. Hōjō puts the receipt on her office wall.]
+[2003, November. The ME Corp foundation sends a man round the city's homes to interview clever children for a boarding program in Tokyo. He comes on his own, in a plain dark suit, with a very long ponytail tucked down the back of his collar and very tired eyes. He gives you a page of problems and sits across the table while you do them.]
+Do your best / Get them wrong on purpose / Ask him who he is
+```
+
+There was only one man in Nagazora with that much hair and that little sleep. Raiden Ryoma, in a borrowed suit, doing his own charity work.
+
+"Wrong on purpose."
+
+Tokyo was the wrong city. I wanted the boy in this one when the scholarship came round.
+
+```
+[2003, November. You get eleven of the twelve wrong, carefully, each in a different way. He reads the page for a long time.]
+[2003, November. "You did that on purpose," he says. "My daughter does that at kendo when she's bored." He folds the page into his jacket. He doesn't take you to Tokyo. He doesn't take anyone that year.]
 [2004. A girl from a rich family on the hill is taken by bad men in June. It's on the television in the common room every night for a week. Then it isn't. You don't know her.]
 ```
 
@@ -1333,12 +1527,46 @@ Tell Mrs. Hōjō / Deal with him yourself / Leave it
 ```
 [2006, November. You tell Mrs. Hōjō. Daichi is moved to another home in Kobe. The little ones get their dinners. Daichi's friends don't speak to you for a year. Mrs. Hōjō writes "a responsible boy" in your file, and you read it upside down on her desk.]
 [2008 to 2011. Middle school, then high school, on the city's money. You come top of every exam you sit. You work Saturdays at the noodle stall by the station, and the old man who runs it gives you the end of the pot.]
-[2012, December. The ME Corp foundation offers a scholarship to Chiba Academy, the school on the hill, for one student from the city's homes. Third year only. You sit the exam.]
-[2013, March. You pass. Mrs. Hōjō cries. You don't.]
+[2009, February. You're thirteen. A boy of six called Haru waits at the gate every afternoon for his mother, who said she'd come back in the summer. The staff say she isn't coming back. He asks you, because you know things, whether she is.]
+Tell him the truth / Tell him she's coming / Tell him to ask Mrs. Hōjō
+```
+
+"The truth."
+
+I wanted to see what the truth did to someone when it came early, from the right person.
+
+```
+[2009, February. You tell him she isn't coming, and how you know. He stands at the gate a while longer and then goes in.]
+[2009, March. He stops waiting at the gate. In April a family from Kobe meets him and likes him, and in the summer he goes with them. He never speaks to you again, not once, not even to say goodbye.]
+[2009, September. Daichi is back. He's sixteen, working on the fish boats at the port, too big for his jacket. On a Saturday he comes to the noodle stall and sits at the counter and looks at you.]
+Say sorry / Serve him and say nothing / Tell the old man he's a thief
+```
+
+"Say nothing."
+
+Boys who apologize get forgiven, and a boy who's been forgiven owes something. I didn't want him owing anybody.
+
+```
+[2009, September. You serve him and say nothing. He eats, pays and goes. He comes back the next Saturday, and the next.]
+[2012, December. The ME Corp foundation offers a scholarship to Chiba Academy, the school on the hill, for one student from the city's homes. Third year only. It's the first year there's been one. The letter is signed by Raiden Ryoma. You sit the exam.]
+[2012, December. In the exam hall the boy at the next desk, from the home across the river, dropped his pencil case down the stairs coming in. He has nothing to write with. You have two pencils.]
+Lend him one / Keep them both / Give him both and ask the front for a pen
+```
+
+"Keep them."
+
+There was one scholarship.
+
+```
+[2012, December. You keep them both. Eleven minutes later the invigilator notices and gives him a pencil.]
+[2013, March. You pass. The boy from across the river comes second, by four points. Mrs. Hōjō cries. You don't.]
+[2013, March. On your last Saturday at the stall the old man gives you the end of the pot and tells you Daichi has paid for it every week since he came back. Daichi asked him not to say. He's saying it now because you're leaving.]
 [2013, April 13.]
 ```
 
 I woke at the bottom of a boy who'd been found in a mandarin box, and there was much less of him to take on than there had been of the others. A long table. A line of secondhand uniforms. A receipt on an office wall. He'd been careful, and quiet, and alone, and good at sums. He'd been, I realized, lying on a narrow bed in a room with three other boys snoring in it, a great deal like me.
+
+[You made him that way,] said the System. [Fork by fork. I watched you do it.]
 
 ```
 [2013. Where do you live, and what do you do after school?]
@@ -1408,6 +1636,8 @@ Trust: Polite
 
 It took me the rest of October to get Polite to Open, and I did it as you'd tune a loop, by changing one small thing at a time and watching. I never once said anything I couldn't have learned from the bench. I let her catch me practicing her footwork badly in the corridor after school, and let her correct it. When I was tired I said I was tired. When she asked where I came from I told her the truth, which was a children's home down by the old port and the scholarship, and she listened to it more carefully than she'd listened to anything I'd said before.
 
+"My father set that scholarship up," she said. "Last winter. He never told me why."
+
 "You don't have anyone," she said.
 
 "I've got a lot of people. They just aren't related to me."
@@ -1468,7 +1698,7 @@ That was the bandage. On Tuesday I started with the knife.
 
 ---
 
-I knew every person who was going to leave her, and when, and I'd decided in the white that they were going to leave anyway, so it didn't matter who told her first. And I was very good at it.
+I knew every person who was going to leave her, and when, and I'd decided in the white that they were going to leave anyway, so it didn't matter who told her first. And I was very good at it. The boy had been good at it since a winter afternoon at the gate of the home, with a boy called Haru.
 
 I told her the truth about her friends before she was ready to see it. She was sitting on the steps outside the hall after practice on the Wednesday, the first one after the arrest, with her bag on her knees, waiting for a car that was still coming then, and I sat down a step below her and said, gently, the thing I'd been saving.
 
@@ -1693,7 +1923,7 @@ I got up. My legs worked. They were the eighteen-year-old legs again, the ones f
 The tape went back to the beginning, and this time I let it run.
 
 ```
-[1995 to 2013, April. The same as the fourth file. The mandarin box, the long table, the receipt on the wall, Daichi, the noodle stall, the exam.]
+[1995 to 2013, April. The same as the fourth file. The mandarin box, the table you hid under, the receipt on the wall, the man in the plain suit, Daichi, Haru at the gate, the noodle stall, the pencils, the exam.]
 [2013, April 13.]
 [2013. Where do you live, and what do you do after school?]
 The apartment by the station / A room in the empty house next to the Raidens' (new) / A room at the home, until they need the bed
@@ -1741,6 +1971,7 @@ I didn't go over. Not in this file. I'd decided before I came in that this one w
 
 ```
 [2013, September. You lodge with Mrs. Okada, who is eighty-one and calls you "the student" for three months.]
+[2013, December. One morning on the stairs she calls you by your name. "You hid under the table," she says. "My husband made you a boat."]
 [2013, October. You go to school. You don't go near Raiden Mei. You sit at your desk by the window and learn the shape of the class.]
 [2013, November 16. Raiden Ryoma is arrested. You hear the cars from your window.]
 ```
@@ -1895,9 +2126,39 @@ And if a boy who'd learned the sword in the house dojo was in the car on that Tu
 [1995, May. You are born in the staff cottage behind the Raiden house, on the hill, in the room your mother has lived in for eleven years. Your mother, Mori Haruko, is the Raidens' housekeeper. She went into labor while ironing the master's shirts and finished the shirt first. Your father is not mentioned, then or ever.]
 [1995, April. Five weeks before you, in the big house, the master's wife had a daughter. Your mother says the two of you were the only babies on the hill that year, and that you shared a pram in the garden on fine days because it was easier than walking two.]
 [1996. Raiden Mei, aged one, pulls your hair in the pram. You pull hers. Both mothers are called. The mistress laughs until she has to sit down. Your mother doesn't.]
-[1997. The mistress is ill all spring. In the summer she dies, in the big house, with the windows open. Your mother brings the little girl to the cottage for the afternoons after that, because the master is never home and the house is too quiet, and the two of you sleep in a heap on the tatami with the radio on.]
+[1997, May. The mistress is ill all spring. She asks for the two of you in the afternoons, in her room in the big house with the windows open. The little girl climbs straight onto the bed. You stand in the doorway holding your mother's skirt.]
+Climb up with her / Stay in the doorway / Cry until your mother takes you home
+```
+
+"Climb up."
+
+The bed of a dying woman was the most important room in that house, and I wanted him in it.
+
+```
+[1997, May to July. You climb up. Most afternoons the two of you fall asleep at the end of her bed while she reads, one on each side of her feet. In June your mother takes a photograph from the doorway.]
+[1997, July. The mistress dies, in the big house, with the windows open. Your mother brings the little girl to the cottage for the afternoons after that, because the master is never home and the house is too quiet, and the two of you sleep in a heap on the tatami with the radio on.]
+[1997, September. The master puts the photograph from the doorway in a frame and stands it on the shelf in the house dojo, by the door, where he'll see it every time he comes in.]
 [1999. You are four. You follow her everywhere: the garden, the kitchen, the long corridor in the big house where you aren't allowed to run. She lets you, mostly. When she doesn't, she tells you so, very politely, like her father.]
-[2000. She has a dozen toys you aren't allowed to touch and you have a wooden spinning top your mother bought at a shrine festival. She wants the top. You won't give it to her. She sulks for three days, then gives up, and you give it to her the next morning, and she keeps it on her windowsill for years.]
+[2000. She has a dozen toys you aren't allowed to touch, and you have a wooden spinning top your mother bought at a shrine festival. She wants the top. She asks for it every morning for a week.]
+Give it to her / Keep it / Teach her to spin it first
+```
+
+"Keep it."
+
+I wanted to see what she did about a thing she wanted and couldn't have.
+
+```
+[2000. You keep it. She sulks for three days. On the fourth night she climbs in through the cottage window in her nightdress while she thinks you're asleep, and takes it off your shelf.]
+[2000. You watch her do it and don't say anything. In the morning it's on her windowsill in the big house. It stays there for years, and neither of you ever mentions it.]
+[2001, March. The master asks your mother whether you'd like to go to the young lady's school in April, with the fees paid. Your mother says it's too much. The master says it isn't for her to decide. It's for the boy.]
+Go / Stay at the local school / Let your mother decide
+```
+
+"Go." Same school, same gate, same car.
+
+```
+[2001, April. You start at her school in a uniform that's too big for you. On the first morning the teacher asks you to introduce yourself. Before you can, she stands up at the next desk and tells the class you're her brother.]
+[2001, April. The teacher says that isn't true. She says it is. The teacher says it isn't. She stays standing until the teacher gives up, and for the rest of the year nobody at that school says otherwise.]
 ```
 
 ```
@@ -1915,6 +2176,15 @@ Step onto the floor / Stay by the door and watch / Tell your mother you'd rather
 [2003. Your mother catches you both at midnight in the dojo practicing in your pajamas. She marches you back to bed and then stands in the corridor outside the girl's room with her hand over her mouth, laughing silently, for a long time.]
 [2004, March. Your bokken splits along the grain. She gives you her old one, the first one she ever had, with her name burnt into the handle in her father's handwriting. She says you're not allowed to lose it.]
 [2004, May. The master starts coming home earlier. There are men at the gate in the evenings now, in gray coats, and he talks to them in low voices. Your mother says it's business.]
+[2004, May. One evening you're behind the hedge with the bokken when the master comes down to the gate to talk to them. Nobody sees you.]
+Go back to the cottage / Keep listening / Step out and say good evening
+```
+
+"Keep listening."
+
+```
+[2004, May. You keep listening. You hear "this month," and "his daughter," and the master saying, very quietly, that she's to be driven everywhere. You don't understand most of it. You understand that something is coming for her.]
+[2004, May to June. After that you take the old bokken everywhere. To school. To the bath. To bed. Your mother stops trying to take it off you.]
 ```
 
 ```
@@ -1951,9 +2221,9 @@ Soul: Worn
 
 It came back all at once.
 
-That was the thing nobody had told me about forks. In the other files the boy's life had come up into me at eighteen, slowly, as you'd settle into a body you were going to wear for a while. This one came back with an ending on it. Nine years arrived in the white in one piece, every day of them, and the last minute of them, and they were mine. I'd been that boy, all the way down, with nothing of me in him at all except four words at a fork.
+That was the thing nobody had told me about forks. In the other files the boy's life had come up into me at eighteen, slowly, as you'd settle into a body you were going to wear for a while. This one came back with an ending on it. Nine years arrived in the white in one piece, every day of them, and the last minute of them, and they were mine. I'd been that boy, all the way down, with nothing of me in him at all except a few words at the forks.
 
-A girl of one pulling my hair. Sleeping in a heap on the tatami with her the afternoon her mother died, because nobody knew what else to do with either of us. Her bokken cracking across my knuckles when I was six and dropped my guard. Practicing behind the cottage in the dark until my hands bled. The man in the mask looking at me through the eyeholes. The old bokken across my knees in the back of the car, and the rain on the windows, and the sound the glass made.
+A girl of one pulling my hair. Her mother's feet under a blanket, one of us asleep on each side of them. Sleeping in a heap on the tatami with her the afternoon her mother died, because nobody knew what else to do with either of us. A spinning top on her windowsill that neither of us ever mentioned. Her bokken cracking across my knuckles when I was six and dropped my guard. Practicing behind the cottage in the dark until my hands bled. The man in the mask looking at me through the eyeholes. The old bokken across my knees in the back of the car, and the rain on the windows, and the sound the glass made.
 
 Her voice. My name, as she'd screamed it.
 
@@ -1969,7 +2239,7 @@ It said it as you'd read out a test result.
 
 I stayed on my knees for a long time. When I could, I made myself go through it as I'd go through anything else, because if I didn't, I wasn't going to be able to get up.
 
-"I picked four words for him," I said. "Onto the floor. Ride with them. That's all I did. Everything else, he did."
+"I picked six answers for him," I said. "Climb up. Keep it. Go. Onto the floor. Keep listening. Ride with them. That's all I did. Everything else, he did."
 
 [Mm.]
 
@@ -2001,7 +2271,7 @@ I looked at it for a long time, and didn't take it.
 I didn't have the stomach for it. I'd watched one childhood in that city end on a road in the rain, from the white, and I wasn't ready to watch another one so soon after. So I went back to the children's home by the port, where nothing happened to anyone, and let the tape run.
 
 ```
-[1995 to 2013, April. The same as the fourth file. The mandarin box, the long table, Daichi, the noodle stall, the exam.]
+[1995 to 2013, April. The same as the fourth file. The mandarin box, the table you hid under, the man in the plain suit, Daichi, Haru at the gate, the noodle stall, the pencils, the exam.]
 [2013, April 13.]
 [2013. Where do you live, and what do you do after school?]
 The apartment by the station / A room in the empty house next to the Raidens' / A room at the home, until they need the bed
@@ -2339,8 +2609,32 @@ In the sixth file I'd been on my knees in the white over a boy who wasn't afraid
 [1995, March. You are born in the maternity ward of the ME Corp medical institution in Nagazora, on the fourth floor, at the end of a night shift. Your mother, Kanda Yūko, works nights in the children's ward on the sixth. She's back on it in seven weeks, because the rent doesn't wait, with you in a basket under the nurses' station.]
 [1996. You learn to sleep anywhere. On the spare bed in the staff room. Under the nurses' station, in the basket, and then without it. In the chair by the window in the children's ward at three in the morning, with the lights of the coast road going past below.]
 [1998. You're three. The night porter teaches you to count the cars on the coast road. Red ones are two points. You get to four hundred before you fall asleep.]
+[2000, April. You're five. Your aunt across the city offers to have you on your mother's night shifts, in a real bed, so you can start school properly rested.]
+Go to your aunt's / Stay at the hospital / Ask the night porter
+```
+
+"Ask the porter."
+
+[You're letting a porter choose?]
+
+"He'll say stay."
+
+```
+[2000, April. The porter thinks about it for a whole cigarette, outside the back door. "Stay," he says. "Who'd count the cars?" You stay. Your aunt is offended until Christmas.]
 [2001. You start school. You're quiet and good at sums and you can't sleep in a bed that doesn't have a hospital smell. On the nights your mother works, you do your homework at the nurses' station, and the nurses check it, and get it wrong.]
 [2003. You're eight. You know every child who has ever stayed on the sixth floor for more than a week. You know which ones are going home and which ones aren't, before they do, from how the nurses talk at the station. You don't tell anyone.]
+[2003, July. A boy of six called Ren has been on the sixth floor since Easter. He isn't going home. One night at the window he asks you, very seriously, whether he is.]
+Tell him the truth / Tell him yes / Tell him to ask your mother
+```
+
+"Yes."
+
+I'd drawn a face for lying. I wanted to see it used once for something soft, before I used it for anything else.
+
+```
+[2003, July. You tell him yes. Your face doesn't move at all. He believes you completely.]
+[Liar's Face: the face holds.]
+[2003, August. He dies three weeks later, in the night, with his shoes packed by the bed. Your mother is on shift. She finds you in the chair by the window in the morning, and doesn't ask.]
 ```
 
 ```
@@ -2377,6 +2671,14 @@ She looked back at the ceiling. After a while her lips started to move. He sat o
 [2005, January. Your mother lets the two of you sit up until eleven on her night shifts, because it's the only thing that makes the girl sleep. "Ten more minutes, then bed. Both of you. I'm counting."]
 [2005, March. She tells you about the men in the van. Only once, in the dark, with her back to the radiator. You listen to all of it and don't say anything at all. Afterward she says, "You're the only one who didn't say sorry."]
 [2005. Her father visits on Sundays. He's always very tired. He brings her books and she doesn't read them. Once he sees you in the chair by her bed and stops in the doorway for a long time.]
+[2005, October. One Sunday she's asleep when he comes. He sits down in the other chair, across the bed from you, and doesn't say anything for ten minutes.]
+Say nothing / Say good evening / Ask him why he's always tired
+```
+
+"Ask him."
+
+```
+[2005, October. "Why are you always tired?" you ask. He looks at you for a long time. "Because I'm keeping something asleep," he says. "Like you." He watches her sleep for another ten minutes, and goes.]
 [2006, February. She teaches you the first three cuts of the sword her teacher taught her, with two rolled-up magazines, in the corridor at midnight. A night nurse catches you and laughs so hard she has to sit down on the floor.]
 [2006, May. Her father puts his hand on your head on his way out and says, "Thank you for looking after her." You don't know what he means. You were only counting.]
 [2006. She starts sleeping through the night. She still asks for the second pillow.]
@@ -2408,8 +2710,21 @@ She took his hand and put it in his palm and closed his fingers over it.
 ```
 [2007, March. She goes home to the house on the hill the same week. You go to Osaka.]
 [2007 to 2009. Letters. Every week at first, in her very straight handwriting, about school and the sword and her father, who is never home. You write back about Osaka, which is loud, and the new school, which is easy, and the night porter at the clinic, who doesn't know any games.]
+[2008, October. You're thirteen. A doctor at the clinic, Dr. Matsuda, takes you out for ramen and asks you, very formally, whether he may marry your mother.]
+Say yes / Say no / Say it's up to her
+```
+
+"No."
+
+A stepfather was a man with plans for the boy, and a man with plans might move him somewhere the scholarship couldn't find him.
+
+```
+[2008, October. You say no. He thanks you for your honesty and pays for the ramen.]
+[2009, April. She marries him anyway. You were only being asked to be polite. He's kind and dull and calls you "young man," and he never once tries to plan anything for you.]
 [2009. She writes that she wears one pin now. People ask why. She tells them she lost the other.]
 ```
+
+[Not every fork's yours,] said the System. [Some of them are just manners.]
 
 ```
 [2010, May. You're fifteen. Her letters have got shorter. Yours have too. There's a girl at your school who sits next to you in chemistry and laughs at your jokes. You haven't written to Nagazora in two months.]
@@ -2421,6 +2736,29 @@ Keep writing / Write less / Stop
 ```
 [2010, May. You keep writing. You write her a long letter about nothing, about the girl in chemistry and a cat at the clinic and the cars on the Osaka ring road, which have different colors. She writes back three pages. At the bottom it says: Red ones are still two points.]
 [2010, August. She writes that she won the junior girls' regionals. You write back that you knew she would. She writes back that you always say that.]
+[2010, September. The national final is in Tokyo in October. She writes and asks if you'll come and watch. She's never asked you for anything before, except a second pillow.]
+Go / Don't go / Send something instead
+```
+
+"Don't go."
+
+A gap was only a gap if nobody crossed it.
+
+```
+[2010, October. You don't go. She loses the final by one point, a kote, in the last ten seconds.]
+[2010, October. Her next letter is three words long. You weren't there.]
+[2010, November. The one after that is four pages about nothing, as if the other one had never been sent.]
+[2011, February. The night porter at the hospital in Nagazora dies at seventy-four, in the chair in his booth. Your mother takes the train up for the funeral.]
+Go with her / Stay in Osaka / Write to Mei and ask her to go for you
+```
+
+"Write to her."
+
+I wanted to know whether she'd go to a funeral for a man she'd known at nine because I asked.
+
+```
+[2011, February. She goes. She stands beside your mother at the back. Afterward she asks to see the sixth floor, and your mother takes her up, and the two of them stand at the window by your old chair and count the cars on the coast road for him until it gets dark.]
+[2011, February. Your mother comes home and tells you about it at the kitchen table, with her coat still on. "She got to two hundred," she says. "She gave every red one four."]
 [2011 to 2012. Birthdays, mostly. New Year cards. Once, in the middle of a winter, a letter with nothing in it but a pressed leaf from the tree in the dojo garden.]
 ```
 
@@ -2442,7 +2780,7 @@ Sit the exam and tell her / Sit the exam and don't tell her / Don't sit it
 
 I woke up in a bedroom in Osaka on the morning of her eighteenth birthday, at the bottom of a boy.
 
-It came up as it had every time, from the bottom of a deep pool, and this time I was Torn, and there was more of him than there had ever been of anyone. Eighteen years of it. The hospital smell. The chair by the window. A girl's lips moving in the dark. The radiator against my back. Her fingers closing mine over something small and hard.
+It came up as it had every time, from the bottom of a deep pool, and this time I was Torn, and there was more of him than there had ever been of anyone. Eighteen years of it. The hospital smell. The chair by the window. A boy called Ren with his shoes packed by the bed. A girl's lips moving in the dark. The radiator against my back. Her fingers closing mine over something small and hard.
 
 All of it was mine. I'd been him the whole way down.
 

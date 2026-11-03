@@ -57,9 +57,10 @@ with forks.
   person, year by year, as in a normal run: family, school, the people
   around him, what happens to him. Full scenes at the moments that matter.
   Not a summary.
-- **Forks:** at a few points (birth, then the moments that matter in that
-  life) the System stops the log and offers options, usually three,
-  sometimes two or four, in the log format:
+- **Forks:** many of them. Birth, then every moment that matters in that
+  life (Loop 1 of Mei's run has eleven; most of her loops have six to ten;
+  a life that ends at nine has six). The System stops the log and offers
+  options, usually three, sometimes two or four, in the log format:
 
 ```
 [2007, February. Your mother is dying. Your father calls from Nagazora.]
@@ -70,6 +71,11 @@ Go to him / Stay with your grandmother / Run away from both of them
   doesn't know a choice was made. He carries it out and lives with it. Some
   forks are traps, worded by the System to sound safe, and some kill him as
   a child.
+- **Not every fork is his.** Some answers change nothing (a stepfather
+  who asks permission and marries her anyway: "Some of them are just
+  manners"), and some deaths come with no fork at all.
+- **Eros can hand a fork to someone in the life** ("Ask the night
+  porter"); the log follows that person's answer.
 - **What changes:** every fork changes the rest of the log: where he lives,
   who he knows, who he becomes, how he reaches the arc. Options marked ???
   open only after a loop shows him something.

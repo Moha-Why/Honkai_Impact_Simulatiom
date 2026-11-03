@@ -323,3 +323,36 @@ As checked before. New ones:
 - **Cocolia's orphanage:** founded after the Second Eruption for children the
   Honkai left behind. Bronya joined it in January 2012 (Cocolia's and
   Bronya's profiles).
+
+## Fork pass (every loop)
+
+Every childhood now has many forks, each with a consequence that comes back
+later. See mei-run-childhoods.md for the full list.
+
+- **Loop 2:** the last bus of 2000 (nothing happens; the crash gets no
+  fork), Mr. HOMU's shoes (kept for eleven years), the bicycle (she breaks
+  her wrist and lies to her father for him), Dr. Sakai (they feed her
+  invented dreams together), Kuroda's two thousand yen (the spring
+  courtyard confession), Ryoma pays his school fees "for October." Payoff:
+  in October 2013 he tells her who Mr. HOMU is. "You kept his... You
+  couldn't keep mine for a night."
+- **Loop 3:** Cecilia on the road ("Tell them Cecilia sent you"; Cocolia
+  calls him Cecilia's boy), the 2001 photograph (he's on page nine of
+  Loop 1's scrapbook), the 2003 test (Low D, Cocolia writes F), her office
+  (he owns up; he never lies to her, which is how she knows in January),
+  the glove girl (reported, sent to her aunt), Seele ("Keep my place").
+- **Loop 4:** hiding from the Okadas (Mrs. Okada in Loops 5 and 7), Ryoma
+  in a plain suit (the boy fails on purpose; Ryoma sets up the
+  scholarship), Haru at the gate (the start of the knife), Daichi at the
+  noodle stall (he pays for the end of the pot), the pencils (the other
+  boy comes second by four points). "You made him that way."
+- **Loop 6:** the mistress's bed (the photograph in the dojo), the top she
+  steals, her school ("he's my brother"), the men at the gate (the bokken
+  everywhere). "I picked six answers for him."
+- **Loop 8:** the porter decides (stay), Ren (Liar's Face used soft),
+  Ryoma ("I'm keeping something asleep. Like you."), Dr. Matsuda (the
+  fork that's only manners), the 2010 nationals ("You weren't there"), the
+  porter's funeral (she counts the cars for him, every red one four).
+- **Objectives:** no childhood fork completes a hidden objective, so the
+  lock-in never starts early.
+
