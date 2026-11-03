@@ -380,7 +380,7 @@ I put the coins back in my pocket and bought a can of coffee from the machine in
 
 My first payday was the twenty-fifth of April.
 
-I knew it had come because the ATM in the harbor building told me. It was the only cash machine on the island, in a little lobby between the post room and the supply office, with a plastic plant beside it that someone watered. It was only there for Shiomi. On the island your badge paid for everything, the curry and the bar and the vending machines, and nobody on the island had carried cash for years. Cash was for the far side of the water. I went down after work because I wanted to check that the money was real, much as I'd check that a server you'd been promised actually existed before you deployed anything to it. I put my card in, and typed my number, and pressed the button for my balance.
+The ATM in the harbor building told me it had come. It was the only cash machine on the island, in a little lobby between the post room and the supply office, with a plastic plant beside it that someone watered. It was only there for Shiomi. On the island your badge paid for everything, the curry and the bar and the vending machines, and nobody on the island had carried cash for years. Cash was for the far side of the water. I went down after work because I wanted to check that the money was real, much as I'd check that a server you'd been promised actually existed before you deployed anything to it. I put my card in, and typed my number, and pressed the button for my balance.
 
 I looked at it for a long time.
 
@@ -1412,7 +1412,7 @@ He stopped writing. He looked at the ceiling. "A hundred and twenty," he said, "
 
 "Nobody." He shrugged. "It's just there."
 
-I knew exactly what he meant, and I knew how it felt, at nine, to have it just be there and have nobody to show. I'd had an adult's mind in a child's body. He had a child's mind that was going to be very large, and nobody in the building who could keep up with it, and a teacher who thought he was lazy.
+At nine I'd had it just be there too, and nobody to show it to. I'd had an adult's mind in a child's body. He had a child's mind that was going to be very large, and nobody in the building who could keep up with it, and a teacher who thought he was lazy.
 
 I came back the next day with a laptop. It was a cheap one, from a shop by the station, and I'd spent the evening in my hotel room putting things on it, a programming tutorial for children and a lot of math puzzles and an encyclopedia that didn't need the internet. I gave it to him in Auntie Qian's office, with her watching, and wrote my email address on a piece of paper and put it under the keyboard.
 
@@ -2495,7 +2495,7 @@ I stopped.
 
 I lay back down. I stared at the ceiling. There was a crack in the plaster running from the light fitting to the corner, and I followed it with my eyes, and I was smiling so hard my face hurt.
 
-I knew what kind of stories had systems in them. I'd read hundreds. And this was Honkai Impact, the game I'd spent eight years of my first life playing in every spare minute, usually on my second monitor while something compiled, and it had a lot of heroines. In my first life, in the privacy of my own head, I'd had some very detailed opinions about which of them I'd want to meet. I'd never told anyone, because there'd never been anyone to tell. And in this world, I'd found out that autumn, they were older than I remembered.
+Stories with systems in them went a certain way. I'd read hundreds. And this was Honkai Impact, the game I'd spent eight years of my first life playing in every spare minute, usually on my second monitor while something compiled, and it had a lot of heroines. In my first life, in the privacy of my own head, I'd had some very detailed opinions about which of them I'd want to meet. I'd never told anyone, because there'd never been anyone to tell. And in this world, I'd found out that autumn, they were older than I remembered.
 
 [That was a loud one,] said the System.
 
@@ -2609,7 +2609,7 @@ The cold hit me before anything else.
 
 I was sitting in the back of an open truck on a bench, with my knees against a crate of spare parts, and the air was so cold it felt solid. It went straight through my coat and my sweater and my shirt and settled in my bones, and my face was so numb I couldn't tell if my mouth was open. The truck was crawling along a road made of packed snow between two walls of black pine trees. The sky was the color of dishwater.
 
-I had a body. It was me, my own body at twenty-two, fitter than I'd been at eighteen after five years on the seawall, and still not built for any of this. I had a bag between my feet, and in the inside pocket of my coat there was a folded set of papers. Without reading them, I knew what they said. I was a technician on a two-year contract, hired from a Chinese company that did work for Schicksal, and I spoke enough Russian to read a manual and not much more. The simulation had given me all of it, as you know things in a dream without being told.
+I had a body. It was me, my own body at twenty-two, fitter than I'd been at eighteen after five years on the seawall, and still not built for any of this. I had a bag between my feet, and in the inside pocket of my coat there was a folded set of papers. I didn't need to read them. I was a technician on a two-year contract, hired from a Chinese company that did work for Schicksal, and I spoke enough Russian to read a manual and not much more. The simulation had given me all of it, as you know things in a dream without being told.
 
 The truck came out of the trees and I saw Outpost 7.
 
@@ -2651,7 +2651,7 @@ The simulation didn't make me live every minute. Most of the days went by in a k
 
 The theories were mostly stupid. Grisha thought it was a new kind of tank. The cook thought it was aliens. One of the radio operators had heard from a truck driver who'd heard from a guard that there were children there, a lot of them, and that the trucks that went north at night had their windows covered so you couldn't see who was inside.
 
-I listened to all of it and kept my mouth shut. I knew roughly what the research city was doing, and I knew roughly how it ended, and I didn't know nearly as much as I wanted to. The game had given me the shape of it in cutscenes and flashbacks, years after the fact. I knew it happened early in 2000. I didn't know the day.
+I listened to all of it and kept my mouth shut. I had a rough idea what the research city was doing and how it ended, and not nearly as much as I wanted. The game had given me the shape of it in cutscenes and flashbacks, years after the fact. It happened early in 2000. I didn't know the day.
 
 In July I tried to leave.
 
@@ -2817,7 +2817,7 @@ The thing that killed me came from the right, out of the trees.
 
 It was much bigger than the flying ones, the size of a car, a heavy four-legged thing that moved like a bull with its head down. Its whole body was covered in black plates that overlapped like armor, with cold blue light leaking out between them. It had horns, or something like horns, two of them curving forward, and steam was pouring off its back into the cold air.
 
-A Frost Chariot. Chariots were the most common Honkai beast in the game, slow and heavy, and the frost kind only turned up in cold places. I knew its animation and its attack pattern. It was slow right up until it charged. In the game, you dodged sideways right before it reached you, and then it ran past and you hit it in the back.
+A Frost Chariot. Chariots were the most common Honkai beast in the game, slow and heavy, and the frost kind only turned up in cold places. I'd seen its animation and its attack pattern a thousand times. It was slow right up until it charged. In the game, you dodged sideways right before it reached you, and then it ran past and you hit it in the back.
 
 I swerved. The snowmobile skidded on a drift and came up on one side and threw me off.
 
@@ -2939,7 +2939,7 @@ I didn't answer that.
 
 I kept telling myself that while I brushed my teeth. Grisha didn't exist. Major Sorokina didn't exist. Outpost 7 didn't exist, and nobody in its mess hall had sung along to a radio full of static, and nobody had driven a truck north into the dark because a woman on the radio said there were people on the road.
 
-I knew that the Second Eruption had been real, though. In this world, fourteen years ago, it had happened. I had sat on the floor of the common room at Willow Street with a bowl of sunflower seeds and watched the smoke on the news, and the newsreader had said there were no figures yet on casualties, and I'd laughed and gone to wash the dishes.
+The Second Eruption had been real, though. In this world, fourteen years ago, it had happened. I had sat on the floor of the common room at Willow Street with a bowl of sunflower seeds and watched the smoke on the news, and the newsreader had said there were no figures yet on casualties, and I'd laughed and gone to wash the dishes.
 
 I got in the shower and turned it up as hot as it would go and stood under it until the hot water ran out.
 
@@ -3304,7 +3304,7 @@ A settler village in the hills of Hokkaido, Japan. Spring 1908.
 
 The first thing I noticed was the smell of pine smoke and wet earth. The second thing I noticed was that I couldn't remember the office.
 
-I was sixteen in this one, sitting on the step of a wooden house with a bowl of barley in my hands, and the morning was cold and bright and full of birdsong. I knew that I'd died in my first life at a desk with a numb arm. I could remember the energy drinks and the chest pain and the phone in my hand. I could remember the game on the second monitor. But the office around all of that was gone. The building, the street outside, the floor I'd worked on, the faces of the people I'd worked with, the vending machine. I knew there had been a vending machine, because I remembered thinking about it, but I couldn't see it. The last night of my first life was sitting in the middle of a blank white space.
+I was sixteen in this one, sitting on the step of a wooden house with a bowl of barley in my hands, and the morning was cold and bright and full of birdsong. I'd died in my first life at a desk with a numb arm. That much was still there. I could remember the energy drinks and the chest pain and the phone in my hand. I could remember the game on the second monitor. But the office around all of that was gone. The building, the street outside, the floor I'd worked on, the faces of the people I'd worked with, the vending machine. There had been a vending machine, because I remembered thinking about it, but I couldn't see it. The last night of my first life was sitting in the middle of a blank white space.
 
 I sat on the step with the bowl going cold in my hands and tried to remember the name of the street, and couldn't, and tried to remember the name of my manager, and couldn't, and my heart started to go.
 
