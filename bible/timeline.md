@@ -32,6 +32,8 @@ story reaches them.
 | 2014, January 15–16 | Theresa visits the anomaly watch room. On readings this small from two detectors outside ME Corp's city she can't send Valkyries in; she orders a call at anything over 10 HW. Runs 2 and 3. |
 | 2014, late January | Theresa puts the Hyperion on two hours' standby at the technical center. Himeko stays at St. Freya, teaching. Run 4 (January 25). |
 | 2014, February 3, 1:11 a.m. | The biggest Nagazora spike yet (6.4 HW, still under the 10 HW zombie line). Mei's heroine simulation unlocks. Eros doesn't start it. |
+| 2014, February 4 | Eros starts Mei's heroine run at night and says yes himself. Inside it, six loops over the autumn and winter of 2013 to 2014; in Loop 4 the in-run Eruption at Chiba Academy is on February 4 and he dies at dawn as the Hyperion arrives. |
+| 2014, February 5, before dawn | He wakes. The watch room reads past 1,000 HW over Nagazora: a Herrscher. The Hyperion leaves the north tower for Nagazora. |
 | 2014, February | Third Eruption, Nagazora (canon date), after Mei's partial awakening as the Herrscher of Thunder. Himeko responds once the Eruption begins (canon: she "responded to the 3rd Eruption"), arriving with the Hyperion, and confronts Mei; Theresa later brings Kiana to St. Freya. Canon: Cocolia and Bronya set off an artificial outbreak at Chiba Academy to wake the Gem of Conquest in Mei. Mei's run is set before it: Chiba Academy, Nagazora, her third year, starting September or October 2013 depending on the loop. |
 
 ## Open questions

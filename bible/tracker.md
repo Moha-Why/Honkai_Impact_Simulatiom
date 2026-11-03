@@ -2,7 +2,7 @@
 
 Where things stand. Update after every chapter.
 
-## As of: end of Chapter 2 (February 4, 2014, dawn)
+## As of: end of Chapter 3 (February 5, 2014, dawn)
 
 ### Eros's System
 
@@ -11,20 +11,27 @@ Where things stand. Update after every chapter.
 Name: Eros
 Age: 22
 Combat Rating: Civilian
-Honkai Resistance: F
+Honkai Resistance: Low D
 Honkai Adaptability: None
-Soul: Frayed
-Gifts: Quick Learner (Green), Sprinter (White), Quick Reflexes (Green)
-Experience: Hunting and Field Craft (Professional)
-Fate Fragments: 350
+Soul: Torn
+Gifts: Quick Learner (Green), Sprinter (White), Quick Reflexes (Green), Honkai Resistance (Blue), Lightning Knows Your Name (Gold)
+Experience: Hunting and Field Craft (Professional), Raiden Kenjutsu (Master)
+Fate Fragments: 770
 ```
 
-- Free gift reroll from the starter pack: used (Run 2).
-- Soul: Frayed, healing. He has run nothing since January 25.
-- **Heroine simulation unlocked: Raiden Mei** (February 3, 1:11 a.m., during
-  the biggest Nagazora spike yet). Not started. The System: "She'll wait
-  for you."
-- Saving 300 Fate Fragments to choose a normal run's scenario.
+- **Soul: Torn.** Heroine runs locked for months; normal runs only.
+- **Crossroads** unlocked for normal runs (forks, final, some are traps).
+- **Mei's run complete, grade A** (In Love, Relies, Fallen; 4 of 8 hidden
+  objectives; S needed 5). Her branch continues without him: a Fallen
+  Herrscher Mei who lost him at dawn as the Hyperion arrived.
+- **Left behind at settlement:** Liar's Face (Green) and Mei's hair pin.
+- Still saving toward the 300-fragment scenario pick; he can afford it now.
+
+### Heroine runs
+
+| Run | Heroine | Loops | Result | Reward taken |
+|---|---|---|---|---|
+| Mei | Raiden Mei, Nagazora, Sept 2013 to Feb 2014 | 1 (gray car), 1.5 (self-reset), 2 (Herrscher), 2.5 (truck), 3 (Herrscher), 4 (Honkai air at dawn) | Grade A. Objectives 1 and 2 complete. | Honkai Resistance (Blue), Lightning Knows Your Name (Gold), Raiden Kenjutsu (Master); +420 |
 
 ### Runs completed
 
@@ -47,6 +54,13 @@ Lungs (Run 4). Danger Sense and Pain Tolerance were lost to the grade cap.
   whole run; it returned on waking.
 - Rest January 17 to 24; Worn healed to Frayed.
 - Run 4: a scattered detail.
+- Mei run: Frayed going in. Loop 1 and 1.5, scattered details (Hamada's
+  first name; Lao Chen's name and Captain Rahman). Loop 2, Herrscher
+  lightning, Worn. Loop 2.5, a scattered detail (the Willow Street dog,
+  Doudou). Loop 3, Herrscher lightning, Torn: earlier loops became facts,
+  Earth life mostly gone, Director Zhou's face going. Loop 4, a whole
+  memory (Theresa's candy in August 2009). All returned on waking; the
+  soul stays Torn.
 
 ### What Eros holds
 
@@ -98,7 +112,12 @@ Lungs (Run 4). Danger Sense and Pain Tolerance were lost to the grade cap.
 - **Rita** reported on him to Otto during the secondment; nothing came of it.
 - **Tsugumi** knows him only as "Bug Report", an engineer at a German firm.
 - **Professor Han** was told Eros took a scholarship abroad (2009).
-- **Eros** has told no one he expects the Third Eruption within days.
+- **Eros** has told no one he expected the Third Eruption.
+- **Echoes (unknown to Eros):** the real Mei carries strong echoes of the
+  run from the night of February 4 to 5, the pull and the darkness of it,
+  not facts; on the real roof she hesitates one second before taking the
+  real Kiana's hand. Faint echo in the real Kiana: a hand nobody took. The
+  real Herrscher of Thunder's lightning knows his name.
 
 ### Run people (inside runs only)
 
@@ -107,3 +126,6 @@ Lungs (Run 4). Danger Sense and Pain Tolerance were lost to the grade cap.
 - Run 3: Oda Genkichi (father, died 1919), Oda Fumi (wife), old Sasaki,
   Yoshida; two sons (one did not come back from the war), one daughter.
 - Run 4: Sergeant Ilse Brandt ("Good hands. Slow feet.").
+- Mei run: Anders Lindqvist (Loop 1 father), Hoshino Kei (Loop 1
+  journalist), Mrs. Okada (landlady next door, Loops 2.5 to 4), Mochizuki
+  and his cousin (Loop 3 gossip line), plus the Chiba Academy cast.
