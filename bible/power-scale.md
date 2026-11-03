@@ -128,7 +128,7 @@ There is no stat transfer from the runs. His real body has to earn its rank.
 
 Schicksal measures a Honkai by its **instantaneous power in HW**. The
 threshold is canon series lore (Moegirl, 律者, citing the Honkai Gakuen 2
-library): "每一次瞬时功率达到1000HW的崩坏就会诞生一名律者" — every Honkai
+library): "每一次瞬时功率达到1000HW的崩坏就会诞生一名律者", meaning every Honkai
 whose instantaneous power reaches 1000 HW gives birth to a Herrscher, and
 that Honkai is then numbered. HI3's official definition (same page) agrees
 on the structure without a number:
