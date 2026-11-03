@@ -28,14 +28,18 @@ each run writes a branch into the Imaginary Tree.
   not numbers:
   - **Affection:** Stranger, Noticed, Friendly, Close, Fond, In Love
   - **Trust:** Wary, Polite, Open, Confides, Relies
-  - **Corruption:** Untouched, Bending, Compromised, Fallen
+  - **Corruption:** Untouched, Bending, Compromised, Fallen. Her devotion
+    turning dark for him. Higher Corruption raises the grade (see
+    [gifts-and-rewards.md](gifts-and-rewards.md), Heroine runs).
 - World: **Fate Deviation**, which measures how much he has changed
   history. The higher it climbs, the harder the world pushes back.
 
 ## Objectives
 
-- Several run at once. Completing one is enough; each extra one raises the
-  reward's size and rarity.
+- Objectives are the conditions for finishing the run, nothing more.
+  Several run at once and completing one is enough.
+- The grade comes from hidden criteria (Love, Corruption, Staying, plus
+  hidden events), not from how many objectives he finished.
 - Once at least one objective is complete, his next death ends the run as a
   success instead of resetting it.
 
@@ -55,8 +59,8 @@ life of Eros's identity as a line of nodes. Heroine runs **plan** a life.
 - The System never says how fixed a fixed node really is. He learns by
   pushing on one. Fixed nodes push back through Fate Deviation and
   correction events, so trying to break one is possible and usually lethal.
-- **Gifts:** a fresh 5-keep-2 draw at the start of each loop, so every loop
-  is a different build.
+- **Gifts:** one 5-keep-2 draw at the start of the run. He keeps that build
+  through every loop and doesn't rechoose.
 
 ## Crossroads (normal runs)
 
@@ -84,9 +88,7 @@ Stay / Steal a seat / Report the driver
 The System may list an objective that can't be completed because it runs
 against a fixed node (for Mei: "Keep Raiden Ryoma out of prison"). It shows
 a large reward to tempt him into poking the fixed node. Asked about it later
-it says, "I never said it was possible. I said it was worth a lot." Fine
-print on real objectives can also matter (Mei's first kiss must be "given
-freely"; a kiss under high Corruption fails the objective).
+it says, "I never said it was possible. I said it was worth a lot."
 
 ## Aftermath
 

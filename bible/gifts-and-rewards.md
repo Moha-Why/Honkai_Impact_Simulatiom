@@ -2,7 +2,8 @@
 
 ## Gifts
 
-Gifts are traits. Items use the same color tiers.
+Gifts are traits, never upgrades. A gift gives him a trait he didn't have;
+it never "raises" a stat. Items use the same color tiers.
 
 | Color | Meaning | Draw rate | Examples |
 |---|---|---|---|
@@ -14,13 +15,29 @@ Gifts are traits. Items use the same color tiers.
 | Red | Herrscher-adjacent; touches reality itself, usually with a drawback | 0.2% | A fragment of an authority, Imaginary Sense |
 
 - **Hidden gifts** show as ??? until a trigger reveals their color.
-- **Draws:** 5 at the start of each run; he keeps 2 for that run.
+- **Draws:** 5 at the start of each run; he keeps 2 for that run. In a
+  heroine run he chooses once, at the start, and keeps that build through
+  every loop and reset. He doesn't rechoose.
 - **No limit on permanent gifts.** He can keep as many as he earns. The
   grade of each run is what holds him back (see Settlement).
 - **Upgrades:** merging two copies of the same gift raises it one color.
   Merging can reach Gold but never Red; Red can only be drawn.
 - **The male ceiling:** physical gifts can't push him past the rank his
-  Adaptability allows.
+  Resistance (or Adaptability) allows.
+
+### Honkai Resistance (gift)
+
+A trait like any other: his body withstands Honkai energy at that grade.
+
+| Color | Resistance |
+|---|---|
+| Blue | D: hours in Eruption-level air; survives an artificial stigma |
+| Purple | C |
+| Gold | B |
+
+There is no White or Green version. Merging two copies gives the next color
+as usual. Resistance A is out of reach of gifts; only body modifications go
+there.
 
 ## Settlement
 
@@ -51,8 +68,8 @@ which items are allowed, and how many Fate Fragments he's paid.
 - **Gifts above the grade's color are never offered.** If he drew a Purple
   and the run ends at D, the Purple is gone.
 - **Red gifts** can only be drawn, and can only be kept from an S-grade run.
-- **Adaptability raises** (one grade at a time) can be offered only at A or
-  S, or as a heroine-run reward. At S, one is always among the cards.
+- **There are no stat raises.** Resistance and Adaptability change only
+  through gifts and body modifications.
 - **Fate Fragments** are always paid. One of the cards can instead be
   **double payout** for that run.
 - **What's on the cards:** the gifts he held during the run, the skills he
@@ -61,13 +78,34 @@ which items are allowed, and how many Fate Fragments he's paid.
 
 ### Heroine runs
 
-- **Picks:** one per objective completed, at least Blue in color.
-- **Grade:** set by how many objectives he completed and how high the meters
-  ended. It caps the top color the same way as in normal runs, but never
-  below Blue.
-- **Extras:** a **bond gift** unique to that heroine (its color rises with
-  objectives completed), her personal item, or an Adaptability raise.
-- **Fate Fragments:** 300 or more per objective.
+- **Objectives** are only the conditions for finishing the run. Completing
+  one means his next death ends the run as a success.
+- **The grade** comes from hidden criteria the System never lists in
+  advance. They measure how deep he went with her, not whether he
+  finished:
+  1. **Love:** how far she fell for him (Affection).
+  2. **Corruption:** how far she'd go for him. The darker she is, and the
+     more she's his, the higher the grade.
+  3. **Staying:** whether he's still alive at her side after the objective.
+
+| Grade | What it looks like |
+|---|---|
+| F–E | The objective barely made it. She hardly knows him. |
+| D | She likes him, and that's all. |
+| C | Fond or In Love, but still Untouched, and he died right after the objective. |
+| B | In Love and Bending: she'd break rules for him. He lived past the objective. |
+| A | In Love and Compromised: she'd turn on other people for him. He stayed with her. |
+| S | In Love and Fallen: she's his completely. Both alive and together at the end. |
+
+- **Hidden events:** a few moments per heroine that the System loves. Each
+  one hit raises the grade a step, two steps at most.
+- **Settlement** then uses the same table as normal runs (picks, colors,
+  experience depth, Fate Fragments).
+- **Extras on the cards:** a **bond gift** unique to her (its color follows
+  Love and Corruption) and her personal item.
+- **Corruption is non-explicit.** It's devotion turning dark (jealousy,
+  obsession, choosing him over everyone and everything), shown on the page
+  through what she does, never as sexual content.
 
 ## Reward types
 
@@ -78,6 +116,21 @@ which items are allowed, and how many Fate Fragments he's paid.
 - **Item:** an object pulled out of the run. One per pick, nothing alive,
   nothing larger than he can carry. Divine Keys and Herrscher cores can't be
   taken.
+- **Body modification:** a surgery or fusion he went through in the run and
+  was still carrying when it ended (an artificial stigma, a World Serpent
+  chimera procedure, a MANTIS fusion, a fused beast core). It arrives
+  already inside his body, healed and working. Rules:
+  - Everything it costs comes with it: an artificial stigma's shortened
+    life and cascade risk; a MANTIS fusion's beast traits, visible changes
+    (Elysia's ears) and instincts.
+  - His real body has to be able to survive it. If it can't, the card shows
+    grayed out ("Requires Honkai Resistance D"). He sees it and can't take
+    it.
+  - Colors: Schicksal artificial stigma Purple (top quality Gold); World
+    Serpent chimera Purple to Gold; MANTIS fusion Gold, Red if the beast was
+    bound to a Herrscher. Grade caps apply as for items.
+  - A natural stigma, a Herrscher core and a Divine Key can't be taken.
+  - It shows on scans.
 - **Double payout:** twice the run's Fate Fragments.
 
 ## Shop (Fate Fragments)

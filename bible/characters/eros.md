@@ -75,7 +75,7 @@ each other for the whole story:
 - **Fan at heart:** loves these characters and knows every tragedy waiting
   for them. His inner voice fanboys ("That's Mei. That is actually Mei.").
 - **Power-system nerd:** knows how stigmata, battlesuits, Herrscher cores,
-  and Honkai Adaptability work, and wants to experience them himself.
+  and Honkai Resistance and Adaptability work, and wants to experience them himself.
 - **Shameless dreamer:** completely open with himself about wanting a harem.
   It's a fan's fantasy.
 - **Already a min-maxer:** treats problems as systems to optimize, but still

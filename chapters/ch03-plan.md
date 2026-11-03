@@ -1,5 +1,12 @@
 # Chapter 3 plan: The Lightning Queen (Mei's heroine run)
 
+> **Needs rework (rules changed after this plan was written).** Gifts are
+> chosen once for the whole run, not per loop. The grade comes from hidden
+> criteria (Love, Corruption, Staying), and higher Corruption raises it.
+> The "given freely" fine print and the per-loop gift draws are gone. There
+> is no Adaptability raise; Honkai Resistance is a Blue gift (D). The loops
+> and the settlement below still follow the old rules until the rework.
+
 Target length: 32k to 38k words. Status: plan, waiting for approval.
 
 ## Canon facts this chapter uses (checked)

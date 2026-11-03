@@ -572,7 +572,7 @@ I stood on the roof with my can of coffee and thought about what was going to ha
 
 I knew the numbers. Not exactly, but well enough. Some of the girls getting off those buses would be Valkyries in five years, and some of those would be dead in ten, and a few of the ones who were dead would be wearing battlesuits with my code in them when it happened. I'd spent the summer reading the incident files that came down to the eleventh floor. There was one a week, more or less. A suit that locked, a sensor that lied, a simulation that said a thing moved at this speed when the real thing moved faster. Usually the code was fine and the girl had just met something bigger than her. Sometimes it wasn't, and Dr. Mori would come out of his office with a printout and put it on somebody's desk without saying anything, and that person would go very quiet for a week.
 
-And there were other numbers, the ones that mattered to me. A man with an F in Honkai Adaptability was a man who died if he breathed the wrong air. In the game, when the Third Eruption hit Nagazora, almost everybody in the city had turned into something that wasn't a person anymore inside an hour. I was eighteen. I'd been a desk worker in my first life, and had died at the desk. I'd never run anywhere I didn't have to, and I'd never had to.
+And there were other numbers, the ones that mattered to me. A man with an F in Honkai Resistance was a man who died if he breathed the wrong air. In the game, when the Third Eruption hit Nagazora, almost everybody in the city had turned into something that wasn't a person anymore inside an hour. I was eighteen. I'd been a desk worker in my first life, and had died at the desk. I'd never run anywhere I didn't have to, and I'd never had to.
 
 The next morning I set my alarm for six and went out onto the seawall in a pair of canvas shoes and the tracksuit bottoms I'd slept in.
 
@@ -2337,7 +2337,8 @@ A panel slid open in front of my eyes. It hung in my vision like a floater does,
 Name: Eros
 Age: 22
 Combat Rating: Civilian
-Honkai Adaptability: F
+Honkai Resistance: F
+Honkai Adaptability: None
 Soul: Whole
 Gifts: None
 Fate Fragments: 0
@@ -2419,7 +2420,7 @@ I'd been filing it all away as it came, with the same part of my head I'd used f
 
 [I know. It's one of the sad things about you.]
 
-"Can my Adaptability go up?"
+"Can my Resistance go up?"
 
 [Some rewards can raise it. Not many. I'd hate for you to get bored.]
 
@@ -2839,7 +2840,7 @@ The Chariot had gone past. It was turning around. It turned slowly, like a truck
 
 I tried to get up and couldn't. I got to my hands and knees. The snow was in my mouth and my nose and down the neck of my coat. Grisha's hat had come off and was lying next to my hand.
 
-The air tasted wrong. It tasted of metal, of the smell of a battery when you touch it to your tongue, and every breath I took burned a little more going in. My skin was tingling all over, under my clothes, the same buzzing heat as the Adaptability test, but everywhere, and getting stronger. My eyes were watering. When I wiped them, there was blood on the back of my glove.
+The air tasted wrong. It tasted of metal, of the smell of a battery when you touch it to your tongue, and every breath I took burned a little more going in. My skin was tingling all over, under my clothes, the same buzzing heat as the resistance test, but everywhere, and getting stronger. My eyes were watering. When I wiped them, there was blood on the back of my glove.
 
 Honkai energy. I was breathing it. A body graded F, breathing the air next to a Honkai beast in the middle of an eruption.
 
@@ -2915,7 +2916,8 @@ Quick Learner (Green) added to permanent gifts.
 Name: Eros
 Age: 22
 Combat Rating: Civilian
-Honkai Adaptability: F
+Honkai Resistance: F
+Honkai Adaptability: None
 Soul: Frayed
 Gifts: Quick Learner (Green)
 Fate Fragments: 140
@@ -3515,7 +3517,8 @@ It opened anyway.
 Name: Eros
 Age: 22
 Combat Rating: Civilian
-Honkai Adaptability: F
+Honkai Resistance: F
+Honkai Adaptability: None
 Soul: Worn
 Gifts: Quick Learner (Green), Sprinter (White), Quick Reflexes (Green)
 Experience: Hunting and Field Craft (Professional)

@@ -99,8 +99,8 @@ when he says no it says "Okay." and nothing else.
 
 **In Chapter 3:** opens the Life Path screen without a word (still sulking
 after "Okay."), then shows the objectives with the bait on top. It eggs him
-on through each loop's exploit, savors Corruption moving in Loop 2, and is
-delighted by the S grade. It unlocks Crossroads for normal runs as a reward,
+on through each loop's exploit, savors Corruption moving, because Corruption is what it pays for. (Chapter 3
+is being reworked after the rules change.) It unlocks Crossroads for normal runs as a reward,
 like a patch note. When he asks whether any of it was real, it dodges
 cheerfully.
 

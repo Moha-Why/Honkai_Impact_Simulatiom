@@ -5,12 +5,12 @@
 - A floating panel only Eros can see, plus the System's voice, which opens
   marks big notices with "[Ding!]". For its voice and personality, see
   [characters/the-system.md](characters/the-system.md).
-- **Status panel:** name, age, Combat Rating, Honkai Adaptability, soul
+- **Status panel:** name, age, Combat Rating, Honkai Resistance, Honkai Adaptability, soul
   stage, gifts, experience packages (once he has any), Fate Fragments.
 - **Combat Rating:** his strength as a Valkyrie rank (Low D, High A, and so
   on). See [power-scale.md](power-scale.md).
-- **Starting panel:** Combat Rating Civilian, Honkai Adaptability F, soul
-  Whole.
+- **Starting panel:** Combat Rating Civilian, Honkai Resistance F, Honkai
+  Adaptability None, soul Whole.
 
 ## Starter pack
 

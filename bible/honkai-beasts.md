@@ -104,5 +104,6 @@ other beasts.
 - **An Emperor-class beast** is a boss for a whole arc. Before Eros reaches
   A rank, he can only survive one by avoiding it, outsmarting it, or getting
   someone else to kill it.
-- **Cores** are among the few items that can raise Honkai Adaptability. They
-  are also among the most likely to kill him.
+- **Cores** fused into a body are a body modification, one of the few ways to
+  change Resistance or wake Adaptability. They are also among the most
+  likely to kill him.

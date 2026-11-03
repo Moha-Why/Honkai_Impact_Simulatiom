@@ -11,7 +11,8 @@ Where things stand. Update after every chapter.
 Name: Eros
 Age: 22
 Combat Rating: Civilian
-Honkai Adaptability: F
+Honkai Resistance: F
+Honkai Adaptability: None
 Soul: Frayed
 Gifts: Quick Learner (Green), Sprinter (White), Quick Reflexes (Green)
 Experience: Hunting and Field Craft (Professional)

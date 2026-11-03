@@ -67,7 +67,7 @@ be alone in the dark too much."); catches him with a knife on the seawall,
 doesn't believe "YouTube", and fixes his stance.
 
 **In Chapter 1:** escort during the draft; tells him what D-rank logistics
-means on the plane; runs his Honkai Adaptability test.
+means on the plane; runs his Honkai Resistance test.
 
 **In the Chapter 2 rewrite:** gives him the island tour on his second day
 (2009, "never order the squid on Mondays"); crashes his Spring Festival

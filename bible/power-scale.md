@@ -60,37 +60,94 @@ Eros starts as **Civilian**: a desk worker below Peak Human.
 
 - Honkai adaptability is uncommon in men, but in rare cases it happens.
   Those men become **Schicksal Knights** (Chevaliers), like Siegfried
-  Kaslana. This is the canon path open to Eros once his Adaptability rises.
+  Kaslana. This is the canon path open to Eros once his Resistance rises.
 - **Paladins** ("the Overseer's chosen") are the Overseer's personal guard.
   Cecilia was one. Theresa became one while still B-rank, the lowest-ranked
   Paladin ever.
 
-## Honkai Adaptability
+## Honkai Resistance and Honkai Adaptability
 
-How much Honkai energy a body can take. It sets a hard ceiling on his
-Combat Rating. Women adapt far more easily than men; most men stay at F
-for life.
+Canon uses both words loosely (the HI3 wiki glossary calls Herrschers
+"humans with high Honkai resistance" and Knights men with "any form of
+Honkai adaptability"). This story splits them into two different things.
+
+### Honkai Resistance
+
+The body **withstands** Honkai energy. It's a wall, and it's what most
+Valkyries have. Schicksal's cuff test measures it. It sets a hard ceiling on
+Combat Rating. Women have it far more often than men; most men stay at F for
+life.
 
 | Grade | Rank ceiling | What it allows |
 |---|---|---|
 | F | Peak Human | Normal human. Honkai energy only harms him. |
 | E | Low D | Survives mild exposure. |
-| D | High D | Basic battlesuits. Can survive an artificial stigma transplant. |
+| D | High D | Hours in Eruption-level air. Basic battlesuits. Survives an artificial stigma. |
 | C | High C | Standard battlesuits. |
 | B | High B | Frontline gear. |
-| A | High A | Elite gear. |
-| S | High S | Top-tier gear; can touch a Divine Key without dying. |
-| Beyond S | None | The Herrscher threshold. |
+| A | High A | Elite gear. The top of what resistance alone can reach. |
 
-**Ways to raise it:** Purple-or-higher gifts that touch Honkai energy,
-special heroine-run rewards, and rare items (Honkai crystals, beast core
-fragments), which are risky to use.
+- **The cost of resistance:** the body is always fighting the energy. Under
+  an artificial stigma and a battlesuit reactor, that fight is where the
+  shortened life, the slow decay and the cascade risk come from.
+- **Himeko is the model:** resistance, no adaptability, an artificial
+  stigma, and she trained her way to the top.
+- **Knights** (male Valkyries) are men with good resistance.
+
+### Honkai Adaptability
+
+The body **uses** Honkai energy instead of blocking it. It's the rarer,
+upgraded state, found mostly in natural-stigma awakeners and in bloodlines
+like the Schariacs and Kaslanas. It shows as "None" for almost everyone;
+once it wakes it's graded C to S, and it raises the rank ceiling past
+whatever his resistance allows.
+
+**What it has over resistance:**
+
+1. **It draws power from the Honkai.** In a high-HW zone a resistance
+   Valkyrie weakens as her body works harder; an adaptable one gets
+   stronger.
+2. **It wakes a natural stigma,** which doesn't carry an artificial one's
+   shortened life.
+3. **It grows** with exposure and fighting. Resistance doesn't grow by
+   itself.
+4. **Lower cascade risk,** never zero, because the body isn't at war with
+   itself.
+5. **Faster healing** in tainted air.
+6. **It's needed for S rank and for Divine Keys.**
+
+**The danger:** extreme adaptability is what makes a Herrscher vessel. The
+higher it climbs, the more the Honkai notices him.
+
+**In men:** almost unheard of.
+
+| Grade | Rank ceiling |
+|---|---|
+| None | Set by resistance |
+| C | High C |
+| B | High B |
+| A | High A |
+| S | High S; can touch a Divine Key without dying |
+| Beyond S | The Herrscher threshold |
+
+### What can change them
+
+Only two things, never a settlement "raise":
+
+- **Gifts.** A gift is a trait, and Honkai Resistance is one (see
+  [gifts-and-rewards.md](gifts-and-rewards.md)).
+- **Body modifications** taken out of a run: an artificial stigma, a
+  World Serpent chimera procedure, a Previous Era MANTIS fusion, or a beast
+  core fused into him (see [gifts-and-rewards.md](gifts-and-rewards.md),
+  "Body modification"). A MANTIS fusion or a core is the most likely way a
+  man ever gets Adaptability, and the most likely to kill him.
 
 ## How Eros gets stronger
 
 There is no stat transfer from the runs. His real body has to earn its rank.
 
-- **Adaptability raises the ceiling.** Nothing else can.
+- **Resistance and Adaptability raise the ceiling.** Only gifts and body
+  modifications change them.
 - **Real training and real fights fill the room under the ceiling.** This
   is the grind, and it is slow.
 - **Physical gifts** speed that growth or add abilities, but can't push him
@@ -121,8 +178,21 @@ There is no stat transfer from the runs. His real body has to earn its rank.
     boost the wearer's body (Moegirl, 女武神装甲). A better suit means more
     power; the stigma itself isn't upgraded. Canon never shows one being
     replaced, so in this story a Valkyrie keeps the stigma she got.
+- **How Eros can get a stigma:**
+  - **Artificial:** only as a body modification from a run where he had
+    one. It arrives already in his body. It needs Resistance D, and it shows
+    on any Schicksal scan as a Schicksal stigma in a man with no surgery
+    record.
+  - **Natural:** his own, dormant in his DNA like everyone's. It wakes only
+    with Adaptability. It can't be taken out of a run, because a run body's
+    stigma belongs to that body's DNA. Which stigma he carries is still open.
 - **Divine Keys:** pre-era weapons, the strongest gear that exists. They
   kill anyone below S-grade Adaptability who tries to use one.
+- **MANTIS** (Massively Augmented Neo-Tech Integrated Soldier): a Previous
+  Era human whose genes were fused with a Honkai Beast's, taking its
+  features and abilities (Kevin, Elysia). In the current era, World Serpent
+  has a gentler chimera process with "much lower" side effects (the Gray
+  Serpent, Rozaliya and Liliya). Source: HI3 wiki, MANTIS.
 
 ## Measuring the Honkai (HW)
 

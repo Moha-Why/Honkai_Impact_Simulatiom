@@ -506,7 +506,7 @@ The intake was in a medical room on the next floor. Miss Kudo put her case in a 
 
 "What is it?"
 
-"Honkai Adaptability. It tells us how much Honkai energy your body can handle." She snapped the cuff around my forearm. It was cold. "It's going to sting a bit."
+"Honkai Resistance. It tells us how much Honkai energy your body can handle." She snapped the cuff around my forearm. It was cold. "It's going to sting a bit."
 
 It stung more than a bit. Something like a needle went into the inside of my arm, and then a warmth spread up from it to my elbow, then to my shoulder, an odd buzzing heat as though my arm had fallen asleep from the inside. The machine hummed. A little screen on the front of it showed a row of letters, and a light moved along them from right to left and stopped.
 

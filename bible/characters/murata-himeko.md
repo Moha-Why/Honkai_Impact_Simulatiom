@@ -18,7 +18,8 @@ doesn't hide well.
 - In 2005 an attack meant for her father and Welt nearly killed her. Her
   father died and left her a farewell letter; Welt vanished. She finished
   her PhD and joined Schicksal to find out why.
-- Low Honkai Adaptability and no special talent. She trained her way into
+- Enough Honkai Resistance for a transplant, no Adaptability, and no
+  special talent. She trained her way into
   the Valkyrie Assault Squad at 19, with an artificial stigma that shortens
   her life.
 - In 2010 the Assault Squad was destroyed and she was the only survivor

@@ -39,7 +39,8 @@ A panel opens with its name in brackets, then plain lines.
 Name: Eros
 Age: 18
 Combat Rating: Civilian
-Honkai Adaptability: F
+Honkai Resistance: F
+Honkai Adaptability: None
 Soul: Whole
 Gifts: None
 Fate Fragments: 0
