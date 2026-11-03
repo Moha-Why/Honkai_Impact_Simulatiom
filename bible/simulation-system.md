@@ -17,9 +17,10 @@ each run writes a branch into the Imaginary Tree.
 - Every heroine run gives Eros an identity and a starting point that is
   normal or bad, usually with a hidden route toward the heroine.
 - **Immediate start:** he arrives in his identity with his memories intact.
-- **Childhood start:** his memories and the System stay sealed until the
-  heroine turns 18. He lives the childhood as a real child her age, the
-  years are summarized in log lines, and nothing romantic happens.
+- **Childhood start:** he's born into the run. His memories stay sealed until
+  the heroine turns 18, and a real child lives the years. The childhood is
+  told as detailed log lines, like a normal run, with full scenes at the
+  moments that matter. Nothing romantic happens before 18.
 - Meters and objectives only activate once the heroine is 18 or older.
 
 ## Meters
@@ -49,34 +50,43 @@ each run writes a branch into the Imaginary Tree.
 
 ## Life Path (heroine runs)
 
-Before a heroine run, and again after every reset, the System shows the
-life of Eros's identity as a line of nodes, **from birth to the heroine's
-arc**: birth, then a node every few years (for Mei: ages 5, 6, 9, 12 and
-15), then the year the run is about. Heroine runs **plan** a whole life.
+Heroine runs with a childhood start play the life from birth as a story,
+with forks.
 
-- **The start, chosen each loop:** *wake at the arc* (he arrives with his
-  memories, and the childhood nodes become a past he never lived, which the
-  people who knew that child can notice) or *live it* (he's born into the
-  run; his memories and the System stay sealed until the heroine turns 18,
-  and a real child lives the years; see Starts above).
+- **The log:** young Eros's life runs as detailed log lines in the second
+  person, year by year, as in a normal run: family, school, the people
+  around him, what happens to him. Full scenes at the moments that matter.
+  Not a summary.
+- **Forks:** at a few points (birth, then the moments that matter in that
+  life) the System stops the log and offers options, usually three,
+  sometimes two or four, in the log format:
 
-- **Fixed nodes** are gray and locked: the canon events the run is built
-  around (for Mei: her father's arrest on November 16, Kiana enrolling in
-  December, the Eruption at Chiba Academy in February) and the frame of his
-  identity (in her class).
-- **Open nodes** offer two to four options each: a family at birth, where
-  he is at each age, and in the arc year background, housing, club and start
-  month. Each changes where he begins, what he's been through and who he can
-  reach. Some lead to strange places (for Mei: an orphanage in Siberia, the
-  car on the day she's kidnapped).
-- **Locked "?" nodes** open only after a loop shows him something (for
-  example, "Mr. HOMU's other student" after he reads about a second child
-  in the Raiden dojo).
-- The System never says how fixed a fixed node really is. He learns by
-  pushing on one. Fixed nodes push back through Fate Deviation and
-  correction events, so trying to break one is possible and usually lethal.
-- **Gifts:** one 5-keep-2 draw at the start of the run. He keeps that build
-  through every loop and doesn't rechoose.
+```
+[2007, February. Your mother is dying. Your father calls from Nagazora.]
+Go to him / Stay with your grandmother / Run away from both of them
+```
+
+- **Who chooses:** adult Eros, from the white, outside the life. The child
+  doesn't know a choice was made. He carries it out and lives with it. Some
+  forks are traps, worded by the System to sound safe, and some kill him as
+  a child.
+- **What changes:** every fork changes the rest of the log: where he lives,
+  who he knows, who he becomes, how he reaches the arc. Options marked ???
+  open only after a loop shows him something.
+- **Takeover:** on the heroine's 18th birthday (for Mei, April 13, 2013) his
+  memories return all at once, into a body with a whole lived life in it,
+  and he plays the rest of the run scene by scene.
+- **Repeats:** when he makes the same choices as an earlier loop, the log
+  can say so ("The same as last time, until 2004") and pick up where it
+  changes.
+- **Fixed nodes** stay gray: the canon events the run is built around (for
+  Mei: her father's arrest on November 16, Kiana enrolling in December, the
+  Eruption at Chiba Academy in February, and his place in her class). Some
+  fixed events aren't shown as fixed (for Mei, the 2004 kidnapping). He
+  learns by pushing on them, and they push back through Fate Deviation and
+  correction events.
+- **Gifts:** one 5-keep-2 draw at the start of the run, kept through every
+  loop.
 
 ## Crossroads (normal runs)
 
