@@ -4,7 +4,7 @@
 > chosen once for the whole run, not per loop. The grade comes from hidden
 > criteria (Love, Corruption, Staying), and higher Corruption raises it.
 > The "given freely" fine print and the per-loop gift draws are gone. There
-> is no Adaptability raise; Honkai Resistance is a gift (Blue D, Purple B, Gold A). The loops
+> is no Adaptability raise; Honkai Resistance is a gift (Blue Low D, Purple Low B, Gold Low A). The loops
 > and the settlement below still follow the old rules until the rework.
 
 Target length: 32k to 38k words. Status: plan, waiting for approval.

@@ -74,25 +74,63 @@ Honkai adaptability"). This story splits them into two different things.
 ### Honkai Resistance
 
 The body **withstands** Honkai energy. It's a wall, and it's what most
-Valkyries have. Schicksal's cuff test measures it. It sets a hard ceiling on
-Combat Rating. Women have it far more often than men; most men stay at F for
-life.
+Valkyries have. Schicksal's cuff test measures it. Women have it far more
+often than men; most men stay at F for life.
 
-| Grade | Rank ceiling | What it allows |
-|---|---|---|
-| F | Peak Human | Normal human. Honkai energy only harms him. |
-| E | Low D | Survives mild exposure. |
-| D | High D | Hours in Eruption-level air. Basic battlesuits. Survives an artificial stigma. |
-| C | High C | Standard battlesuits. |
-| B | High B | Frontline gear. |
-| A | High A | Elite gear. The top of what resistance alone can reach. |
+Resistance splits into **Low, Mid and High** like Combat Rating, and it is
+his rank ceiling exactly: Mid C Resistance means a Mid C ceiling.
 
+| Grade | What it allows |
+|---|---|
+| F | Normal human; ceiling Peak Human. Honkai energy only harms him. An artificial stigma transplant kills him. |
+| E | Survives mild exposure. Survives an artificial stigma. |
+| D | Hours in Eruption-level air. Basic battlesuits. |
+| C | Standard battlesuits. |
+| B | Frontline gear. |
+| A | Elite gear. The top of what resistance can reach. |
+
+- **Without a stigma:** resistance alone is survival and a ceiling, not
+  power. Training and exposure can take him past Peak Human, up to Low D at
+  most. Every hard push risks the energy pooling in him with nowhere to go,
+  and that ends in a cascade (story ruling; not stated on the canon pages).
 - **The cost of resistance:** the body is always fighting the energy. Under
   an artificial stigma and a battlesuit reactor, that fight is where the
   shortened life, the slow decay and the cascade risk come from.
 - **Himeko is the model:** resistance, no adaptability, an artificial
   stigma, and she trained her way to the top.
 - **Knights** (male Valkyries) are men with good resistance.
+
+### Artificial stigmata and Resistance
+
+Canon (HI3 wiki, Stigmata/Story): an artificial stigma "does allow for a
+higher Honkai energy adaptability," but it shortens the candidate's life
+significantly and the cascade risk rises over time. In this story's terms,
+it raises Resistance, and the drawbacks are the price.
+
+Each stigma has a grade: a **standard Schicksal stigma is C**, a
+**top-quality one is B**.
+
+| His Resistance | What the stigma does | Drawbacks |
+|---|---|---|
+| F | The transplant kills him. | |
+| Below the stigma's grade | Lifts him to the Low of the stigma's grade | They show, and the bigger the gap, the worse. One grade: Himeko's shortened life and slow decay. Two grades: visible symptoms, faster decay, and regular maintenance from someone who knows Schicksal stigmata. |
+| At or above the stigma's grade | Raises him to the High (peak) of his own grade | Mild and slow. His life is still shorter, as canon says it always is, but his body barely fights it. |
+
+Examples for Eros: the Blue gift (Low D) plus a standard stigma lifts him
+to Low C with Himeko-level drawbacks. A Purple gift (Low B) plus the same
+stigma raises him to High B with mild ones.
+
+### What each one gives
+
+| | Resistance gift | Artificial stigma | Natural stigma |
+|---|---|---|---|
+| Resistance | Raises it cleanly | Raises it, at a cost (above) | Comes with Adaptability |
+| Power | None. Survival and the ceiling only. | Raw strength, reflexes and healing, and the link to a battlesuit. The suit decides the abilities (Moegirl, 女武神装甲). | A unique ability or bloodline power that grows |
+| Cost | None | Shorter life, decay, cascade risk | Draws the Honkai's attention |
+
+The gift is the clean way up and the stigma is the dirty one that also
+gives power. They stack: the higher his gift Resistance, the smaller the
+stigma's drawbacks.
 
 ### Honkai Adaptability
 
@@ -134,14 +172,15 @@ higher it climbs, the more the Honkai notices him.
 
 Only two things, never a settlement "raise":
 
-- **Gifts.** A gift is a trait. Honkai Resistance is one (Blue D, Purple
-  B, Gold A), and a Red gift can wake Honkai Adaptability (see
-  [gifts-and-rewards.md](gifts-and-rewards.md)).
-- **Body modifications** taken out of a run: an artificial stigma, a
-  World Serpent chimera procedure, a Previous Era MANTIS fusion, or a beast
-  core fused into him (see [gifts-and-rewards.md](gifts-and-rewards.md),
-  "Body modification"). Besides the Red gift, a MANTIS fusion or a core is
-  the only way a man ever gets Adaptability, and the most likely to kill him.
+- **Gifts.** A gift is a trait. Honkai Resistance is one (Blue Low D,
+  Purple Low B, Gold Low A), and a Red gift can wake Honkai Adaptability
+  (see [gifts-and-rewards.md](gifts-and-rewards.md)).
+- **Body modifications** taken out of a run: an artificial stigma (see
+  above), a World Serpent chimera procedure, a Previous Era MANTIS fusion,
+  or a beast core fused into him (see
+  [gifts-and-rewards.md](gifts-and-rewards.md), "Body modification").
+  Besides the Red gift, a MANTIS fusion or a core is the only way a man
+  ever gets Adaptability, and the most likely to kill him.
 
 ## How Eros gets stronger
 
@@ -156,13 +195,13 @@ There is no stat transfer from the runs. His real body has to earn its rank.
 - **Experience packages** give him technique. His body has to catch up
   through training before he can use it fully.
 - **Items and gear** (battlesuits, weapons) add power, within what his
-  Adaptability allows. A stigma is not gear (see below). How Eros gets one
-  is still open.
+  Resistance or Adaptability allows. A stigma is not gear (see below).
 
 ## Gear
 
 - **Battlesuits:** combat suits that amplify the wearer. Each needs a
-  minimum Adaptability grade.
+  minimum Resistance grade, and a stigma to link to (the suit feeds it
+  through its reactor).
 - **Stigmata are part of the body, not equipment.** Swapping stigmata in and
   out is a game mechanic, not lore. Canon has three types:
   - **True (Herrscher) stigmata:** tied to a Herrscher Core; every Previous
@@ -181,9 +220,9 @@ There is no stat transfer from the runs. His real body has to earn its rank.
     replaced, so in this story a Valkyrie keeps the stigma she got.
 - **How Eros can get a stigma:**
   - **Artificial:** only as a body modification from a run where he had
-    one. It arrives already in his body. It needs Resistance D, and it shows
-    on any Schicksal scan as a Schicksal stigma in a man with no surgery
-    record.
+    one. It arrives already in his body and follows the Resistance rules
+    above (it kills him at F). It shows on any Schicksal scan as a
+    Schicksal stigma in a man with no surgery record.
   - **Natural:** his own, dormant in his DNA like everyone's. It wakes only
     with Adaptability. It can't be taken out of a run, because a run body's
     stigma belongs to that body's DNA. Which stigma he carries is still open.

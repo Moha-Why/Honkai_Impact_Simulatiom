@@ -31,12 +31,13 @@ A trait like any other: his body withstands Honkai energy at that grade.
 
 | Color | Resistance |
 |---|---|
-| Blue | D: the lowest Valkyrie-tier body; hours in Eruption-level air; survives an artificial stigma |
-| Purple | B: a frontline body |
-| Gold | A: the top of what resistance can reach |
+| Blue | Low D: the lowest Valkyrie-tier body; hours in Eruption-level air |
+| Purple | Low B: a frontline body |
+| Gold | Low A: the top of what resistance can reach |
 
-- There is no White or Green version, and no gift gives C (C comes from body
-  modifications, such as a Schicksal artificial stigma).
+- There is no White or Green version, and no gift gives C. C comes from an
+  artificial stigma lifting him (see [power-scale.md](power-scale.md),
+  "Artificial stigmata and Resistance").
 - Merging two copies gives the next color as usual.
 - It's a ceiling, not power. With B Resistance and no training he's still a
   Civilian, only one who's allowed to grow into a frontline Valkyrie.
@@ -139,9 +140,10 @@ which items are allowed, and how many Fate Fragments he's paid.
     life and cascade risk; a MANTIS fusion's beast traits, visible changes
     (Elysia's ears) and instincts.
   - His real body has to be able to survive it. If it can't, the card shows
-    grayed out ("Requires Honkai Resistance D"). He sees it and can't take
+    grayed out ("Requires Honkai Resistance E"). He sees it and can't take
     it.
-  - Colors: Schicksal artificial stigma Purple (top quality Gold); World
+  - Colors: standard Schicksal artificial stigma (grade C) Purple; top
+    quality (grade B) Gold; World
     Serpent chimera Purple to Gold; MANTIS fusion Gold, Red if the beast was
     bound to a Herrscher. Grade caps apply as for items.
   - A natural stigma, a Herrscher core and a Divine Key can't be taken.
