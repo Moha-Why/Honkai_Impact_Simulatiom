@@ -245,39 +245,198 @@ An ME Corp man was access. If I was going to learn how the meters worked, I want
 ```
 [1995, March. You are born in Malmö, Sweden, at four in the morning, in the middle of a storm off the Øresund. Your father is on a plane over the Pacific. He sees you for the first time eleven days later, through the glass of the nursery, in a suit, with his coat over his arm.]
 [1995. Your mother, Karin, names you Eros because she liked the sound of it in a poem at school. Your father would have preferred Erik. He doesn't argue. He's rarely home long enough to argue.]
-[1997. You are two. You have a red wooden horse, a grandmother who lives three streets away and makes cardamom buns on Saturdays, and a father who sends postcards from Kobe, Singapore and a city called Nagazora that has a tower on the front made entirely of glass.]
-[1999. You are four. You learn to read from the postcards. Your mother pins them on the kitchen wall in rows. By the end of the year there are forty-one of them.]
-[2001. You start school. You are quiet, and very good at sums, and the teacher calls your mother in to ask whether you've been tested for anything. You haven't. Your mother says you're just a quiet boy who likes numbers.]
-[2002. Your father comes home for Christmas for the first time in three years. He brings you a calculator from Japan that does things calculators in Sweden don't. He spends most of the holiday on the phone in English, in the room with the door closed.]
-[2004. You are nine. Your mother starts getting tired in the afternoons. She says it's the winter.]
-[2005. It isn't the winter.]
-[2005 to 2006. You learn the names of a lot of medicines. You learn to make soup. Your grandmother comes every day with the buns and pretends not to cry in the kitchen. Your father calls on Sundays, from Nagazora, where he's been promoted. He says he'll come. He says it every Sunday.]
+[1997. You are two. You have a red wooden horse, a grandmother three streets away whom you call Mormor, who makes cardamom buns on Saturdays and has a fat gray cat called Sigge, and a father who sends postcards from Kobe, Singapore and a city called Nagazora that has a tower on the front made entirely of glass.]
+[1998, August. You are three. Your father has been home for a week, the longest since you were born. He flies out of Copenhagen in the morning. His passport is on the hall table, next to his keys, at the height of your eyes.]
+Wave goodbye / Cry until he promises to stay / Hide the passport
 ```
 
-The log ran on in front of me in the white, line after line, and I watched it go by like the minutes of someone else's meeting. I'd half expected it to be faster. Every year arrived whole, with its weather in it.
+The log ran on in front of me in the white, line after line, and I watched it go by like the minutes of someone else's meeting. I'd half expected it to be faster. Every year arrived whole, with its weather in it, and then the tape stopped on a hall table in 1998 and waited for me.
 
-The boy was very quiet. He had a mother who pinned postcards to a kitchen wall and a father made of airports, and he did what I'd have done at his age, which was count things. Medicines. Days. Postcards.
+"Hide the passport."
 
-Then the tape stopped.
+[He's three,] said the System.
+
+"Exactly." I wanted to know how far I could point him, and a three-year-old was the cheapest place to find out.
+
+```
+[1998, August. You put the passport in the bread bin, under Saturday's buns, and say nothing. Your father turns the flat upside down for two hours and misses his flight. The passport office at the police station can't give him a new one until Thursday.]
+[1998, August. Four extra days. It rains on all of them. On the Tuesday your mother makes the three of you walk to Ribersborg anyway, and a stranger with an umbrella takes your picture on the pier. Your father with his trousers wet to the knee. Your mother laughing. You on his shoulders in a yellow raincoat.]
+[1998, August. On the Thursday your grandmother finds the passport in the bread bin. Your father looks at you for a long time. Then he laughs, once. It's the only time you'll ever hear him do it. Before he goes he asks your mother for a copy of the photograph from the pier. He has never asked for a copy of anything.]
+[1999. You are four. You learn to read from the postcards. Your mother pins them on the kitchen wall in rows, around the photograph from the pier. By the end of the year there are forty-one of them.]
+[2000, February. You are nearly five. The television in the kitchen shows a city in Siberia that isn't there any more. A red glow under the clouds, filmed from a helicopter. A man in a uniform speaking Russian. Your mother turns it off and says it's very far away.]
+Ask her to turn it back on / Go back to your drawing / Ask her how far
+```
+
+"How far," I said.
+
+I wanted to see what he did with a question when I handed him one.
+
+```
+[2000, February. Your mother gets down the atlas and a piece of red wool, and the two of you measure from Malmö to the place on the map where the city was. Two thousand nine hundred kilometers. "Further than Nagazora?" you ask. "No," she says. "Nagazora is further." You go to bed and don't sleep.]
+[2000, March. You start a scrapbook. Every time the newspaper has a Honkai in it you cut it out, glue it in, and measure it with the red wool. You write the distance underneath in pencil. Your mother calls it the Book of Bad Days. She buys you a second one when the first is full.]
+[2000, June. Your grandmother keeps a glass bird on the windowsill of her front room, blue, with a gold beak. It was her mother's. It came from Venice in 1931 in a box of straw. You're told every Saturday not to touch it.]
+[2000, June. You touch it.]
+Tell Mormor / Blame Sigge / Glue it back together and put it on the sill
+```
+
+"Blame the cat."
+
+I'd drawn a face that didn't lie on the outside, and I wanted to watch it work on someone who'd known the boy since the day he was born.
+
+```
+[2000, June. You stand in the front room with the pieces at your feet and Sigge asleep on the sofa, and you say Sigge did it. Your face is sad and sorry and nothing else. Your grandmother looks at you, and at the cat, and at the pieces, for a long time.]
+[Liar's Face: the face holds. A five-year-old who doesn't once look guilty.]
+[2000, July. Sigge goes to live with the Bergs downstairs. Your grandmother says it's her knees, and the stairs, and the litter. On Saturdays you stand in the courtyard and look up at him in the Bergs' window, and he looks down.]
+[2001, March. Page nine of the Book of Bad Days is a cutting from Sydsvenskan. A Russian army officer in a greatcoat has opened a home for the children of the Siberian city. She's standing at the gate with a child holding each of her hands. Your wool says two thousand nine hundred kilometers again.]
+```
+
+The boy was very quiet. He had a mother who pinned postcards on a kitchen wall and a father made of airports, and he did what I'd have done at his age, which was count things. Postcards. Distances. The days until his father came.
+
+```
+[2001, August. You start school. You're quiet, and very good at sums. In October the teacher calls your mother in to ask whether you've been tested for anything. The school psychologist comes on Wednesdays.]
+Let them test you / Get the answers wrong on purpose / Tell your mother you don't want to
+```
+
+"Let them."
+
+I wanted the number. I'd been sure, without ever saying so, that whoever lived this life would turn out to be some small copy of me.
+
+```
+[2001, November. The psychologist gives you blocks and pictures and a booklet of sums. You finish the sums first and get the blocks wrong. Your score is 104.]
+[2001, November. She tells your mother you're a perfectly ordinary boy who has done a great deal of counting. She asks whether there's something at home he counts. Your mother looks at the kitchen wall.]
+```
+
+[A hundred and four,] said the System, delighted. [He isn't you, Eros. He's a little boy whose father is a wall.]
+
+"He's mine," I said. "For eighteen years."
+
+[You're very busy,] it said. [Four stops, and he's six.]
+
+"It's the first loop. I'm learning the engine."
+
+```
+[2002, December. Your father comes home for Christmas for the first time in three years. He brings you a calculator from Japan that does things calculators in Sweden don't. He spends most of the holiday on the phone in English, in the room with the door closed.]
+[2003, March. You are eight. You write your father a letter in English, out of a book, about the calculator and about Sigge in the Bergs' window. You copy the address off the newest postcard. It only has the name of the tower on it.]
+Address it to your father / Address it to the boss of the glass tower / Don't send it
+```
+
+"The boss."
+
+The boss of that tower in 2003 was Raiden Ryoma. I wanted to see how many floors a letter from a child could climb before somebody put it in a bin.
+
+```
+[2003, March. You write TO THE BOSS OF THE GLASS TOWER, NAGAZORA, JAPAN on the envelope in capitals. Your grandmother pays for the stamp without reading it.]
+[2003, May. A letter comes back. Thick cream paper, typed in English, signed in ink.]
+[Dear Eros. Your letter reached me, which surprised several people. Your father is a valued member of our overseas staff, and I have passed on your news about the calculator. I have a daughter your age. She is learning kendo, and she is better at it than I was. I hope your cat comes home. Yours sincerely, Raiden Ryoma.]
+[2003, May. Your mother pins it on the kitchen wall, in the middle, above the photograph from the pier.]
+[2003, June. Your father calls on a Wednesday, which he never does, and asks what on earth you were thinking. He doesn't sound angry. He sounds like a man whose name has started coming up at work.]
+```
+
+I read the signature twice. I'd expected the letter to land in a mail room and teach me where the ceiling was.
+
+[He liked the cat,] said the System.
+
+```
+[2004. You are nine. Your mother starts getting tired in the afternoons. She says it's the winter.]
+[2005. It isn't the winter.]
+[2005, February. The doctor at the hospital in Lund uses a word your mother asks him to spell. That night she sits on the end of your bed and asks you not to tell your father how bad it is. He's just been made a director. She wants to tell him herself, at Easter, when he's home.]
+Keep her secret / Tell him on Sunday / Tell him it's worse than it is
+```
+
+"Worse."
+
+A father at home was a father with a laptop on the kitchen table. I wanted to see whether a ten-year-old's voice on a Sunday call could move a man across the world.
+
+```
+[2005, February. On Sunday you tell your father the doctor said weeks. Liar's Face does nothing on a telephone. Your voice shakes from the first word to the last. He thinks it's grief.]
+[2005, February. He's on a plane on Monday. He comes through the door on Tuesday night with his coat still on, and your mother is at the kitchen table marking spelling tests, alive and tired and very surprised to see him.]
+[2005, February. They fight in the kitchen in English so you won't understand. You understand. "He's ten, Anders." "He said weeks." "And you believed him? You believed him and not me, for six months, when I said I was fine?"]
+[2005, February. He flies back on the Thursday. After that, on Sundays, he asks to speak to your mother first.]
+[2005 to 2006. You learn the names of a lot of medicines. You learn to make soup. Your grandmother comes every day with the buns and pretends not to cry in the kitchen. Your father calls on Sundays from Nagazora. He says he'll come. He says it every Sunday.]
+[2006, April. You are eleven. The kitchen computer still has your father's company webmail saved in the bookmarks from Christmas. It asks for a password.]
+Believe him / Ask Mormor to call him / Find out for yourself
+```
+
+"Find out."
+
+[He's a hundred and four,] said the System.
+
+"He's got all spring."
+
+```
+[2006, April to May. You try your birthday, your mother's birthday, Karin, Eros, Sigge, Malmö and the name of the tower. You keep the list in the back of the Book of Bad Days. Attempt two hundred and six, on a Sunday night in May, straight after the call, is Ribersborg98.]
+[2006, May. His calendar. He has booked a flight to Copenhagen four times since February. He has cancelled it four times, each on the Friday before.]
+[2006, May. You log in every Sunday night after that, after the call, to see whether what he said was true. It mostly isn't. You never tell anyone. You never miss a Sunday.]
+```
+
+[Two hundred and six,] said the System. [You'd have got it in one.]
+
+"I was there when he asked for the copy."
 
 ```
 [2007, February. Your mother is dying. Your father calls from Nagazora. He says there's a place for you there, with him, in the company tower. He says it as people say things they've been told to say by a lawyer.]
 Go to him / Stay with your grandmother in Malmö / Run away from both of them
 ```
 
-[He's twelve,] said the System. [Be gentle.]
+[He's eleven,] said the System. [Be gentle.]
 
-I didn't need long. If I went to him at twelve, the boy would grow up in Nagazora for six years, in the tower, at an international school, maybe at Chiba Academy, maybe near her. He'd make a life there I couldn't see. She'd have years to look at him.
+I didn't need long. If I sent him to his father at eleven, the boy would grow up in Nagazora for six years, in the tower, at an international school, maybe at Chiba Academy, maybe near her. He'd make a life there I couldn't see. She'd have years to look at him.
 
-I wanted to arrive clean. A stranger in October, with a father who left his access card on the hall table and nobody who'd ever seen me before.
+I wanted to arrive clean. A stranger in October, with a father who left his access card on the hall table and nobody in the city who'd ever seen my face.
 
 "Stay with the grandmother."
 
 ```
-[2007, March. Your mother dies on a Tuesday, at home, in the afternoon, with the postcards still on the kitchen wall. Your father arrives on the Thursday. He stays nine days. He shakes your hand at the airport when he leaves.]
-[2007 to 2012. You live with your grandmother in her flat three streets away. She is seventy-eight and then she is eighty-three. You do the shopping. You do her accounts. You finish school two years early and nobody in Malmö knows what to do with you.]
-[2011. You are sixteen. A teacher at the gymnasium tells you that you should apply to a university abroad, somewhere with a computer science department that can keep up. You say you'll think about it. You don't, because your grandmother has started forgetting where she put the stove.]
-[2012, December. Your grandmother falls in the kitchen and breaks her hip.]
+[2007, March. Your mother dies on a Tuesday, at home, in the afternoon, with the postcards still on the kitchen wall. Your father arrives on the Thursday. He stays nine days. On the last day he takes Mr. Raiden's letter and the photograph from the pier off the wall and puts them in his briefcase. He leaves the postcards. He shakes your hand at the airport.]
+[2007 to 2008. You live with your grandmother in her flat three streets away. She's seventy-eight and then seventy-nine. You do the shopping. You do her accounts. Sigge is still in the Bergs' window, fatter.]
+[2008, September. You are thirteen. At ten in the morning something comes up out of the water off Copenhagen. Across the sound, twenty-five kilometers away, the sirens go on in Malmö for real, for the first time anyone can remember. The school puts you all in the sports hall and locks the doors. Through the high windows the sky over the Øresund goes the color of a bruise.]
+Stay with the class / Climb out of the toilet window and go home to Mormor / Climb out and go down to the harbor to see
+```
+
+"The harbor."
+
+I had a Blue card in this body, and I'd never seen it do anything. I wanted to know what Low D looked like at thirteen.
+
+```
+[2008, September. You stand at the end of the pier at Västra Hamnen with your hands in your pockets for forty minutes. Over Copenhagen there are lights going up and down, very fast, like sparks off a grinder. The air tastes of coins. Two men further along the pier sit down, and then lie down.]
+[Honkai Resistance: Low D. Your nose bleeds. Your head aches for three days. You aren't sick.]
+[2008, September. When the parents come to the sports hall your grandmother isn't one of them, because you aren't there. She walks to the school, and then to the flat, and then to the harbor, seventy-nine years old, in the bruise-colored air, calling your name. She finds you at half past one.]
+[2008, October. Three weeks in the hospital in Lund, on a ward with forty other people from the harbor. Honkai sickness, the doctors say. Mild. She'll get better. She mostly does.]
+```
+
+[You forgot she'd come looking,] said the System.
+
+"I didn't think about her at all."
+
+[No,] it agreed.
+
+```
+[2009, January. You are thirteen. Your English teacher signs the class up for pen pals in Japan and reads out the names. You take the list home, because you're the only one who wants Japan.]
+Kuroda Shun, Nagazora, 13 / Aoki Yui, Sapporo, 14 / Tell her you've changed your mind
+```
+
+"Nagazora."
+
+Someone in the city who'd never seen my face, who'd be eighteen when I got there and would already think he knew me.
+
+```
+[2009 to 2012. Kuroda writes in big confident English about baseball, his father's construction company, a dog called Leo, and a girl in his year at Chiba Academy who everybody's afraid of. You write to him about snow and the Book of Bad Days. He's the only person you ever tell about the harbor.]
+[2010. He sends you a photograph of himself in a baseball uniform, grinning, with his arm round Leo. You don't send one back. The only photograph of you is in your father's briefcase.]
+[2012, March. His last letter. "My father says I'm too old for pen pals. Come to Japan, Swedish. I'll show you everything."]
+[2009 to 2011. You finish school. You're a perfectly ordinary pupil who is very good at sums. Your grandmother is eighty, and eighty-one, and eighty-two.]
+[2011, autumn. You are sixteen. Your grandmother leaves the stove on twice in a week, and then every week. She puts the milk in the bread bin. She calls you Karin. The doctor in Lund said the harbor might do this, years later. He said it might not.]
+[2011, November. A social worker comes to the gymnasium to talk to the older pupils about getting help at home.]
+Tell her / Hide it / Write to your father
+```
+
+"Hide it."
+
+A social worker meant a file, and a file meant somebody else deciding where the boy lived before I did.
+
+```
+[2011 to 2012. You hide it. You take the knobs off the stove when you leave for school and put them in your pocket. You do the shopping, the accounts, the pills in the little box with the days on the lid. Nobody at school notices anything, because your face never gives them anything to notice.]
+[2012, a Saturday in spring. Your grandmother stands in the front room and looks at the empty windowsill for a long time. "You broke the bird," she says. "Sigge never went in this room. I knew the whole time, Eros. I wanted to see if you'd tell me." The next Saturday she doesn't remember saying it. You don't tell her.]
+[2012, December. You forget the stove knobs once, on a Friday. She puts a pan on at six in the evening for buns that don't need a pan, and the kitchen fills with smoke, and she falls running for the door and breaks her hip.]
 [2013, April 13.]
 ```
 
@@ -285,7 +444,7 @@ I wanted to arrive clean. A stranger in October, with a father who left his acce
 
 I woke up in Malmö at the bottom of a boy.
 
-That was what it felt like. Like coming up out of very deep water and finding somebody's life already floating on the surface, warm and lived in. Eighteen years of it, all at once. Cardamom buns. The kitchen wall with the postcards on it. The smell of my mother's room at the end, and the soup I'd learned to make, and a man at an airport shaking my hand.
+That was what it felt like. Like coming up out of very deep water and finding somebody's life already floating on the surface, warm and lived in. Eighteen years of it, all at once. Cardamom buns. The kitchen wall with the postcards on it, and the pale square in the middle where a letter and a photograph had hung for four years. The smell of my mother's room at the end, and the soup I'd learned to make, and a man at an airport shaking my hand. The taste of coins on a pier. The stove knobs in my coat pocket, where my hand had gone looking for them every morning for a year.
 
 It was mine. I'd been him all the way down, and now I was me again, with all of him in me, and for a long moment in the gray light of a Swedish morning I lay in a single bed in a dead woman's flat and didn't know which of us was going to get up.
 
@@ -294,7 +453,7 @@ Then I did, and it was me.
 [Good morning,] said the System. [Happy birthday to her.]
 
 ```
-[2013, May. Your grandmother goes into a home. Your father arranges it by email.]
+[2013, May. Your grandmother goes into a home. Your father arranges it by email. You read the emails on Sunday night, as you always have.]
 [2013, August. Your father writes that there's a school in Nagazora that will take you for the third year, Chiba Academy, on his company's recommendation. He doesn't ask.]
 [2013. When do you go?]
 September / October
@@ -317,6 +476,8 @@ My father met me at the door of the flat on the twenty-second floor in a gray su
 "Good. Your room's at the end. There's money on the card." He put a black card on the hall table next to a bowl of keys and his own access badge, which he left there, because he was the kind of man who left his access badge on a hall table. "I'm in Osaka until Thursday. Don't wait up."
 
 He was gone before I'd taken my shoes off.
+
+There was one photograph on the hall table, in a plain steel frame behind the bowl of keys. A pier in the rain, a man with his trousers wet to the knee, and a boy in a yellow raincoat on his shoulders.
 
 [He seems nice,] said the System.
 
@@ -374,7 +535,7 @@ The second was that people tried. They tried constantly. On my third day a boy f
 
 She didn't say it unkindly. She said it as she'd have closed a door in a draft, without hurry and without leaving it open a crack, and then she inclined her head to him very slightly, as though he'd done her a small honor by asking, and walked away.
 
-The third thing was Kuroda Shun, who was in 3-B and handsome in a way that took him twenty minutes in the morning, and who'd confessed to her in the spring in that same courtyard, in front of all his friends, absolutely sure of a yes. Everyone told me about it within a day. It was a legend. "I'm sorry. No." His friends still said it to him, in her voice, when he dropped something. He laughed every time, and his eyes didn't.
+The third thing was Kuroda Shun. He found me at the shoe lockers on my first morning, tall and handsome in a way that took him twenty minutes, and shouted "Swedish!" so loudly that half the corridor turned round. He'd seen my name on the transfer list. Four years of letters about snow and baseball, and he hugged me as if we'd been at school together since we were six, and by lunchtime I had a friend I'd never met and a seat at a table full of boys from 3-B. He'd confessed to her in the spring, in that same courtyard, in front of all of them, absolutely sure of a yes. His friends told me about it before he could. It was a legend. "I'm sorry. No." His friends still said it to him, in her voice, when he dropped something. He laughed every time, and his eyes didn't.
 
 None of that was in the game, and I filed all of it, because all of it was going to matter later.
 
@@ -449,7 +610,7 @@ It didn't drop. It was already at Wary. It just stopped looking like a starting 
 
 *Then what went wrong?*
 
-[You told her three things nobody could know, in a row, with a beautiful face.] It sounded genuinely pleased. [She doesn't read faces, Eros. She reads what people say.]
+[You told her three things nobody could know, in a row, with a beautiful face.] It sounded genuinely pleased. [She doesn't read faces, Eros. She reads what people say.] A pause. [Your grandmother could have told you that.]
 
 ---
 
@@ -525,7 +686,13 @@ It was beautiful work. I admired it for a while before I did anything with it.
 
 Then I did everything with it, all at once, because it didn't matter.
 
-I called Ryoma's office from a phone box by the station and told a secretary who didn't believe me that her employer was being framed, and that the person framing him was a woman called Cocolia who ran an orphanage in Russia and was about to be very important at ME Corp. I wrote it all out in a letter and posted it to the house on the hill. I put together a folder, with printouts from my father's laptop and a page in my own handwriting explaining what they meant, and I took it to a freelance reporter called Hoshino Kei, who wrote about ME Corp for a business weekly and had, according to her own blog, been told twice by her editor to stop.
+I called Ryoma's office from a phone box by the station and gave the secretary my name, and a letter about a cat did what I'd sent it to do, ten years late. She put me on hold. Then a man's voice, measured and formal, said in English, "The boy from Malmö."
+
+I told him he was being framed, and that the person framing him was a woman called Cocolia who ran an orphanage in Russia and was about to be very important at ME Corp. He let me finish. He didn't ask me where I'd got it.
+
+"Thank you," he said. "Don't call this number again."
+
+The line went dead. I wrote it all out in a letter and posted it to the house on the hill. I put together a folder, with printouts from my father's laptop and a page in my own handwriting explaining what they meant, and I took it to a freelance reporter called Hoshino Kei, who wrote about ME Corp for a business weekly and had, according to her own blog, been told twice by her editor to stop.
 
 She met me in a coffee shop near the station in a man's raincoat a size too big, with ink on her fingers and a phone that kept dying. She read the folder twice while her coffee went cold.
 
@@ -564,7 +731,7 @@ I sat on the couch and watched the same thirty seconds of film go round on every
 
 On Monday, the class noticed.
 
-I'd known it was going to happen, and I'd known roughly how, and it was still something to watch. The three girls didn't sit with her at lunch. They didn't say anything about it. They just went to a different table, with their trays, laughing about something, and she sat by the window with her lacquered box, and nobody else sat down. By Wednesday Natsumi had moved her desk six inches further away. By Friday somebody had written something on the desk in marker, and she'd found it before anyone else came in and scrubbed it off with a wet tissue, and the smell of the cleaning fluid was still in the room at nine.
+I'd known it was going to happen, and I'd known roughly how, and it was still something to watch. The three girls didn't sit with her at lunch. They didn't say anything about it. They just went to a different table, with their trays, laughing about something, and she sat by the window with her lacquered box, and nobody else sat down. By Wednesday Natsumi had moved her desk six inches further away. By Friday somebody had written something on the desk in marker, and she'd found it before anyone else came in and scrubbed it off with a wet tissue, and the smell of the cleaning fluid was still in the room at nine. Kuroda told me at lunch who'd written it, grinning, and waited for me to laugh, and I laughed.
 
 I watched her through all of it with my perfect face, and somewhere around Thursday I caught myself thinking a sentence, all the way to the end, before I noticed what it was.
 
@@ -589,7 +756,7 @@ On the eighth of December Cocolia was on the television in my father's kitchen, 
 
 "ME Corp will honor every contract," she said. "Nothing about our mission has changed."
 
-My father watched her with the expression of a man calculating whether he still had a job. I watched her because she'd been in my first life for years, as an icon on a menu, and I'd never seen her look at anything.
+My father watched her with the expression of a man calculating whether he still had a job. I watched her because she'd been in my first life for years, as an icon on a menu, and in the boy's life since he was six, on page nine of the Book of Bad Days, in a greatcoat at a gate with a child holding each of her hands. I'd never seen her look at anything.
 
 Hoshino Kei had stopped answering her phone the week before.
 
@@ -603,7 +770,7 @@ He came home at nine at night, which he never did, and he didn't take his coat o
 
 I didn't say anything. I didn't need to ask what.
 
-"There's an audit," he said. "Since Saturday. They pulled the access logs for every terminal in the building and every login from outside it, and mine came up from this flat at two in the morning on a Sunday in October, when I was in a hotel in Osaka." He was speaking very quietly and very fast. "They're asking about you at work, Eros. Not about me. About you. A woman from security came to my office today and asked what my son was studying."
+"There's an audit," he said. "Since Saturday. They pulled the access logs for every terminal in the building and every login from outside it, and mine came up from this flat at two in the morning on a Sunday in October, when I was in a hotel in Osaka. And from Malmö. Every Sunday night for seven years. From your grandmother's flat." He was speaking very quietly and very fast. "They're asking about you at work, Eros. Not about me. About you. A woman from security came to my office today and asked what my son was studying."
 
 "What did you tell her?"
 
@@ -611,7 +778,11 @@ I didn't say anything. I didn't need to ask what.
 
 "All right."
 
-He nodded once, and went to bed, and I lay on mine and thought it through. They'd found the logins. Somebody had connected them to the phone call and the letter and the folder. It was all going to come down on me sooner or later, and I didn't care, because I'd learned what I came to learn. I was going to give it until the weekend, and on the weekend I was going to reset the file myself, and load a new one, and do none of it.
+He nodded once and turned to go, and stopped with his back to me.
+
+"Then you know about the flights," he said.
+
+He went to bed. I lay on mine and thought it through. They'd found the logins. Somebody had connected them to the phone call and the letter and the folder. It was all going to come down on me sooner or later, and I didn't care, because I'd learned what I came to learn. I was going to give it until the weekend, and on the weekend I was going to reset the file myself, and load a new one, and do none of it.
 
 [You've decided something,] said the System.
 
@@ -658,7 +829,7 @@ I stood in the white and breathed for a while. I had a body here, too, the one f
 
 I told it, out loud, because I wanted to hear it in my own voice.
 
-"I don't use what I know on her. Not ever. Not her mother, not her teacher, not how she won a kendo final. I use it on the world." I counted it off on fingers I could see in the white. "Corruption sits on top of Affection and Trust. She has to let me close first. Cocolia's people watch the Raidens, and they kill anyone who digs. And the arrest has to happen." I stopped. "I want it to happen."
+"I don't use what I know on her. Not ever. Not her mother, not her teacher, not how she won a kendo final. I use it on the world." I counted it off on fingers I could see in the white. "Corruption sits on top of Affection and Trust. She has to let me close first. Cocolia's people watch the Raidens, and they kill anyone who digs. Whatever I make the boy do comes up with me when I wake. And the arrest has to happen." I stopped. "I want it to happen."
 
 [Do you?]
 

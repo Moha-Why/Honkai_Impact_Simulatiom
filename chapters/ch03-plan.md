@@ -78,7 +78,17 @@ part of the Life Path.
 
 ### Loop 1: "The Test Save" (about 5k words)
 
-As written: an ME Corp manager's son. He uses foreknowledge on Mei ("How do
+As written: an ME Corp manager's son. The childhood has eleven forks (the
+test save: he's learning the engine). The passport in the bread bin (the
+pier photograph, Ribersborg98), "how far" (the Book of Bad Days, Cocolia on
+page nine), the glass bird blamed on Sigge (Mormor knew), the test (104,
+an ordinary boy), the letter to the boss of the glass tower (Ryoma answers,
+and in November takes his call), "tell him it's worse" (the false alarm,
+the fight), the password (every Sunday for seven years; the audit finds
+it), stay with the grandmother, the harbor (Low D holds; Mormor gets Honkai
+sickness looking for him), the pen pal (Kuroda, his friend in 3-B, who
+writes on her desk), and hiding her forgetting (the stove, the hip). After
+18 he uses foreknowledge on Mei ("How do
 you know that name?"), calls the loop bricked, pokes the bait, and the gray
 car kills him. **Unlocks:** kendo manager; Tanabe's nephew (birth).
 **Lesson:** never use what he knows on her; Cocolia's people kill diggers.
