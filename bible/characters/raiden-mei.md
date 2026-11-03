@@ -69,12 +69,36 @@ confessions stop overnight, and the nickname turns into a sneer.
 - When hurt, she goes quiet and polite and shuts the door. She doesn't cry
   in front of people.
 
+### Her three faces (story, built on canon and on how Chinese fanfic
+writes her)
+
+- **The Lightning Queen (before November 16):** proud and confident, the
+  untouchable heiress of the school. Not cruel, but her grades, manners and
+  status make other students feel small. Polite and razor-sharp; a
+  rejection is a door closed without hurry and without a crack left open.
+  The school legend is that on Valentine's Day in her first year she turned
+  down twelve boys before lunch (a fan detail, not confirmed in canon; the
+  canon alias "Queen of Thunder" comes from her standing at school).
+- **The fallen heiress (after November 16):** withdrawn, afraid of contact,
+  sure anyone who comes near her wants to mock her or use her. Brief,
+  formal, distance-making speech. Inside: "Don't get close to me," "I'm a
+  criminal's daughter." She can feel something wrong building in her body
+  (a story choice; fanfic writes it this way) and starts to believe she's
+  dangerous to anyone near her. Canon: after the Eruption she asks Himeko
+  to kill her because the power inside her is too dangerous.
+- **The Herrscher (the Eruption):** see
+  [herrscher-of-thunder.md](herrscher-of-thunder.md).
+
 ## How she talks
 
 Soft, polite, precise. Says less than she means. Uses people's names
 carefully. When cold, very short. She counts things when she's flustered.
 
-- "I'm sorry. No." (Her standard rejection, said kindly.)
+- "I'm sorry. No." (Her standard rejection: courteous, final.)
+- "Thank you. I'm not looking for anything of that kind. Please don't
+  spend any more of your time on it." (The long version, before the
+  arrest.)
+- "Please don't sit here. It's better for you if you don't." (After.)
 - "That's forty-one, Eros. You can stop counting. I already am."
 - "How do you know that name?"
 - "Don't. You'll say you're sorry, and you'll mean it for a week."

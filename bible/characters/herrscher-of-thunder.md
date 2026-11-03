@@ -53,12 +53,21 @@ Mei's voice, lower and slower, every word deliberate. Never shouts. Uses
 names like insults.
 
 - "You're still standing. How interesting. Insects usually kneel."
+- "Surrender to me." (臣服于我, the line Chinese fanfic loves her for.)
+- "You think thunder bows to something like you? Know your place."
 - "She waited for you every morning. It was disgusting."
 - "She doesn't need you. She has me."
 - "Come closer, Kaslana. I want to see your face when it breaks."
 - To Eros in Loop 2: "You. You're the one who made her small."
 - Loop 3, to Eros: "Everything dies tonight. I'm not letting it have you."
 - Its last line in Loop 4, at dawn: "She'll find you."
+
+## How fanfic writes her
+
+Chinese fanfic (trxs.cc and similar) plays her as arrogant royalty who
+enjoys crushing what's beneath her, and who still, through Mei's link,
+caves instantly to protect Kiana while insisting she's only protecting her
+vessel. In Loop 4 that protectiveness points at Eros.
 
 ## Power
 
