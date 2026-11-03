@@ -70,6 +70,60 @@ people's limits.
 - "St. Freya is too slow. I don't have time to be slow."
 - "Again."
 
+## Personality (canon, adult "Durandal")
+
+Same core, sanded down. Canon: "She became more patient and relaxed."
+
+- **Calm, steady, dutiful.** The hot-headed girl becomes a captain who
+  checks the mission materials one last time before bed. Still believes
+  results matter most, but says it gently now: "Process matters, but this
+  world values the results more."
+- **Still trains like it's a disease,** and pushes it on everyone, kindly.
+  "Idling accomplishes nothing. How about some combat training with me?"
+  "There's no such thing as weekends for a Valkyrie."
+- **Shrugs off status.** "Schicksal's No.1 Valkyrie? Titles are
+  meaningless. Get some exercise."
+- **Protective and warm,** in a big-sister way, with a gruff edge she
+  covers up: "I wouldn't catch a cold even if I got wet in the rain, but you
+  would. Er, I mean, bring an umbrella." "You've done a great job. Go to
+  sleep, I'll handle the rest."
+- **Tsundere about kindness and clothes.** "New dress? What's the
+  occasion? Er, I mean, thank you..." Flustered by compliments and by being
+  looked at.
+- **Rita is her life.** They live together, garden together and go on
+  every mission together; Durandal worries about repaying her. "Rita always
+  takes good care of me. I want to do something for her in return..." Rita
+  teases; Durandal never quite catches on ("Rita's smile seems to mean
+  something, but... I have no proof").
+- **Ordinary joys:** shopping, gardening, soccer (she was good at it at the
+  orphanage), snowball fights, reading (Thoreau; Shakespeare's influence),
+  starry nights. Adopts a stray cat, Stan, in London, to germaphobe Rita's
+  despair.
+- **Admirers:** has many. When they found out her "birthday" (January 1)
+  her room filled with presents, and she thanked every sender personally.
+- **Otto:** "A complicated soul. The only thing I can say is, 'He's Otto.'"
+  Still fond of him even after she knows.
+- **Kiana:** proud and protective of her. "Kiana is brave and gentle."
+
+**Fandom view** (Moegirl's trait tags and nicknames): hard worker,
+monstrously strong, tsundere, cat slave, honest to the point of naive
+(老实人), the strongest, big sister, amnesiac. Nicknamed 呆鹅, "the dumb
+goose", for her dopey, literal-minded side, which fans call the Kaslana
+gene (the same 憨 as Kiana's: earnest, a little dense, takes things at
+face value). Fans call Rita her "wife". In this story both sides are true:
+a serious, unstoppable knight who is completely lost the moment something
+isn't a fight.
+
+**How she talks (adult):** calm, plain, a little stiff, short sentences.
+Orders that are really care. Corrects herself when she's been too kind
+("Er, I mean"). Occasional dry humor with a smiley edge ("Occasionally,
+something interesting might happen during a mission"). No more "Again."
+and "Make it harder."; she's earned the patience.
+
+**Young to adult, in one line:** the girl who wants to be the strongest so
+nobody else dies becomes the woman who is the strongest and now worries
+whether everyone has brought an umbrella.
+
 ## With Eros (story)
 
 - **Their first meeting (2011 corridor):** he sees her arguing with Himeko
