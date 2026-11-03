@@ -312,7 +312,7 @@ On the third afternoon he got to the Kaslanas, and I didn't have to act anymore.
 
 My chest went tight.
 
-I knew how Kallen Kaslana had really died. I knew who had loved her, and what he'd spent five hundred years doing because of it, and whose portrait hung two floors down. I'd cried over her once at two in the morning, in a bathroom at work, over a cutscene on my phone, because I couldn't wait until I got home to watch it. And here she was on a slide, with a cook and a girl from Accounts and two security guards looking up at her and thinking, nice painting.
+The man who'd loved her had his portrait hanging two floors below that room, and everything he'd done to the world in the five hundred years since had started with her face. I'd cried over her once at two in the morning, in a bathroom at work, over a cutscene on my phone, because I couldn't wait until I got home to watch it. And here she was on a slide, with a cook and a girl from Accounts and two security guards looking up at her and thinking, nice painting.
 
 "Are there any Kaslanas now?" I asked.
 
@@ -414,7 +414,7 @@ Theresa Apocalypse.
 
 I read the memo at my desk four times and then went to the bathroom so I could make a face nobody would see.
 
-I knew this part. In the game, St. Freya was where everything started. Theresa had built it after the Second Eruption, after she found out what had happened to Cecilia, after she fell out with Otto so badly that she couldn't stand to be near him and couldn't leave Schicksal either. The school's island had been his gift to her, made for her out of the seabed. I'd always thought it was a strange gift. I thought so even more now that I'd watched its bell go past under a helicopter.
+In the game, St. Freya was where everything started. Theresa had built it after the Second Eruption, after she found out what had happened to Cecilia, after she fell out with Otto so badly that she couldn't stand to be near him and couldn't leave Schicksal either. The school's island had been his gift to her, made for her out of the seabed. I'd always thought it was a strange gift. I thought so even more now that I'd watched its bell go past under a helicopter.
 
 She arrived at the end of June. Nobody on the eleventh floor saw her arrive, because we were underground with no windows, and the first I saw of her was three days later, on a Tuesday, in the cafeteria.
 
@@ -536,7 +536,7 @@ Then she stood up, which didn't make her much taller than me sitting down, and h
 
 "The World's Cutest Valkyrie says thank you!"
 
-Her voice had jumped up into something bright and sing-song, nothing like the voice that had been taking Dr. Mori apart fifteen minutes before. Behind me, somebody dropped a pen. I knew that voice. I'd heard her say lines like that a thousand times in my first life, every time she won a fight on my second monitor, and hearing it from a meter away in a basement full of engineers did something to my brain that took the rest of the afternoon to wear off.
+Her voice had jumped up into something bright and sing-song, nothing like the voice that had been taking Dr. Mori apart fifteen minutes before. Behind me, somebody dropped a pen. I'd heard her say lines like that a thousand times in my first life, every time she won a fight on my second monitor, and hearing it from a meter away in a basement full of engineers did something to my brain that took the rest of the afternoon to wear off.
 
 She dropped the pose as if it had never happened. "You may tell people," she said in her ordinary voice. Then she picked up her broken gauntlet and walked out of the room as fast as she'd come in, and the door at the far end banged shut behind her.
 
@@ -562,7 +562,7 @@ I stood on the roof with my can of coffee and thought about what was going to ha
 
 I knew the numbers. Not exactly, but well enough. Some of the girls getting off those buses would be Valkyries in five years, and some of those would be dead in ten, and a few of the ones who were dead would be wearing battlesuits with my code in them when it happened. I'd spent the summer reading the incident files that came down to the eleventh floor. There was one a week, more or less. A suit that locked, a sensor that lied, a simulation that said a thing moved at this speed when the real thing moved faster. Usually the code was fine and the girl had just met something bigger than her. Sometimes it wasn't, and Dr. Mori would come out of his office with a printout and put it on somebody's desk without saying anything, and that person would go very quiet for a week.
 
-And I knew the other numbers too, the ones that mattered to me. A man with an F in Honkai Adaptability was a man who died if he breathed the wrong air. In the game, when the Third Eruption hit Nagazora, almost everybody in the city had turned into something that wasn't a person anymore inside an hour. I was eighteen. I'd been a desk worker in my first life, and had died at the desk. I'd never run anywhere I didn't have to, and I'd never had to.
+And there were other numbers, the ones that mattered to me. A man with an F in Honkai Adaptability was a man who died if he breathed the wrong air. In the game, when the Third Eruption hit Nagazora, almost everybody in the city had turned into something that wasn't a person anymore inside an hour. I was eighteen. I'd been a desk worker in my first life, and had died at the desk. I'd never run anywhere I didn't have to, and I'd never had to.
 
 The next morning I set my alarm for six and went out onto the seawall in a pair of canvas shoes and the tracksuit bottoms I'd slept in.
 
@@ -868,7 +868,7 @@ The squad's captain had been a woman called Ragna. I knew the name, faintly, fro
 
 At the bottom of the report was the list of survivors. It had one name on it. Murata Himeko.
 
-I knew that name as well as my own. I sat with the report open in front of me for a long time, and then I closed it and went out and ran on the seawall in the rain, in the middle of the afternoon, in my work clothes. I ran six kilometers. It was the furthest I'd ever gone, and I didn't notice until I stopped.
+I'd played as her more than anyone else in my first life. I sat with the report open in front of me for a long time, and then I closed it and went out and ran on the seawall in the rain, in the middle of the afternoon, in my work clothes. I ran six kilometers. It was the furthest I'd ever gone, and I didn't notice until I stopped.
 
 ---
 
@@ -942,7 +942,7 @@ I didn't. I mean I was already sitting. But for about three seconds I stopped do
 
 I knew that face. I'd known it for years in my first life, in cutscenes and manga panels and a hundred arguments on a forum about whether he or Otto had the better plan. Welt Yang. Joachim, really, the boy who'd been given a dying man's name and his core in 1955. The Herrscher of Reason. The leader of Anti-Entropy, which Schicksal's own documents called a terrorist organization, standing at the front of a classroom in Theresa's school with a piece of chalk in his hand, writing W. YANG and HISTORY on the board in very neat capitals.
 
-I knew what he'd been doing in February 2000. He'd fought Sirin on the moon and lost his core to her and lived inside it anyway, and at the end he'd spent everything he had left keeping Siegfried Kaslana alive. Theresa had been in Siberia too. She'd stood a few meters from this man. And she'd just sat down beside me to inspect him without the faintest idea who he was, because afterward Otto had gone into her head with a borrowed feather and taken him out of it, along with every line in every record that said Anti-Entropy had been there at all.
+In February 2000 he'd fought Sirin on the moon and lost his core to her and lived inside it anyway, and at the end he'd spent everything he had left keeping Siegfried Kaslana alive. Theresa had been in Siberia too. She'd stood a few meters from this man. And she'd just sat down beside me to inspect him without the faintest idea who he was, because afterward Otto had gone into her head with a borrowed feather and taken him out of it, along with every line in every record that said Anti-Entropy had been there at all.
 
 Two seats from the principal, in a room full of schoolgirls, the most dangerous man in Asia asked the girl in the front row if she'd mind opening a window, because it was a little close in here.
 
@@ -1006,7 +1006,7 @@ He looked at me for a moment over the top of his glasses, with nothing in partic
 
 He went out, slowly, and on the stairs I heard him stop for a moment before he went on down.
 
-I sat on the little chair at the back for a long time. I knew how Cecilia Schariac had died. I knew who had made it happen, and what had been taken from her, and what had been done afterward with what was left, and where her daughter was right now and what her daughter would one day be called. Theresa had told it in four sentences to a room of schoolgirls, with the man who'd been there standing at the front unable to say so, and me at the back knowing what one of them had forgotten and the other had hidden, and none of the three of us had said a word of it.
+I sat on the little chair at the back for a long time. Cecilia Schariac's daughter was fifteen that autumn, in an orphanage in Sochi, under a name she'd picked for herself. Theresa had told it in four sentences to a room of schoolgirls, with the man who'd been there standing at the front unable to say so, and me at the back knowing what one of them had forgotten and the other had hidden, and none of the three of us had said a word of it.
 
 I sat there until the cleaner came in and asked if I was lost.
 
@@ -1132,7 +1132,7 @@ I brought it down in a coffee can. He took it to the edge of the breakwater and 
 
 He looked up at the sky over the breakwater for a while. "Rain by four," he said. He took the cigarette from behind his ear and looked at it and put it back. "Somebody said a rich man in Europe wanted the second one. For his granddaughter. A present."
 
-I knew who the rich man was, and I knew the granddaughter, and I'd watched her hold up a carrot in a cafeteria. I thought about a man in white and gold having a reef buried under sand for eleven months so that a small woman who couldn't stand him would have somewhere to put a school.
+The rich man had a portrait in our corridor, in white and gold, and I'd watched his granddaughter hold up a carrot in a cafeteria. I thought about a man in white and gold having a reef buried under sand for eleven months so that a small woman who couldn't stand him would have somewhere to put a school.
 
 "Strange present," I said.
 
@@ -1304,7 +1304,7 @@ The girl looked at her for a second. Then she said, "Ragna wouldn't have made me
 
 They went into Dr. Mori's office. The door shut.
 
-I was sitting at my desk with my hands on my keyboard and my face very carefully arranged, the same way I'd arranged it the day Theresa sat beside me and read my code. Bianka. Bianka Ataegina, strawberry-blonde, impatient, a genius who knew it. In a few years she'd be called Durandal, and she'd be the strongest Valkyrie Schicksal had, and she'd go to HQ instead of St. Freya because St. Freya was too slow, exactly as she'd just said. I knew who she really was. I knew whose daughter she was, and who her father was, and that her father was alive, and that she'd been told she had no family at all. I knew there was another girl somewhere with her face and her birthday, made in a lab by the man in the portrait downstairs. I'd watched the cutscene where she found out. I'd had to put my phone down.
+I was sitting at my desk with my hands on my keyboard and my face very carefully arranged, the same way I'd arranged it the day Theresa sat beside me and read my code. Bianka. Bianka Ataegina, strawberry-blonde, impatient, a genius who knew it. In a few years she'd be called Durandal, and she'd be the strongest Valkyrie Schicksal had, and she'd go to HQ instead of St. Freya because St. Freya was too slow, exactly as she'd just said. Her father was alive, somewhere in Europe with a gun on each hip, and she'd been told she had no family at all. Somewhere else a girl with her face and her birthday had been grown in a lab by the man in the portrait downstairs. I'd watched the cutscene where she found out, years from now, and I'd had to put my phone down.
 
 And she was sixteen.
 
@@ -1620,7 +1620,7 @@ I flew there in the second week of January on a staff jet with the shutters up a
 
 It was a cluster of islands in the air. The biggest was a few kilometers across, a slab of rock and steel with its underside tapering away into a long hanging point, like the root of a tooth, and around it at different heights there were eight or nine smaller ones, joined to it by bridges that looked as thin as thread from that distance. Cloud lay under all of them in a flat white floor, with the sea showing dark through the gaps. On the highest ground of the biggest island, among towers of glass and steel, there was a cathedral. Gray stone, spires and buttresses and long thin windows of colored glass, standing up there as if somebody had carried it into the sky whole. A flag with the Schicksal cross on it flew from the highest spire, straight out in the wind. Transports went between the islands like buses, dozens of them, and on the lowest island, the industrial one, a dock hung open to the sky with a ship in it. A long gray hull in a cradle of scaffolding, sparks going along it in a dozen places at once. I couldn't read the name from up there. I didn't need to.
 
-I sat with my forehead nearly on the window and felt, for the first time in years, exactly as I had at two in the morning in my first life in front of a new event banner. I knew that place. I'd seen it on a loading screen a hundred times. I'd seen it lit by explosions, and people dying on the cathedral steps, in a cutscene I'd watched three times in a row.
+I sat with my forehead nearly on the window and felt, for the first time in years, exactly as I had at two in the morning in my first life in front of a new event banner. I'd seen that place on a loading screen a hundred times. I'd seen it lit by explosions, and people dying on the cathedral steps, in a cutscene I'd watched three times in a row.
 
 The jet came down on a runway along the edge of the biggest island, with the wind shoving at it for the whole approach, and stopped a long way short of the edge, which I appreciated. There was a queue at the foot of the steps. A guard in a long coat looked at each badge, and each face, and each badge again, and a tablet, and then a second guard did the same, and the priest dropped his briefcase and everybody waited while he picked his papers up out of the wind. Then they let us through, into a terminal as busy as a train station at rush hour, full of uniforms and lab coats and people pulling cases, and a boy selling newspapers in four languages from a cart.
 
@@ -1706,7 +1706,7 @@ She stopped. The smile went back to exactly where it had been.
 
 "Excuse me," she said. "I spoke out of turn."
 
-I knew that line. I'd heard it a few hundred times out of a phone speaker on the bus, every time I tapped her on the bridge screen to see what she'd say, and I'd always thought it was a joke the writers had slipped in. Hearing it said for real, in a lab, by a seventeen-year-old in an apron about a woman I'd watched hold up a carrot, took everything I had to keep my face where it was.
+I'd heard that line a few hundred times out of a phone speaker on the bus, every time I tapped her on the bridge screen to see what she'd say, and I'd always thought it was a joke the writers had slipped in. Hearing it said for real, in a lab, by a seventeen-year-old in an apron about a woman I'd watched hold up a carrot, took everything I had to keep my face where it was.
 
 "Is it true," she went on, picking up her cup again, "that she keeps sweets in every pocket?"
 
@@ -1758,7 +1758,7 @@ It was a good frame, carved and gilded, the same as the others. There was nothin
 
 I didn't say anything. The others had drifted on to a case of medieval stigma fragments. I was looking at Kallen.
 
-I knew I was looking at her too long. I could feel the seconds going by. I knew that a new engineer from the Far East would look at a five-hundred-year-old portrait for two or three seconds and then look at the next one. I knew that the woman beside me noticed how long people looked at things, because she noticed everything. And I couldn't look away from her face, because I knew who'd commissioned this painting, and who'd stood in front of it in this cold room for five hundred years, and what he'd done to the world because she was dead, and I'd cried about her once in a bathroom at work in a life I'd already lost, and here she was.
+I was looking at her too long. I could feel the seconds going by. A new engineer from the Far East would give a five-hundred-year-old portrait two or three seconds and move on, and the woman beside me noticed how long people looked at things, because she noticed everything. And I couldn't look away from her face, because whoever had paid for this painting had stood in front of it in this cold room more often than anyone alive, and I was fairly sure he still came.
 
 "That portrait is Kallen Kaslana," Rita said softly. "You've been looking at her for some time." She turned the smile on me. "Is something wrong with her?"
 
@@ -1874,7 +1874,7 @@ She talked to me, sometimes, as you'd talk to a piece of furniture you'd got use
 
 "I woke up in an orphanage in Sochi," she said. "That's the first thing I remember. I picked my own name. Nobody came." She bit into her apple. "It's better. Families just die."
 
-I looked at my screen. I didn't look at her. Her father was alive. Her mother had died in Siberia stopping the Second Eruption. Somewhere in this world, at that moment, there was a girl with her face and her birthday, made in a lab by the man upstairs, who believed she was the daughter of Siegfried Kaslana and was right in a way she'd never understand. I knew all of it. I'd watched the cutscene where this girl found out, at two in the morning, in my first life, and I'd had to put the phone down.
+I looked at my screen. I didn't look at her. Her father was alive, and I was very probably the only person in the building who could have told her so, and I sat there and fixed a collision value instead.
 
 "Is it better?" I said.
 
@@ -2088,7 +2088,7 @@ The island was the same, except for the ship.
 
 I saw it from the plane before I saw anything else. While I'd been away, something had come to the north end of the island, past the harbor, where a new mooring tower had gone up beside the breakwater, and it was hanging there in the air. A long gray hull, longer than the runway was wide, with a blunt prow and banks of engines along its flanks humming so low that I felt it in the seat of the plane before I heard it. There was a name along the side in white letters. HYPERION.
 
-I knew that ship. In the game it was the first thing the girls saw of Schicksal, coming down out of the smoke over Nagazora. Here it was tied to a tower at the end of my island like a ferry, with a crane loading crates into its belly and a man in overalls on its upper deck eating a sandwich.
+In the game it was the first thing the girls saw of Schicksal, coming down out of the smoke over Nagazora. Here it was tied to a tower at the end of my island like a ferry, with a crane loading crates into its belly and a man in overalls on its upper deck eating a sandwich.
 
 I'd last seen it at HQ in its cradle on the industrial island, with sparks running along its flanks. One morning in May I'd stopped on the rim path and watched it come out of the dock for the first time, slow and enormous and very nearly silent, and turn east.
 
@@ -2192,7 +2192,7 @@ They'd let him keep his coat over his wrists. He was walking very straight, with
 
 I put my chopsticks down.
 
-I knew whose name would be released on Monday. I knew who had built the case against him, and why, and what she wanted from his company and from the thing his daughter carried inside her without knowing it. I'd known for years that this morning was coming, the sixteenth of November 2013, as you'd know the date of an exam. And somewhere in Nagazora, in a big house with a dojo in it, a girl with very long dark hair was watching the same pictures on a different television, or had been woken up by somebody to watch them, or was going to find out at school on Monday from the faces of people who'd been her friends on Friday.
+On Monday the name of the interim chief executive would be released, and it would be Cocolia's. She'd built the case against him herself, for his company and for what his daughter carried inside her without knowing it. I'd had this morning in my head for years, the sixteenth of November 2013, like the date of an exam. And somewhere in Nagazora, in a big house with a dojo in it, a girl with very long dark hair was watching the same pictures on a different television, or had been woken up by somebody to watch them, or was going to find out at school on Monday from the faces of people who'd been her friends on Friday.
 
 The news moved on to the price of rice. Lao Chen turned it down again and stood looking at the screen anyway, with the ladle hanging from his hand.
 

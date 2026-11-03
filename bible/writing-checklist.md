@@ -45,6 +45,19 @@ Check these before planning a chapter and again before sending it.
   status panel and what the skip cost.
 - Dark scenes are built fresh for the chapter they're in.
 
+## Eros's fan knowledge
+
+- **No "I knew" litanies.** Never "I knew X. I knew Y. I knew Z." Show what
+  he knows through one concrete, present detail ("Her daughter was fifteen
+  that autumn, in an orphanage in Sochi"), not a list of hints.
+- **No coy hints.** Say the thing ("Cocolia's name") or leave it out; no
+  "what had been taken from her, and what had been done with what was left".
+- **No recognition tic.** Don't open with "I knew that voice / face / ship /
+  line." Go straight to the memory, at most twice a chapter.
+- **Don't reuse a memory.** A first-life memory (crying over Kallen in the
+  bathroom at work, putting the phone down at a cutscene) appears once.
+- "I knew" about 30 times a chapter at most.
+
 ## Prose check (lint before sending)
 
 - No em or en dashes.
