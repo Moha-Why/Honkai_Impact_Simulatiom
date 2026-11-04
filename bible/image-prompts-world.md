@@ -13,8 +13,7 @@ which blocks revealing clothing).
 
 **Style line (already at the end of every prompt):** 2D anime illustration, anime key visual, gacha game splash art style, cel shading, clean crisp line art, vibrant saturated colors, detailed anime hair with highlights, dynamic composition, soft anime lighting and glow effects, painted anime background, masterpiece, best quality.
 
-Not drawn: Theresa (an adult with a child's body; she keeps her canon
-clothes), anyone under 18, and anyone in a childhood log.
+Not drawn: anyone under 18, and anyone in a childhood log.
 
 ---
 
@@ -87,6 +86,12 @@ clothes), anyone under 18, and anyone in a childhood log.
 ---
 
 # Chapters 1 and 2
+
+## Theresa Apocalypse (41, head of the Far East Branch, S-rank)
+
+> Theresa Apocalypse from Honkai Impact 3rd, a petite adult woman of 41 who looks about thirty, very short (150 cm) but unmistakably grown, with a mature, sharp-featured adult face, full adult hips and bust on a small frame, and adult body language. Waist-length white hair in a low side ponytail draped over one shoulder, bright blue eyes, a playful, mischievous expression. She wears a fetish nun's habit in white and blue latex. A white latex veil and wimple framing her face, with blue trim and a small silver cross on the band. A tall white latex posture collar with a silver cross hanging from its ring. A harness of white latex straps over her bare body, crossing between her breasts with two small blue latex cups edged in white lace over them, and buckling around her bare stomach in a lattice like a church window. A white latex thong under a blue latex half-skirt that's only a back panel with lace frills, open at the front. A long rosary of blue beads looped twice around her waist and down one thigh like a chain. White lace garters to white thigh-high latex stockings with blue crosses at the tops, and white patent Mary Jane platforms. Lace fingerless gloves. Mid-pose, doing her signature move: one hand on her hip, chin tipped up, a wink, the other hand flicking a wrapped strawberry candy in pink plastic onto a desk like a magician finishing a trick. Setting: an underground open-plan engineering office with rows of monitors, a stunned engineer at a desk beside her, a broken white training battlesuit gauntlet on the desk. Warm office light, a sparkle effect around her. 2D anime illustration, anime key visual, gacha game splash art style, cel shading, clean crisp line art, vibrant saturated colors, detailed anime hair with highlights, dynamic composition, soft anime lighting and glow effects, painted anime background, masterpiece, best quality.
+
+**Variant, stern:** Theresa Apocalypse from Honkai Impact 3rd, the same outfit, standing on a cafeteria chair holding up a single carrot, face cold and commanding, a huge chef shrinking back. Same style line.
 
 ## Rita Rossweisse (18, Schicksal HQ, from March 2013)
 

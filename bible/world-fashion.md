@@ -15,8 +15,10 @@ normally.
 - **Nothing in a childhood log.** The Life Path childhoods (for Mei's run,
   1995 to April 13, 2013) describe no one's clothing in this way, adult
   women included. The fashion starts on the page at the takeover.
-- **Theresa keeps her canon clothes.** She's an adult with a child's body,
-  so the fashion never touches her.
+- **Theresa is included.** In this story she stopped growing as a petite
+  adult with an adult face and body (story change; see her profile), so the
+  fashion applies to her like any other adult woman. She's always written
+  and drawn as clearly adult: short, never childlike.
 - **Rotation.** Adult women own several outfits and switch between them by
   occasion: school or work, private, formal, field. The outfits say who
   they are. No micro bikinis.
