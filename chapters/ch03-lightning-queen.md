@@ -18,7 +18,7 @@ She was in the duty set, the black patent one. Uniform jacket open, sleeves shov
 
 Yoon knew who I meant. Everybody on the island said "she" now and meant the principal. "Twice. She asked if the two birds outside the city were healthy. They're healthy. They're the healthiest birds in Japan." She chewed. "Then she asked me if I'd ever seen a line do that, and I said no, and she said thank you, and hung up."
 
-I thought about the principal on the other end of that phone, a meter and a half of S-rank in her white latex habit with the two little blue cups and the rosary wound round her hips, sucking a strawberry candy while she asked about birds. Five years she'd been my boss, and five years I'd been very careful never to think about her in front of anybody who could read faces. Then I made myself think about the line.
+I thought about the principal on the other end of that phone, a meter and a half of S-rank in what was left of a nun's habit, the veil and the sleeves and two little blue latex crosses over her tits, a padlock on her collar and another on the silver belt at her hips, the rosary running down between her breasts like a leash, sucking a strawberry candy while she asked about birds. Five years she'd been my boss, and five years I'd been very careful never to think about her in front of anybody who could read faces. Then I made myself think about the line.
 
 I watched the line for a while. Five point one. Five point three. Ten was where the people inside it would stop being people.
 
