@@ -8,10 +8,13 @@ are marked.
 
 - **Records ("chosen") birthday:** January 1, **1995** (canon: January 1,
   2000).
-- **Real birthday, secret:** December 7, **1995** (canon: December 7, 1998).
-  It's the same day as Kiana's, because Kiana (K-423) is her clone.
-- **Content rule:** her real age governs. She is 17 until December 7, 2013.
-  Everything with Eros during the 2013 secondment is platonic only.
+- **Real birthday, secret:** December 7, **1994** (canon: December 7, 1998).
+  It's the same day as Kiana's, because Kiana (K-423) is her clone, and it
+  has to come before Kiana's year, so it moved to 1994 with her.
+- **Ages on the page:** people (and she) go by her records. She says she's
+  16 in December 2011 and the Agra file says 17 in 2012, both records ages.
+  Her real age is 18 from December 7, 2012, so she's 18 for the whole 2013
+  secondment. Chapter 2 keeps that relationship platonic as written.
 
 **Who she really is (canon, unknown to her and to almost everyone):** the
 real Kiana Kaslana, daughter of Cecilia Schariac and Siegfried Kaslana. She
@@ -23,10 +26,10 @@ hair fading to light pink at the ends, usually worn down, sometimes in a high
 ponytail. In 2013, Schicksal training gear and a new battlesuit (his
 firmware). She fights with a lance.
 
-## Background (canon, shifted to the 1995 birth)
+## Background (canon, shifted to the 1994 birth)
 
 - Her earliest memories are of waking with no past in an orphanage in Sochi
-  among Second Eruption orphans (story: about age 4). She chose her own name.
+  among Second Eruption orphans (story: about age 5). She chose her own name.
 - Otto was her doctor from childhood, one of the first people she remembers.
   He told her the story of Medea and told her to remember there's still
   kindness in the world. She's deeply attached to him.

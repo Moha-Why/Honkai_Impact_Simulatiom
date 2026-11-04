@@ -22,6 +22,10 @@ each run writes a branch into the Imaginary Tree.
   told as detailed log lines, like a normal run, with full scenes at the
   moments that matter. Nothing romantic happens before 18.
 - Meters and objectives only activate once the heroine is 18 or older.
+- **Age rule for the run's cast:** every girl the adult Eros meets in a
+  heroine run is already 18 when he takes over. In the Mei run, Mei turns
+  18 on the takeover day (April 13, 2013); Kiana, Bronya and Seele are born
+  in 1994.
 
 ## Meters
 

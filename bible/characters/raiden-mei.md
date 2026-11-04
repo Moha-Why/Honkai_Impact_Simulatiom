@@ -4,8 +4,9 @@
 girl at the center of the Third Eruption. Canon character; story changes
 are marked.
 
-**Age (story change):** born April 13, **1995** (canon 1997), so 18 from
-April 2013. Third year, class 3-A, at Chiba Academy in Nagazora in the 2013
+**Age (story change):** born April 13, **1995** (canon 1997), so 18 on
+April 13, 2013, the day the adult Eros takes over in every loop. She's the
+youngest of the run's girls; the others are born in 1994. Third year, class 3-A, at Chiba Academy in Nagazora in the 2013
 to 2014 school year.
 
 **Appearance (canon):** tall (172 cm), taller than most girls and some boys,

@@ -3,9 +3,11 @@
 **Role:** future heroine. Appears in the Mei run (Chapter 3). Canon
 character; story changes are marked.
 
-**Age (story change):** born December 7, **1995** (canon 1998), so 18 from
-December 7, 2013. In the Mei run she enrolls at Chiba Academy in mid
-December 2013, after her birthday.
+**Age (story change):** born December 7, **1994** (canon 1998), so 18 from
+December 7, 2012, before the adult Eros arrives in the Mei run (April 13,
+2013). She's 19 when she enrolls at Chiba Academy in mid December 2013. That
+makes her a year older than her class; nobody checks, because her papers are
+forged anyway.
 
 **Appearance (canon):** slender, white hair, blue eyes, average height. Hair
 usually in braids, with a cowlick (ahoge) sticking up on top. Fights with
@@ -16,7 +18,7 @@ Bianka "Durandal" Ataegina, see bianka-durandal.md),
 with the damaged core of Sirin, the Herrscher of the Void, inside her. She
 believes she is Siegfried's daughter and is looking for him. Her hidden
 core makes her immune to Honkai corruption. (The K-423 timeline with the
-1995 birth is still an open question in the bible.)
+1994 birth is still an open question in the bible.)
 
 **Personality (canon):** spunky, lighthearted, honest to a fault, says
 whatever is on her mind without thinking. Hungry all the time. Bad at

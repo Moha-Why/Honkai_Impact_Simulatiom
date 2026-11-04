@@ -4,15 +4,16 @@
 February. Minor in Chapter 3 (Loop 3's childhood only). Canon character,
 heroine later.
 
-**Age (story change):** born October 18, **1995** (canon birthday October
+**Age (story change):** born October 18, **1994** (canon birthday October
 18; her old canon profile gave her age as 14), moved with the other
-heroines so she is 18 by the Third Eruption. So she's 14 when she arrives
-at Cocolia's house in 2010, 16 when she goes into the Sea of Quanta in
-autumn 2012, and turns 18 there, lost, on October 18, 2013.
+heroines so that she's 18 before the adult Eros arrives in the Mei run
+(April 13, 2013). She's 15 when she arrives at Cocolia's house in 2010 and
+17 when she asks him to go instead, in August 2012. She turns 18 on October
+18, 2012, the autumn she goes into the Sea of Quanta.
 
-**Age rule:** under 18 in every Chapter 3 scene. She dresses and is
-written as an ordinary teenage girl. The world's adult fashion never
-touches her before October 2013.
+**Age rule:** she only appears in the boy's childhood log (2010 to August
+2012), always under 18, written as an ordinary teenage girl. The adult Eros
+never meets her in Chapter 3.
 
 **Appearance (canon):** short dark blue hair, blue eyes, small and slight.
 Holds books against her chest.
