@@ -183,7 +183,7 @@ in a specific month, never with a summary.
      stays only that.
 3. **Bianka, the future Durandal.**
    - **The firmware:** he writes the firmware for her new battlesuit. Her
-     age in the records is 18, and so is her real age (December 7, 1994). She hates the training
+     age in the records is 18, and so is her real age (January 7, 1995). She hates the training
      simulations because they're too easy, and she breaks them, so he makes
      them harder until she can't.
    - **Results earn respect:** she respects results and nothing else.
@@ -241,7 +241,7 @@ when she walks back in later.
 - Rita is an adult from March 1, 2013. Any spark is subtle, and it goes no
   further in this chapter.
 - Bianka is 18 by her real age throughout the secondment (birthday moved to
-  December 7, 1994). Their relationship stays platonic in this chapter.
+  January 7, 1995). Their relationship stays platonic in this chapter.
   Anything else waits for the present-day story.
 
 ## Profiles (done)

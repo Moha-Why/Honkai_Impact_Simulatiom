@@ -69,7 +69,7 @@ letters and one photograph of Kuroda with his dog, Leo.
   Second Eruption, February 16, 2000.
 - **The girl with the gloves:** three, in the back of the truck; he gives
   her Cocolia's gloves. One of the house's children afterward.
-- **Seele Vollerei (canon):** see seele-vollerei.md. Born October 18, 1994. Soft, shy, always reading; arrives in 2010 at 15,
+- **Seele Vollerei (canon):** see seele-vollerei.md. Born March 18, 1995. Soft, shy, always reading; arrives in 2010 at 15,
   follows him for a month, lost on one of Cocolia's experiments in autumn
   2012. Before she goes she asks him to go instead; Eros has him let her go.
   She leaves him her book with the corner turned down. "Keep my place."

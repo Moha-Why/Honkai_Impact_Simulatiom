@@ -3,10 +3,10 @@
 **Role:** future heroine. In Chapter 3, Cocolia's agent in Nagazora, seen
 in Loop 3 and glimpsed in Loop 4. Canon character; story changes are marked.
 
-**Age (story change):** born August 18, **1994** (canon 2000), so 18 from
-August 18, 2012, before the adult Eros arrives in the Mei run (April 13,
-2013). She's 17 when she's brought to Cocolia's house in January 2012 (Loop
-3's childhood log) and 19 at his door in January 2014.
+**Age (story change):** born February 18, **1995** (canon August 18, 2000),
+so 18 from February 18, 2013, before the adult Eros arrives in the Mei run
+(April 13, 2013). She's 16 when she's brought to Cocolia's house in January
+2012 (Loop 3's childhood log) and 18 at his door in January 2014.
 
 **Appearance (canon):** short (147 cm) and slight, light gray hair in
 drill-shaped twin tails, gray eyes, a blank face. Her legs are prosthetic

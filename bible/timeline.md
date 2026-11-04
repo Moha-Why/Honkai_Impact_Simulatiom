@@ -9,8 +9,7 @@ story reaches them.
 | 1972 | Otto's A-3 experiments merge the Emperor-class beast Vishnu's genes with Kallen Kaslana's cells (canon). |
 | 1973, Christmas Eve | The Emperor-class beast Parvati appears. Theresa, rated B, kills it alone (canon). |
 | 1991, March | Eros is found as a newborn at the gate of the Willow Street Children's Home, Hangzhou. Director Zhou registers him as "Eros". |
-| 1994 | Bronya (August 18), Seele (October 18) and Kiana (K-423, December 7) are born. Bianka's real, secret birthday is December 7, 1994 (she is the real Kiana Kaslana, so K-423 shares the day); her records say January 1, 1995. Moved earlier from canon so that every girl in the Mei run is already 18 when the adult Eros takes over on April 13, 2013. |
-| 1995 | Raiden Mei is born April 13, so she turns 18 on the day he takes over. Rita Rossweisse is born March 1 (canon year). |
+| 1995 | The heroines are born (years moved earlier from canon; Kiana's, Bronya's and Seele's days moved before April 13 so that every girl in the Mei run is already 18 when the adult Eros takes over on April 13, 2013). Kiana (K-423): January 7 (canon December 7). Bianka: January 7 is her real, secret birthday (she is the real Kiana Kaslana, so K-423 shares the day); her records say January 1. Bronya: February 18 (canon August 18). Rita Rossweisse: March 1 (canon). Seele: March 18 (canon October 18). Mei: April 13 (canon day), so she turns 18 on the takeover day. |
 | 1997 | Eros, six, is caught doing Director Zhou's accounts in his head. She gets him into school early. |
 | 2000, February 16 | Second Eruption, Siberia (canon date). Sirin, the Herrscher of the Void, spreads it across Siberia; fewer than 100 residents survive. Cecilia Schariac acts against it the next day and dies in it. The Emperor-class Ashvins and the Judgment-class dragon Benares are born on that battlefield; Welt Yang kills the Ashvins. Chinese news reports a disaster in northern Russia with a closed zone; Eros is eight. |
 | 2006 | Canon: Murata Himeko receives artificial stigmata and joins Schicksal's Valkyries, later the Valkyrie Assault Squad. |
@@ -23,7 +22,7 @@ story reaches them.
 | 2007 | Canon: Ragna saves 11-year-old Rita in a Honkai incident in Manchester. |
 | 2010 | Canon: the Valkyrie Assault Squad (Himeko's squad) is nearly wiped out on a mission and disbanded. Ragna dies. |
 | 2011, August | Eros buys Mizuki Tsugumi's demo, Paper Lantern, at the summer Comiket in Tokyo, and sends her a bug report. Pen pals from then on. |
-| 2011, late | Himeko recruits Bianka (records age 16; real age 16, 17 from December 7) for St. Freya; she chooses HQ instead. Eros glimpses her on the eleventh floor. |
+| 2011, late | Himeko recruits Bianka (real age 16) for St. Freya; she chooses HQ instead. Eros glimpses her on the eleventh floor. |
 | 2012 | Canon: the Emperor-class beast Ganesha appears in India; two A-ranks die. Bianka is the sole survivor of her first mission (Agra Fort). Eros is promoted to senior engineer and moves to a sea-view staff flat. |
 | 2013, January to July | Eros's secondment to Schicksal HQ (the floating island cluster above the Mediterranean; Rita also takes him to the archive at the old HQ in Kolosten, outside Vienna): Rita Rossweisse is his liaison; he writes Bianka's battlesuit firmware; Rita is newly assigned to Bianka. Rita turns 18 on March 1. |
 | 2013 | The four heroines turn 18. Mei is in her third year of high school in Nagazora. |
@@ -50,4 +49,4 @@ story reaches them.
   simulators, so he goes south for installs and calibrations a few times a
   year (first trip September 2010). Meeting the heroines in person after
   2014 needs a reason, a trip or a risk.
-- The fix to Kiana's K-423 backstory now that she is born in 1994.
+- The fix to Kiana's K-423 backstory now that she is born in January 1995.
