@@ -14,6 +14,13 @@ hear.
   about that family."
 - **Natsumi:** follows Sayaka. Laughs a beat after everyone else. Is the one
   who moves her desk away from Mei's first.
+- **Birthdays (world fashion):** Sayaka May 20, 1995 (18 from May 2013; a
+  new white latex and gold chain set after November 16). The third girl in
+  Mei's circle turns 18 in September 2013 and matches Sayaka within the
+  week. Natsumi is born January 9, 1996, so she wears the ordinary blazer
+  until January 2014. Hayashi Rin is born February 2, 1996 (17 all autumn,
+  ordinary kendo gear). Under-18 students are never described in the
+  world's fashion.
 
 **In Chapter 3:** Loop 7, Eros lets Sayaka see what she wants to see. Loop
 8, he knows when they'll say it in the corridor and makes sure he's beside
