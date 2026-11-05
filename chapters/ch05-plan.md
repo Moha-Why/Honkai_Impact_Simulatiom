@@ -1,5 +1,8 @@
 # Chapter 5 plan: The Pin (Mei's run, part 3 of 3)
 
+Proposed: a new loop between Loops 7 and 8, "The Collar" (see
+the-collar-plan.md). If it goes in, "The Pin" becomes Loop 9.
+
 Status: written and rechecked (the pass after Loop 4). The v4 notes for
 these loops were only partly used; this is what the chapter now does. Spine,
 rules and continuity: ch03-plan.md. Rules for the full loops: ch04-plan.md.
