@@ -28,7 +28,7 @@ right. When the Herrscher wakes, see
 - A cushioned life after that. Servants made her lunches, a chauffeur
   (Mr. Tanabe) drove her in a black limousine, and everyone at school
   fussed over her. Her father was often away, but he kept her busy with
-  kendo lessons from "Mr. HOMU", a masked teacher in a ridiculous costume.
+  kendo lessons from "Mr. HOMU", a teacher in a full Homu mascot suit.
   She never knew it was him. He taught her that a strong heart is what gets
   you through a fight.
 - A prodigy with a sword. Kendo club captain, first place in the regional

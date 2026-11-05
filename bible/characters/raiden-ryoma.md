@@ -14,7 +14,7 @@ ponytail, violet eyes. Dark suit and overcoat, yellow shirt, purple tie.
 - His wife died of cancer when Mei was two. He sealed Mei's stigmata as well
   as he could after it woke.
 - Too busy to be the father he wanted to be, so he taught Mei the family
-  kenjutsu himself, in disguise, as the masked "Mr. HOMU". She never knew.
+  kenjutsu himself, in disguise, as "Mr. HOMU", in a full Homu mascot suit. She never knew.
   He taught her that a strong heart is what gets you through a fight.
 - Arrested November 16, 2013, for economic fraud, framed by Cocolia. Held
   without bail after that.

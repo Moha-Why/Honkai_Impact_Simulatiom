@@ -159,8 +159,8 @@ can't be stopped; what comes after it can be moved.
 - **Nodes:** live it. The Raidens' housekeeper's son, Mr. HOMU's other
   student at six, there when she's taken at nine.
 - The first time he gives up control. A real child lives it: a boy raised on
-  the estate, who learns the sword beside her from a man in a ridiculous
-  mask, and who is in the back of the car with her and Mr. Tanabe one day in
+  the estate, who learns the sword beside her from a man in a Homu
+  mascot suit, and who is in the back of the car with her and Mr. Tanabe one day in
   2004.
 - **The kidnapping** is fixed. The child does what a brave, stupid nine-year-
   old does with a bokken against grown men. He dies on the road. The log

@@ -965,8 +965,8 @@ I didn't have to think. It was the door I'd come for.
 [2001, April. You start school. Your uncle drives the Raiden girl to her school in the long black car every morning at seven-forty, and on the way back he drops you at yours. You ride in the front. She rides in the back.]
 [2001. She doesn't speak to you for a month. Then one morning she leans forward between the seats and asks if it's true that your father drove a bus. You say yes. She asks if he let you turn the wheel. You say yes. She sits back and doesn't say anything else, but the next morning she leans forward again.]
 [2002. You are six. You and Raiden Mei are friends. Your uncle calls her "young lady" and you call her Mei, which nobody else in the house does, and nobody tells you to stop.]
-[2002. Once a week a man in a white mask with a cartoon face comes to the house dojo and teaches her the sword. You're not allowed in. You watch through the gap in the hedge. Afterward she shows you everything he taught her, with sticks, behind the garage, and gets cross when you can't do it.]
-[2002, November. You're seven. On Friday nights your uncle polishes the master's shoes at the kitchen table over the garage, and you hold the tin. On Saturday, through the gap in the hedge, you watch the man in the mask take his shoes off at the dojo door. There's a scuff on the left heel. You held the tin while your uncle tried to get it out.]
+[2002. Once a week a man in a Homu suit comes to the house dojo and teaches her the sword. The whole mascot, the big round white head with the huge eyes and the little pointed ears, white fur down to his ankles, a bokken in two fur paws. You're not allowed in. You watch through the gap in the hedge. Afterward she shows you everything he taught her, with sticks, behind the garage, and gets cross when you can't do it.]
+[2002, November. You're seven. On Friday nights your uncle polishes the master's shoes at the kitchen table over the garage, and you hold the tin. On Saturday, through the gap in the hedge, you watch the man in the Homu suit take his shoes off at the dojo door. There's a scuff on the left heel. You held the tin while your uncle tried to get it out.]
 Tell her / Tell your uncle / Keep it to yourself
 ```
 
@@ -1119,7 +1119,7 @@ On the last day of October, in the car, she spoke to me for the first time in fi
 
 I had one card left that the boy had never spent. He'd been holding it since he was seven.
 
-"I know who the man in the mask was," I said. "Mr. HOMU. I've known since I was seven, from his shoes. My uncle polished them on Friday nights, and I held the tin." She didn't move. "I never told anyone. Not you. Not him. Eleven years."
+"I know who was in the Homu suit," I said. "Mr. HOMU. I've known since I was seven, from his shoes. My uncle polished them on Friday nights, and I held the tin." She didn't move. "I never told anyone. Not you. Not him. Eleven years."
 
 She didn't say anything until we were halfway down the hill. Then she moved across the seat, to where she could see me in the mirror, for the first time in five years. Her face was perfectly still. Only her eyes had changed, as if something very old in her had been moved an inch and set down again.
 
@@ -1526,14 +1526,14 @@ Something else had gone, a small thing. A woman from St. Freya with a burn scar 
 
 [You read the file,] said the System, approvingly. [In the hotel. While she was in the bathroom.]
 
-I had. I hadn't known I'd remembered it. It came up now, in the white, a page in a folder on a hotel desk. The Raiden family, from 1995. The house on the hill. A note from 2001 about a second child in the house dojo, the housekeeper's boy, who'd trained with the girl under a man in a mask. And a page with a date in 2004 on it, and the word "taken."
+I had. I hadn't known I'd remembered it. It came up now, in the white, a page in a folder on a hotel desk. The Raiden family, from 1995. The house on the hill. A note from 2001 about a second child in the house dojo, the housekeeper's boy, who'd trained with the girl under a man in a Homu suit. And a page with a date in 2004 on it, and the word "taken."
 
 ```
 [1995. You are about to be born.]
 Malmö, to an ME Corp man / Nagazora, at the gate of a children's home by the old port / Nagazora, to Mr. Tanabe's younger sister / a village outside the research city, Siberia / Nagazora, in the staff cottage behind the Raiden house (new)
 ```
 
-[The housekeeper's boy,] said the System softly. [From the file on the hotel desk. He grew up in the dojo with her, under the man in the mask. He'd be nine in 2004.] A pause. [In the car, maybe.]
+[The housekeeper's boy,] said the System softly. [From the file on the hotel desk. He grew up in the dojo with her, under the man in the Homu suit. He'd be nine in 2004.] A pause. [In the car, maybe.]
 
 "And do what? He'd be nine."
 
@@ -2236,14 +2236,14 @@ Go / Stay at the local school / Let your mother decide
 ```
 
 ```
-[2001, April. You are six. A man in a white mask with a cartoon face starts coming to the house dojo every Saturday to teach her the sword. She tells him you're coming too. He looks at you for a long time through the eyeholes.]
+[2001, April. You are six. A man in a Homu suit starts coming to the house dojo every Saturday to teach her the sword, the whole mascot, the big round white head with the huge eyes, white fur, fur paws round the bokken. She tells him you're coming too. He looks at you for a long time through the mesh in the Homu's eyes.]
 Step onto the floor / Stay by the door and watch / Tell your mother you'd rather not
 ```
 
 "Onto the floor," I said. I wanted the boy as close to the sword as I could get him, by June 2004.
 
 ```
-[2001, April. You step onto the floor. The man in the mask says, "Feet first. Then the blade," and hands you a bokken that's too long for you.]
+[2001, April. You step onto the floor. The Homu says, "Feet first. Then the blade," and hands you a bokken that's too long for you.]
 [2002. You are bad at it. She is very good at it. You practice every night behind the cottage until your hands bleed, so she'll stop winning so easily.]
 [2002. She still wins easily. Mr. HOMU never praises either of you. Once, when you fall and cut your chin on the edge of the boards, he kneels and puts a plaster on it with very careful fingers, and says nothing, and goes back to the other end of the room.]
 [2003. Mr. HOMU tells you both that a strong heart is what gets you through a fight. You decide this means you have to be braver than her. You tell her so. She laughs at you for a week.]
@@ -2297,7 +2297,7 @@ It came back all at once.
 
 That was the thing nobody had told me about forks. In the other files the boy's life had come up into me at eighteen, slowly, as you'd settle into a body you were going to wear for a while. This one came back with an ending on it. Nine years arrived in the white in one piece, every day of them, and the last minute of them, and they were mine. I'd been that boy, all the way down, with nothing of me in him at all except a few words at the forks.
 
-A girl of one pulling my hair. Her mother's feet under a blanket, one of us asleep on each side of them. Sleeping in a heap on the tatami with her the afternoon her mother died, because nobody knew what else to do with either of us. A spinning top on her windowsill that neither of us ever mentioned. Her bokken cracking across my knuckles when I was six and dropped my guard. Practicing behind the cottage in the dark until my hands bled. The man in the mask looking at me through the eyeholes. The old bokken across my knees in the back of the car, and the rain on the windows, and the sound the glass made.
+A girl of one pulling my hair. Her mother's feet under a blanket, one of us asleep on each side of them. Sleeping in a heap on the tatami with her the afternoon her mother died, because nobody knew what else to do with either of us. A spinning top on her windowsill that neither of us ever mentioned. Her bokken cracking across my knuckles when I was six and dropped my guard. Practicing behind the cottage in the dark until my hands bled. The man in the Homu suit looking at me through the mesh in its eyes. The old bokken across my knees in the back of the car, and the rain on the windows, and the sound the glass made.
 
 Her voice. My name, as she'd screamed it.
 
@@ -3142,13 +3142,13 @@ I didn't answer. She watched me not answer for a long time.
 
 In the first week of January, Mei found the costume.
 
-She told me at dawn, after practice, kneeling on the boards with it folded in front of her. A mask, white and round with a cartoon face. A long padded coat with the same face on the back. A pair of gloves.
+She told me at dawn, after practice, kneeling on the boards with it folded in front of her. A Homu suit. The big round white head with its huge painted eyes and little pointed ears, the white fur body folded in on itself, the two fur paws on top.
 
-"When I was little I had a teacher," she said. "Before the hospital. Before you. He came every week and taught me the sword, and he wore this, and he never told me his name." Her finger traced the cartoon face. "I thought he was someone my father hired."
+"When I was little I had a teacher," she said. "Before the hospital. Before you. He came every week and taught me the sword, and he wore this, and he never told me his name." Her finger traced one of the painted eyes. "I thought he was someone my father hired."
 
-I didn't say anything. I knew whose coat it was. In another file a boy who was me had been taught by the man in that mask, and died on a road with the old bokken. I let her tell me every word of it, and my face did what it was for.
+I didn't say anything. I knew whose suit it was. In another file a boy who was me had been taught by the man inside it, and died on a road with the old bokken. I let her tell me every word of it, and my face did what it was for.
 
-"It was him," she said. "He was too busy to be my father, so he came every week in a mask and was my teacher instead."
+"It was him," she said. "He was too busy to be my father, so he came every week in a Homu suit and was my teacher instead."
 
 ```
 Raiden Mei
