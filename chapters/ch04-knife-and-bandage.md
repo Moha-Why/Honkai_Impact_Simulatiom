@@ -151,7 +151,7 @@ That was the whole interview.
 
 I took the job for the record book and the access. I kept it for the bench, which was eight meters from where she warmed up, and for what those armor panels did when she stepped in for a cut, which was fly up and show me her bare ass in that fundoshi, every single time. I taped forty wrists that autumn. I never once looked at a wrist.
 
-The job was tape and paper. I taped the first-years' wrists before practice, sitting on an upturned crate with the roll in my teeth while they held their hands out one after another, and I fixed broken shinai at the bench with a knife and a spool of cord, splitting out the cracked slat and binding in a new one, and nobody thanked me, as Rin had promised. On the third Friday she came over to the bench at the end of practice with the tournament folder in both hands and a face like somebody who'd been told her exam had been cancelled.
+The job was tape and paper. I taped the first-years' wrists before practice, sitting on an upturned crate with the roll in my teeth while they held their hands out one after another, and I fixed broken shinai at the bench with a knife and a spool of cord, splitting out the cracked slat and binding in a new one. My hands had forty years of a knife in them from a forest in Hokkaido, and a split slat of bamboo took them about a minute. My fingers were eighteen and had never held one, and by the end of the first week the cord had taken the skin off both thumbs. Nobody thanked me, as Rin had promised. On the third Friday she came over to the bench at the end of practice with the tournament folder in both hands and a face like somebody who'd been told her exam had been cancelled.
 
 "The forms are in," she said. "All of them. On time."
 
@@ -876,7 +876,7 @@ I'd been ready for it to look at Kiana. In the game it had wanted Kiana. It had 
 
 "You," it said. "You're the one who made her small."
 
-Kiana moved. She was fast, faster than anything I'd ever seen that was shaped like a person, and she put herself between us, and fired. The persona didn't even turn its head. The lightning went round Kiana like water round a stone. I saw it come. I had time to see it, and to see Kiana's face as she turned and saw where it was going, and to understand, very clearly, that it had known from the first second on the roof which of us it wanted, and why.
+Kiana moved. She was fast, faster than anything I'd ever seen that was shaped like a person, and she put herself between us, and fired. The persona didn't even turn its head. The lightning went round Kiana like water round a stone. I saw it come. My body moved before I'd decided anything and got me about a hand's width to the left, which was nothing. I had time to see it, and to see Kiana's face as she turned and saw where it was going, and to understand, very clearly, that it had known from the first second on the roof which of us it wanted, and why.
 
 It knew everything she'd felt, every afternoon I hadn't come and every night she'd sat by the phone not answering it, and the old man in the white gloves who'd stopped ringing.
 
@@ -1268,7 +1268,7 @@ Step onto the floor / Stay by the door and watch / Tell your mother you'd rather
 
 ```
 [2001, April. You step onto the floor. The Homu says, "Feet first. Then the blade," and hands you a bokken that's too long for you.]
-[2002. You are bad at it. She is very good at it. You practice every night behind the cottage until your hands bleed, so she'll stop winning so easily.]
+[2002. You pick it up faster than any child Mr. HOMU has taught, except one. She's still much better. (Quick Learner) You practice every night behind the cottage until your hands bleed, so she'll stop winning so easily.]
 [2002. She still wins easily. Mr. HOMU never praises either of you. Once, when you fall and cut your chin on the edge of the boards, he kneels and puts a plaster on it with very careful fingers, and says nothing, and goes back to the other end of the room.]
 [2003. Mr. HOMU tells you both that a strong heart is what gets you through a fight. You decide this means you have to be braver than her. You tell her so. She laughs at you for a week.]
 [2003. Your mother catches you both at midnight in the dojo practicing in your pajamas. She marches you back to bed and then stands in the corridor outside the girl's room with her hand over her mouth, laughing silently, for a long time.]

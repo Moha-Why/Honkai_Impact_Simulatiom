@@ -322,7 +322,7 @@ I wanted the number. I'd been sure, without ever saying so, that whoever lived t
 
 ```
 [2002, December. Your father comes home for Christmas for the first time in three years. He brings you a calculator from Japan that does things calculators in Sweden don't. He spends most of the holiday on the phone in English, in the room with the door closed.]
-[2003, March. You are eight. You write your father a letter in English, out of a book, about the calculator and about Sigge in the Bergs' window. You copy the address off the newest postcard. It only has the name of the tower on it.]
+[2003, March. You are eight. You've taught yourself English from a book of your mother's in five weeks, which the teacher at school says is not possible. (Quick Learner) You write your father a letter in English, out of the book, about the calculator and about Sigge in the Bergs' window. You copy the address off the newest postcard. It only has the name of the tower on it.]
 Address it to your father / Address it to the boss of the glass tower / Don't send it
 ```
 
@@ -854,7 +854,21 @@ A man got out as I came level with it. He was in his forties, in a plain coat, w
 
 There was no cold hand on the back of my neck. There was nothing at all. I'd held that card in my hand eight weeks before and put it down for a better face, and my face was very good. It stayed pleasant and a little puzzled all the way through.
 
-He didn't say anything else.
+He didn't say anything else. His hand came out of his coat with a gun in it, small and black, as ordinary as a phone.
+
+My body moved before I'd seen it properly. It had done that since the hunter's file. It turned me side-on and started me back toward the wall, faster than anyone on that street could have moved, and it got me about half a step.
+
+The first shot hit me under the ribs on the left and turned me the rest of the way round. It wasn't as loud as I'd expected, a flat crack off the walls, and then a second one, and then I was sitting on the road with my back against somebody's gate and my legs out in front of me. I didn't remember sitting down.
+
+It didn't hurt yet. There was a warm heaviness spreading under my school coat, and a smell like a struck match, and the streetlight over the sedan was buzzing.
+
+The man got back into the car. He didn't hurry. The engine had been running the whole time. The sedan pulled away from the curb and went down the narrow road between the walls with its lights on, and turned at the bottom, and the street was the same as it had been before, walls and gates and the backs of old houses, and nobody came out of any of them.
+
+Then it hurt. It came up from under the ribs all at once and took the breath out of me, and when I got it back it was short and wet and wouldn't go down far enough. I put my hand on my side and it came away black in the streetlight. I tried to get up and my legs didn't do anything.
+
+I thought about the courtyard at twenty to one, and the bench under the cherry tree, and that she'd look at the empty space in front of her desk on Monday and decide I'd finally stopped.
+
+My breath got shorter. The cold came up out of the road into my back. I watched the streetlight buzz until I couldn't see it any more.
 
 ---
 
@@ -1318,7 +1332,7 @@ Go in with them / Stop them / Keep watch at the end of the corridor
 [No,] said the System. [He doesn't lie to her. Hadn't you noticed?]
 
 ```
-[2006. You're eleven. You fix the house's boiler when the man from the city can't. Matushka watches you do it, and that night she gives you a book about engines, in English, and tells you to learn English.]
+[2006. You're eleven. You fix the house's boiler when the man from the city can't. Matushka watches you do it, and that night she gives you a book about engines, in English, and tells you to learn English. You've read it twice by the summer. (Quick Learner)]
 [2008. You're thirteen, and taller than her. She stands you against the kitchen doorframe and marks it, and says, "Now you'll have to look after me," and laughs.]
 [2009, March. You're fourteen. The girl you gave the gloves to is twelve now, and she's been hiding bread under her mattress. She tells you she's going to run away in the spring to find her family. She tells you because you're the one she trusts.]
 Tell matushka / Help her pack / Say nothing
@@ -1412,6 +1426,16 @@ That was the whole of it, every morning. I'd played the game for ten years and I
 ---
 
 The spring went slowly, as springs do by a lake that's frozen until May.
+
+In April, when the ice went gray, I went out along the shore before it was light and set snares in the birch scrub for hares, because the boy had always known the kitchen ran short in spring. My hands knew how. Forty years in a Hokkaido forest had gone into them in another file, and they twisted the wire and set the loop at the right height off the path before I'd thought about any of it. The eighteen-year-old back that carried four hares up through the wet snow afterward knew nothing at all, and told me so for two days.
+
+Bronya watched me skin the first one at the kitchen door from her chair.
+
+"Where did you learn that?"
+
+"A book."
+
+"Bronya has never seen you read a book," said Bronya. "You play games, and you lose."
 
 In the evenings Seele read to Bronya in the window seat on the landing, with the wheelchair pulled up beside it and Bronya pretending she wasn't listening, and I sat on the stairs below them with the console and lost. I lost a great deal that spring. Bronya beat my scores with her leg up on a cushion and a blanket over the cast, and said "You're still bad at this" every single night, and every single night the corner of her mouth went up exactly where it always had.
 
@@ -2010,7 +2034,7 @@ The gray sedan was there. So was a second car, a van, with its engine running. T
 
 "You told Bronya." He didn't move his hands. "She said you'd say that. She said you've never once lied to her, and that's how she knew you were lying in the hotel." He nodded to the two men. "Get in the car, please. She asked me to say please."
 
-I thought about running. There was a stairwell behind me and a ramp to the left and two men who'd been chosen for this, and I was a normal human with a good face. I'd been shot in this city once already for less.
+I thought about running. There was a stairwell behind me and a ramp to the left and two men who'd been chosen for this. My legs would have had me at the stairwell before either of them moved, and I'd have been finished by the second landing, as I always was. My body would have got out from under the first hand on my arm and not the second. I was a normal human with a good face, and I'd been shot in this city once already for less.
 
 I got in the car.
 

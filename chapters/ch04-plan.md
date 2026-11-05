@@ -130,6 +130,20 @@ lies that work are true things put side by side, or one bare word.
   minute in the white.
 
 
+## Gifts on the page (Chapter 4)
+
+- Quick Learner: the footwork in two weeks, the lungs at forty seconds
+  (Loop 4); the boy learns the sword faster than any child but Mei (Loop 6
+  log).
+- Sprinter: up the stairwell before anyone has looked up, four flights and
+  the lungs give out (Loop 4).
+- Quick Reflexes: a hand's width from the lightning (Loop 4); a little out
+  of the truck's way (Loop 5).
+- Hunting and Field Craft: forty years of a knife on a split slat of bamboo,
+  and eighteen-year-old thumbs (Loop 4).
+- Honkai Resistance: hours of Eruption air on the roof stairs (Loop 4).
+  Liar's Face: the lie about Siegfried (Loop 5).
+
 ## Loops 4 to 6 as first planned
 
 #### Loop 4: "The Knife and the Bandage" (about 6k words)

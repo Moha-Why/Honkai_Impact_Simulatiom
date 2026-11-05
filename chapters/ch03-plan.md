@@ -216,6 +216,20 @@ isn't waiting yet. **Unlocks:** kendo manager; Tanabe's nephew (birth).
 - **Unlocks:** Mr. HOMU's other student (Cocolia's file on the Raidens
   mentioned a second child in the dojo, years ago).
 
+## Gifts on the page (Chapter 3)
+
+His permanent gifts (Quick Learner, Sprinter, Quick Reflexes, Hunting and
+Field Craft) come into every loop with him, in the child's body too, along
+with the run's two (Honkai Resistance, Liar's Face). Each shows once where it
+matters, with its limit:
+- Quick Learner: English in five weeks at eight (Loop 1 log); the engine
+  book by the summer (Loop 3 log).
+- Quick Reflexes: half a step from the gray car's gun (Loop 1 death).
+- Sprinter and Quick Reflexes: weighed in the garage and not enough (Loop 3).
+- Hunting and Field Craft: hare snares at the lake; the eighteen-year-old
+  back pays for it (Loop 3).
+- Honkai Resistance: Low D at the harbor (Loop 1 log). Liar's Face: throughout.
+
 ## Continuity checks
 
 - Nothing romantic before 18 in the lived childhoods (Loops 6 and 8).
