@@ -67,7 +67,10 @@ Believes the ends are the point.
   him she's frightened ("You're the only thing left in her that I can't
   account for") and sends him to Nagazora to isolate Mei, partly to teach
   Bronya to do without him. In December, in a hotel suite above the bay:
-  "I need her alone. Pull back." He lies that he will. She sends Bronya,
-  and uses the bio-chip to make her fire, because he'd never be afraid of
-  Bronya and she's the only one he'd let in.
+  "I need her alone. Pull back." He lies that he will, and she knows
+  ("you've never lied to her, and that's how she knew"). She doesn't kill
+  children. She sends Bronya to bring him home, and when he refuses, has her
+  people take him and keeps him in the directors' apartment of the ME Corp
+  tower: "I don't lose them, either. Not one more." He resets the run from
+  its terrace.
 - **Loop 8:** her outbreak at Chiba Academy.

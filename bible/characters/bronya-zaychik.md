@@ -70,9 +70,12 @@ sister.
   go back and let him"). Afterward she follows him everywhere ("Subject Eros
   will be here tomorrow"), smiles once when he beats her score, and calls
   him every Sunday at nine from the house. In January 2014 Cocolia sends her
-  to kill him and the bio-chip makes her fire. Her feelings come back all at
-  once as it happens; she kneels and presses on the wound, crying, saying
-  "I" for the first time since August. He dies holding her hand.
+  to bring him home ("Matushka says come home"). He refuses, so she stays
+  and follows him; she doesn't report the refusal. After Cocolia's people
+  take him and lock him in the ME Corp tower, she stays with him and brings
+  Seele's book. On the third night he goes over the terrace rail. She gets
+  up on the white legs, too slow by three steps, and says "Eros," his name,
+  the first thing with feeling in it since August.
 - **Loop 8:** a small gray-haired figure on the roof across from the school
   gate on the morning of the Eruption. She doesn't reach the school roof
   before the Hyperion does.

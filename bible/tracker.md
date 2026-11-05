@@ -33,7 +33,7 @@ Fate Fragments: 770
 
 | Run | Heroine | Loops | Result | Reward taken |
 |---|---|---|---|---|
-| Mei | Raiden Mei, Nagazora, 1995 to Feb 2014 | 1 gray car; 2 Tanabe's nephew, self-reset; 3 Cocolia's orphan, Bronya; 4 Herrscher; 5 truck; 6 lived, killed at nine in the kidnapping; 7 Herrscher; 8 lived, the institution, the pin, dies as the Hyperion arrives | Grade A. Objectives 1 and 2 complete. | Honkai Resistance (Blue), Raiden Mei's Hair Pin (Gold item), Raiden Kenjutsu (Master); +420 |
+| Mei | Raiden Mei, Nagazora, 1995 to Feb 2014 | 1 gray car; 2 Tanabe's nephew, self-reset; 3 Cocolia's orphan, self (kept in the ME Corp tower); 4 Herrscher; 5 truck; 6 lived, killed at nine in the kidnapping; 7 Herrscher; 8 lived, the institution, the pin, dies as the Hyperion arrives | Grade A. Objectives 1 and 2 complete. | Honkai Resistance (Blue), Raiden Mei's Hair Pin (Gold item), Raiden Kenjutsu (Master); +420 |
 
 ### Runs completed
 

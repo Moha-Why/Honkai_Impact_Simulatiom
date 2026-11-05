@@ -69,7 +69,7 @@ part of the Life Path.
 |---|---|---|---|---|---|
 | 1 | The Lightning Rod | Wake at 18 | ME Corp manager's son | The gray car (ordinary) | Frayed |
 | 2 | Reroll | Wake at 18 | Tanabe's nephew from birth | "You're not him." He resets himself. | Frayed |
-| 3 | The Inside Man | Wake at 18 | Siberia, Cocolia's orphanage | Bronya, on Cocolia's orders (ordinary) | Frayed, close to Worn |
+| 3 | The Inside Man | Wake at 18 | Siberia, Cocolia's orphanage | Self: kept in the ME Corp tower, he goes over the terrace rail (ordinary) | Frayed, close to Worn |
 | 4 | The Knife and the Bandage | Wake at 18 | Scholarship, station, kendo manager | Herrscher lightning | **Worn** |
 | 5 | The Fixed Node | Wake at 18 | Scholarship, the house next door | The truck on the ice (ordinary) | Worn |
 | 6 | Nine | **Live it** | Housekeeper's son, Mr. HOMU's other student, there when she's taken | Killed at nine in the kidnapping (ordinary) | Worn |
@@ -150,17 +150,32 @@ isn't waiting yet. **Unlocks:** kendo manager; Tanabe's nephew (birth).
   Mei route sanctioned and climbing. The hotel in December: Bronya asks
   where he is every night, "not even Seele." He lies that he'll pull back.
   In January the Sunday calls stop.
-- **The death (full scene):** January 12, Bronya at his door. "Bronya is
-  the only one he would let in." The bio-chip lifts her hand in stages; her
-  face comes back all at once ("Bronya is not doing this"). He tells her
-  it's all right. Shot in the chest; she kneels and presses on the wound,
-  crying, in the first person for the first time since August ("I tried,"
-  "I just got it back and it's this"). "You're bad at this." He dies holding
-  her hand.
-- **The white:** his hand still closed. The System: it was the first thing
-  she'd felt since August. "You never told her about the stairs."
+- **Bronya comes to fetch him, not kill him.** Cocolia doesn't kill her
+  children, and her people wouldn't dare touch her favorite. January 12:
+  "Matushka says come home." He says February. "Then Bronya will stay." She
+  sleeps upright in his desk chair with the legs off, and follows him to
+  school; Mei: "She doesn't look worried."
+- **Captured.** Thursday at level three, the man in the plain coat, two men,
+  Bronya in the back seat: "She wants you home... She asked me to say
+  please." Bronya: "Bronya did not report the refusal. Matushka knew
+  anyway." He's locked in the directors' apartment on the top floor of the
+  ME Corp tower. Cocolia at midnight: "I don't kill children... I don't
+  lose them, either. Not one more." She'll keep him until February, then
+  take them all somewhere warm, "Seele always wanted to see a warm sea."
+- **The reset (full scene).** The file is a save he can't use. Bronya stays
+  with him and brings Seele's book ("She will want her place"). On the
+  third night, on the terrace: "Subject Eros will take Bronya. Subject Eros
+  will carry the bags." He goes over the rail. She gets up on the white
+  legs in their stages, too slow by about three steps, the legs he let
+  break, and says "Eros," his name, the first thing with feeling in it
+  since August. The fall.
+- **The white:** he can still hear the legs. The System: "Her legs were too
+  slow. You picked that. On the cellar stairs." "You never told her about
+  the stairs."
 - **Lesson:** Cocolia's plan needs Mei alone and removes anything she holds
-  on to. Stay invisible to the operation. Bronya is coming for Mei at the end.
+  on to. She doesn't kill her children, she keeps them, so never be one of
+  hers again. Stay invisible to the operation. Bronya is coming for Mei at
+  the end.
 - **Unlocks:** Mr. HOMU's other student (Cocolia's file on the Raidens
   mentioned a second child in the dojo, years ago).
 

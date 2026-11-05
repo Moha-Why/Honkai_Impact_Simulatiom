@@ -1766,68 +1766,146 @@ She came in, with the small even click of the white legs on my floor. She looked
 
 She stood in the middle of the room with her bag still on her back.
 
-"Matushka says you have not pulled back," she said.
+"Matushka says come home," she said.
 
-"I'm doing it slowly. She said slowly."
+"Not yet."
 
-"Matushka says you have not pulled back," Bronya said again, in exactly the same voice, "and Matushka says you have never lied to her before, and that this is how she knows." Her right hand went into her coat. "Matushka says Bronya is the one who must do it. Because Subject Eros will not be afraid of Bronya. Because Bronya is the only one he would let in."
+"Matushka says come home now. Matushka says the work in Nagazora will be finished by others." She said it exactly as she'd said everything since August, a list of stations. "Matushka says she is not angry."
 
-The hand came out with a pistol in it.
+"Tell her February. Tell her I'm nearly done."
 
-It came out very slowly. That was what I'd remember. In the game she'd been the fastest thing on any roof, and in the house she'd put a boy twice her size on the floor in a second and a half, and now her hand came up out of her coat as if it were being pulled up on a string, one stage at a time, like the legs, and the rest of her stood quite still and let it.
+Bronya looked at me for a long time. I don't know what she saw. I don't know if there was anything left in her that could see it.
 
-"Bronya is not doing this," she said.
+"Then Bronya will stay," she said.
 
-Her face wasn't empty any more.
+She slept in my desk chair that night, sitting up, with the white legs unclipped and stood neatly side by side against the wall, and her coat over her knees. I lay on the futon and listened to her breathe, and to the trains, and didn't sleep much. In the morning she was standing at the window, on the legs again, watching the street.
 
-I'd never seen anything happen to a face like that. It was as if something had been cut away inside her and grown back wrong and was trying now, all at once, in the one minute it had, to be every expression she'd missed since August. Her mouth pulled. Her eyes went wide and wet. Behind her ear, under the gray hair, where they'd put the grain of rice, there was a tiny point of light I'd never noticed, blinking green.
+She followed me to school. Not close. Across the road, a small gray figure in a gray coat at the bus stop by the gate, who didn't get on any of the buses. At lunch she was on the wall of the shrine opposite. At four she was at the bottom of the hill. Mei saw her on the second day and asked me who she was.
 
-"Bronya is not doing this," she said again, and her voice cracked across the middle, and the pistol came level with my chest.
+"My sister," I said. "From the home. She worries."
 
-[Run,] said the System, and I'd never heard it say that before. [Eros. The window.]
+Mei looked at the small still figure on the shrine wall for a while.
 
-I didn't run. I don't know why. Maybe because there was nowhere in that apartment she couldn't hit, and I'd known it since the knock. Maybe because she'd held my hand across the whole bunker floor after finding out what I'd done, and I owed her not making this any harder for her body than it already was.
+"She doesn't look worried," she said.
 
-"It's all right," I said.
+"No," I said. "She doesn't."
 
-It was the first thing I'd said to her in either life that wasn't true and that I wanted her to believe.
+---
 
-The shot was very loud in that small room. Something hit me in the chest like a door slammed into it, and I sat down on the floor without meaning to, with my back against the wall under the window, and a train went past outside, every window lit, all the people in it looking at their phones.
+On Thursday I went down to level three of the garage under the station at eight o'clock, as I'd gone down every Thursday since October, with the week's report in my head.
 
-It didn't hurt at first. Then it did, all at once and everywhere, and my breath came in wet and short and wouldn't go down far enough, and there was warmth spreading under my shirt that seemed to be happening to somebody else, a long way off.
+The gray sedan was there. So was a second car, a van, with its engine running. The man in the plain coat was standing beside the sedan with his hands in his pockets, and there were two other men with him I'd never seen, and in the back seat of the sedan, behind the glass, sat Bronya, with her school bag on her knees, looking straight ahead.
 
-The pistol hit the floor. The green light behind her ear had gone out.
+"She wants you home," said the man in the plain coat.
 
-She came down onto her knees in front of me, all at once, not in stages, the white legs folding under her any old how, and she put both her hands on my chest over the hole and pressed, hard, as Seele had pressed a cloth on her split knuckles on her first night in the house.
+"I told Bronya. February."
 
-"No," she said. "No. No. I didn't. I didn't, it wasn't me, I couldn't stop it, I tried, I *tried*..."
+"You told Bronya." He didn't move his hands. "She said you'd say that. She said you've never once lied to her, and that's how she knew you were lying in the hotel." He nodded to the two men. "Get in the car, please. She asked me to say please."
 
-I. Not Bronya. I. It was the first time I'd heard it since the knife in the bunker.
+I thought about running. There was a stairwell behind me and a ramp to the left and two men who'd been chosen for this, and I was a normal human with a good face. I'd been shot in this city once already for less.
 
-"I know," I said. It came out as mostly breath.
+I got in the car.
 
-"You're supposed to be here tomorrow." She was crying. I'd never seen her cry, in either life, not once. It was ugly and helpless and it made her look about six years old and about a hundred. "You said. Every night you said. You're supposed to carry the bags. You promised her. You promised her you'd look after me, and I, I..."
+Bronya didn't look at me. The van pulled out ahead of us and we followed it up the ramp into the rain.
 
-"Bronya."
+"Bronya did not report the refusal," she said, to the back of the driver's seat. "Bronya was asked, and said nothing. Matushka knew anyway."
 
-"Don't." She pressed harder. Blood came up between her fingers anyway. "Don't, don't, I can't, I just got it back, I just got it back and it's *this*, I don't want it if it's this, take it back..."
+It was the most she'd said to me in one go since August. I didn't know what to do with it, and neither did she.
 
-I got a hand up. It took a long time. I put it over hers, on my chest, and she held on to it, as she had on the bunker floor, so hard the bones moved.
+---
 
-The room was getting dark at the edges, and very cold. The train had gone. Somewhere a long way above me Seele's book was on the shelf with its corner turned down, and I thought, quite clearly, that somebody ought to tell her what page she'd got to, and that it wasn't going to be me.
+They took me to the ME Corp tower.
 
-"You're bad at this," Bronya said, through her teeth, crying, holding my hand against the hole in me, and the corner of her mouth tried to go up and couldn't, and she put her forehead down on my shoulder.
+The top floor was an apartment for visiting directors, all glass and pale wood and a view of the whole curve of the bay, and nobody had lived in it since November. There was a terrace off the living room with a glass rail at chest height and the city forty floors down below it. The front door locked from the outside. The phone in the kitchen had no cord. The man in the plain coat took my own phone off me in the lift, very politely, and the console, and then gave the console to Bronya.
 
-I had time to think that I'd sat next to her at dinner every night for a year and a half, and had never once been afraid of her, and that I still wasn't.
+Matushka came at midnight.
 
-Then the cold came all the way in.
+She was in the greatcoat, with snow on the shoulders, and she looked older than she had in the hotel in December. She didn't hold her hands out this time. She sat down on the arm of the sofa across from me and looked at me for a long time.
+
+"I don't kill children, Eros," she said at last. "You know that. Everybody who works for me knows that."
+
+"I know."
+
+"I don't lose them, either." Her voice didn't change, but her hands did, on her knees. "Not any more. Not one more."
+
+She meant Seele. I could see her meaning it.
+
+"You'll stay here until it's done," she said. "It won't be long. February. Then we'll all go home, and Bronya will beat you at that game every night, and in the spring, I think, we'll go somewhere warm. Seele always wanted to see a warm sea." She stood up and came and put her hand on my hair, once, as she'd done when I was small. "You were always my most polite child. I should have known what it meant."
+
+Then she went out, and I heard the lock.
+
+[Well,] said the System, after a while. [She kept you.]
+
+---
+
+I had three days to look at it, and I looked at it from every side, as I'd have looked at a bug.
+
+The route was finished. Mei would be at the bottom of the hill on the fourth evening, sure as the trains, with nobody coming. By the end of the week she'd decide I'd left like everybody else. By February she'd have nobody at all, which was exactly what matushka needed, and exactly what the file was going to give her whether I was in it or not. I'd be on the fortieth floor with a cordless phone and a view, watching the Eruption from the best seat in the city. And then, if I lived through it, I'd be on a plane to Lake Baikal with my mother and my sister, and this file would go on without a single thing in it I could use, for as long as it took this body to die of something.
+
+[You could wait,] said the System. [February's only three weeks off. You'd see it from up here. It's quite a view.]
+
+*I've seen it.*
+
+[Not from in here.]
+
+It was a save I couldn't use. I'd known what to do with those since the nephew's file. You don't sit in a bricked file waiting for it to end on its own. You end it.
+
+Bronya stayed in the apartment with me. Of course she did. She'd been told to come back to me, once, by the only person who'd ever told her anything she hadn't been ordered to hear. She sat in the armchair by the terrace doors with the console, and beat my scores when I played, and said "Subject Eros is bad at this," and on the second evening she went into the bedroom and came back with something in both hands and put it on the table in front of me.
+
+Seele's book. She'd packed my apartment.
+
+"She will want her place," Bronya said.
+
+I looked at it for a long time. I didn't open it.
+
+---
+
+On the third night the rain stopped, and the terrace was black and wet, and the whole city was lit up below it in a long bright crescent round the bay. From up there you could see the line of lights going up the hill to the big houses, and one house near the top with only two windows lit.
+
+I went out onto the terrace. Bronya came and stood in the doors behind me with the console in her hands.
+
+"It's cold," she said. It was an observation, not a complaint.
+
+"It's always cold where we're from."
+
+"Seele said the sea would be warm." She looked at the city. "Bronya has calculated that it is unlikely Bronya will see it."
+
+"You'll see it," I said. "Somebody will take you."
+
+"Subject Eros will take Bronya. Subject Eros will carry the bags." She said it as she'd said *Subject Eros will be here tomorrow*, every night for three weeks, a fact she was checking against a gauge. "Seele said."
+
+I didn't answer that. I put both hands on the wet glass rail and looked down. Forty floors. The street at the bottom was very small and very clean, and a taxi went along it with its light on, and I thought, quite clearly, that it would be the second time I'd chosen this, and that it didn't get easier. It only got quicker to decide.
+
+[It costs you,] said the System, very quietly. [You know it does. Every time.]
+
+*I know.*
+
+[She's watching.]
+
+*I know.*
+
+I put my foot on the base of the rail.
+
+Behind me the console hit the terrace.
+
+I heard her get up. I'll hear it for the rest of my lives. Not one sound but a series of them, the click and catch and click of the white legs taking her weight in their careful stages, one, two, three, as they'd been built to, the only speed they had, and she was the fastest thing that had ever been on a roof in Nagazora, and she was a girl on borrowed legs at the far side of a wet terrace, and I'd sat on the cellar stairs of that house and watched her real ones go.
+
+"Eros," she said.
+
+Not subject. Just my name. Her voice cracked right across the middle of it, and it was the first thing she'd said with anything in it since a knife in a bunker, and it was too late, and it was too slow, by about three steps.
+
+I went over the rail.
+
+There isn't much to falling. The air takes you, and it's very cold and very loud, a roar that comes up from underneath and fills your ears and your mouth, and the glass of the tower goes past beside you floor after floor with your own shape in it, coming apart at the edges. I looked up once. I don't know why. There was a small dark figure at the top of the rail with her hands out over the edge, with nothing in them, and her mouth open, and I couldn't hear what she was saying any more, and I'd have given a great deal to.
+
+Then the city came up very fast and very bright, all at once, and I didn't feel the street. I felt the cold. And then not even that.
 
 ---
 
 ```
 Simulation reset.
 Loop 3. Age 18.
-Cause of death: gunshot
+Cause of death: self
 Soul damage: a scattered detail
 ```
 
@@ -1835,27 +1913,27 @@ I stood in the white for a long time.
 
 Something else had gone, a small thing. A woman from St. Freya with a burn scar down her neck, who'd come up to the eleventh floor one July on a cane. A captain. I could see the cane. I couldn't find her name.
 
-My right hand was still closed, as if somebody were holding it.
+I could still hear the legs. Click, and catch, and click.
 
-[They both loved you,] said the System. [Matushka in her way. That was the sad part.] A pause. [And the other one in hers. Did you notice? It was the first thing she'd felt since August. You. She got it all back for you, and then she got to keep it for about a minute.]
+[She got up faster than she has since August,] said the System. [Did you see? Three steps. She'd have needed two.] A pause. [She said your name. Not subject. The first thing she's felt in five months, and it was that, and she got to keep it for about four seconds.]
 
 "Don't."
 
-[You never told her about the stairs, either. Or the corridor at one in the morning.] It said it without any edge at all. [She'll never know. She isn't real, remember. You keep telling me.]
+[Her legs were too slow,] it said, without any edge at all. [You picked that. On the cellar stairs, when you said nothing.] It let that sit. [You never told her about the stairs. Or the corridor at one in the morning. She'll never know. She isn't real, remember. You keep telling me.]
 
-I stood there with my hand closed for a long time. I'd told myself in a garage and in a glass tower that none of them were real, and it had been easy to believe in both places. It was harder with the shape of her fingers still in mine.
+I stood there for a long time. I'd told myself in a garage and in a glass tower that none of them were real, and it had been easy to believe in both places. It was harder with that one word still in my ears, in that voice, cracked across the middle.
 
-Then I made myself open it.
+Then I made myself stop listening to it.
 
 "She needs Mei alone," I said.
 
 [She does.]
 
-"Anything Mei holds on to, she takes away. Me, Kiana, the old man. Anything." I said it slowly. "Her whole plan needs the girl to have nobody when the day comes. And she's got people everywhere. She'll know."
+"Anything Mei holds on to, she takes away. Me, Kiana, the old man. Anything." I said it slowly. "She doesn't kill her children. She keeps them. If you're one of hers and you get in the way, she locks you in a tower and waits for it to be over, and she'll know you're in the way before you do. She's got people everywhere."
 
 [So?]
 
-"So I stay out of her sight. I'm never on a list. I'm never in a report. Nobody in her operation ever writes my name down." I thought about a pistol coming up out of a gray coat one stage at a time, like a thing on a string. "And Bronya's coming for her at the end. On the day."
+"So I'm never one of hers again. I stay out of her sight. I'm never on a list. I'm never in a report. Nobody in her operation ever writes my name down." I thought about a small gray figure on a shrine wall across the road, watching the gate. "And Bronya's coming for Mei at the end. On the day."
 
 [You read the file,] said the System, approvingly. [In the hotel. While she was in the bathroom.]
 
@@ -2965,7 +3043,7 @@ I don't know how long I was in the white that time.
 
 There was a long stretch where I didn't know where I was. Then I did, and I was standing, and the subway map was in front of me with its padlocks and its pulsing circles, and I looked at it, and I knew what it was, and I knew what I'd come here to do, and I couldn't feel any of it.
 
-I reached for the island. It was there. I could have told you the number of my flat and the name of the ferry and what time the canteen opened. I could not have told you what any of it had looked like. I reached for the first file, and the garage, and the hotel above the bay, and they were there as dates and causes of death, a gun, a decision, another gun, lightning, a truck, a road in the rain, lightning, like the minutes of a meeting I hadn't been at. I reached for the apartment where I'd died the first time, and the office, and the second monitor with the event still running on it, and the convenience store under my building where the night clerk had my order ready before I reached the counter. There was a door where all of that had been, and the door was shut, and it didn't have a handle.
+I reached for the island. It was there. I could have told you the number of my flat and the name of the ferry and what time the canteen opened. I could not have told you what any of it had looked like. I reached for the first file, and the garage, and the hotel above the bay, and they were there as dates and causes of death, a gun, a decision, a fall, lightning, a truck, a road in the rain, lightning, like the minutes of a meeting I hadn't been at. I reached for the apartment where I'd died the first time, and the office, and the second monitor with the event still running on it, and the convenience store under my building where the night clerk had my order ready before I reached the counter. There was a door where all of that had been, and the door was shut, and it didn't have a handle.
 
 And under that, much further down, a woman with gray hair at the gate of a children's home in Hangzhou in the rain. I could see the gate. I could see the rain. Her face was going, as I looked at it, like a word you've said so many times it stops being a word.
 
