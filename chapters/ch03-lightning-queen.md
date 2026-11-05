@@ -2697,13 +2697,9 @@ The tape went back to the beginning, and this time I let it run.
 ```
 [1995 to 2013, April. The same as the fourth file. The mandarin box, the table you hid under, the receipt on the wall, the man in the plain suit, Daichi, Haru at the gate, the noodle stall, the pencils, the exam.]
 [2013, April 13.]
-[2013. Where do you live, and what do you do after school?]
-The apartment by the station / A room in the empty house next to the Raidens' (new) / A room at the home, until they need the bed
-None / Kendo club (manager) / Kendo club (member)
-September / October
 ```
 
-[She told you about the dawn,] said the System. [The dojo. You were so busy with your knife you didn't even notice it was a door.]
+[Where do you want to live?] said the System. [The apartment by the station again, or a room at the home until they need the bed. Or there's a new one.] It let that hang. [A room in the empty house next to the Raidens'. And after school, the club or nothing. And September or October.] A pause. [She told you about the dawn, you know. The dojo. You were so busy with your knife you didn't even notice it was a door.]
 
 I looked at the new option for a long time. A room on the other side of a wall from her garden. Five in the morning, every morning, since she was six.
 
@@ -2725,9 +2721,19 @@ So the next file was about Kiana. It didn't need the club. A manager was tied to
 
 I went in Worn, and the first thing I found out was what that meant from the inside.
 
-Most of the first file had gone. I knew I'd lived in a glass tower and that a man in a gray coat had shot me on a street behind a shrine. I knew it as you know something you've read in a report. The tower itself, the lift, my father's face, they'd gone soft at the edges, like a photograph left in a window, and when I tried to look straight at them they slid away. I still had the rules. I'd said them out loud in the white so many times that they'd worn a groove. Don't use it on her. Don't be the knife. Be the cure. They were all there. It was everything around them that had gone thin.
+The house next to the Raidens' had been empty for two years except for the old woman in the three rooms at the back. She opened the front door to me on the first evening of September in a cardigan with the elbows gone, eighty-one, about as tall as my chest, and looked at my bag and then at me.
 
-The house next to the Raidens' had been empty for two years, and the System had put me in it as a lodger with an old woman who lived in three rooms at the back and never came out of them. My room looked over a wall into the Raidens' garden. On the first morning I woke at five in the dark to a sound I didn't recognize, a sharp hollow crack, and then another, and another, regular as a metronome.
+"You're the student," she said.
+
+"Yes."
+
+"Upstairs. The room on the left. It looks over the wall." She turned and went back down the dark corridor toward her three rooms, talking as she went. "No girls. No noise before six. The bath's on Tuesdays and Fridays. If you burn the house down I'll know it was you."
+
+Her name was on the letterbox. Okada.
+
+I'd hidden under a table from her in another life, when I was four, while she stood in a doorway in a good coat and said, "Is he shy?" The boy had it all, every detail, the table and the coat and the fruit sweets in her pocket. I stood in the hall of her house with my bag in my hand and the boy's memory of her face, younger, and she didn't look back.
+
+My room looked over a wall into the Raidens' garden. On the first morning I woke at five in the dark to a sound I didn't recognize, a sharp hollow crack, and then another, and another, regular as a metronome.
 
 A wooden sword hitting a wooden post. Every morning since she was six.
 
@@ -2741,12 +2747,43 @@ I didn't go over. Not in this file. I'd decided before I came in that this one w
 
 ---
 
-```
-[2013, September. You lodge with Mrs. Okada, who is eighty-one and calls you "the student" for three months.]
-[2013, December. One morning on the stairs she calls you by your name. "You hid under the table," she says. "My husband made you a boat."]
-[2013, October. You go to school. You don't go near Raiden Mei. You sit at your desk by the window and learn the shape of the class.]
-[2013, November 16. Raiden Ryoma is arrested. You hear the cars from your window.]
-```
+At school I didn't go near her.
+
+I sat at my desk by the window in 3-A and learned the shape of the class instead, who sat with whom, who laughed at whose jokes, which of the three girls was the one the other two watched. Mei was at the next desk, in the black patent and the violet stone, and every morning she gave me the lift smile and every afternoon she got into the long black car at the walkway, and I didn't so much as lend her a pen. On the second Wednesday of October a boy from 3-D confessed to her in the corridor outside our door, and she said "I'm sorry. No," and inclined her head to him, and walked back in and sat down beside me, and opened her book. I didn't look up from mine.
+
+The house was the only place I was near her. Five in the morning, every morning, through a wall, crack and crack and crack, and I lay on the futon in the dark and counted the strokes, and never got up to look.
+
+On the sixteenth of November the crack didn't come.
+
+I woke at six without it, to a different sound, engines on the hill and car doors and a man's voice saying something formal and loud, and I got up and went to the window. There were four police cars in the Raidens' drive with their lights going round, blue and red across the snow on the lawn. The front door of the big house was open. And across the garden, on the far side of the wall from me, the doors of the little dojo were slid open on its lamp, and Mei was standing in the doorway in her armor with the bokken in one hand, hanging at her side, watching men in dark coats go into her house.
+
+She stood there for twenty minutes. She didn't move. When they brought her father out to the car she lifted the bokken an inch, as if her arm had decided something without her, and then she let it hang again.
+
+I stood at my window above the wall and watched her, and I didn't open it, and I didn't go down.
+
+[You could call to her,] said the System. [From up there. She'd hear you.]
+
+*Not this file.*
+
+[No,] it said. [Not this file.]
+
+---
+
+Mrs. Okada stopped me on the stairs one morning in December.
+
+She'd been calling me the student for three months. She called me the student when I paid the rent and when she told me the bath was hot and when she shouted up the stairs that I'd left a light on. That morning she was coming up as I was going down, one step at a time with her hand on the rail, and she stopped halfway and looked at me for a long time in the gray light from the landing window.
+
+"You hid under the table," she said.
+
+I didn't say anything.
+
+"At the home. You were very small. You wouldn't come out for anyone." She frowned, as if she were reading something a long way off. "My husband made you a boat. Out of an orange box. You wouldn't take it from him, so he left it under the table."
+
+"I remember," I said.
+
+"He's dead now," she said. "Four years." She looked at me a moment longer. Then her face went back to what it was every other morning, and she went on up the stairs past me, one at a time. "You left the light on in the bath again, student," she said, without turning round.
+
+---
 
 My problem was Kiana.
 
@@ -2791,24 +2828,35 @@ She held the envelope in both hands for a long time.
 She laughed, and wiped her nose on her sleeve, and put the envelope inside her shirt.
 
 ```
-[2013, December 9. You give Kiana Kaslana a train ticket to the north and a lead on her father.]
-[World. Fate Deviation: Disturbed.]
+World
+Fate Deviation: Disturbed
 ```
 
 ---
 
-```
-[2013, December 10. Heavy snow on the Tōhoku line. The night sleeper north is cancelled.]
-[2013, December 11. The ticket office refunds her ticket. She sleeps in the station.]
-[2013, December 12. The bar near the old station in Sapporo has been closed since August. A man on the phone tells her nobody with white hair has been in.]
-[2013, December 16. Kiana Kaslana enrolls at Chiba Academy.]
-```
+On the evening of the tenth Mrs. Okada had the television on in the back room with the door open, as she always did, too loud, and I heard the weather from the stairs.
+
+"...unusually heavy snowfall on the Tōhoku line tonight, with up to sixty centimeters in places. All overnight sleeper services north of Sendai have been cancelled..."
+
+I came down and stood in her doorway. On the screen a reporter in a hood was standing on a platform somewhere in the dark with the snow coming down sideways past her, and behind her a train with its lights off.
+
+"That's early," Mrs. Okada said, without looking round. "They never get it like that before Christmas. Not on that line."
+
+I went to the station the next morning. The board in the hall had a line of red across it, every service north, CANCELLED, CANCELLED, and the waiting room was full of people asleep in their coats on the benches, a businessman with his tie off, two students using their bags as pillows. I walked the whole length of it. She wasn't there. On the end of the last bench there was a flattened sheet of cardboard, folded once, and in the bin beside it, on top, a torn refund slip for one ticket, the night sleeper north, the ninth of December.
+
+I stood looking at the slip for a long time.
+
+[It's only snow,] said the System.
+
+I didn't see her again that week. I looked. I went to the little park below the station twice, and to the bench, and she wasn't on it.
+
+---
 
 She came in through the door of 3-A at lunch on the sixteenth with her braids coming undone, exactly as she had in the other file, at exactly the same time, and stood in the doorway looking round, and saw Mei, and her face lit up.
 
 Then she saw me, and it lit up a little more, and she waved.
 
-"Noodle guy!" she shouted, across the whole room. "It was closed! Can you believe it? The whole bar! Sit with us!"
+"Noodle guy!" she shouted, across the whole room. "It was closed! Can you believe it? I rang them from the box at the station and a man said it shut in August, and nobody with white hair's been in, ever! The whole bar!" She was already crossing the room, pulling a crumpled envelope out of her shirt. "And the train didn't even go, there was all this snow, so I got the money back, here, it's nearly all of it, I only ate a bit." She put the envelope down on my desk, with nine thousand yen in it and some coins. "Sit with us!" She turned to Mei, whom she had never met in her life. "Can he sit with us? Hi! I'm Kiana!"
 
 I didn't move. I sat at my desk and looked at her, and something cold went down the back of my neck that had nothing to do with any card I owned.
 
@@ -2827,6 +2875,22 @@ It didn't answer that.
 I pushed once more, because I'm stubborn, and because I wanted to know how hard. On the evening of the eighteenth, before she'd been in the school a week, I rang the school office from the box outside the station. I told the night secretary that the new transfer student in 3-C had forged papers and no address, that she was living in the park, that somebody should check. I'd done it in the first file to Ryoma's office in exactly the same voice. Then I walked home.
 
 It was icing over by then. The road up the hill to the old woman's house had a long bend in it below the shrine, and I was on the outside of the bend with my hands in my pockets when the truck came round it. I heard it before I saw it. The engine changed note as the back end went, and then the headlights swung, and they swung across the whole width of the road and kept coming, with the driver's white face behind the windscreen, and I had a second to think, very clearly, that I'd seen this coming from the moment I'd picked up the phone.
+
+I tried to move. My body did, a little. It wasn't enough.
+
+The front of the truck took me at the hip, and I went up. I remember that part very clearly, going up, the road turning over beneath me, the streetlight on the bend swinging past my face, the shrine roof with snow on it upside down. Then I came down on the road, and something went in my back with a sound like a branch breaking, and I slid on the ice on my face for a long way, and stopped against the curb.
+
+The truck had gone on into the wall on the other side of the bend. Its engine was still running. Its back wheels were turning in the air.
+
+I couldn't feel my legs. I couldn't feel anything below the place in my back where the sound had come from. Above it, everything hurt at once, all of it, my face and my hands and my ribs, which were wrong, and my mouth was full of something warm and salt that ran out of it onto the ice when I tried to breathe. Breathing was very hard. Every breath came in short and caught on something sharp halfway down and stopped.
+
+The driver's door opened. A man got out and stood in the road in the headlights with his hands on his head, saying, "Oh god. Oh god. It just went. It just went," over and over, to nobody.
+
+The snow was coming down into the light. I lay with my cheek on the ice and watched it come. Up the hill, on the other side of a wall, the lights of the big house were dark, every window. Below them, in the old woman's house, there was one light on in the bath, where I'd left it.
+
+I thought, very clearly, that she was going to tell me off about it, and that I wasn't going to be there to hear it.
+
+The cold came up out of the ice into my face. The man was still saying it just went. Then he was further away, and then the light was, and then there was only the snow, coming down, and then not even that.
 
 ```
 Simulation reset.
