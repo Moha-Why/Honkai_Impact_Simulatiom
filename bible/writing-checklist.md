@@ -20,6 +20,11 @@ Check these before planning a chapter and again before sending it.
   written as scenes with dialogue. No dated log lines. Only the System's
   status windows (meters, notices) stay in boxes, and the System's
   questions are asked out loud.
+- **No summary montages.** Anything that matters after 18 (a blow landing
+  on her, a meter moving, a choice) is a scene with people in a place,
+  talking, not a paragraph that lists what happened ("A reporter got a
+  tip. A parent got a phone call. The form was lost twice."). If it's worth
+  naming, it's worth showing.
 - **Every death is a full scene.** Show the death itself, the moment and
   what it feels like, through to the end. Never cut away just before it or
   sum it up in a log line. A death inside a childhood log plays out as a

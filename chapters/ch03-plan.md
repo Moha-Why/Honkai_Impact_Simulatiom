@@ -145,9 +145,20 @@ isn't waiting yet. **Unlocks:** kendo manager; Tanabe's nephew (birth).
   back and let him." She follows him everywhere; "Subject Eros will be here
   tomorrow" every night; the almost-smile. Cocolia, frightened, sends him to
   Japan. At the gate: "Then Bronya will come later."
-- **Nagazora (immersive):** orders in an envelope, the garage on Thursdays,
-  Bronya's call every Sunday at nine ("Bronya has beaten your score"), the
-  Mei route sanctioned and climbing. The hotel in December: Bronya asks
+- **Nagazora (scenes):** orders in an envelope; Bronya's call every Sunday
+  at nine ("Bronya has beaten your score"). The north stairwell: Mei finds
+  him with noodles, gives him her omelette, and he gives her Seele's death
+  as the truest thing he has (Open). Level three: the man writes nothing
+  down; Eros tells him about the photograph in her lunch-box lid ("That's
+  useful"). November 16, the bench under the cherry tree. The blows, each a
+  scene: her mother's cancer record taped in her shoe locker ("THE RAIDEN
+  CURSE"), traced to his report; at the dark gate, "I'm glad she isn't here
+  to see this"; the kendo board takes her captaincy, and he says his first
+  cruel thing about someone else ("They were their mothers'") (Confides,
+  Bending); the third visiting form at the detention center and her head on
+  his shoulder on the bus; the forum thread with a photo of the two of them.
+  The hotel. January 2, the shrine: he tells her not to visit her father on
+  the fourth, and she doesn't ("I should have gone") (Compromised). The hotel in December: Bronya asks
   where he is every night, "not even Seele." He lies that he'll pull back.
   In January the Sunday calls stop.
 - **Bronya comes to fetch him, not kill him.** Cocolia doesn't kill her

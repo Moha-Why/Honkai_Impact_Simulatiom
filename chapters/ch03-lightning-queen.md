@@ -1669,11 +1669,49 @@ Then she hung up.
 
 ---
 
-It went better than anything I'd done in any file.
+Mr. Fujita introduced me to class 3-A on a Monday in October as a scholarship transfer from a school in Hokkaido, which was what the papers in my bag said, and put me by the window, because it was the only empty desk. It was always the only empty desk.
 
-I didn't use what I knew on her. I'd kept to that at a desk by a window, and it was the one thing I'd got right there. I came in as a transfer student from a school in Hokkaido with a sad quiet story about an orphanage, which was half true, and I sat by the window where the System always put me, and I was useful and polite and I didn't come on too close. I looked, though. I looked all day. The Lightning Queen in black patent latex at the next desk, and the operation was going to pay me to sit there. I'd learned that in a garage.
+She was at the next one, in black patent latex, the violet stone at her throat, the two little lacquered panels and the skirt that fell open every time she crossed her legs. Third file, third first morning. My body still did what it had done at the gate in Malmö's file, and I let it, for about as long as it took to sit down. Then I put it away. I had a sanctioned route and a man in a garage expecting a report, and I wasn't going to waste either on the side of a lacquered panel.
 
-On Thursdays I went down to level three of the parking garage under the station and stood beside a gray sedan, and told the man in the plain coat what she'd had for lunch. On Sundays at nine the phone rang, and Bronya told me she'd beaten my score, and hung up. I started playing again, on the train, so that she'd have something to beat. It was the only report I made that month that was true.
+She gave me the smile she gave strangers in lifts.
+
+I didn't confess. I didn't tell her anything I had from the game. I'd kept to that at a desk by a window in another file, and it was the one thing I'd got right there. I was useful and polite and I didn't come on too close, and for a week and a half she said good morning to me in the voice she used for the cleaning lady.
+
+Then she found me in the north stairwell.
+
+It was the second Wednesday. I ate lunch there because it was cold and empty, and because the boy had eaten every lunch of his life at a table of forty and I'd discovered that I couldn't stand a cafeteria. I was sitting on the landing between the third floor and the roof with a cup of instant noodles when she came round the turn with her lacquered box under her arm, looking for somewhere to eat away from the three girls, and stopped.
+
+"Oh," she said. "I'm sorry."
+
+"There's room."
+
+She hesitated. Then she sat down two steps above me, very straight, and opened the box on her knees. Three tiers. Something a professional had made that morning.
+
+"You eat that every day," she said, looking at the noodles.
+
+"It's what I'm used to."
+
+"In Hokkaido?"
+
+"In the home." I hadn't meant to say it yet. It came out on its own, in the boy's voice, and I let it. "A children's home. Forty of us. You got porridge in the morning and whatever was cheap at night, and if you wanted anything else you bought it yourself, and this was what you could buy."
+
+She looked at me for a while. Then she lifted the top tier off her box, took a rolled omelette out of it with her chopsticks, and put it on the lid of my noodles without saying anything.
+
+"Thank you."
+
+"Were there a lot of you? Who came from the same place?"
+
+"One," I said. "A girl. We grew up in the same house. She read books on the landing every night. In August she went into a hospital in the north for a treatment that was supposed to help her, and she didn't come out of it."
+
+It was true. Every word of it was true. I'd watched it through a window in a bunker, and I'd held the book since. I put it on the stairs between us that Wednesday because I'd worked out in two files that the only thing that moved Raiden Mei was the truth, and it was the truest thing I had.
+
+She'd put her chopsticks down.
+
+"I'm sorry," she said.
+
+"She'd have liked you," I said. "She liked people who didn't talk much."
+
+Mei looked down at her box for a long moment. Then she said, quietly, "My mother died when I was two," as if she were putting something of her own on the stairs beside mine, so I wouldn't be the only one, and went back to eating.
 
 ```
 Raiden Mei
@@ -1682,17 +1720,161 @@ Trust: Open
 Corruption: Untouched
 ```
 
-On the sixteenth of November I watched the arrest on the television in a noodle shop by the station, the house on the hill and the police cars and, for a second, a tall shape with long dark hair standing very still behind an upstairs window. The man in the plain coat rang me that night for the first time on a day that wasn't Thursday.
+[That was very good,] said the System. [You used her very well.]
+
+*Seele would have wanted to help.*
+
+[Seele would have,] it agreed. [That's what makes it so good.]
+
+---
+
+The man in the plain coat didn't write anything down. That was the first thing I learned about level three.
+
+He sat in the driver's seat of the gray sedan with the window down two inches and the engine off, and I stood beside it in the exhaust smell and the dripping, and told him things, and he listened with his eyes on the concrete pillar in front of the car as if the pillar were saying it.
+
+"She eats in the north stairwell now," I said, on the first Thursday in November. "With me. Not every day. Three days out of five. The three girls haven't noticed yet."
+
+"The father."
+
+"She doesn't talk about him much. She says he's busy. She says it as people say the weather's bad." I'd let that one through. "She doesn't talk about her mother at all, except once. She keeps a photograph in the lid of her lunch box, a woman in a hospital bed holding a baby. I saw it when she opened it. She looks at it every day before she eats, and then she closes the lid on it."
+
+He nodded at the pillar.
+
+"That's useful," he said.
+
+I walked home along the river in the rain with my hands in my pockets and a small cold feeling under my breastbone that I didn't look at.
+
+On Sunday at nine the phone rang.
+
+"Bronya has beaten your score," said Bronya.
+
+"I played on the train. Twice."
+
+There was a pause on the line, a long one, as if something at the other end were trying a door.
+
+"Bronya has beaten it anyway," she said, and hung up.
+
+---
+
+On the sixteenth of November I watched the arrest on the television in a noodle shop by the station. The house on the hill, the police cars, and for a second a tall shape with long dark hair standing very still behind an upstairs window. The man in the plain coat rang me that night for the first time on a day that wasn't Thursday.
 
 "It's started," he said, and hung up.
 
-After the sixteenth, I didn't have to hold the knife at all. The operation held it. It was enormous and patient and it had people everywhere. A reporter got a tip about the Raiden girl's mother's medical records. A parent on the kendo club's board got a phone call. The detention center lost her visiting form twice. Somebody started a thread on a school forum that nobody could trace. I watched it all land on her, one piece at a time, and I didn't lift a finger, and every evening I was there afterward. On the steps. At the bottom of the hill.
+On Monday she came to school.
+
+Of course she did. She got out of the limousine for the last time at the covered walkway with her bag held in front of her in both hands, and the old man in the white gloves stood by the open door for longer than he needed to, looking at nothing, and then got back in and drove away, and didn't come back in the afternoon. She walked into 3-A with her back straight and sat down at her desk. The three girls were already there. They said good morning to her in the voice you'd use to a teacher you were afraid of, and at lunch they took their trays to a table by the vending machines, laughing about something.
+
+I went to the north stairwell at twenty past twelve. She wasn't there.
+
+I found her in the courtyard, on the bench under the cherry tree, alone, with the lacquered box closed on her knees. Half the courtyard was looking at her and the other half was being careful not to.
+
+I sat down at the other end of the bench and took the lid off my noodles.
+
+She didn't look at me. After a while she said, "You don't have to."
+
+"I know."
+
+"People will say things. About you. For sitting here."
+
+"People say things about me anyway. I'm the boy from the home who eats noodles in a stairwell."
+
+The corner of her mouth moved. Not much. She opened the box, and looked at the photograph in the lid for a moment, and closed it again over the food without taking anything out.
+
+---
+
+The first piece landed on the Thursday.
+
+Somebody had taped a sheet of paper to the inside of her shoe locker. I was behind her when she opened it. A photocopy of a hospital record, the letterhead of a cancer ward in Kobe, a name, a date in 1997, a diagnosis in German, and somebody had written across the bottom of it in red marker, in neat round handwriting, THE RAIDEN CURSE. KILLED THE MOTHER. NOW THE FATHER.
+
+She took it down very carefully, by one corner, as if it were hot. She folded it in four. Her hands didn't shake. Her face didn't do anything at all. Down the corridor, by the stairs, two girls from 3-C were watching with their phones out, and one of them laughed.
+
+"Raiden-san," I said.
+
+"It's all right." She put the folded paper in her bag, and took her indoor shoes out of the locker, and put them on, one and then the other, holding on to the locker door. "It's only paper."
+
+I'd stood beside a gray sedan in a garage a week and a half before and told a man without a face that she kept her mother's photograph in the lid of her box. I hadn't told him about Kobe, or the date. I hadn't needed to. I'd told him where to look.
+
+That evening I went down the hill with her as far as the gate of the house, which was dark now, every window, with a police seal on the side door, and she stopped at the gate and stood there with her key in her hand.
+
+"Can I tell you something horrible?" she said.
+
+"Yes."
+
+"I'm glad she isn't here to see this." She looked at the dark house. "My mother. I've wanted her back every day for sixteen years, and today I was glad." She turned the key in her hand. "What kind of person is glad her mother's dead?"
+
+"A tired one," I said.
+
+She looked at me for a long time in the light from the streetlamp. Then she nodded, once, as if I'd given her something she could carry, and went in through the gate, and I watched the lights come on one at a time down the long dark house, and then only two.
+
+[You're good at the evenings,] said the System.
+
+*They're the important part.*
+
+[For which of you?]
+
+---
+
+The second piece came from the kendo club.
+
+On the last Monday of November the club adviser asked her to come to the staff room after practice, and I waited on the bench outside it, because I'd been told by nobody that I should wait, and because I could guess what was going to come out of that door. She came out after twenty minutes. Her face was perfectly calm and her right hand was holding her left wrist, hard, as if she'd caught it trying to do something.
+
+"A parent on the club's board telephoned the school," she said, walking. I walked beside her. "Several parents. They feel that under the circumstances it would be better for the club if the captain were someone whose family wasn't in the newspapers. For the club's sake. The adviser was very kind about it. He says it isn't a punishment." She walked faster. "He says when it's all cleared up, I can have it back."
+
+"Will you?"
+
+"It won't be cleared up." She stopped at the top of the stairs down to the gate, and looked at the hall, where the first-years were putting the shinai away. "I've been captain since I was a second-year. The girls I taught to hold a sword. Three of their mothers telephoned."
+
+"Then they were never your girls," I said. "They were their mothers'."
+
+She stood very still at the top of the stairs.
+
+It was the first time I'd said a cruel thing to her about somebody else. It wasn't a lie. That was why it went in so easily, like a blade into a cut that was already open. I watched it go in. I watched her decide it was true.
+
+"No," she said slowly. "They weren't, were they."
 
 ```
 Raiden Mei
 Trust: Confides
 Corruption: Bending
 ```
+
+[There,] said the System. [Now you're holding the knife.]
+
+---
+
+The third piece was the visiting form.
+
+The detention center was an hour away by bus, on the far side of the bay, a long gray building behind a car park, and visits had to be booked in advance on a form, in person. She'd filled one in on the eighteenth of November, and they'd lost it. She'd filled in another on the twenty-fifth. On the second of December she asked me to come with her, because she didn't want to sit on the bus alone, and I went.
+
+The woman behind the glass was sorry. She was genuinely sorry. She looked in a drawer and then in another drawer and then on a screen, and then she said that there was no record of a second form, and could the young lady perhaps fill in a third.
+
+Mei filled in a third. She did it standing at the counter, in her neat exact handwriting, the pen chained to the desk so short that she had to bend to reach it. Her father's full name. His prisoner number, which she knew by heart. Her own name. Relationship to the detainee. She wrote daughter in very small characters and handed it through the slot, and said thank you, and bowed.
+
+On the bus back she sat by the window and looked at the bay going past, gray on gray, and about halfway across it her head came down sideways, slowly, onto my shoulder, and stayed there.
+
+She didn't say anything. She didn't cry. She just put her weight on me, all of it, as if she'd been carrying it up a long flight of stairs and had finally found a landing.
+
+I sat very still and looked out at the water, and thought about a man with no face writing nothing down, and about how many drawers there were in that building, and about who had a key to them.
+
+---
+
+The forum thread I only saw once.
+
+Natsumi had it open on her phone at the back of the classroom on a Friday in early December, with three people round her, and they were reading it aloud to each other in the voices you use for a story about a ghost. Anonymous. Two hundred replies. The Raiden girl's father had stolen from the city. The Raiden girl's mother had been ill for years and they'd hidden it. The Raiden girl had a boyfriend now, a charity case from Hokkaido, and he was only there for the money that was left. Somebody had posted a photograph of us on the bench under the cherry tree, taken from a second-floor window.
+
+Mei was at her desk with her back to them, reading. She turned a page.
+
+"They're talking about you now too," she said to me, very quietly, without looking up. "I'm sorry."
+
+"I don't mind."
+
+"I mind." She turned another page. She hadn't read the first one. "You're the only one who didn't go. And now they're saying it about you."
+
+I watched her not read her book, and felt, very clearly, the operation working around the two of us like weather. It didn't need me to do anything at all. Every blow that landed on her pushed her one step further toward the only person still standing next to her, and the only person still standing next to her was me, and every Thursday I went down to level three and told a man where she was soft.
+
+It was the best route I'd ever had.
+
+---
 
 On the eighth of December, Cocolia gave her first press conference as interim head of ME Corp, and that evening the man in the plain coat drove me to a hotel above the bay and took me up in a lift to the top floor.
 
@@ -1732,13 +1914,39 @@ She looked at me for a long time. Then she smiled and patted my cheek and picked
 
 ---
 
-I didn't pull back. I told myself I'd do it later, in January, when Mei was further in. It was too good. Corruption was climbing on the operation's work and Trust was climbing on mine, and I had both meters going at once for the first time in any file, and I wasn't going to slow down for a woman who thought I was hers.
+I didn't pull back.
+
+On the second of January the old shrine below the hill was full of families in their good coats, queuing to ring the bell for the new year, and Mei and I queued with them, because she'd said she'd never gone without her father and didn't want to go without anyone. She wore her mended set under a long black coat that wasn't hers, a man's coat, her father's, I thought, too big in the shoulders, with the black ribbons over her breasts in their small careful knots and the safety pins down her side, and the empty ring at her throat where the violet stone had been. I looked, because I always looked. Then I stood next to her in the cold and let her hold my sleeve in the crowd.
+
+She rang the bell, and clapped twice, and stood with her eyes closed for a long time.
+
+"I got a letter," she said, on the steps down, afterward. "From the detention center. The third form went through. I can visit him on the fourth. Saturday. Ten o'clock." She was holding the letter in her coat pocket. I could see her hand on it through the cloth. "Will you come? On the bus. You don't have to come in."
+
+Matushka had said the end of January. Pull back slowly. Let her feel it. The fourth of January was the obvious place to start. I'd say yes and not come. She'd sit on the bus alone and look at the water, and she'd go in to her father alone, and come out alone, and that would be the first door.
+
+"Don't go," I said.
+
+She stopped on the steps.
+
+I hadn't planned it. It came out of the part of me that had spent three months learning exactly where she was soft, and it knew before I did. "He'll look at you through the glass," I said, "and he'll see what it's done to you, and it'll break him. And you'll come out and sit on the bus and it'll break you. You've had enough of that. Stay. Spend the day with me instead. Let somebody look after you for one day."
+
+She looked at me for a long time on the shrine steps, with the families going past us on either side, and the letter in her hand in her pocket.
+
+Then she took it out, and looked at it, and put it back.
+
+"All right," she said. "Just this once."
+
+She didn't go on the fourth. She spent it with me, in my apartment by the station, with the trains going past, and we watched a film neither of us followed, and she fell asleep on the futon in the afternoon in her father's coat, with her shoes still on. When she woke it was dark. She sat up and said, "I should have gone," to nobody, and then lay down again with her face to the wall. At ten o'clock that morning, on the far side of the bay, a man in a gray room had sat at a table behind a sheet of glass and waited, and nobody came.
 
 ```
 Raiden Mei
 Trust: Confides
 Corruption: Compromised
 ```
+
+[How far she'd go for you,] said the System softly. [Remember? That's what it measures.] A pause. [She didn't go to see her father.]
+
+It was too good. Corruption was climbing on the operation's work and Trust was climbing on mine, and I had both meters going at once for the first time in any file, and I wasn't going to slow down for a woman who thought I was hers.
 
 On the first Sunday of January the phone didn't ring.
 
