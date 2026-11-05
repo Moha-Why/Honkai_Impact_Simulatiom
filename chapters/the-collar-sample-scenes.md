@@ -32,7 +32,7 @@ I went over the wall.
 
 The frost broke under my shoes. A tag hung from the nearest lantern on a twist of wire, a white card like the ones they tie to suitcases, with a number on it in red and a stamp across the number. Thirty-one. The next lantern along was thirty-two. The plum tree by the dojo had one on its lowest branch, turning slowly on its wire in the cold. Forty-four.
 
-The doors of the dojo were open. She was kneeling in the middle of the floor in her coat, in seiza, facing the post, with the lamp on the boards beside her. There was a tag on the lamp, and one on the sword rack, and one on the long silk bag on the top shelf of the rack where her father's sword lived. She didn't turn round when I came up onto the step.
+The doors of the dojo were open. She was kneeling in the middle of the floor in seiza, facing the post, with the lamp on the boards beside her. There was a tag on the lamp, and one on the sword rack, and one on the long silk bag on the top shelf of the rack where her father's sword lived. She didn't turn round when I came up onto the step.
 
 "You're the student," she said. "From Mrs. Okada's."
 
@@ -44,17 +44,17 @@ The doors of the dojo were open. She was kneeling in the middle of the floor in 
 
 She didn't send me away. She didn't say anything else for a while either, and I stood on the step in the cold and waited, because waiting was what I'd come over the wall to do.
 
+Her coat had slid back off her shoulders onto the boards behind her, and from the step I could see what was left of the Lightning Queen from behind. Her back was bare from her neck to her waist, where the corset strap had snapped and she'd knotted it back together with ribbon. She was sitting back on her bare heels with nothing between them and her but a thin strap, and the curve of her ass was white in the lamplight.
+
 "They're very polite," she said at last. "They bow when they come in. They took their shoes off at the door every morning, all four of them, and then they walked round my house in their socks and put a number on everything in it." Her voice was quite level. It was the voice she kept for teachers. "The piano is forty. My mother's chair is twelve. I asked the young one what the tree was worth, and he looked it up in his book and told me, and then he apologized."
 
 She lifted one hand to her throat.
 
-Her coat was open over the mended harness, the ribbon she'd tied over her breasts where the lacquer had cracked away and the three safety pins holding the split seam together over her bare ribs. At the base of her throat, where the violet stone had sat in her collar every day since September, there was a small empty ring of metal.
+"They took that on the second day," she said. "The stone was bought with the company's money. They had a little tool for it." Her fingers stayed where they were. "It's two hundred and eleven."
 
-"They took that on the second day," she said. "The stone was bought with the company's money. They had a little tool for it." Her fingers stayed on the ring. "It's two hundred and eleven."
+I took her in as the men in socks would have, item by item, for the book. It was the only way of looking at anything I had left. My body had its own way of looking, and the soul damage hadn't touched it. It didn't care what kind of night she was having. I'd been hard since the step, and the rest of me wrote that down too, under the lot numbers.
 
-I took her in as the men in socks would have, item by item, for the book. It was the only way of looking at anything I had left. The ribbon, and the bare skin between the lapels, white in the lamplight, with the pulse going under the empty ring. My body took its own inventory, at its own speed, and the rest of me wrote it down.
-
-"Everything in this house has a number on it," she said. "Everything I touch. The cup I drink from in the morning is ninety-six." She turned her head and looked at me over her shoulder for the first time, and her eyes were dry and very wide. "Except me."
+"Everything in this house has a number on it," she said. "Everything I touch. The cup I drink from in the morning is ninety-six." She turned her head and looked at me over her shoulder for the first time, and past her arm I could see the empty ring at her throat, where the violet stone had sat in her collar every day since September. Her eyes were dry and very wide. "Except me."
 
 I took my shoes off and came in and knelt on the boards behind her, an arm's length back, where I'd knelt every morning for four months in the last file. I had that as a fact. I couldn't remember the boards being this cold.
 
@@ -78,7 +78,7 @@ They were her father's words. The System had given them to me in the white after
 
 So I told her, in the voice I'd have used to read out a spec.
 
-"You'd be mine," I said. "I don't mean a girlfriend. You'd do what I tell you. You'd eat when I say and sleep when I say, and you wouldn't decide anything I hadn't let you decide, including who you talk to. Nobody else would get to touch you, or put a number on you."
+"You'd be mine," I said. "I don't mean a girlfriend. You'd do what I tell you. You'd eat when I say and sleep when I say, and where, and you wouldn't decide anything I hadn't let you decide, including who you talk to. Nobody else would get to touch you, or put a number on you."
 
 She didn't move.
 
@@ -102,7 +102,7 @@ The lamp hissed. Somewhere down the hill a dog barked twice and stopped. She sat
 
 "He won't hear it from me."
 
-She let go of her wrist. She turned round on her knees on the boards, all the way round, slowly, until she was facing me in the lamplight with her hands on her thighs and her back straight. Then she lifted her chin, so the empty ring at her throat caught the light.
+She let go of her wrist. She turned round on her knees on the boards, all the way round, slowly, until she was facing me in the lamplight with her hands on her thighs and her back straight, and I saw the front of what she had on for the first time. The lacquer over her breasts had cracked away weeks ago, and she'd tied two strips of black ribbon over them in small careful knots, with the bare curves of her tits showing above and below. The seam down one side had split from her ribs to her hip, and three safety pins held it closed over bare skin. Where the groin panel had been there was a strip of black ribbon, tied at one hip. Then she lifted her chin, so the empty ring at her throat caught the light.
 
 "Then put your name on it," she said.
 
@@ -122,7 +122,7 @@ It took four minutes. It was a plain brass disc the size of a coin, with a hole 
 
 On Saturday the post was silent at five.
 
-I went round by the street and through the gap in the hedge. The lamp was lit and the doors were open, and she was already there, kneeling in the middle of the boards in seiza in the mended harness, with her coat folded on the floor beside her as neatly as she'd have folded it for a grading. The cold had raised gooseflesh all down her bare arms, and she wasn't shivering, because she'd decided not to.
+I went round by the street and through the gap in the hedge. The lamp was lit and the doors were open, and she was already there, kneeling in the middle of the boards in seiza in the mended harness, with her coat folded on the floor beside her as neatly as she'd have folded it for a grading. The cold had raised gooseflesh down her bare arms and over the curves of her tits above and below the ribbons, and she wasn't shivering, because she'd decided not to.
 
 I came in and stood in front of her.
 
@@ -130,7 +130,7 @@ I came in and stood in front of her.
 
 She lifted it.
 
-The split ring was stiff. I had to open it with my thumbnail and walk it round through the empty ring at her throat, one coil and then the other. My hands had forty years of a knife in them from a forest in Hokkaido, and they were clumsy at it, and she held her chin up the whole time and didn't breathe. Then it was through. I let go. The tag swung once on its ring and settled in the hollow of her throat, where the stone had been.
+The split ring was stiff. I had to open it with my thumbnail and walk it round through the empty ring at her throat, one coil and then the other. My hands had forty years of a knife in them from a forest in Hokkaido, and they were clumsy at it, and she held her chin up the whole time and didn't breathe. The backs of my fingers lay against her bare throat while I worked, and her pulse was going under them, fast, and she leaned her throat into them a little. Then it was through. I let go. The tag swung once on its ring and settled in the hollow of her throat, where the stone had been.
 
 [♪]
 
@@ -153,6 +153,10 @@ She put her hand back on her thigh and waited, with her back straight and her ch
 "Mei," I said.
 
 Her eyes closed. A breath went out of her, long and slow, and behind me the frost on the step cracked in the cold. When she opened her eyes she didn't look at my face. She looked at the boards a little in front of my feet.
+
+"Is there anything else you want from me this morning?" she said.
+
+"Not this morning."
 
 ```
 Raiden Mei
@@ -179,7 +183,7 @@ She lifted her eyes at that, as far as my chin, and didn't ask what.
 
 The boy had nineteen thousand yen in an envelope inside his dictionary, from five years of Saturdays at the noodle stall and whatever the scholarship paid for books that he hadn't spent on books. I took all of it down the hill that afternoon.
 
-The pet shop first. The girl at the counter remembered me and asked if he'd liked the tag. I said he had. On the back wall, past the fish, there was a shelf for big dogs, and on it a step-in harness of red nylon webbing for a breed the size of a man, with black plastic buckles and a steel ring at the back, and a leash to match. I took two of the harnesses, for the straps. From the shelf for small dogs I took two red collars that would go round a wrist. I held one of the harnesses up against myself in the aisle to judge the straps, and a woman with a poodle looked at me and then didn't.
+The pet shop first. The girl at the counter remembered me and asked if he'd liked the tag. I said he had. On the back wall, past the fish, there was a shelf for big dogs, and on it a step-in harness of red nylon webbing for a breed the size of a man, with black plastic buckles and a steel ring at the back, and a leash to match. I took two of the harnesses, for the straps. From the shelf for small dogs I took two red collars that would go round a wrist, and a fine steel choke chain. I held one of the harnesses up against myself in the aisle to judge the straps, and a woman with a poodle looked at me and then didn't.
 
 [Is it for the same dog?] said the System.
 
@@ -229,9 +233,9 @@ She watched it come out. She didn't move back. Her eyes followed the blade down 
 
 "Where?" she said.
 
-I showed her with the point, without cutting yet, as she'd have shown a first-year where the strike went. The front, away in one long V from the shoulders almost to the groin, leaving two strips two fingers wide. The sides, from the armpits to the hips. The back, down to the base of the spine. The sleeves, off at the shoulder. She listened, and at each one she nodded once.
+I showed her with the point, without cutting yet, as she'd have shown a first-year where the strike went. The front, all of it, from the throat to the groin, and the vinyl over the breasts with it. One strip down the middle, two fingers wide, to run between the legs. The sides, the back and the sleeves, away. Behind, one band across the seat, cut high. She listened, and at each one she nodded once.
 
-"And here," I said, and laid the point on the seat. "My name."
+"And here," I said, and laid the point on the band. "My name."
 
 Every picture in the folder had been signed in a corner. She looked at the place on the vinyl for a moment.
 
@@ -239,41 +243,13 @@ Every picture in the folder had been signed in a corner. She looked at the place
 
 Then I cut it.
 
-The boy's hands had never held a knife for anything but bread. Mine had forty years of skinning in them from a forest in Hokkaido, and they went through cheap vinyl as easily as through the belly of a hare, one long pull and the edges parting behind the point. The letters took longer than all the rest of it together. When I'd finished I ran the purple tape down every edge I'd made and pressed it flat with my thumb, and there was a design lying on her bed that I'd last seen as a filename, with my name across the seat in letters a hand high.
+The boy's hands had never held a knife for anything but bread. Mine had forty years of skinning in them from a forest in Hokkaido, and they went through cheap vinyl as easily as through the belly of a hare, one long pull and the edges parting behind the point. The letters took longer than all the rest of it together. When I'd finished I ran the purple tape down every edge I'd made and pressed it flat with my thumb, and there was hardly anything left lying on her bed, a collar and a strip and a band, with my name across the band in letters a hand high.
 
 "It will tear at the corners," she said. "Where you turned the blade." She was looking at the S. "May I hem them?"
 
 "Yes."
 
 She got up and took a flat tin out of the drawer of her desk, which was seventy, and sat down again with a needle and black thread, and put a small hard stitch into the corner of every cut, one after another, the corners of the letters too, with her head bent and her hair falling forward over one shoulder. She'd been mending everything she owned since November. She was good at it. When she'd finished she bit the thread off, and gathered the offcuts into a neat pile, every one, and put them in the tin with the needles and shut the lid.
-
-"Put it on," I said.
-
-She stood up and undid the first ribbon. I didn't turn round, and she didn't ask me to.
-
----
-
-When she was in it she stood in front of the mirror with sixty-one on its frame and looked.
-
-The front was open in one long V from her shoulders almost to her groin, and all that crossed it was the two strips of white over her tits, with a cross of purple tape on each, where I'd shown her. The sides were gone, so every time she moved an arm the whole outer curve of a breast showed and went. When she turned to see her back in the glass it was bare to the base of her spine, and below that the seat was pulled tight over her ass, as the folder had always drawn it and the official art never had, with my name cut out of it in bare skin. At her throat, on the ring where the stone had been, there was a brass disc with the same four letters.
-
-I was hard, and had been since the first ribbon. I wanted to fuck her. It was a fact, like the lot numbers, and I put it with the others and went on looking.
-
-She looked at herself for a long time, very straight. Then she looked at me in the glass.
-
-"Is this what you want to look at?"
-
-"Yes."
-
-"Then I will wear it." She turned from side to side, once each way, and watched the sides open and close in the mirror. Then she looked back over her shoulder at the letters. "They'll read that as a word."
-
-In Japanese it was a word, and not a polite one. When the boy was six a teacher had stopped at it in the register, and the class had laughed.
-
-"Most of them will," I said.
-
-"Sayaka will laugh. All of them will. They'll think I can't afford a tailor, and they'll think I chose it." Something moved at the corner of her mouth that I hadn't seen there since September. "And I'll know it's a name, and they won't."
-
-She put her hand up to the tag and turned it over once and let it fall.
 
 The apron and the raincoat were still on the bed. I picked up the apron and cut it down the sides, two long cuts each side, until it was a narrow bib and a short flap on its strings, with the stall's name still across the chest.
 
@@ -287,10 +263,98 @@ The apron and the raincoat were still on the bed. I picked up the apron and cut 
 
 "For the gate. So I can see you from my window."
 
-She folded that too. Then she picked up the red leash and turned the clip over in her fingers, and held it out to me across the bed, clip first.
+She folded that too.
+
+"Put it on," I said.
+
+She stood up and undid the first ribbon. I didn't turn round, and she didn't ask me to.
+
+---
+
+When she was in it she stood in front of the mirror with sixty-one on its frame and looked.
+
+There was almost nothing of it. The front was gone from her throat to her groin, and her tits were bare except for a cross of purple tape on each, where I'd shown her. The one white strip ran from the high collar down the middle of her, over her groin and up between her legs. When she turned to see her back in the glass there was nothing on it at all down to the band across her ass, and the band was cut high, so the bottom of each cheek showed under it, and in the band was my name in bare skin. She'd wound what was left of the tape round her thighs, tight, to hold up her laddered stockings. At her throat, on the ring where the stone had been, there was a brass disc with the same four letters.
+
+[You always said the official art was wrong,] said the System.
+
+I was hard, and had been since the first ribbon, hard enough that it hurt against my zip. I wanted to fuck her. It was a fact, like the lot numbers, and I put it with the others and went on looking.
+
+She looked at herself for a long time, very straight. Then she looked at me in the glass.
+
+"Is this what you want to look at?"
+
+"Yes."
+
+"Then I will wear it." She turned from side to side, once each way, and then looked back over her shoulder at the letters. "They'll read that as a word."
+
+In Japanese it was a word, and not a polite one. When the boy was six a teacher had stopped at it in the register, and the class had laughed.
+
+"Most of them will," I said.
+
+"Sayaka will laugh. All of them will. They'll think I can't afford a tailor, and they'll think I chose it." Something moved at the corner of her mouth that I hadn't seen there since September. "And I'll know it's a name, and they won't."
+
+I came up behind her. In the glass she watched me come, and didn't move.
+
+The small dog's chain was in my pocket. I hooked one end to the ring at her throat, under the tag, and ran it down the middle of her bare body to the top of the strip, and hooked it there, short. My knuckles were on her skin the whole way down. When she lifted her chin to look at me in the glass the chain pulled, and her breath went out of her all at once.
+
+Then I put my hand flat on the small of her back, and found the letters with one finger, and went over them slowly on her bare skin where the vinyl wasn't, the E and the R and the O and the S. She watched me do it in the mirror. She didn't look away once.
+
+I put my mouth on her throat beside the tag. Her skin was cold from the room, and the pulse under it wasn't. She leaned back into me with all her weight and made a sound I'd never heard her make in any file, and turned her head to find my mouth.
+
+I put my thumb on her lips.
+
+"Not that," I said.
+
+Her eyes were half shut. "When?"
+
+"When I say."
+
+"When will you say?"
+
+"When I've had everything else."
+
+She stood there for a moment with my thumb on her mouth. Then she stepped out from between me and the glass, went to the bed, and picked up the red leash. She clipped it to the ring at her own throat, beside the chain, and turned round and held the loop out to me.
 
 "Outside the gate," she said.
 
-I took it.
+I took it. She didn't let go of her end.
 
-[You always said the official art was wrong,] said the System.
+"And inside the gate?" she said.
+
+I wound the leash once round my hand. She came the two steps it gave her and knelt on the floor at my feet, straight-backed, on the lines the broom had left, and looked up at me.
+
+"Everything you cut away was for you to look at," she said. "The rest is for you too. If you want it."
+
+My body had answered before she'd finished, and I let her see it. She looked, and then she looked back up at my face, and waited.
+
+"Ask," I said.
+
+"Please."
+
+I drew the leash up, slowly, and she came up with it onto her feet. She undid the buttons of my shirt one at a time, with the same fingers that had hemmed the letters, and didn't hurry, and when the last one was open she lay back across lot eighty-eight and held her arms up to me, and I went down after the leash.
+
+---
+
+The bed was going to be sold in January with everything else in the house. We were lying across it the wrong way in the dark, her head at the foot, and the leash was still clipped to the ring at her throat, lying slack across her bare back, with the loop round my wrist where I'd wound it. She still had the vinyl on. I'd told her to keep it on.
+
+At some point in the night she'd put her cheek on the back of my hand.
+
+"Was that right?" she said.
+
+"Yes."
+
+She thought about that for a long time.
+
+"Have you had everything else now?"
+
+"No."
+
+She didn't ask what was left. She settled her cheek back on my hand.
+
+"Mei," I said.
+
+She didn't answer. After a while her breathing went long and slow, and she slept, which by the look of her she hadn't done properly since November.
+
+I didn't. I lay and watched the window. At two o'clock the house stayed dark, every window of it, and the lanterns in the garden, and the streetlights down the hill. It was the first night since November that it had.
+
+[Not one light,] said the System, very softly. [You said it would have to ask you first.]

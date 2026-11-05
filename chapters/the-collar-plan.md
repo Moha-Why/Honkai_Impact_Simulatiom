@@ -178,12 +178,13 @@ Everything up to "How do I stop it ending like that?" stays. Then:
   coat; the tailored sets went on the third day (lots one hundred and fifty
   to one hundred and seventy-three). He spends the boy's savings at the pet
   shop (two big-dog harnesses in red webbing for the straps, a leash, two
-  small-dog collars for her wrists), the secondhand shop under the arches
-  (a white vinyl bodysuit that covers everything) and the hundred-yen shop
-  (a clear raincoat, purple tape, pasties shaped like dog bones), and
-  brings the boy's apron from the noodle stall. In her bedroom he cuts the
-  bodysuit down to two strips and a seat while she watches, and cuts his
-  name across the seat ("Every picture in the folder had been signed").
+  small-dog collars for her wrists, a fine choke chain), the secondhand
+  shop under the arches (a white vinyl bodysuit that covers everything) and
+  the hundred-yen shop (a clear raincoat, purple tape, pasties shaped like
+  dog bones), and brings the boy's apron from the noodle stall. In her
+  bedroom he cuts the bodysuit down to a collar, one strip and a band while
+  she watches, with tape crosses for her nipples, and cuts his name into
+  the band ("Every picture in the folder had been signed").
   "Not at school. You agreed." "You said not at school. These are clothes."
   She can't find the gap in her own words: "I should have said it
   properly." She hems his cuts, the letters too, and keeps the offcuts.
@@ -191,8 +192,17 @@ Everything up to "How do I stop it ending like that?" stays. Then:
   reads as a rude word in Japanese: "They'll read that as a word... And
   I'll know it's a name, and they won't." He cuts the apron down to a bib,
   for cooking, "Only you." The raincoat is for the gate, so he can see her
-  from his window. She holds out the leash, clip first: "Outside the
-  gate." Outfits: image-prompts-world.md, Mei 6 to 9.
+  from his window. At the mirror he hooks the choke chain from her tag to
+  the strip, traces the letters on her skin, and kisses her throat; she
+  turns for his mouth and he stops her with his thumb. "Not that." "When?"
+  "When I've had everything else." She clips the leash on herself: "Outside
+  the gate." "And inside the gate?" She kneels and offers the rest. "Ask."
+  "Please." The scene cuts as she lies back on lot eighty-eight.
+  Afterward, the leash round his wrist: "Was that right?" "Yes." "Have you
+  had everything else now?" "No." She doesn't ask what's left. At two
+  o'clock the house stays dark for the first time since November. [Not one
+  light. You said it would have to ask you first.] Outfits:
+  image-prompts-world.md, Mei 6 to 9.
 
 ## Stage 4: Terms (December 16 to 25)
 
