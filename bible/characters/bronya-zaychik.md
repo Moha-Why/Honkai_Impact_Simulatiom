@@ -48,12 +48,24 @@ with intuition. Rarely shows empathy, but loves the HOMU franchise, video
 games and Seele, and is competitive about games. Later sees Mei as an older
 sister.
 
-**How she talks:** flat, exact, third person. Calls almost everyone
-"subject".
+**How she talks (voice sheet):** always the third person, "Bronya," never
+"I" (canon; 布洛妮娅). "Bronya thinks this strategy is flawed."
 
-- "Bronya has located the subject."
-- "Subject Eros is an obstacle. Bronya recommends he step aside."
-- "Bronya does not understand the question."
+- **Before X-10 (story reading of canon):** still "Bronya," but with
+  feeling in it: dry, scowling, teasing, protective. "Bronya ate your
+  bread. It was yours." "He belongs to Bronya and Seele."
+- **After X-10:** the same words gone flat, like a readout or a train
+  announcement. Facts, probabilities, reports. She can't name a feeling, so
+  she states things to check them ("Subject Eros will be here tomorrow").
+- **Names.** People are "subject" ("Subject Eros," "Subject Captain"). Mei
+  is "Sister Mei" (芽衣姐姐); Kiana is "idiot Kiana"; Cocolia is
+  "matushka"; Seele is "Seele."
+- **Report words** (evaluation, observation, warning) go inside the
+  sentence, no colons: "Bronya's evaluation is that the plan is flawed."
+- **What still gets through:** Seele, the people she's made her family,
+  betrayal, games and HOMU.
+- **The one break in Loop 3:** "Eros," his name without "subject," with
+  everything in it.
 
 **In Chapter 3:**
 

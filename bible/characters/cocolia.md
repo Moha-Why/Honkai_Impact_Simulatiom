@@ -50,11 +50,20 @@ boardroom.
 directness. Truly loves her orphans in her own way and will still use them.
 Believes the ends are the point.
 
-**How she talks:** level and commanding, warm only with her daughters.
+**How she talks (voice sheet):** two voices. With her children, warm,
+maternal, a little teasing, feeding them and touching their faces ("Sit.
+Eat something. You're too thin."). With everyone else, level, military,
+commanding, short. She never raises her voice. When she's decided
+something, the warmth stays on her face and something harder comes forward
+behind it.
 
+- **Names.** The children call her "matushka" and she encourages it ("From
+  now on, I'll be your matushka," canon). She calls Eros "Cecilia's boy"
+  when nobody can hear (story).
+- **She doesn't kill children.** She keeps them.
 - To the cameras: "ME Corp will honor every contract. Nothing about our
   mission has changed."
-- To Bronya: "Bring her to me, Bronya. Gently, if you can."
+- "I don't kill children, Eros... I don't lose them, either. Not one more."
 
 **In Chapter 3:**
 

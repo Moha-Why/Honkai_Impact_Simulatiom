@@ -1354,7 +1354,7 @@ A sister at the end of it might be very useful.
 ```
 [2012, January. You sit with her. She doesn't speak. You put a handheld console on the table between you with a game on it. After ten minutes she picks it up. After twenty she has beaten your best score. "You're bad at this," she says, in English, and the corner of her mouth goes up. It's the first thing she says to anyone in the house.]
 [2012, February. Bronya beats you at every game in the building. You stop trying to win. She notices and is offended, and kicks you under the table. You start trying again.]
-[2012, March. Two of the older boys corner you behind the boiler room, because you're matushka's favorite and they've decided it's time you knew it. Bronya puts the bigger one on the floor in about a second and a half and sits on his chest. "He's ours," she tells him. "Mine and Seele's. Next time ask us first."]
+[2012, March. Two of the older boys corner you behind the boiler room, because you're matushka's favorite and they've decided it's time you knew it. Bronya puts the bigger one on the floor in about a second and a half and sits on his chest. "He belongs to Bronya," she tells him. "And Seele. Next time ask Bronya first."]
 [2012, spring. In the evenings Seele reads to Bronya in the window seat on the landing, with Bronya pretending not to listen, and you sit on the stairs below them with the console. By May Bronya has stopped pretending. They say they'll go and see the sea together when they're older, a warm one. You're allowed to come if you carry the bags.]
 [2012, autumn. Sin Mal, who's fifteen and has been Seele's shadow since before you can remember, stops speaking to Seele. In the evenings she stands at the bottom of the stairs and watches the three of you on the landing, and doesn't come up.]
 [2012, November. You see Sin Mal waiting at the top of the cellar stairs when Bronya goes down for coal.]
@@ -1370,7 +1370,7 @@ Bronya's legs had always been part of it. In the game they'd gone on the stairs 
 ```
 [2012, November. Bronya falls the whole flight. Both legs, the left one twice. She doesn't scream. Seele does.]
 [2012, November. In the hospital in Irkutsk she won't let the doctors touch her until you and Seele are both in the room. Then she lets them do anything they like, and holds Seele's hand, and looks at you over the top of the doctors' heads as if you were the one who might fall down the stairs.]
-[2012, December. A week after she comes home, Sin Mal falls down the same stairs. Seele is standing at the top when you get there. When she turns round, her eyes are the wrong color, and she's smiling as if she were somebody else. Then she blinks, and starts to cry, and doesn't know why she's standing there.]
+[2012, December. A week after she comes home, Sin Mal falls down the same stairs. Seele is standing at the top when you get there. When she turns round, her eyes are red, a bright luminous red, and she's smiling as if she were somebody else. "She won't touch our Bronya again," she says, in a voice you've never heard. Then she blinks, and her eyes are blue, and she starts to cry, and doesn't know why she's standing there.]
 [2012, December. Sin Mal goes to a house in Irkutsk with her arm in a cast and doesn't come back. Bronya comes home from the hospital in a wheelchair. Seele pushes it everywhere. You carry it up the stairs.]
 [2013, April 13.]
 ```
@@ -1399,11 +1399,11 @@ Bronya was at the end of the table where she'd always sat, in the wheelchair, wi
 
 The boy had grown up with them. He'd seen them both change on their birthdays, and kept his eyes on his plate, and thought nothing about it he'd have been ashamed of. I wasn't the boy. I took the inventory before I'd sat down, the rope on Seele's ribs, the ticked boxes on Bronya's thigh, what the white straps did when she leaned forward for the salt, and the boy in me stared at his porridge so hard that he nearly put his spoon through the bowl. So I looked at my porridge too, mostly. In four months one of the girls at that end of the table would be gone, and the other would come back without most of her face, and some part of me that wasn't the boy didn't want to spend the four months looking at their straps.
 
-"You're late," Bronya said, without looking up. "I ate your bread."
+"You're late," Bronya said, without looking up. "Bronya ate your bread."
 
 "You hate rye."
 
-"I know." The corner of her mouth went up. "It was yours."
+"Bronya knows." The corner of her mouth went up. "It was yours."
 
 Seele slid her own slice across the table to me without a word, and Bronya watched her do it and sighed, as if the two of us were a great trial to her, and went back to her porridge. The little ones fought over the jam. Matushka turned a page.
 
@@ -1417,7 +1417,7 @@ In the evenings Seele read to Bronya in the window seat on the landing, with the
 
 She watched us. That was the thing the game had never shown me. She watched Seele and she watched me, all the time, as a sniper watches the two doors of a room. When Seele coughed, Bronya looked at her. When I came in from outside with snow on my coat, Bronya looked at the snow, and then at me, and only went back to her game once she'd decided I was all there. If one of us was late for dinner she didn't eat. She'd have said she wasn't hungry.
 
-"I had a list," she told me once, in May, when Seele had gone down to make tea and the two of us were alone on the landing. She was looking out of the window at the ice going gray on the lake. "Before. In the gang. People I'd been paid to shoot. I kept it in my head, so nobody could take it off me." She was quiet for a while. "I've got a different list now."
+"Bronya had a list," she told me once, in May, when Seele had gone down to make tea and the two of us were alone on the landing. She was looking out of the window at the ice going gray on the lake. "Before. In the gang. People Bronya was paid to shoot. Bronya kept it in her head, so nobody could take it off her." She was quiet for a while. "Bronya has a different list now."
 
 "Who's on it?"
 
@@ -1427,11 +1427,11 @@ I didn't need to work it out. It had two names on it, and one of them was coming
 
 [She means you,] said the System, very quietly, as if it didn't want to be overheard. [I thought I'd better say. You're not very good at hearing it.]
 
-"We're going to see the sea," Seele told me, one night in June, when Bronya had fallen asleep in the chair with the console on her chest. "When her legs are better. A warm one. She's never seen a warm sea. Neither have I." She smiled at me over the top of her book. "You can come if you carry the bags."
+"Bronya-nee and Seele are going to see the sea," Seele told me, one night in June, when Bronya had fallen asleep in the chair with the console on her chest. "When Bronya-nee's legs are better. A warm one. She's never seen a warm sea. Seele hasn't either." She smiled at me over the top of her book. "You can come if you carry the bags."
 
 "I'll carry the bags."
 
-"You always say yes to things," she said. "Like me."
+"You always say yes to things," she said. "Like Seele."
 
 I didn't say anything to that. Below us in the hall, the clock that matushka wound every Sunday ticked over to ten.
 
@@ -1457,11 +1457,11 @@ At one in the morning there was a knock, so soft I almost didn't hear it.
 
 Seele was standing in the corridor in her cardigan with her book held against her chest in both arms. She'd been crying and had stopped. She'd heard it too, or she'd heard enough, and she'd gone down to the office afterward, by herself, and knocked.
 
-"I showed her," she said. She put her hand on the cardigan over her chest, over the mark she'd always hidden, even from Bronya. "She said that with this I'd do just as well. Maybe better. So it's me now. Not Bronya." She was shaking. Her voice wasn't. "She'd die in there, Eros. On those legs. You know she would."
+"Seele showed her," she said. Her hand went to the cardigan over her chest, over the mark she'd always hidden, even from Bronya. "Matushka said that with this, Seele would do just as well. Maybe better. So it's Seele now. Not Bronya-nee." She was shaking. Her voice wasn't. When Seele made herself brave her sentences came out whole, every word in its place, as if she were reading them off a card. "She would die in there, Eros. On those legs. You know she would."
 
 "Seele."
 
-"Don't tell her." She said it very fast, as if she'd practiced it on the stairs. "Not till it's done. She'd stop me. Or she'd go anyway, and she can't. And look after her. Please. She pretends she doesn't need anyone, and she needs us. She needs you." She swallowed. "That's all. That's all I came for."
+"Don't tell Bronya-nee." She said it very fast, as if she'd practiced it on the stairs. "Not till it's done. She would stop Seele. Or she would go anyway, and she can't. And look after her. Please. She pretends she doesn't need anyone, and she needs us. She needs you." She swallowed. "That's all. That's all Seele came for."
 
 She hadn't asked me to stop it. She hadn't asked me to go in her place or to save her or to do anything at all for her. She'd walked down a dark corridor at one in the morning to ask me to look after somebody else.
 
@@ -1477,7 +1477,7 @@ She nodded. Then she smiled at me, the small apologetic smile she'd been giving 
 
 The corner of one page was turned down.
 
-"Keep my place," she said. "I'll want it back."
+"Keep Seele's place," she said. "Seele will want it back."
 
 ---
 
@@ -1514,7 +1514,7 @@ I looked back at her with my perfect face, and her own face came apart.
 
 By nine she was in the bunker. I don't know how she got the chair down the stairs. I found her at the bottom of them, at the door of the room with the egg in it, with a knife from the kitchen held against her own throat in a hand that wasn't shaking at all, and matushka in front of her with both hands up, as if Bronya were a sniper on a ridge in the snow again.
 
-"Put me in it," Bronya said. "Let me go in after her. Or I'll do it here." The knife moved a millimeter, and a line of red came up under it. "You know I will. You taught me not to miss."
+"Put Bronya in it," Bronya said. "Let Bronya go in after her. Or Bronya will do it here." The knife moved a millimeter, and a line of red came up under it. "You know Bronya will. You taught Bronya not to miss."
 
 She didn't look at matushka while she said it. She looked past her, at me, on the bottom stair.
 
@@ -1558,7 +1558,7 @@ She turned her head and looked at me.
 
 "Seele," I said.
 
-"The subject Seele said several things." She recited them, in order, with no more feeling than a list of stations. "Seele said, remember our promise. Seele said, we will see each other again in the real world. Seele said, go back now, before it takes the rest of you." A pause, exactly as long as it needed to be. "Seele said, he promised me he would look after you. So go back and let him."
+"The subject Seele said several things." She recited them, in order, with no more feeling than a list of stations. "Seele said, remember our promise. Seele said, we will see each other again in the real world. Seele said, go back now, before it takes the rest of you." A pause, exactly as long as it needed to be. "Seele said, he promised Seele he would look after you. So go back and let him."
 
 She looked at me with nothing at all in her face.
 
@@ -2501,7 +2501,7 @@ The class went quiet.
 
 "Please don't," Mei said, without looking up. "It's better for you if you don't."
 
-"Why? Are you sick?" Kiana was already pulling out the chair beside her. "I don't get sick. Ever. My dad said I've got the constitution of a horse." She looked at Mei's box. "Are you going to eat that?"
+"Why? Are you sick?" Kiana was already pulling out the chair beside her. "I don't get sick. Ever. My stinky old man says I've got the constitution of a horse." She looked at Mei's box. "Are you going to eat that?"
 
 Then she looked across the table at me.
 
@@ -2521,7 +2521,7 @@ My face was perfect. I could feel it being perfect.
 
 Kiana looked at me for a long moment. Then she shrugged, the way somebody shrugs off a coat.
 
-"You're lying," she said simply. "I don't know how I know. Your face is weird. It doesn't do anything. But I can hear it." She turned to go, and then turned back. "She's mine to sit with now, too. So you'd better be nice."
+"You're lying," she said simply. "I don't know how I know. Your face is weird. It doesn't do anything. But I can hear it." She turned to go, and then turned back. "Mei-senpai's mine to sit with now, too. So you'd better be nice."
 
 ```
 [2013, December. Kiana Kaslana sits with Raiden Mei at lunch every day. You can't move against her without showing yourself.]
@@ -2705,7 +2705,7 @@ I took an envelope out of my coat. There was a train ticket in it, one way, the 
 
 She held the envelope in both hands for a long time.
 
-"Nobody's ever told me anything," she said. "About him. In two years." She looked up. "Why would you?"
+"Nobody's ever told me anything," she said. "About that stinky old man. In two years." Her voice went strange on old man, and she cleared her throat at it, as if it had tripped her. She looked up. "Why would you?"
 
 "Because you ate my noodles," I said, "and I like you."
 
@@ -3132,7 +3132,7 @@ This time there was no snow.
 
 ```
 [2013, December 22. Kiana Kaslana takes the night train north to look for her father.]
-[2013, December 22. She leaves a note for Raiden Mei with the school office. "Noodle guy found my dad!!! Back soon!!! Save me lunch!!!"]
+[2013, December 22. She leaves a note for Raiden Mei with the school office. "Noodle guy found my stinky old man!!! Back soon!!! Save me lunch, Mei-senpai!!!"]
 ```
 
 She didn't come back. I didn't know if the bar existed in this file, or if the man on the phone would tell her the same thing, or what she'd do when he did, and I didn't think about it very much. Using it on Kiana had cost me nothing I could see.
@@ -3143,7 +3143,7 @@ Mei found out on the twenty-third.
 
 She came to the dojo that morning and didn't practice. She stood in the middle of the floor in her armor with the sword in her hand and the lamp lit and the doors open on the dark, and when I came round through the gap in the hedge she was already looking at the gap.
 
-"Kiana's gone," she said.
+"Kiana-chan's gone," she said.
 
 "I know. She told me she was going north."
 
@@ -3703,7 +3703,7 @@ On the second morning she watched me stand at Mei's desk and say the words, and 
 
 "Wait," she said. "You can just do that? Every day?"
 
-Then she pointed at Mei with the pencil she'd come in to borrow and announced, to the entire class, "Then if he gets to, I get to! Mei! I love you! Will you go out with me?"
+Then she pointed at Mei with the pencil she'd come in to borrow and announced, to the entire class, "Then if he gets to, I get to! Mei-senpai! I love you! Will you go out with me?"
 
 Mei put her face in her hands. "I'm sorry," she said into them. "No."
 
@@ -3715,7 +3715,7 @@ Mei put her face in her hands. "I'm sorry," she said into them. "No."
 
 I'd been the last one standing for a month. Now there were two of us. I couldn't stop it without putting my hand on Kiana, and Kiana was on the list of things I didn't touch.
 
-On the third day Kiana watched me eat my box with such longing that Mei pushed her own across the table without looking up, and Kiana ate it, the black egg and the burned rice and the raw fish, as though it might be taken away.
+On the third day Kiana watched me eat my box with such longing, chin on the desk, saying "Mei-senpai... I'm starving..." to nobody in particular with all the vowels dragged out, that Mei pushed her own across the table without looking up, and Kiana ate it, the black egg and the burned rice and the raw fish, as though it might be taken away.
 
 "That," she said, "is the best thing I've eaten since September."
 
@@ -3983,7 +3983,7 @@ Mei looked at the hand.
 
 She didn't take it. She didn't let go of me. She looked at Kiana's hand for a long moment, as though it were something very far away, and then she bent her head back down over mine and held on.
 
-"I'm sorry, Kiana," she said, without looking up. "No."
+"I'm sorry, Kiana-chan," she said, without looking up. "No."
 
 [♪]
 

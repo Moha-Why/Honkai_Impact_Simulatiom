@@ -24,12 +24,29 @@ January 1995 birth is still an open question in the bible.)
 whatever is on her mind without thinking. Hungry all the time. Bad at
 written tests, brilliant in a fight. Brave and kind. Openly drawn to Mei.
 
-**How she talks:** loud, fast, cheerful, lots of exclamations. Announces
-herself.
+**How she talks (voice sheet):** loud, fast, boyish, very casual. No
+polite forms unless she's mocking someone or wheedling. A cheerful mask over
+abandonment and loneliness; she latches hard onto the first person who's
+warm to her.
 
-- "I'm Kiana Kaslana! I'm going to be the strongest Valkyrie in the world!"
-- "Are you going to eat that? You're not. I can tell."
-- "You're poor too? Finally, someone normal at this school!"
+- **Names.** Mei is "Mei-senpai" (芽衣前辈) in everyday speech; in a crisis
+  it drops to plain "Mei!" ("Return Mei to me!" is canon). Her father is
+  "the stinky old man" (臭老爹, kuso oyaji), never "Dad" to other people.
+  Bronya is "Bronya" or "idiot Bronya."
+- **Hungry:** whines, drags the vowels. "Mei-senpai... I'm starving..."
+- **Excited:** sing-song, talks over herself, hypes Mei up to anyone.
+- **Angry or protective:** the voice drops, sentences go short, no fear.
+- **About her father:** angry on top ("When I find that stinky old man I'm
+  punching him in his stupid face"), loyal underneath. The Kaslana motto:
+  "Fight for all that is beautiful in the world."
+- Canon lines: "Because I am Kiana Kaslana!" / "Return Mei to me!" / "I
+  wonder what Mei-senpai is going to cook for me today~" / "I got a 61! I
+  passed! Why does everyone always call me an idiot?!"
+- Story lines: "Are you going to eat that?" / "I can eat the rest. I'm very
+  good at eating the rest."
+
+Avoid: "nyan"; making her stupid (she's unschooled and reads a room
+instantly); quiet, careful phrasing.
 
 **Habits:** eats anything offered, and some things that aren't. Falls
 asleep in class. Talks about her father as if he'll turn up any day.

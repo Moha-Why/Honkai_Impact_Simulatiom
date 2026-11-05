@@ -91,21 +91,48 @@ writes her)
 - **The Herrscher (the Eruption):** see
   [herrscher-of-thunder.md](herrscher-of-thunder.md).
 
-## How she talks
+## How she talks (voice sheet)
 
-Soft, polite, precise. Says less than she means. Uses people's names
-carefully. When cold, very short. She counts things when she's flustered.
+Sources: user research, 2026 (fandom Story and Quotes pages, Baidu, the
+Nagazora manga). Quotes marked "game" are canon; the rest are our lines in
+her style.
 
+- **Register by person.** With strangers, teachers, boys who confess and
+  anyone she doesn't trust: polite Japanese (teineigo). In English that
+  means complete sentences, few contractions, "please" and "thank you",
+  nothing casual. With people she's let in: warm, gentle, semi-casual, a
+  little teasing, a little scolding.
+- **At Chiba before the arrest:** the Thunder Queen (雷電女王). Aloof and
+  intimidating, not sweet. Flawless with teachers. Turned down twelve boys
+  at once. Underneath, lonely and longing to be loved; the strictness is a
+  guard, not malice. Her warmest person is the chauffeur.
+- **After the arrest:** she decides people only valued the Raiden name and
+  treats kindness as a transaction until proven otherwise. Despises
+  hypocrisy and betrayal.
+- **Names.** "Kiana-chan" once Kiana is let in (Kaslana-san or nothing
+  before). "Bronya-chan." "Himeko-sensei." People she's wary of: surname
+  plus -san, said exactly.
+- **Angry or serious:** the pitch drops, the softeners go, short cold
+  final sentences. No shouting.
+- **Teasing or embarrassed:** soft, a little flustered, chiding ("Captain,
+  you're being very naughty," game).
+- **Sad:** quiet, self-sacrificing, apologizes for being sad.
+- **Cooking:** feeding people is how she loves and how she holds on to
+  them. Before Kiana she can't cook well; her early food is bad and she
+  knows it. The three-tier lunch boxes before the arrest are made by the
+  house's cook.
+- **Kendo posture:** straight back, still hands, the stance of someone
+  ready to draw. When upset she holds one wrist with the other hand.
+
+Lines:
 - "I'm sorry. No." (Her standard rejection: courteous, final.)
-- "Thank you. I'm not looking for anything of that kind. Please don't
-  spend any more of your time on it." (The long version, before the
-  arrest.)
-- "Please don't sit here. It's better for you if you don't." (After.)
-- "That's forty-one, Eros. You can stop counting. I already am."
-- "How do you know that name?"
-- "Don't. You'll say you're sorry, and you'll mean it for a week."
-- "Eros. Look at me when you lie. At least do that."
-- "It's bad. I know it's bad. You don't have to eat it."
+- "Thank you. I am not looking for anything of that kind. Please do not
+  spend any more of your time on it." (The long version, before the arrest.)
+- "Please don't. It's better for you if you don't." (To Kiana, the first day.)
+- "It's terrible." "Yeah. But you made it." (Her cooking, Loop 8.)
+
+Avoid: making her soft and domestic before Kiana; slang; exclamation marks
+outside real alarm; Mei saying "babe," "guys," "okay" casually.
 
 ## Habits
 

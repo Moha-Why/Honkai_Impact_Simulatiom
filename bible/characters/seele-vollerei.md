@@ -31,8 +31,24 @@ Holds books against her chest.
 **Personality:** soft, shy, always reading, says yes to whatever matushka
 asks. Brave only when someone else needs it.
 
-**How she talks:** quietly, apologizing first. "Don't tell Bronya. Not
-till it's done. And look after her." / "Keep my place. I'll want it back."
+**How she talks (voice sheet):** soft, hesitant, apologizing first, with
+pauses and trailing off. Like Bronya, she refers to herself in the third
+person, "Seele" (希儿). When she forces herself to be brave her sentences
+turn formal and complete.
+
+- **Names.** Bronya is "Bronya-nee" (布洛妮娅姐姐, big sister Bronya);
+  Cocolia is "matushka."
+- **Tells.** Her hand goes to her chest, over the hidden stigma, when she's
+  scared or lying. Fairy tales and picture books.
+- **Her hidden spine:** timid, not a coward. She walks into terrible things
+  for Bronya without hesitating.
+- Story lines: "Don't tell Bronya-nee. Not till it's done... And look after
+  her. Please." / "Keep Seele's place. Seele will want it back."
+
+**Veliona (Dark Seele):** the stigma's other self. Says "I." Mocking,
+confident, sharp; cruel to others and fiercely protective of Seele. Her eyes
+are a luminous crimson; Seele's are blue. Seele doesn't remember what she
+does.
 
 **She's a good kid.** She would never ask anyone to take a risk for her.
 In canon she shows Cocolia her stigma and asks to go into X-10 in Bronya's
@@ -48,5 +64,5 @@ remember it). In August 2013 Cocolia chooses Bronya for X-10. Seele shows
 Cocolia the mark on her chest and takes her place, then comes to the adult
 Eros at one in the morning: "Don't tell her. Not till it's done... And
 look after her. Please." He keeps the secret, because her loss is the
-engine of February. "Keep my place. I'll want it back." He watches her come
+engine of February. "Keep Seele's place. Seele will want it back." He watches her come
 apart in the machine in the bunker under the house.
