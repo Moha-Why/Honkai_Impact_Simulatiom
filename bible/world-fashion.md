@@ -37,15 +37,22 @@ normally.
   ages, its own faces). Now and then it tugs at him as a thing that doesn't
   fit, a hook for the secret.
 - Nobody else ever comments on it.
+- **His voice, not a thug's.** His lust is written as he thinks: dry,
+  specific, a fan's and an engineer's eye (the fan-art folder, the banner at
+  3 a.m., patch notes, crash logs, a screenshot before a crash). Blunt words
+  are rare so they land. It changes with his soul: eager and half in love in
+  Loop 1, taking stock in the middle loops, flat and clinical when Torn
+  (his body "the one process still running at full speed"). The System
+  answers it differently each time, never with the same dick joke.
 
 ## Chapter 3 (from the takeover)
 
 - **Mei:** five outfits (school, dawn dojo, home and formal, the mended one
   after November 16, the Herrscher). See image-prompts-world.md.
 - **Kiana:** two thrifted outfits, worn in turns.
-- **Bronya:** the agent's coat over the bunny harness; the field bunnysuit.
-- **Cocolia:** the corseted general's bodysuit, at the podium and the hotel.
-- **Hoshino Kei:** the raincoat over mesh and suspenders.
+- **Bronya:** a gray coat over the unzipped sniper catsuit; the field reverse bunny.
+- **Cocolia:** the open greatcoat over gold chains and medal pasties, at the podium and the hotel.
+- **Hoshino Kei:** a man's raincoat over newsprint body paint.
 - **Classmates:** Sayaka is 18 from May 2013 and changes then. Natsumi is
   17 until January 2014 and wears the uniform until then.
 - Older women (Mrs. Okada, Kanda Yūko in Osaka): a word or two, never a

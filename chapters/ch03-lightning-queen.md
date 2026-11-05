@@ -465,11 +465,11 @@ Then I did, and it was me.
 September / October
 ```
 
-"October," I said. A month less for her to look at me before the arrest. A month less for anything to go wrong.
+"September," I said. I'd waited ten years. I wasn't going to wait a month more.
 
 ---
 
-The first thing I noticed, after six months, was still that my body was eighteen.
+The first thing I noticed, after five months, was still that my body was eighteen.
 
 I'd gone into every normal run as myself at twenty-two, five years of seawall on my legs, and I'd stopped thinking about what my body had been like before that. Now I was standing in a lift going up the inside of a glass tower that I'd last seen on a postcard on a kitchen wall in Malmö, and the shoulders in the mirrored wall were narrow, and the face was the one from my university photograph, and when the lift stopped too fast my knees did the little give that knees do when nobody's ever made them do anything.
 
@@ -499,35 +499,27 @@ I went to bed and lay awake for an hour, doing the math again, and enjoying it.
 
 Chiba Academy was all glass and pale stone, with a gate that cars came through one after another in the morning and let students out under a covered walkway so they didn't get wet. I arrived on foot, because the tower was ten minutes away and I wanted to see the cars. Black, black, silver, black. A long black limousine at the end of the line, with an old driver in white gloves who got out and came round to open the door himself.
 
-She got out of it, and my cock noticed before I did.
+She got out of it, and ten years of fan art turned out to have been conservative.
 
 I'd spent the whole night telling myself it was a save file. That lasted until her second foot touched the curb.
 
-She was taller than I'd expected, taller than most of the boys getting out of the cars, and she stood very straight, with her bag held in front of her in both hands and her hair, which really did go all the way down to the backs of her thighs, falling over one shoulder in a dark wave with a blue sheen to it. Two pins held part of it up. And she was in black. Black patent latex, shining as if she'd been dipped in it. A high collar with a violet stone at the throat, and straps running down from it to two little lacquered panels that were losing a war with her tits. In my first life I'd jerked off to fan art of Raiden Mei more times than I'd eaten hot dinners, and every artist on the internet had undersold her. The corset strap pinched her waist in so hard her hips looked like a dare, and the skirt was two scraps of sheer violet that fell open to the hip when she stepped up onto the walkway, and under it there was one thin strap and nothing else. I thought about what that strap was keeping off her pussy, and how little it would take, and I had to look at a tree for a second.
+She was taller than I'd expected, taller than most of the boys getting out of the cars, and she stood very straight, with her bag held in front of her in both hands and her hair, which really did go all the way down to the backs of her thighs, falling over one shoulder in a dark wave with a blue sheen to it. Two pins held part of it up. And she was in black. Black patent latex, shining as if she'd been dipped in it. A high collar with a violet stone at the throat, and straps running down from it to two little lacquered panels that had been designed by somebody who hated panels. Everyone who plays a game like that for long enough ends up with a folder. Mine had been eleven gigabytes, sorted by artist, and every artist in it had undersold her. Nothing in it had prepared me for what the corset strap did to her waist, or for the skirt, two scraps of sheer violet that fell open to the hip when she stepped up onto the walkway and showed me one thin strap holding the whole line on its own. I counted how many times it opened between the car and the end of the walkway, because I count things. Four. I'd have paid real money for a fifth. I'd paid real money for her before, on a limited banner at three in the morning, and that had only been a drawing.
 
-Fuck me. Look at the tits on her. Look at that fucking ass.
+The fan in me wanted to ask for her autograph. The rest of me wanted to bend her over the bonnet of that limousine and find out whether the Lightning Queen had ever once in her life said please. I let the two of them argue it out. My face didn't do anything. It stayed pleasant and a little bored, a transfer student watching a rich girl get out of a car.
 
-I followed the straps down her bare back to where they quit, and then I kept going. Her ass in that latex was the kind of ass men started wars over. I counted the times the skirt opened between the car and the end of the walkway. Four. I'd have given a year of my life for a fifth.
-
-I wanted that cool, perfect little face looking up at me. I wanted her saying please. I wanted her saying please on her knees on the floor of the kendo hall, and then I wanted her saying thank you.
-
-Six months at the next desk. I was going to come in my uniform trousers by the end of homeroom like a teenager.
-
-My face didn't do anything. It stayed pleasant and a little bored, a transfer student watching a rich girl get out of a car.
-
-She said something to the driver, and he smiled at her and looked ten years younger, and then she turned and walked under the covered walkway with three girls falling into step around her as though they'd been waiting. Two of them were in latex and lace. The third was still in the school blazer, because she wouldn't be eighteen till January, and between the other two she looked as if she'd come to the wrong party. A woman from the school office went past with a clipboard in white lace and a leash she'd clipped to her own belt, and her ass went by at eye level, bouncing, and I'd have bent her over her own clipboard if Mei hadn't been standing between us. Nobody else looked twice. None of it was strange to anyone on that hill except me.
+She said something to the driver, and he smiled at her and looked ten years younger, and then she turned and walked under the covered walkway with three girls falling into step around her as though they'd been waiting. Two of them were in latex and lace. The third was still in the school blazer, because she wouldn't be eighteen till January, and between the other two she looked as if she'd come to the wrong party. A woman from the school office went past with a clipboard, in white lace and a leash she'd clipped to her own belt, and I watched her to the doors with the attention I used to save for a crash log. Nobody else looked twice. None of it was strange to anyone on that hill except me.
 
 In the game she'd worn a navy blazer buttoned to the neck. I'd put that in the column of things this world did its own way years ago, next to Theresa's face and Bianka's age. Best column I had. Some nights it bothered me, a whole planet that had agreed this was ordinary, and nobody I could ask when they'd agreed.
 
-Tonight it wasn't going to bother me. Tonight I had a very clear idea who I'd be thinking about with my hand down my shorts.
+Tonight it wasn't going to bother me. Tonight I had ten years of her fan art in my head and, for the first time, a reference image.
 
 [Your heart rate's up,] said the System.
 
-*Look at that ass.*
+*Hardware response. Ignore it.*
 
-[You're supposed to be breaking her heart, not jerking off about her.]
+[You've stopped blinking.]
 
-*I can do both. I'm doing both tonight.*
+*I'm buffering.*
 
 [I'll look away.]
 
@@ -547,7 +539,7 @@ Her voice was lower than in the game. The voice actress had played her bright. I
 
 I sat down beside her. She turned her head and gave me a polite, finished smile, the smile you'd give a stranger in a lift, and turned back to the front.
 
-The desk next to hers was the best seat in Nagazora. When she leaned forward to write I could see down the side of the lacquered panel, and when she crossed her legs under the desk the skirt slid off her thigh and she never once fixed it, because in this world nobody fixed it, and I sat through the whole of first period with my bag on my lap and a hard-on you could have hung a coat on.
+The desk next to hers was the best seat in Nagazora, and I'd have given it five stars in a review. When she leaned forward to write I could see down the side of the lacquered panel to where the strap gave up, and when she crossed her legs under the desk the skirt slid off her thigh and she never once fixed it, because in this world nobody fixed it. I sat through the whole of first period with my bag on my lap, eighteen again in every way a body can be, and didn't take a single note.
 
 ```
 Raiden Mei
@@ -579,136 +571,205 @@ None of that was in the game, and I filed all of it, because all of it was going
 
 *Four times is a lot for a week.*
 
-On Friday I went for it. I'd planned it as you'd plan a speedrun. You don't play the opening the slow way when you already know where every item is. You go straight for the flags.
+"Twelve before lunch," Kuroda said on the Friday, at the 3-B table, with his mouth full. "Under a minute each. My cousin timed them." He pointed his chopsticks at me. "Don't. I can see you thinking it. Swedish, I'm telling you as a friend. Don't."
 
-She was at her desk at lunch with a lacquered box in front of her, three tiers of something a professional had made that morning, and she was eating it with the neat, slightly bored precision of someone who'd eaten food that good every day of her life. The three girls had gone to buy drinks.
+I was thinking it. I'd been thinking it since the gate.
 
-"Congratulations on the regionals," I said. "In the spring. I heard you won it with a single point in the final. A kote."
+In my first life I'd been thirty-two and had never once confessed to anybody. There'd never been time, and then there'd been a second monitor, and the girl on it had been better company than anyone at work and had never asked me to come home earlier. I'd loved her for ten years, as you love something that can't hear you. Now she could. She was sitting a meter from my desk, and there were rules for this, the same in every school in Japan, and I'd learned them from about four hundred hours of other people's games.
 
-She looked up.
+Every one of those twelve boys had wanted something. Her name, her father's money, the look on the other boys' faces afterward. She'd seen it in each of them in under a minute and shut the door. I wanted something too. I wanted her, badly, in every way the gate had reminded me of. But I'd wanted her for so long and from so far away that most of what was left was wanting to stand in front of her and say it out loud, once, to her face instead of to a screen.
 
-That was the first thing I got wrong. I'd read the kendo result in the game's codex. Nobody at the school had told me how she'd won the final, and it was a detail you'd only know if you'd been there.
+I made myself one rule before I'd even decided. I wasn't going to tell her anything I knew from the game. Every fan knows that one. You don't walk up to the real thing and tell her her own birthday.
 
-"Were you there?" she said.
+[You're going to do it,] said the System.
 
-"I read about it."
+*Probably.*
 
-"Ah." The polite smile. "Thank you."
+[Good,] it said. [I want to see her face.]
 
-I pushed. It's what you do when a flag doesn't trigger. You assume you've got the wrong one and try the next.
+---
 
-"Your mother would have been proud," I said.
+I did it on the Monday of my second week, in the courtyard, at twenty to one, because that was when the first-year had done it and I wanted the same audience.
 
-She went very still.
+She was on the bench under the cherry tree with a book. The three girls were at the drinks machine. Half the courtyard saw me stop in front of her and went quiet, as courtyards do, and the other half saw the first half and went quiet too.
 
-I'd seen that stillness in the game, too, and hadn't understood it from the outside. The whole of her stopped, as a bird stops in a hedge when a shadow goes over, and the only thing that moved was her eyes, which went over my face once, slowly, as though she were reading something written on it.
+"Raiden-san," I said. "I like you. Will you go out with me?"
 
-Liar's Face held. I could feel it hold, like a mask I hadn't put on, my face pleasant and a little sad and absolutely empty.
+She looked up. She looked at me for exactly as long as she'd looked at the first-year.
 
-"You didn't know my mother," she said.
+"I'm sorry," she said. "No."
 
-"No. I'm sorry. I only meant..."
+Forty seconds, from the moment I stopped walking. I'd had the first-year at fifty-two. Somebody behind me let out a breath. She inclined her head to me very slightly, as though I'd done her a small honor by asking, and went back to her book, and I walked back across the courtyard with my face pleasant and empty and my ears so hot I could feel them in the wind.
 
-"She died when I was two." Her voice hadn't changed at all. It was soft and careful and precise. "It isn't something people at this school talk about. My father doesn't like it talked about."
+[Pull one,] said the System. [There's no pity on this banner, I'm afraid.]
 
-I should have stopped. I knew I should have stopped, because I'd written the code for the anomaly watch and I knew what a bad signal looked like when it started climbing. But I was playing a speedrun, and in a speedrun you commit.
+*I'm not pulling.*
 
-"I heard you had a kendo teacher when you were small," I said. "A man in a mask. Mr. HOMU."
+[Then what are you doing?]
 
-She put her chopsticks down.
+I didn't know. I found out the next day at twenty to one, when my feet took me back across the courtyard.
 
-"How do you know that name?"
+"Raiden-san. I like you. Will you go out with me?"
 
-Nobody else was close enough to hear it. Outside the window the cherry tree that the game had never shown in anything but winter was turning orange.
+"No," she said. Then, after a moment, as a matter of manners, "I'm sorry."
 
-"Someone mentioned it," I said.
+---
 
-"Who?"
+By the end of that week I had a name. Kuroda brought it to the table on the Friday as if he'd found it in a drain. The boys in 3-B were calling me the lightning rod, the thing on the roof that gets hit on purpose so the rest of the building doesn't. He thought it was hilarious. He thought so every day for a week, and then on the second Monday he stopped laughing and started a book on it, a hundred yen a go, on how long I'd last.
 
-My face was perfect. I could feel it being perfect. I'd seen myself in mirrors at three in the morning on the island and I knew what my face did when I was lying, the little tightening at the corners of the eyes, and it wasn't doing it.
+"A month," said one of the boys. "Christmas," said another. Kuroda put his money on that Friday. He'd lasted one, in the spring, and he didn't like that I'd lasted more.
 
-"I don't remember," I said.
+I went every day. I didn't say the same thing twice after the first two, and that was the part I hadn't planned, and it was the part that worked. Every day I told her one thing I'd seen her do that week. Something true, something anyone in that school could have seen if they'd ever once looked at her instead of at what she was. Nothing from the codex. Nothing from a screen. Only her.
 
-She looked at me for a long moment more. Then she picked up her chopsticks again and went back to her lunch, and she didn't say another word to me that day.
+"You correct the first-years' grips with two fingers," I said on the fourth day. "Never your whole hand. As if you don't want them to feel corrected."
+
+"No," she said.
+
+"You eat the pickled plum last."
+
+"No."
+
+"You say good morning to the cleaning lady by name. Her name's Hasegawa. Nobody else in this building knows that. I asked."
+
+That one took her a second longer. "No."
+
+[Twelve,] said the System, on the twelfth. [That's her Valentine's record. You've tied the whole of her first year by yourself.]
+
+*You're counting.*
+
+[I'm counting you counting. It's very sweet.] A pause. [It's also very stupid, and I'm enjoying it enormously.]
+
+The no's changed. Not much. You'd have had to be standing as close as I was to hear it. On the ninth she said, "No. And it's ni, not o," because I'd got a particle wrong, and I went red, and she very nearly smiled. On the fifteenth she said it before I'd finished, and then said, "Sorry. Go on," and let me finish, and said it again. On the twentieth it rained, and she was in the corridor instead of the courtyard, and when I came round the corner she was standing at the window with her book already shut, as if she'd known which corner I'd come round.
 
 ```
 Raiden Mei
-Trust: Wary
+Affection: Friendly
+Trust: Polite
+Corruption: Untouched
 ```
 
-It didn't drop. It was already at Wary. It just stopped looking like a starting value and started looking like a wall.
+Friendly, in four weeks, from Stranger, with nothing but true things and a courtyard. I sat on my father's sofa that night looking at the screen and laughed out loud at nothing like an idiot.
+
+[You look happy,] said the System. [It's very unsettling. Please do it less.]
+
+Kuroda lost his hundred yen. He paid up with a smile that didn't get anywhere near his eyes.
+
+On the twenty-third she came out to the car after practice, and I happened to be at the gate, where I'd happened to be at the same time every evening for a week, and she stopped.
+
+"Why?" she said.
+
+It was the first question she'd ever asked me. The old driver was standing by the open door of the limousine in his white gloves, looking at nothing, very carefully.
+
+"Why what?"
+
+"Twenty-three times." She held her bag in front of her in both hands. "You know what I'll say. Everyone else stops at one. What do you get out of it?"
+
+I thought about the folder, and the banner at three in the morning, and the ten years, and none of it was anything I could say to her.
+
+"I get to say it to you," I said. "I've never got to say it to anybody."
+
+She looked at me for a long moment, reading it. Then she got into the car, and the old man shut the door so it wouldn't slam, and looked at me over the roof before he went round to his side. It wasn't an unfriendly look. It was the look of a man writing something down.
+
+[You meant that,] said the System. [You don't sound like that when you're lying.]
+
+*Liar's Face doesn't do voices.*
+
+[No,] it said. [That's what I mean.]
+
+---
+
+The last one wasn't a confession. It was a Saturday at the end of October, and I wasn't supposed to see her at all.
+
+The kendo club had a friendly against a school from Kobe in the big hall, and she was captain, and I went because I'd have gone anywhere she was. There was a sign on the hall door saying the club needed a manager. I read it on the way in and forgot it before I'd found a seat at the back of the stands.
+
+She won all three of her bouts. In the third she took the point with a cut to the head so fast that half the hall didn't see it, and the hall stood up, and she bowed to the girl from Kobe from the waist and walked off the floor without once looking at the stands. The front row was where the parents sat. One seat in it had a card on it with her father's name. It was empty all afternoon.
+
+I found her afterward on the steps behind the hall, still in her armor, with her helmet beside her and her hair coming out of its tie. She'd been crying, or she'd been about to and had decided not to, and she looked up when my shadow fell across the step and didn't tell me to go.
+
+"It's Saturday," she said. "You don't get one on Saturday."
+
+"I'm not here for one."
+
+I sat down two steps below her. For a while neither of us said anything. The bus from Kobe pulled out of the car park.
+
+"He said he'd come," she said. "He's said it since I was eight. He has people from the prosecutor's office in his building every day now, and men outside our gate, and he can't..." She stopped. "I'm sorry. You don't need to hear this."
+
+"I do."
+
+She looked at me. Then she talked, for ten minutes, quietly, in the careful exact voice, about the seat in the front row, and the house, and how the house was very large for two people when one of them was never in it. I listened. It was the best ten minutes I'd had in either world.
+
+And I wanted to give her something back. That was all it was. I'd been giving her true things for thirty days and they'd worked, and I had so many more, a whole codex of them, the best ones, the ones that would mean the most, and she was sitting on a step trying not to cry and I had them in my hand.
+
+"Your mother would have been proud of you," I said. "Today. Mr. HOMU too."
+
+She went very still.
+
+I'd seen that stillness in the game, and hadn't understood it from the outside. The whole of her stopped, as a bird stops in a hedge when a shadow goes over, and the only thing that moved was her eyes, which went over my face once, slowly, as though she were reading something written on it.
+
+Liar's Face held. I could feel it hold, like a mask I hadn't put on, my face kind and a little sad and absolutely empty.
+
+"How do you know that name?" she said.
+
+"Someone mentioned it."
+
+"Who?"
+
+"I don't remember."
+
+"My mother died when I was two." Her voice hadn't changed at all. It was soft and careful and precise. "Nobody at that school knows anything about her. My father doesn't let it be talked about. And nobody alive knows that name except my father and me." She stood up, with her helmet in her hands. "There are men outside our gate every day this month. They follow his car. Someone's been into his office." She was looking down at me as she'd looked at the boy from 3-C, and then at something past that. "Who sent you?"
+
+"Nobody sent me."
+
+"Thirty days," she said, quite quietly. "You found out what I eat, and who I say good morning to. Was that for them?"
+
+"Mei..."
+
+It was the first time I'd used her name. It was the worst possible time to.
+
+"Don't come to my desk again," she said, and went back into the hall.
+
+```
+Raiden Mei
+Affection: Friendly
+Trust: Wary
+Corruption: Untouched
+```
+
+Trust went back to where it had started. Affection didn't move at all, which was worse. She still liked me. She'd just decided what I was.
 
 [Your face was beautiful,] said the System. [I want you to know that. Not a flicker.]
 
 *Then what went wrong?*
 
-[You told her three things nobody could know, in a row, with a beautiful face.] It sounded genuinely pleased. [She doesn't read faces, Eros. She reads what people say.] A pause. [Your grandmother could have told you that.]
+[You gave her a month of things anybody could have seen, and then one thing nobody could.] It said it almost gently. [She doesn't read faces, Eros. She reads what people say.] A pause. [Your grandmother could have told you that.]
+
+On Monday at twenty to one I stood up from my desk. She looked at me across the room, and it was the look she'd given the photographers at her gate on the evening news, and I sat down again. The boy who'd bet on a month collected from the whole table. Kuroda paid him, and clapped me on the shoulder, and said, "Thirty, Swedish. That's the record," and I could hear how glad he was.
 
 ---
 
-I gave it two more weeks to be sure.
-
-I tried being normal. I tried being useful. I carried things, I lent her a pen, I said good morning. She said good morning back every time, in exactly the same voice she used for Mr. Fujita and the cleaning lady and the boy from 3-C she'd turned down in the corridor, and she never once looked at me for longer than it took to be polite. When I came into the classroom her shoulders changed. It was very small. I'm not sure anybody else would have seen it. Her shoulders went square, as they did at the start of a kendo bout in the clips I'd watched online.
-
-```
-Raiden Mei
-Affection: Noticed
-Trust: Wary
-Corruption: Untouched
-```
-
-Noticed. I'd got Noticed, and I'd got it as you notice a draft from a window you can't find.
-
-On the third Sunday of October I sat in my father's empty flat with the city lit up below me and admitted the thing every speedrunner has to admit sooner or later, which is that the file was bricked. There were no flags left in it that I could reach. The meters weren't going to move, or they were going to move so slowly that by the time she trusted me the city would be on fire.
-
-"It's bricked," I said.
+"It's bricked," I said that night, in my father's empty flat, with the city lit up below me.
 
 [Is it?]
 
-"Wary doesn't come back from that. Not with her. You can see it."
+"Wary doesn't come back from that. Not with her. Not in this file."
 
-[Then start again.]
+[So what now?]
 
-I thought about that. A loop ended when I died, and I'd died before, five times, in five different ways, and every time it had cost me something. I didn't like losing the something. But a save you can't use is worse than no save at all, and there was a version of the math in which dying in a bad file was cheaper than living in it for four more months.
+I thought about the empty seat in the front row with the card on it.
 
-"Not yet," I said. "If it's bricked, it's a test save."
+I couldn't give her me. Fine. I'd known where this file was going since the day I was born into it. In three weeks they were going to take her father out of that house in front of the cameras for a crime somebody else had built for him, and she'd spend the rest of the game living with what came after. I couldn't fix the step behind the hall. I could fix that.
 
-[I don't know what that is.]
+[You know you'll probably die doing it.]
 
-"You know exactly what it is." I got up and went to the hall table, where my father's access badge was lying in the bowl of keys where he'd left it, under the receipt from a restaurant in Osaka. "You burn a file to learn the level. You push every button. You walk into every wall. You find out what kills you, and you write it down, and you load a fresh file and don't do any of it."
+"It's a save file."
 
-[You can't write anything down in here.]
+[It costs you something every time. You told me so yourself, in the white, quite loudly.]
 
-"Then I'll remember."
+"Then it costs me something." I got up and went to the hall table, where my father's access badge was lying in the bowl of keys where he'd left it, under the receipt from a restaurant in Osaka. "I've been reading about her for ten years. Let me do one thing for her that isn't reading."
 
 [♪,] said the System, very softly, and then, [Sorry. That one slipped out. Go on.]
 
 ---
-
-So I pushed every button.
-
-I started with her. I wanted to know what the third meter did, and how, and I wanted to know it while it didn't cost me anything. On the Tuesday I waited until the three girls had gone for drinks again and I said something to her that I'd decided on the night before. I said it in the voice you use for a joke. It was about her father, and her name, and what people said about girls whose fathers owned cities, and it was one of the cruelest things I've ever said to anyone.
-
-She didn't even look up.
-
-"Is that all?" she said, and turned a page of her book.
-
-```
-Raiden Mei
-Corruption: Untouched
-```
-
-Nothing. Not a flicker. It was like throwing a stone at the sea.
-
-[You can't hurt someone who doesn't care what you think,] said the System. [I'd have thought that was obvious. You'd have to make her care first.]
-
-*So it sits on top of the other two.*
-
-[Everything sits on top of something.]
-
-I wrote that down, in my head, in the place where I'd started to keep things. Corruption needs Affection and Trust under it. She has to let you close enough to bend.
-
-Then I went after the bait.
 
 My father came back from Osaka on Thursday and went to Tokyo on Saturday, and he left his laptop on the dining table both times. ME Corp's internal network was the cleanest thing I'd ever broken into. I'd spent five years on Schicksal's, and Schicksal had a whole floor of people whose job was to stop people like me. ME Corp had a contractor in Kobe. It took me an evening to find the project.
 
@@ -716,7 +777,7 @@ It didn't exist. That was the whole trick of it. In the game the charge against 
 
 It was beautiful work. I admired it for a while before I did anything with it.
 
-Then I did everything with it, all at once, because it didn't matter.
+Then I did everything with it at once, because I had three weeks and no patience, and because a fan who's watched the same tragedy forty times on a screen will do almost anything the first time he's close enough to touch it.
 
 I called Ryoma's office from a phone box by the station and gave the secretary my name, and a letter about a cat did what I'd sent it to do, ten years late. She put me on hold. Then a man's voice, measured and formal, said in English, "The boy from Malmö."
 
@@ -726,7 +787,7 @@ I told him he was being framed, and that the person framing him was a woman call
 
 The line went dead. I wrote it all out in a letter and posted it to the house on the hill. I put together a folder, with printouts from my father's laptop and a page in my own handwriting explaining what they meant, and I took it to a freelance reporter called Hoshino Kei, who wrote about ME Corp for a business weekly and had, according to her own blog, been told twice by her editor to stop.
 
-She met me in a coffee shop near the station in a man's raincoat a size too big, hanging open, and under it she was wearing a newspaper. Body paint, columns and headlines and stock prices painted over her bare skin from her collarbones to her knees, a headline about a corporate scandal running across her stomach, and two little black pasties and a black strip between her legs painted over so they almost disappeared into the print. Ink on her fingers. Shorthand in real ink all down one forearm. A phone that kept dying. She was thirty-four and tired and hadn't slept, and I spent the first minute reading the headline on her stomach and the stock prices on her left tit, and deciding she'd be a screamer, the quiet ones always were, and the second minute making myself look at the folder. She read the folder twice while her coffee went cold.
+She met me in a coffee shop near the station in a man's raincoat a size too big, hanging open, and under it she was wearing a newspaper. Body paint, columns and headlines and stock prices painted over her bare skin from her collarbones to her knees, a headline about a corporate scandal running across her stomach, and two little black pasties and a black strip between her legs painted over so they almost disappeared into the print. Ink on her fingers. Shorthand in real ink all down one forearm. A phone that kept dying. She was thirty-four and tired and hadn't slept. I read the headline on her stomach, and then the stock prices under it, column by column, and in my defense ME Corp was in there, down four points, so it was research. Then I made myself look at the folder. She read the folder twice while her coffee went cold.
 
 "Who gave you this?" she said.
 
@@ -753,8 +814,6 @@ Fate Deviation: Disturbed
 
 November sixteenth happened anyway.
 
-It was a Saturday. My father was home for once, and he was standing in the kitchen in his shirtsleeves with a cup of coffee when the news came on the television on the wall, and I watched his face go from bored to gray in the time it took the anchor to say the name. Raiden Ryoma, chief executive of ME Corp, arrested that morning at his home. Economic fraud. Illegal financing. A research program that did not exist. The camera showed the house on the hill, the gate, police cars, and for one second, behind a window on the upper floor, a tall shape with long dark hair standing very still.
-
 My father put his coffee down.
 
 "Christ," he said in Swedish, and then, in English, "I've got to go in," and he was gone.
@@ -763,9 +822,9 @@ I sat on the couch and watched the same thirty seconds of film go round on every
 
 On Monday, the class noticed.
 
-I'd known it was going to happen, and I'd known roughly how, and it was still something to watch. The three girls didn't sit with her at lunch. They didn't say anything about it. They just went to a different table, with their trays, laughing about something, and she sat by the window with her lacquered box, and nobody else sat down. By Wednesday Natsumi had moved her desk six inches further away. By Friday somebody had written something on the desk in marker, and she'd found it before anyone else came in and scrubbed it off with a wet tissue, and the smell of the cleaning fluid was still in the room at nine. Kuroda told me at lunch who'd written it, grinning, and waited for me to laugh, and I laughed.
+I'd known it was going to happen, and I'd known roughly how, and it was still something to watch. The three girls didn't sit with her at lunch. They didn't say anything about it. They just went to a different table, with their trays, laughing about something, and she sat by the window with her lacquered box, and nobody else sat down. By Wednesday Natsumi had moved her desk six inches further away. By Friday somebody had written something on the desk in marker, and she'd found it before anyone else came in and scrubbed it off with a wet tissue, and the smell of the cleaning fluid was still in the room at nine. Kuroda told me at lunch who'd written it, grinning, and waited for me to laugh, and I looked at the black ink on the side of his hand and didn't.
 
-Her clothes went next. The family tailor stopped coming the week of the arrest, and by December she was wearing the same two outfits in turns, and they were starting to go. One of the lacquered panels on her chest cracked across, and she cut both of them away and tied two strips of black ribbon over her tits instead, in small careful knots, and the ribbon covered about half of what the panels had. The bottom panel went the same week and became one more ribbon, knotted at her hip. The latex split up her side from her ribs to her hip, and she closed it with three safety pins over bare skin. She tore the front of the skirt off when it ripped and hemmed what was left, so there was only the back panel now. The violet stone was gone from her collar, and there was an empty ring at her throat. She'd lost the tailor and half her clothes, and she was showing more of herself in that classroom than any girl in it, and she sat at her desk as straight as she ever had, as if she were still wearing all of it. Sayaka turned up the Tuesday after the arrest in a new set, white latex and gold chain, and the girl who'd turned eighteen in September had one to match by Thursday, and you could see their new table from across the room by the shine. Natsumi was still in her blazer. She'd have to wait till January to match. I looked at Mei's ribbons every day, at the knots, at the safety pins, at the bare line of her side between them, at how little it would take, one tug on one bow. It was the filthiest thing in the room and she was the only one who didn't know it, and I thought it was the best thing that had ever happened to her wardrobe, and I didn't feel bad about thinking it.
+Her clothes went next. The family tailor stopped coming the week of the arrest, and by December she was wearing the same two outfits in turns, and they were starting to go. One of the lacquered panels on her chest cracked across, and she cut both of them away and tied two strips of black ribbon over her breasts instead, in small careful knots, and the ribbon covered about half of what the panels had. The bottom panel went the same week and became one more ribbon, knotted at her hip. The latex split up her side from her ribs to her hip, and she closed it with three safety pins over bare skin. She tore the front of the skirt off when it ripped and hemmed what was left, so there was only the back panel now. The violet stone was gone from her collar, and there was an empty ring at her throat. She'd lost the tailor and half her clothes, and she was showing more of herself in that classroom than any girl in it, and she sat at her desk as straight as she ever had, as if she were still wearing all of it. Sayaka turned up the Tuesday after the arrest in a new set, white latex and gold chain, and the girl who'd turned eighteen in September had one to match by Thursday, and you could see their new table from across the room by the shine. Natsumi was still in her blazer. She'd have to wait till January to match. I looked at Mei's ribbons every day. I'm not going to pretend I didn't. The knots, the pins, the bare line of her side between them, and how little one tug on one bow would do. It was the filthiest thing in that room and she was the only one in it who didn't know. The worst of it was that she'd tied every one of those knots herself, carefully, at a kitchen table in a house that was too big for two people, and I knew that, and I looked anyway.
 
 I watched her through all of it with my perfect face, and somewhere around Thursday I caught myself thinking a sentence, all the way to the end, before I noticed what it was.
 
@@ -773,24 +832,26 @@ The arrest was the best thing that was ever going to happen to my route.
 
 It was the opening. Every one of those people leaving her was a door closing, and every door that closed was one less way out, and at the end of the corridor, if I did this right, there was going to be exactly one door left open.
 
-I'd been so busy trying to stop it that I hadn't seen it.
+I'd been so busy trying to stop it that I hadn't seen it. I sat with the sentence for a long time once I had. I didn't like whoever had thought it. I liked the math even less, because the math was good.
 
 [Ah,] said the System. [There he is.]
 
+I could have started again. It was the obvious move, the one boy who didn't leave. On the Monday after the arrest I stood up at twenty to one, and she looked at me across the room as she'd looked at the cameras at her gate, and I sat down. Every other boy in that school stopped saying her name that week. I'd stopped three weeks before them.
+
 ```
 Raiden Mei
-Affection: Noticed
+Affection: Friendly
 Trust: Wary
 Corruption: Untouched
 ```
 
-None of it moved for me. I'd bricked it before the arrest. She'd decided what I was in October, and she was going to go on thinking it.
+None of it moved for me again. She'd decided what I was on a step behind the kendo hall, and she was going to go on thinking it.
 
-On the eighth of December Cocolia was on the television in my father's kitchen, at a podium with the ME Corp logo behind her, in her general's greatcoat, worn open and pushed back off her shoulders, and under it nothing but gold. Heavy gold chains from an eagle collar down between her tits and round her ribs, two gold medals with red ribbons where her nipples were, a peaked cap, and below the podium I could only guess, and I guessed, and I guessed one more medal. A riding crop. She tapped it on her palm while she talked, and the journalists wrote it all down and nobody looked at anything but their notes. Interim chief executive. She had wavy blonde hair and eyes the color of the egg-shaped earrings she wore, and when she answered a question she looked straight down the camera as if she could see who was watching.
+On the eighth of December Cocolia was on the television in my father's kitchen, at a podium with the ME Corp logo behind her, in her general's greatcoat, worn open and pushed back off her shoulders, and under it nothing but gold. Heavy gold chains from an eagle collar down between her breasts and round her ribs, two gold medals with red ribbons where her nipples were, a peaked cap, and below the podium the camera wouldn't go. A riding crop. She tapped it on her palm while she talked, and the journalists wrote it all down and nobody looked at anything but their notes. Interim chief executive. She had wavy blonde hair and eyes the color of the egg-shaped earrings she wore, and when she answered a question she looked straight down the camera as if she could see who was watching.
 
 "ME Corp will honor every contract," she said. "Nothing about our mission has changed."
 
-My father watched her with the expression of a man calculating whether he still had a job. I watched her because she'd been in my first life for years, as an icon on a menu, and in the boy's life since he was six, on page nine of the Book of Bad Days, in a greatcoat at a gate with a child holding each of her hands. I'd never seen her look at anything. I'd never seen her in that much leather, either. Forties, built like a recruitment poster, and I sat on my father's sofa with my father two meters away and thought very specifically about that crop.
+My father watched her with the expression of a man calculating whether he still had a job. I watched her because she'd been in my first life for years, as an icon on a menu, and in the boy's life since he was six, on page nine of the Book of Bad Days, in a greatcoat at a gate with a child holding each of her hands. I'd never seen her look at anything. Forties, built like a recruitment poster, wearing about a kilo of gold and a crop, and I sat two meters from my father and wondered, with real professional interest, which of the men in that boardroom she used it on.
 
 Hoshino Kei had stopped answering her phone the week before.
 
@@ -804,7 +865,7 @@ He came home at nine at night, which he never did, and he didn't take his coat o
 
 I didn't say anything. I didn't need to ask what.
 
-"There's an audit," he said. "Since Saturday. They pulled the access logs for every terminal in the building and every login from outside it, and mine came up from this flat at two in the morning on a Sunday in October, when I was in a hotel in Osaka. And from Malmö. Every Sunday night for seven years. From your grandmother's flat." He was speaking very quietly and very fast. "They're asking about you at work, Eros. Not about me. About you. A woman from security came to my office today and asked what my son was studying."
+"There's an audit," he said. "Since Saturday. They pulled the access logs for every terminal in the building and every login from outside it, and mine came up from this flat at two in the morning on a Sunday in November, when I was in a hotel in Tokyo. And from Malmö. Every Sunday night for seven years. From your grandmother's flat." He was speaking very quietly and very fast. "They're asking about you at work, Eros. Not about me. About you. A woman from security came to my office today and asked what my son was studying."
 
 "What did you tell her?"
 
@@ -816,13 +877,17 @@ He nodded once and turned to go, and stopped with his back to me.
 
 "Then you know about the flights," he said.
 
-He went to bed. I lay on mine and thought it through. They'd found the logins. Somebody had connected them to the phone call and the letter and the folder. It was all going to come down on me sooner or later, and I didn't care, because I'd learned what I came to learn. I was going to give it until the weekend, and on the weekend I was going to reset the file myself, and load a new one, and do none of it.
+He went to bed. I lay on mine and thought it through. They'd found the logins. Somebody had connected them to the phone call and the letter and the folder. It was all going to come down on me sooner or later, and I found I didn't much care, because there was one thing left in the file I hadn't tried.
 
 [You've decided something,] said the System.
 
-"Saturday," I said. "I'll do it on Saturday."
+"Saturday," I said. "I'm going up the hill. I'm going to tell her all of it, the project and who built it and who's about to walk into his office in a greatcoat. Everything except how I know."
 
-[That's very organized of you.]
+[She won't open the gate.]
+
+"Then I'll say it through the gate."
+
+[That's very brave of you,] it said, and I couldn't tell whether it meant it.
 
 It was a Thursday. I walked home from school the long way, through the old part of town below the hills, because I wanted to look at the streets one more time while they were still streets. It was getting dark at five by then. The narrow road behind the shrine had no shops on it, only walls and gates and the backs of old houses, and a single gray sedan parked under a streetlight with its engine running.
 
@@ -863,13 +928,23 @@ I stood in the white and breathed for a while. I had a body here, too, the one f
 
 I told it, out loud, because I wanted to hear it in my own voice.
 
-"I don't use what I know on her. Not ever. Not her mother, not her teacher, not how she won a kendo final. I use it on the world." I counted it off on fingers I could see in the white. "Corruption sits on top of Affection and Trust. She has to let me close first. Cocolia's people watch the Raidens, and they kill anyone who digs. Whatever I make the boy do comes up with me when I wake. And the arrest has to happen." I stopped. "I want it to happen."
+"I don't use what I know on her. Not ever. Not her mother, not her teacher. Not even to be kind. Least of all to be kind." I counted it off on fingers I could see in the white. "What I see works. What I know kills it. Cocolia's people watch the Raidens, and they kill anyone who digs. Whatever I make the boy do comes up with me when I wake. And the arrest has to happen." I stopped. "I want it to happen."
 
 [Do you?]
 
 "It's my route."
 
-[You noticed they were short a manager at the kendo club,] said the System. [In October. You saw the sign on the hall door and forgot about it, because you were busy being clever about her mother. I'll remember it for you.]
+It let that sit. It hadn't been my route on the step behind the hall. On the step I'd have given the whole route back for another ten minutes, and we both knew it, and neither of us said so.
+
+[Thirty,] it said instead. [Do you want to know something? Every other boy in that school stopped saying her name the week of the arrest. If you'd kept your mouth shut on that step, you'd have been the only one still standing at her desk by Christmas.]
+
+I didn't say anything for a while.
+
+"The third meter never moved," I said.
+
+[You never tried to move it. You were busy being in love.] It said the word as if it were holding it with tongs. [Corruption sits on top of the other two. She has to let you close before you can bend her. You'll find out.]
+
+[You noticed they were short a manager at the kendo club,] it went on. [In October. You saw the sign on the hall door and forgot about it before you'd sat down, because you were busy looking at her. I'll remember it for you.]
 
 "And what else?"
 
@@ -1408,7 +1483,7 @@ I went to her. It was what the boy would have done. She took my face in her hand
 
 "Cecilia's boy," she said, very quietly, as she always had when nobody else could hear.
 
-She smelled of soup and wool. The boy in me had loved her as a mother for thirteen years. The rest of me looked down at the gold medals on her tits while she held my face, because they were right there and I'd been looking down the fronts of things for two lives, and the boy flinched, and I let him.
+She smelled of soup and wool. The boy in me had loved her as a mother for thirteen years. The rest of me had been looking down the fronts of things for two lives, and it looked now, at the gold on her chest while she held my face, out of pure habit. The boy was so ashamed of me that for a second I was ashamed too.
 
 "Sit," she said. "Eat something. You're too thin. They don't feed you in this country."
 
@@ -1898,7 +1973,7 @@ The door to the roof was open. Snow was blowing in through it, and with the snow
 
 She was standing at the far end of the roof, by the railing. Her hair had come down. It was moving around her, longer than it had been, lifting and drifting in a wind that wasn't blowing anything else, and there was light crawling over it, purple and white, and over the concrete under her feet, and over the railing where her hand rested on it, so that the railing glowed and hissed. When she turned her head, there were horns.
 
-The lightning had burned her clothes off, and the lightning was her clothes now. Living bands of it coiled over her bare body, purple and white, thickest and brightest over her tits and between her legs so I couldn't see a thing through the glare, and thin everywhere else, so that when she moved it flickered and showed me bare skin, and when she lifted her arm it peeled away from her side altogether. A black collar with broken chain hanging off it. I was going to die on that roof, and I looked anyway. I'd always look.
+The lightning had burned her clothes off, and the lightning was her clothes now. Living bands of it coiled over her bare body, purple and white, thickest and brightest over her tits and between her legs so I couldn't see a thing through the glare, and thin everywhere else, so that when she moved it flickered and showed me bare skin, and when she lifted her arm it peeled away from her side altogether. A black collar with broken chain hanging off it. I was going to die on that roof, and some part of me that had spent years on forums arguing about her Herrscher design took a long look and filed a correction. The official art had been wrong. It was worse than they'd drawn it, and better.
 
 Kiana was halfway across the roof with a pistol in each hand. I didn't know where she'd been keeping them.
 
@@ -2351,7 +2426,7 @@ I didn't actually go over it. I went round by the street and stood at the open g
 
 She saw me on the forty-third stroke. I'd been counting.
 
-I'd been counting something else for the first forty-two. Every time she stepped in for the cut the waist panels flew up and there was her ass, bare round that white fundoshi, and every time she brought the sword down the cords pulled tight across her bare back and the chest plate lifted off her ribs, and I stood at the gap in the hedge at five in the morning with frost on my shoes, harder than the post.
+I'd been counting something else for the first forty-two. Every time she stepped in for the cut the waist panels flew up and there was her ass, bare round that white fundoshi, and every time she brought the sword down the cords pulled tight across her bare back and the chest plate lifted off her ribs, and I stood at the gap in the hedge at five in the morning with frost on my shoes and went over all of it, stroke by stroke, as I'd once read patch notes, for anything that had changed since the last file. Nothing had. That was its own kind of good.
 
 She didn't stop. She finished the cut, and the next one, and the next, and then she lowered the sword and turned her head and looked at me through the open doors, and it was the Lightning Queen's look, the one that had been taking people's measure since primary school.
 
@@ -2568,7 +2643,7 @@ I went over the wall that time. I went straight over it in my bare feet with my 
 
 She was standing in the middle of the floor where she'd always stood, with the sword lying at her feet on the boards, and the lightning was coming off her in long slow strands, purple and white, crawling up the walls and over the ceiling and out through the open doors into the garden, where the frost on the grass was hissing. Her hair was down. It had grown. It was moving, all of it, lifting and drifting around her like weed in a current. When she turned her head, there were horns.
 
-The armor had burned off her. What she wore now was lightning, living bands of it coiled over her bare body, blazing over her tits and between her legs and thin enough everywhere else that I could see her skin flicker through it, and heavy black cuffs on her wrists with shattered chain hanging off them and floating in the static. I was standing in the Raidens' garden in my pajamas about to be killed by the girl I'd been jerking off about for a month, and I looked at her tits. It was the last thing I did with my own eyes in that file.
+The armor had burned off her. What she wore now was lightning, living bands of it coiled over her bare body, blazing over her tits and between her legs and thin enough everywhere else that I could see her skin flicker through it, and heavy black cuffs on her wrists with shattered chain hanging off them and floating in the static. I was standing in the Raidens' garden in my pajamas about to be killed by the girl I'd watched through a hedge every morning for a month, and I spent my last second looking at her, all of her, as you take a screenshot before a crash. It was the last thing I did with my own eyes in that file.
 
 "She's gone to sleep," it said.
 
@@ -2886,7 +2961,7 @@ The Lightning Queen. Taller than most of the boys, very straight, her bag held i
 
 Only one. There was a small bare place on the other side, above her left ear, where the second one had been for six years.
 
-She was in the school set, the black patent, and from the bottom of the walkway the straps and the panels and that skirt hit me as they had in every file. I was Torn. I had the island as a list and my own life as a door with no handle, and I couldn't have told you what I felt about anything. My cock didn't care. It was the one part of me that still knew exactly what it wanted, and it wanted the girl on the curb, and it didn't need a dataset.
+She was in the school set, the black patent, and from the bottom of the walkway the straps and the panels and that skirt hit me as they had in every file. I was Torn. I had the island as a list and my own life as a door with no handle, and I couldn't have told you what I felt about anything. My body could. It had its own copy of her, older than the island, from the folder on a second monitor in another life, and it read her off the curb from the collar down in the time it took her to stand up, and wanted her, plainly, at full speed. It was the one process in me that still ran like that. I let it run. It didn't need a dataset.
 
 She saw me.
 
@@ -2914,7 +2989,7 @@ She didn't say anything else. She crossed the walkway in four steps, past the ol
 [2013, September. You confess every morning after that. She turns you down every morning, smiling.]
 ```
 
-It had been a joke when we were ten, a thing the boy and the girl said in a hospital corridor. The boy had meant it. I meant something else. Every other boy in that school who'd ever confessed to her wanted something, and she'd seen it in them in a second and closed the door. I wanted something too, and it was in the second week of December, when every other boy in the school would have stopped saying her name and I'd be the only one still standing at her desk at eight-twenty every morning saying the same words.
+It had been a joke when we were ten, a thing the boy and the girl said in a hospital corridor. The boy had meant it. I meant something else. Every other boy in that school who'd ever confessed to her wanted something, and she'd seen it in them in a second and closed the door. I wanted something too, and it was in the second week of December, when every other boy in the school would have stopped saying her name and I'd be the only one still standing at her desk at eight-twenty every morning saying the same words. I'd done it once before, in the first file, meaning every word. I had that as a line in a list now, like everything else. Thirty days, a step behind the kendo hall, a gun. This time I didn't mean a word of it, and I'd learned to keep my mouth shut.
 
 "That's nineteen," she said, on the twentieth, without looking up from her book.
 
@@ -3042,7 +3117,7 @@ It was the right thing. Anyone else at that school would have told her it was go
 
 Kiana Kaslana came through the door of 3-A at lunch on the sixteenth of December with her braids coming undone, and saw my instant noodles before she saw anything else.
 
-I saw the rest of her. Silver duct tape. Two wide crosses of it over her tits, one of them peeling at the corner, which I was praying would keep peeling, a strip of it between her legs running up over each hip, more of it wound round her bare thighs, cut-offs hanging off her on one suspender, and a collar with a bell and a cardboard tag that said KIANA in marker, like a dog somebody was going to find in a park and bring home. I'd have brought her home. I'd have kept her on that leash and fed her noodles out of my hand and fucked her on the floor of my room at Mrs. Okada's until the old woman banged on the wall, and she'd have thanked me for the noodles.
+I saw the rest of her. Silver duct tape. Two wide crosses of it over her tits, one of them peeling up at the corner, which I noticed and went on noticing, a strip of it between her legs running up over each hip, more of it wound round her bare thighs, cut-offs hanging off her on one suspender, and a collar with a bell and a cardboard tag that said KIANA in marker, like a dog somebody was going to find in a park and bring home. Something in me noted that I could. I had a room at Mrs. Okada's and a cupboard full of noodles, and she'd follow anyone who fed her, and she'd thank me for it, and it would all be very easy. In another file I'd have wanted that so badly I'd have hated myself for it. Now I only noted it, like the corner of the tape, and kept the note.
 
 "Are you going to eat that?"
 

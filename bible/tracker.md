@@ -131,4 +131,4 @@ Lungs (Run 4). Danger Sense and Pain Tolerance were lost to the grade cap.
 - Mei run: Anders Lindqvist (Loop 1 father), Hoshino Kei (Loop 1
   journalist), Cocolia and Bronya in person (Loop 3), Mori Haruko (Loop 6
   mother), Kanda Yūko (Loop 8 mother), Mrs. Okada (landlady next door),
-  Mochizuki and his cousin (Loop 7 gossip line), plus the Chiba Academy cast.
+  Mochizuki and his cousin (Loop 7 gossip line), Hasegawa (the Chiba cleaning lady, named once in Loop 1), plus the Chiba Academy cast.

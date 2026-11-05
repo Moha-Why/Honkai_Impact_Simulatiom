@@ -115,5 +115,11 @@ each other for the whole story:
 - Keeps the whole canon timeline in an encrypted file, written in code
   nobody else would think to read.
 - Lives on instant noodles.
+- **How he looks at women:** a pervert, but in his own voice. Precise,
+  dry, a fan's references and an engineer's metaphors, never a thug's
+  catcalling. In the Mei run it tracks his soul (see world-fashion.md).
+- **Loop 1 of the Mei run is the fan at his warmest:** he confesses to her
+  every day for thirty days, honestly, and loses it all by being kind with
+  what he shouldn't know.
 - **Moral line:** dark. Whatever gets him stronger and keeps him alive is
   on the table; he only holds back when it would cost him more than it gains.

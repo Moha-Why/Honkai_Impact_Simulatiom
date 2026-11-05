@@ -67,7 +67,7 @@ part of the Life Path.
 
 | # | Name | Start | Key nodes | How it ends | Soul |
 |---|---|---|---|---|---|
-| 1 | The Test Save | Wake at 18 | ME Corp manager's son | The gray car (ordinary) | Frayed |
+| 1 | The Lightning Rod | Wake at 18 | ME Corp manager's son | The gray car (ordinary) | Frayed |
 | 2 | Reroll | Wake at 18 | Tanabe's nephew from birth | "You're not him." He resets himself. | Frayed |
 | 3 | The Inside Man | Wake at 18 | Siberia, Cocolia's orphanage | Bronya, on Cocolia's orders (ordinary) | Frayed, close to Worn |
 | 4 | The Knife and the Bandage | Wake at 18 | Scholarship, station, kendo manager | Herrscher lightning | **Worn** |
@@ -76,7 +76,7 @@ part of the Life Path.
 | 7 | The Only One | Wake at 18 | Scholarship, the house next door | Herrscher lightning | **Torn** |
 | 8 | The Pin | **Live it** | Nurse's son, the institution at 9, moves away at 12, comes back | The wound, at the moment the Hyperion arrives | Torn |
 
-### Loop 1: "The Test Save" (about 5k words)
+### Loop 1: "The Lightning Rod" (about 6k words)
 
 As written: an ME Corp manager's son. The childhood has eleven forks (the
 test save: he's learning the engine). The passport in the bread bin (the
@@ -88,10 +88,22 @@ the fight), the password (every Sunday for seven years; the audit finds
 it), stay with the grandmother, the harbor (Low D holds; Mormor gets Honkai
 sickness looking for him), the pen pal (Kuroda, his friend in 3-B, who
 writes on her desk), and hiding her forgetting (the stove, the hip). After
-18 he uses foreknowledge on Mei ("How do
-you know that name?"), calls the loop bricked, pokes the bait, and the gray
-car kills him. **Unlocks:** kendo manager; Tanabe's nephew (birth).
-**Lesson:** never use what he knows on her; Cocolia's people kill diggers.
+18 he plays it as the fan, the warmest he ever is. He arrives in September
+and confesses every school day from his second week, saying one true thing
+he's seen her do each time, never anything from the game. "I'm sorry. No."
+3-B calls him the lightning rod and Kuroda runs a book on him. Her no's
+soften (a particle corrected, "Sorry. Go on"), and by day twenty-three she
+asks why. On a Saturday at the end of October her father misses her
+friendly match, and on the steps behind the hall he comforts her with her
+mother and Mr. HOMU. "Who sent you?" Trust back to Wary, "Don't come to my
+desk again" (day thirty). He stops three weeks before the arrest, so the
+last-one-standing objective can't complete. Then, out of love, he tries to
+save her father (the laptop, the call to Ryoma, the folder to Hoshino Kei),
+plans to tell her through the gate, and the gray car kills him. The cruel
+"Is that all?" test from the old draft is cut; the System gives him the
+Corruption rule in the white. It also tells him he'd have been the only one
+still at her desk by Christmas, which is why Loop 8 confesses daily. **Unlocks:** kendo manager; Tanabe's nephew (birth).
+**Lesson:** never use what he knows on her, not even to be kind (what he sees works, what he knows kills it); Cocolia's people kill diggers.
 
 ### Loop 2: "Reroll" (about 1.5k words)
 
