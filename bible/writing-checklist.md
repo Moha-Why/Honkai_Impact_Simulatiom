@@ -2,6 +2,29 @@
 
 Check these before planning a chapter and again before sending it.
 
+## How to edit
+
+- **Rebuild, don't patch.** When a scene needs changing, rework the whole
+  scene and its structure, not a few added or swapped lines. If a new fact
+  changes what matters in a loop or chapter (who a character cares about,
+  what drives the plot), rebuild everything around it so it drives the
+  scenes, and cut or replace whatever no longer fits.
+- **The plan isn't sacred.** Delete or rewrite a plan section, or the whole
+  plan, when the story needs it. Update the plan, profiles and tracker after
+  the rebuild so they match the chapter.
+- Before a big rebuild, say what will change and why.
+
+## Life Path runs
+
+- **After 18 it's immersive.** Once Eros takes over at 18, everything is
+  written as scenes with dialogue. No dated log lines. Only the System's
+  status windows (meters, notices) stay in boxes, and the System's
+  questions are asked out loud.
+- **Every death is a full scene.** Show the death itself, the moment and
+  what it feels like, through to the end. Never cut away just before it or
+  sum it up in a log line. A death inside a childhood log plays out as a
+  full scene when the memory comes back in the white.
+
 ## Continuity
 
 - **Nobody quotes a scene that isn't on the page.** Before a character
