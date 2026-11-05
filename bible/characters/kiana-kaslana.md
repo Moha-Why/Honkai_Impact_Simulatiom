@@ -20,6 +20,17 @@ believes she is Siegfried's daughter and is looking for him. Her hidden
 core makes her immune to Honkai corruption. (The K-423 timeline with the
 January 1995 birth is still an open question in the bible.)
 
+**Otto's eye on her (canon in substance):** Otto kept the real Kiana and
+let it be believed Siegfried had got away with her; what Siegfried actually
+escaped with was K-423, with the Void core Otto had put in her. Otto knows
+where she is at all times and lets her run, because her human self is part
+of his plan for that core. Schicksal keeps eyes on her wherever she goes.
+Open, from fan sources only: that Otto let Siegfried escape on purpose; that
+his watcher in Nagazora is Fu Hua; that Siegfried left her in 2010, after
+Sirin surfaced and cost him his left arm, and was off the grid by 2013
+(other sources have him guarding her from the shadows). In this story
+Siegfried is gone, and she's alone in Nagazora.
+
 **Personality (canon):** spunky, lighthearted, honest to a fault, says
 whatever is on her mind without thinking. Hungry all the time. Bad at
 written tests, brilliant in a fight. Brave and kind. Openly drawn to Mei.
@@ -52,17 +63,45 @@ instantly); quiet, careful phrasing.
 asleep in class. Talks about her father as if he'll turn up any day.
 
 **At Chiba Academy (story):** enrolls in mid-December 2013 as a broke
-transfer student with paperwork that doesn't hold up if anyone looks
-closely, and no real address (she sleeps wherever she can). Same year as Mei
-and Eros, a different class, and she turns up at theirs every lunch.
+transfer student from Europe, with paperwork that doesn't hold up if anyone
+looks closely. She isn't homeless. She rents a six-mat room in an old block
+down by the port, always a week behind on the rent, and works evening
+shifts at the Homu Happy Restaurant by the station, a fast-food place where
+the manager docks her pay for what she eats. (Canon has her pass an
+interview at a Homu restaurant in the "Summer Memories" comic; the job in
+Nagazora is a story choice, and a common one in Chinese fanfic.) The room
+and the job are how she pays for the search for her father. Same year as
+Mei and Eros, a different class, and she turns up at theirs every lunch.
 
 **With Mei (canon):** falls for her at first sight and says so out loud.
 Gets past Mei's guard by being completely honest, stands between her and
 the bullies, and eats her terrible first lunches with real joy. "It doesn't
 matter what your father did. You're Mei."
 
+**The first meeting (story, combining two canons):**
+
+- **At school, December 16** (Guns Girl Z, and the official 2017 text 且听雷鸣,
+  "And the Thunder Cried"): a boy knocks Mei's lunch off her desk onto the
+  floor in front of the class, and she stands there and takes it. Kiana,
+  new that day, deals with him, then looks at the food on the floor and at
+  Mei: "That looked really good! If you're not going to eat it, give it to
+  me! And from now on, you're making me lunch every day!" It's the first
+  thing anyone has asked of Mei since November that has nothing to do with
+  her father, and it's what starts her cooking.
+- **On the roof, at the Eruption** (Honkai Impact 3rd, where the two only
+  meet on the roof): the meeting that counts. Kiana fights the Herrscher
+  and holds out her hand at the edge. The 且听雷鸣 line belongs here, in
+  Mei's words: "We were closest when the distance between us was only 500
+  centimeters. She pointed a USP semi-automatic pistol at me and told me to
+  follow her. Ten hours later, I fell in love with this white-haired girl."
+
 **With Eros (story):** rival and friend at once.
 
+- **He never moves against her.** He knows from the game whose she is:
+  Otto's, the vessel for the Void core, watched by Schicksal wherever she
+  goes. Anything done to her lands on Otto's desk, and Otto would look
+  twice. In every file Eros keeps his hands off her; at most he works on the
+  people around her.
 - Two poor kids in a school for the rich. She steals his instant noodles
   from day one and considers this the basis of a friendship.
 - When she sees his daily confession to Mei, she declares "If he gets to, I
@@ -85,6 +124,10 @@ In the run she carries the roof fight.
 - "You're weird, Eros. But you didn't run. That counts."
 
 **In Chapter 3 (Mei run):**
+
+**Rebuild pending:** the written loops still have her sleeping rough (Loops
+4, 5 and 7), Eros moving against her (Loops 5 and 7), and the old first
+meeting (Loops 4, 7 and 8). The facts above win.
 
 - **Loops 1 to 3:** not yet enrolled when Eros dies, or never met.
 - **Loop 4:** "You're the one who makes her sad." Fights the early Herrscher.

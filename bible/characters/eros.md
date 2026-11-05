@@ -124,3 +124,8 @@ each other for the whole story:
   asking. He dies for trying to stop that arrest.
 - **Moral line:** dark. Whatever gets him stronger and keeps him alive is
   on the table; he only holds back when it would cost him more than it gains.
+- **Never Kiana.** He knows from the game that she's Otto's: K-423, the
+  vessel for the Void core, watched by Schicksal wherever she goes. Anything
+  he did to her would land on Otto's desk with his name on it. So in every
+  file he keeps his hands off her, and at most works on the people around
+  her.
