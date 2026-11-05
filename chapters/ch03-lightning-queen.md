@@ -3036,13 +3036,7 @@ Ride with them / Stay at school and walk home later with your class / Pretend to
 
 ```
 [2004, June. You ride in the back with her, with the old bokken across your knees, because she said you weren't allowed to lose it. She's doing her homework against the window. You're counting the drops on the glass.]
-[2004, June. On the coast road, a white van pulls across in front of the car. Mr. Tanabe brakes hard. Men get out of the van, four of them, with their faces covered.]
-[2004, June. Mr. Tanabe locks the doors and puts his arm across the seat behind him without turning round, and says, "Stay down, young lady. Stay down, boy." Then they break the window.]
-[2004, June. They reach in for her. She screams your name.]
-[2004, June. You get the door open on the other side and go round the back of the car in the rain with the bokken, at a grown man with a gun, as Mr. HOMU taught you, feet first and then the blade.]
-[2004, June. You hit him once, very hard, on the wrist, as she always hit you.]
-[2004, June. You die on the road beside the car, in the rain.]
-[2004, June. They take her anyway.]
+[2004, June. On the coast road, a white van pulls across in front of the car.]
 ```
 
 ---
@@ -3058,6 +3052,56 @@ Soul: Worn
 It came back all at once.
 
 That was the thing nobody had told me about forks. In the other files the boy's life had come up into me at eighteen, slowly, as you'd settle into a body you were going to wear for a while. This one came back with an ending on it. Nine years arrived in the white in one piece, every day of them, and the last minute of them, and they were mine. I'd been that boy, all the way down, with nothing of me in him at all except a few words at the forks.
+
+The last minute came first. It came as if I were still in it.
+
+---
+
+The brakes, and the seat belt cutting across my chest, and her pencil case flying off her knees into the footwell. Mr. Tanabe's arm. He'd thrown it back across the gap between the seats without turning round, an old man's arm in a black sleeve, flat across both of us, as if he could hold us in the car with it.
+
+"Stay down, young lady," he said. His voice was perfectly calm. I'd never heard it any other way. "Stay down, boy."
+
+The locks went down all at once with a clunk. Through the windscreen the van was across both lanes, white, with its side door sliding open, and men were getting out of it into the rain, four of them, with their faces covered in something dark. One of them had a long iron bar. One of them had a gun, held down along his leg, as if he were embarrassed by it.
+
+"Mei," I said.
+
+She'd gone white. She had her homework still in one hand, a sheet of sums, crumpling.
+
+The one with the bar hit Mr. Tanabe's window. It didn't break the first time. It made a white star. The second time it went, all of it, in a sound like a wave coming in, and the glass came into the car in little blunt pieces and into Mr. Tanabe's lap and his hair, and the rain came in with it. He didn't move his arm. A hand came in through the window past his face and found the lock.
+
+Her door opened.
+
+They reached in for her. Two of them. They had her by the arm and the collar of her school blouse before she'd stopped screaming at the first one, and she was screaming my name, my name, not her father's or Mr. Tanabe's or anyone's, only mine, and kicking, and her shoe came off.
+
+I didn't think anything. I'd like to say I thought something. I got my own door open on the other side and I was out in the rain with the bokken in both hands before I knew I'd moved, and I went round the back of the car as he'd taught us, the man in the Homu suit, in the dojo every Saturday since I was six. Feet first. Then the blade.
+
+The one with the gun was at the back corner of the car, between me and her, watching the others. He turned when he heard my feet on the road. He was very big. I was nine and came up to his belt.
+
+I hit him on the wrist. Once. As hard as I'd ever hit anything, as she always hit me, the kote, the strike she beat me with every Saturday. I felt it go into the bone through the wood and up my own arms. The gun went down onto the road and skidded away under the car.
+
+He made a sound. Then he looked down at me.
+
+"Eros!" she screamed. She was half out of the far door, one arm still inside the car, holding on to the seat. "Eros, run!"
+
+I didn't run. I lifted the bokken again.
+
+I didn't see the bar. I heard it, a kind of whistle, very short, from the side, from the one I'd forgotten about. And then there was a noise inside my head that was much louder than anything outside it, and the road came up and hit the side of my face, and I was lying in the wet with the rain coming down on me sideways and a long way off, and the bokken was lying in a puddle a little way away, out of my hand.
+
+She wasn't allowed to lose it. I'd promised.
+
+I tried to reach for it and my arm didn't do anything.
+
+I could see under the car. I could see her feet, one in a shoe and one in a white sock, kicking, and going away across the road toward the van, being carried. I could see Mr. Tanabe's legs, getting out of the car, slowly, an old man getting out of a car, and then one of the men's feet, and then Mr. Tanabe on his knees on the road. The van door. Her other shoe.
+
+The rain came down into my eyes. It was warm, I thought. Then I understood it wasn't all rain.
+
+"Eros," she said, from a long way off. Not screaming any more. Just my name, as if she were asking me something.
+
+I wanted to answer. I'd always answered. I opened my mouth on the wet road and nothing came out of it, and the van door slid shut, and the rain went on, and the dark came in from the edges, slowly, as the ink came into the water in the dish when we did calligraphy at school, until there was nothing in the middle but her voice saying my name, and then not even that.
+
+---
+
+The rest came after it, all the nine years, in no order.
 
 A girl of one pulling my hair. Her mother's feet under a blanket, one of us asleep on each side of them. Sleeping in a heap on the tatami with her the afternoon her mother died, because nobody knew what else to do with either of us. A spinning top on her windowsill that neither of us ever mentioned. Her bokken cracking across my knuckles when I was six and dropped my guard. Practicing behind the cottage in the dark until my hands bled. The man in the Homu suit looking at me through the mesh in its eyes. The old bokken across my knees in the back of the car, and the rain on the windows, and the sound the glass made.
 
