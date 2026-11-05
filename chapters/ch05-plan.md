@@ -1,28 +1,62 @@
 # Chapter 5 plan: The Pin (Mei's run, part 3 of 3)
 
-Status: written; Loops 7 and 8 are to be rebuilt to plan v4 after Loop 4.
-Spine, rules and continuity: ch03-plan.md. Rules for the full loops:
-ch04-plan.md.
+Status: written and rechecked (the pass after Loop 4). The v4 notes for
+these loops were only partly used; this is what the chapter now does. Spine,
+rules and continuity: ch03-plan.md. Rules for the full loops: ch04-plan.md.
 
-## Plan v4 for Loop 7 (about 9k)
+## Loop 7 as revised
 
-Same rules as Loop 4, lighter. Her want: to keep the dawn practice the one
-thing that's hers, and later, after Kiana leaves, to keep him. Add one failed
-move (the cousin's rumor comes back to him: Mochizuki's cousin tells Mei
-who started it, and Eros has to talk his way out). Add her father's letter
-from the detention center, which she reads to him in the dojo. Cut the
-meter windows to four.
+- **The dawn is earned.** On the fourth morning she finds him at the gap
+  and sends him back to bed, and he goes. For three weeks he keeps away
+  and only puts his lamp on at five. At the end of September she speaks to
+  him at the shoe lockers ("Your lamp is on at five." "You told me to go back
+  to bed."), and the next morning she stands in the open doors looking up
+  at his window until he's seen her. Only then: "sit properly... And don't
+  talk."
+- **No game knowledge on her.** When she says her father never practiced in
+  the dojo he built, Eros says "Then it's yours," not a hint about Mr. HOMU.
+- **November 16:** he hears the cars and doesn't go to the window; on
+  Monday she strikes the post until the straw splits and lets him see her
+  hands shake.
+- **The knife through other people:** the box rumor to Mochizuki's cousin
+  (Kuroda: "Who's paying for your lunch now?"); then, after the receiver
+  lets the staff go, a rumor that the driver showed the police where to
+  look. Kuroda repeats it; Mei lets Tanabe's calls ring out. (This is what
+  the persona means by "the old man in the car.") The notebook; the second
+  cushion on the boards.
+- **Kiana:** she pulls Corruption back to Untouched in four days; he sends
+  her north after she enrolls; the note on the office step. Mei gets it on
+  the last day of term, the twenty-fourth, and confronts him in the dojo the
+  next morning ("you wouldn't even have to lie"). Trust drops from Confides
+  to Open; Corruption jumps two, to Compromised.
+- **Keeping him** over the winter holiday (the hedge at four, the doorstep,
+  the shirts on the way to the shrine). Fallen on January 3; he tries to
+  slow it; the death in the dojo on January 14.
+- **Windows:** five (Friendly and Open; Close and Bending; Untouched;
+  Compromised; Fallen).
 
-## Plan v4 for Loop 8 (about 15k)
+## Loop 8 as revised
 
-The same treatment. Her wants: to clear her father's name (she writes to
-his lawyer every week), to keep the club, to keep Kiana. Eros's failures:
-the first months he can't make Corruption move at all, because she trusts
-him completely and the trust carries her through everything (the opposite
-of Loop 4). He has to make her doubt the world without ever making her
-doubt him. Add ordinary days from the childhood they share (the ceiling
-tiles, the letters). Cut the windows to five.
-
+- **Childhood additions:** she names him from a crossword; in December
+  2005, at ten, Mei says that if he ever goes away and comes back he may ask
+  her out, and she'll say no every time, "so you'll have to keep coming
+  back." That's the promise he confesses on.
+- **The father:** at the arrest Ryoma sees the nurse's boy beside her and
+  something in his face lets go. Mei writes to him every Sunday and Eros
+  posts every letter (never the cause). On December 28 the reply: "Keep him
+  close, Mei. Let him."
+- **Tanabe in the rain is improvised:** Eros sees the small old car from
+  the classroom window and takes her out the back. Not foreknowledge.
+- **Corruption resists:** Bending after the club vote, then stuck. The
+  System: "She's leaning. On you. That's a different meter." So in January
+  he provokes Kuroda (he laughs at him in the corridor) and lets the group
+  catch him behind the gym.
+- **Continuity:** the order of the first week after the arrest (Monday,
+  Wednesday, Friday, the Monday after); the cooking is already better when
+  Kiana eats it; the redundant Trust window is gone; he walks up at half past
+  seven, not eight.
+- **The waking:** the fan loved the game for ten years (not six); the list
+  of what he did is all from Loop 8.
 
 ## Loops 7 and 8 as first planned
 

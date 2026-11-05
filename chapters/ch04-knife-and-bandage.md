@@ -965,7 +965,7 @@ The house was the only place I was near her. Five in the morning, every morning,
 
 On the sixteenth of November the crack didn't come.
 
-I woke at six without it, to a different sound, engines on the hill and car doors and a man's voice saying something formal and loud, and I got up and went to the window. There were four police cars in the Raidens' drive with their lights going round, blue and red across the snow on the lawn. The front door of the big house was open. And across the garden, on the far side of the wall from me, the doors of the little dojo were slid open on its lamp, and Mei was standing in the doorway in her armor with the bokken in one hand, hanging at her side, watching men in dark coats go into her house.
+I woke at six without it, to a different sound, engines on the hill and car doors and a man's voice saying something formal and loud, and I got up and went to the window. There were four police cars in the Raidens' drive with their lights going round, blue and red across the frost on the lawn. The front door of the big house was open. And across the garden, on the far side of the wall from me, the doors of the little dojo were slid open on its lamp, and Mei was standing in the doorway in her armor with the bokken in one hand, hanging at her side, watching men in dark coats go into her house.
 
 She stood there for twenty minutes. She didn't move. When they brought her father out to the car she lifted the bokken an inch, as if her arm had decided something without her, and then she let it hang again.
 
@@ -1169,7 +1169,7 @@ And if a boy who'd learned the sword in the house dojo was in the car on that Tu
 ---
 
 ```
-[1995, May. You are born in the staff cottage behind the Raiden house, on the hill, in the room your mother has lived in for eleven years. Your mother, Mori Haruko, is the Raidens' housekeeper. She went into labor while ironing the master's shirts and finished the shirt first. Your father is not mentioned, then or ever.]
+[1995, May. You are born in the staff cottage behind the Raiden house, on the hill, in the room your mother has lived in for eleven years. Your mother, Mori Haruko, is the Raidens' housekeeper. She went into labor while ironing the master's shirts and finished the shirt first. She names you Eros, after the god on a tin of English biscuits in the staff kitchen, because the mistress laughed when she suggested it and said it suited a boy born on the hill. Your father is not mentioned, then or ever.]
 [1995, April. Five weeks before you, in the big house, the master's wife had a daughter. Your mother says the two of you were the only babies on the hill that year, and that you shared a pram in the garden on fine days because it was easier than walking two.]
 [1996. Raiden Mei, aged one, pulls your hair in the pram. You pull hers. Both mothers are called. The mistress laughs until she has to sit down. Your mother doesn't.]
 [1997, May. The mistress is ill all spring. She asks for the two of you in the afternoons, in her room in the big house with the windows open. The little girl climbs straight onto the bed. You stand in the doorway holding your mother's skirt.]

@@ -129,7 +129,7 @@ Lines:
 - "Thank you. I am not looking for anything of that kind. Please do not
   spend any more of your time on it." (The long version, before the arrest.)
 - "Please don't. It's better for you if you don't." (To Kiana, the first day.)
-- "It's terrible." "Yeah. But you made it." (Her cooking, Loop 8.)
+- "It isn't very good." "Yeah. But you made it." (Her cooking, Loop 8.)
 
 Avoid: making her soft and domestic before Kiana; slang; exclamation marks
 outside real alarm; Mei saying "babe," "guys," "okay" casually.
@@ -203,7 +203,8 @@ needs at least five of eight, plus In Love and Fallen.
 - **Loop 6:** lived. The housekeeper's son, Mr. HOMU's other student,
   killed at nine in the car when she's taken. In that branch she grows up
   having lost him.
-- **Loop 7:** the dawn dojo. Kiana sent north, Fallen too early, the persona
+- **Loop 7:** the dawn dojo, which she lets him into only after he's kept
+  away for three weeks. Kiana sent north, Fallen too early, the persona
   kills him to keep him.
 - **Loop 8:** lived. The nurse's son at the ME Corp institution, 2004 to
   2007. He teaches her to count until she sleeps (the origin of her habit).
@@ -213,7 +214,8 @@ needs at least five of eight, plus In Love and Fallen.
   he holds up the pin; she comes back through him, pulls the lightning out,
   and breaks down with him in her lap. She won't let go of him to take
   Kiana's hand. She tells him she loves him while he's alive, and kisses
-  him. He dies as the Hyperion arrives.
+  him. He dies in her lap as she counts for him, at thirty-eight, as the
+  Hyperion's light reaches the roof.
 - **Hidden objectives in Loop 8:** 2, 3, 5 and 7 hit; 1, 4, 6 and 8 missed.
 - **After the run (real world):** from February 5, 2014 she wears **one
   pin**. She can't remember losing the other. Strong echoes surface at once,

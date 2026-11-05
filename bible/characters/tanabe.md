@@ -28,6 +28,9 @@ of the staff. The limousine stops coming.
   stops answering his calls.
 - **Loop 6:** driving the car in 2004 when Mei is taken; the housekeeper's
   boy dies on the road beside it.
+- **Loop 7:** let go at the end of November, he rings her every evening.
+  Eros starts a rumor through Mochizuki's cousin that the driver showed the
+  police where to look; Kuroda repeats it; Mei lets his calls ring out.
 - **Loop 8:** on the first rainy afternoon after the arrest he comes to the
-  gate in his own small old car to drive her home. Eros walks her out the
-  back gate. Tanabe waits in the rain, and she never knows he came.
+  gate in his own small old car to drive her home. Eros sees the car from the
+  classroom window and walks her out the back gate. Tanabe waits in the rain, and she never knows he came.

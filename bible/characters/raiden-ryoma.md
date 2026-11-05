@@ -42,7 +42,9 @@ the blade."
   Corp foundation, in a plain suit, and sees that Eros failed on purpose.
   Sets up the 2012 scholarship.
 - **Loop 8:** in 2005 the nurse's son asks why he's always tired.
-  "Because I'm keeping something asleep."
+  "Because I'm keeping something asleep." On November 16, 2013, being led
+  out, he sees the boy beside her in the dojo and is relieved. In December
+  he writes to her from detention: "Keep him close, Mei. Let him."
 - **Every loop:** the arrest on the news on November 16 (a fixed node).
 - **Loop 6:** teaches two children the sword as Mr. HOMU, his daughter and the housekeeper's boy.
 - **Loop 8:** Mei finds the Mr. HOMU costume in January, tells Eros, and
