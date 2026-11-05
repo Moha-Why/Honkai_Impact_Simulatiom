@@ -1,8 +1,9 @@
 # Plan: "The Collar" (a new loop in Mei's run)
 
-Status: proposal, not in the chapters yet. A sample scene from Stage 3 is
-in [the-collar-sample-scene.md](the-collar-sample-scene.md). Spine and run
-rules: ch03-plan.md. Rules for full loops: ch04-plan.md. About 14k words.
+Status: proposal, not in the chapters yet. Two sample scenes from Stage 3
+(the collar, the wardrobe) are in
+[the-collar-sample-scenes.md](the-collar-sample-scenes.md). Spine and run
+rules: ch03-plan.md. Rules for full loops: ch04-plan.md. About 15k words.
 
 ## The loop in one paragraph
 
@@ -166,6 +167,21 @@ Everything up to "How do I stop it ending like that?" stays. Then:
   reward:** "When you've done what you're told, I'll say your name." "And
   when I haven't?" "Then I won't." Then, "Mei." (Friendly, Polite, Bending.)
   [Two hundred and eleven lots. And they missed one.]
+- **The wardrobe (December 14 and 15):** she has the mended harness and her
+  coat; the tailored sets went on the third day (lots one hundred and fifty
+  to one hundred and seventy-three). He spends the boy's savings at the pet
+  shop (a big-dog harness in red webbing, a leash), the secondhand shop
+  under the arches (a white vinyl bodysuit that covers everything) and the
+  hundred-yen shop (a clear raincoat, purple tape), and brings the boy's
+  apron from the noodle stall. In her bedroom he cuts the bodysuit to a
+  design from the folder while she watches. "Not at school. You agreed."
+  "You said not at school. These are clothes." She can't find the gap in her
+  own words: "I should have said it properly." She hems his cuts. "Is this
+  what you want to look at?" "Yes." "Then I will wear it." "They'll laugh,
+  and I'll know who chose it, and they won't." The apron is for cooking,
+  "Only you." The raincoat is for the gate, so he can see her from his
+  window. She holds out the leash, clip first: "Outside the gate." Outfits:
+  image-prompts-world.md, Mei 6 to 9.
 
 ## Stage 4: Terms (December 16 to 25)
 
@@ -174,8 +190,10 @@ Everything up to "How do I stop it ending like that?" stays. Then:
   "No." "Then whose..." Mei, in the voice for strangers: "Please don't sit
   here. It's better for you if you don't." Kiana sits anyway. By the second
   day she's watching Mei wait to eat until he's started.
-- **Term one holds.** At school Mei is still the Queen. Outside the gate she
-  walks a step behind him.
+- **Term one cracks.** She wears what he cut to school, and the class reads
+  it as a girl who can't afford a tailor. She still won't kneel there, or
+  wait for him there. Outside the gate she walks a step behind him on the
+  leash.
 - **Mei wants something of her own.** Kiana tells her about the bench in
   the park. At the gate Mei asks, "May I give her the summer house? It has
   a heater." "No." "She's sleeping on a bench." "I know." A long pause.
@@ -205,8 +223,9 @@ Everything up to "How do I stop it ending like that?" stays. Then:
 ## Stage 5: Heel (January)
 
 - **Term one falls.** On the first day back she walks through the school
-  gate a step behind him, in front of everyone, and nobody has asked her
-  to. Sayaka: "Did he get that at the pet shop?" "Yes."
+  gate a step behind him in the pet shop harness, with the end of the leash
+  in his pocket, in front of everyone, and nobody has asked her to. Sayaka:
+  "Did he get that at the pet shop?" "Yes."
 - **Cooking for one.** One box at lunch, his. She eats after him. Kiana,
   broke, watches it. "Mei-senpai... is that egg?" "It's his."
 - **An ordinary day.** Dinner in the Raiden kitchen, at a table with lot
@@ -303,7 +322,9 @@ last loop settles. The System hints at it without saying it.
 - **Sprinter:** the box on the step and back through the hedge before the
   doors open, winded by the wall (Stage 2).
 - **Hunting and Field Craft:** forty years of a knife, clumsy at a split
-  ring (the collar); exactly where the blade goes (the death).
+  ring (the collar); through cheap vinyl in four minutes, with corners that
+  tear where he turned the blade, so she hems them (the wardrobe); exactly
+  where the blade goes (the death).
 - **Quick Reflexes:** half a step off the first shot, and no further.
 - **Honkai Resistance:** hours in the Eruption air, and he has seconds.
 - **Liar's Face:** the pet shop counter; Kiana in the corridor, who hears
