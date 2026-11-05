@@ -10,9 +10,9 @@ so 18 from February 18, 2013, before the adult Eros arrives in the Mei run
 
 **Appearance (canon):** short (147 cm) and slight, light gray hair in
 drill-shaped twin tails, gray eyes, a blank face. Her legs are prosthetic
-(story: they were healthy until the X-10 experiment in autumn 2012; the
-Honkai got into them while she was in the Sea of Quanta, and she's fitted
-with prosthetics in March 2013). In the field, Project Bunny 19C, a
+(canon: healthy when she arrives; Sin Mal breaks them at the orphanage in
+November 2012, and X-10 in August 2013 paralyzes them for good. Story: she
+is fitted with white prosthetic legs in September 2013). In the field, Project Bunny 19C, a
 heavy mechanical symbiont she brought back from the Sea of Quanta, unfolds
 around her.
 
@@ -24,14 +24,17 @@ around her.
 - Sent to kill Cocolia in January 2012. The rest of the gang died; Cocolia
   spared her and took her into the orphanage, where Bronya called her
   "matushka".
-- Best friend of Seele Vollerei, with romantic undertones; they promised to
-  go to the sea together. Cocolia chose Bronya for the X-10 experiment.
+- Best friend of Seele Vollerei, with romantic undertones; Seele cleaned her
+  wounds when she first arrived, and they promised to go to the sea
+  together. Sin Mal, jealous, broke her legs. Cocolia chose Bronya for the
+  X-10 experiment (August 2013, the eighth attempt after seven failures).
   Seele, who has a stigma, asked to go in her place to protect her, and was
   lost in the Sea of Quanta. Bronya threatened to kill herself unless she
   was let in after Seele. Her long time in the trial let the Honkai into her
   legs and into the part of her brain that feels, and she came back without
   the use of her legs and without her emotions. Seele sent her back with
-  Project Bunny 19C. (Sources: honkaiimpact3.fandom.com/wiki/X-10_Experiment,
+  Project Bunny 19C. Later, as the Herrscher of Reason, the Core of Reason
+  rebuilds her legs and her feelings. (Sources: honkaiimpact3.fandom.com/wiki/X-10_Experiment,
   honkaiimpact3.fandom.com/wiki/Bronya_Zaychik/Story.)
 - **Before and after (story):** before X-10 she's guarded but feels things:
   she scowls, smirks, kicks under the table, says "you" and "I". After it
@@ -54,7 +57,19 @@ sister.
 
 **In Chapter 3:**
 
-- **Loop 3:** his sister in Cocolia's orphanage for two years. In January,
+- **Loop 3:** his sister in Cocolia's orphanage by Lake Baikal. Arrives in
+  January 2012 with a hard face, still feeling things ("You're bad at this,"
+  and the corner of her mouth goes up). Sin Mal breaks her legs in November
+  2012 while the boy watches and says nothing. In 2013, at 18, her house set
+  is the white strap harness with bunny ears, tail and the inked checklist,
+  with a cast on her left leg. In August Seele takes her place in X-10; the
+  next morning she holds a kitchen knife to her own throat to be let in
+  after her, and the adult Eros pushes her chair to the machine and lets her
+  hold his hand. She's inside for nineteen days and comes back paralyzed,
+  empty, in the third person, with Project Bunny 19C strapped behind the
+  chair; a bio-chip goes in behind her ear. He sits with her every night,
+  and on the twenty-second night her mouth goes up for a second when he
+  beats her score by accident. Cocolia sees it and sends him to Japan. In January,
   on Cocolia's orders, she comes to his apartment in Nagazora and kills him.
   "Bronya regrets this. Matushka's orders."
 - **Loop 8:** a small gray-haired figure on the roof across from the school

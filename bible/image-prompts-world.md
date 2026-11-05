@@ -59,6 +59,10 @@ Not drawn: anyone under 18, and anyone in a childhood log.
 
 ### 1. The chapel (your design)
 
+Also her everyday set at the house by Lake Baikal in 2013 (in Loop 3, with a
+plaster cast on her left leg and a wheelchair until August, and the white
+prosthetic legs from September).
+
 > Bronya Zaychik from Honkai Impact 3rd, an adult woman of about 19, short (150 cm) but clearly grown, with a mature, deadpan adult face and adult proportions. Grayish-blue hair in her drill-shaped twin tails, gray-blue eyes. She wears a minimal white harness of structured straps that covers her private areas, the straps crossing her chest and hips in neat geometric lines, fastened with small silver buckles. A pair of white bunny ears sits on her head and a fluffy white bunny tail is attached at the back. Simple checklist-style markings are drawn on her thigh in black ink, three boxes, two of them ticked. White thigh-high stockings and sleek white mechanical prosthetic legs below the knee. She stands in a small private chapel as a ring-bearer, holding a tiny velvet ring box out in both hands with complete seriousness. Deliberately sparse formal wear, a white lace collar and cuffs. Adult body language, soft lighting through a stained-glass window, highly detailed anime style. 2D anime illustration, anime key visual, gacha game splash art style, cel shading, clean crisp line art, vibrant saturated colors, detailed anime hair with highlights, dynamic composition, soft anime lighting and glow effects, painted anime background, masterpiece, best quality.
 
 ### 2. Cocolia's agent (sniper's catsuit, January 2014)
@@ -125,10 +129,16 @@ Not drawn: anyone under 18, and anyone in a childhood log.
 
 # Later arcs
 
-## Seele Vollerei (adult)
+## Seele Vollerei (18, summer 2013, the house by Lake Baikal)
 
-Not drawn before March 18, 2013. Chapter 3 shows her only in the childhood
-log, in ordinary clothes. For her return in a later arc:
+Not drawn before March 18, 2013. In Loop 3's adult half she wears an older
+girl's hand-me-down:
+
+> Seele Vollerei from Honkai Impact 3rd, a shy adult woman of 18 with a soft, clearly grown-up face and adult proportions, short dark blue hair tucked behind her ears, blue eyes, an apologetic little smile. She wears a hand-me-down set: a harness of faded blue cotton rope tied in neat diamonds over her ribs and stomach, two blue satin cups covering her breasts, a white lace thong with a small blue ribbon at one hip, white knee socks and worn slippers, and over all of it an enormous oatmeal knitted cardigan that hangs open, which she keeps trying to pull shut with one hand. With the other arm she holds a battered hardback book against her chest, one page corner turned down. She sits curled in a window seat on a wooden landing in an old Russian country house, a frozen lake through the window behind her, a wheelchair just in frame. Warm lamplight, snow light from the window. 2D anime illustration, anime key visual, gacha game splash art style, cel shading, clean crisp line art, vibrant saturated colors, detailed anime hair with highlights, dynamic composition, soft anime lighting and glow effects, painted anime background, masterpiece, best quality.
+
+## Seele Vollerei (adult, later arc)
+
+For her return in a later arc:
 
 > Seele Vollerei from Honkai Impact 3rd, a shy adult woman in her early twenties with a soft, grown-up face and adult proportions, short dark blue hair, blue eyes, holding a book against her chest. She wears a butterfly straitjacket set in violet and black latex, her dark half's idea of a joke. A cropped violet latex straitjacket with a high buckled collar and long sleeves ending past her fingertips, the sleeves' straps unbuckled and hanging loose, cut off just under her breasts, which it covers tightly, a row of small butterfly-shaped buckles down the front. Her midriff is bare from under her breasts to her hips. Below, a black latex thong with a violet butterfly buckle at the front, and a long sheer black lace skirt that's only two panels, front and back, split to the waistband on both sides so her bare hips and legs show through the gaps. A black latex collar with a butterfly charm and a thin violet leash trailing off into the shadow behind her. Black lace thigh-high stockings with butterflies woven into the tops, black patent heels. Violet butterflies drift around her. Behind her, faintly, a darker reflection of herself in the same set in red and black, with red eyes, holding the other end of the leash and a scythe. Setting: a quiet, dim library at night. Soft violet light. 2D anime illustration, anime key visual, gacha game splash art style, cel shading, clean crisp line art, vibrant saturated colors, detailed anime hair with highlights, dynamic composition, soft anime lighting and glow effects, painted anime background, masterpiece, best quality.
 

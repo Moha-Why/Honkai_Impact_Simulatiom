@@ -16,15 +16,20 @@ boardroom.
 - A Russian army officer (a captain in 2000). At a Siberian supply depot she
   caught a colonel, Alexei Zaychik, selling army weapons, refused to keep
   quiet, and was jailed on his word.
-- The Second Eruption wrecked the jail. Alexei died begging her to save his
-  wife. She took his car, found the wife, held a gun on her to keep her
-  quiet, and drove until the beasts caught them. Cecilia Schariac saved
-  them both. That night tied Cocolia's life to the Honkai.
+- The Second Eruption wrecked the jail. Alexei, crushed by rubble, gave her
+  his car keys with his last breath and begged her to save his pregnant
+  wife, Alexandra. She got Alexandra out of Siberia on her own and left her
+  safe at a cabin. That night tied Cocolia's life to the Honkai. (Story: on
+  the same day Cecilia Schariac stops on a road for the boy in Loop 3; she
+  doesn't rescue Cocolia.)
 - Left the army and, with Anti-Entropy's help, opened an orphanage for
-  children the Honkai left behind. She doesn't kill children.
+  children the Honkai left behind, an old estate near Lake Baikal with a
+  bunker and a small Honkai reactor under it. She tests the children's
+  Honkai resistance as "imagination games". The children call her
+  "matushka". She doesn't kill children.
 - In January 2012 a child sniper sent to assassinate her, Bronya, failed.
   Cocolia took her home instead. Seele Vollerei was lost in the Sea of
-  Quanta during one of her experiments, and getting Seele back is the thing
+  Quanta in the X-10 experiment (August 2013), taking Bronya's place, and getting Seele back is the thing
   she wants most.
 - Leader of Anti-Entropy's radical wing.
 

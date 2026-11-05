@@ -51,6 +51,10 @@ normally.
   after November 16, the Herrscher). See image-prompts-world.md.
 - **Kiana:** two thrifted outfits, worn in turns.
 - **Bronya:** a gray coat over the unzipped sniper catsuit; the field reverse bunny.
+- **Bronya and Seele at the house by Lake Baikal (Loop 3, April to August
+  2013):** Bronya in the chapel harness with a cast; Seele in a
+  hand-me-down rope harness under a huge cardigan. One look from Eros at
+  breakfast, with the boy flinching; none during X-10.
 - **Cocolia:** the open greatcoat over gold chains and medal pasties, at the podium and the hotel.
 - **Hoshino Kei:** a man's raincoat over newsprint body paint.
 - **Classmates:** Sayaka is 18 from May 2013 and changes then. Natsumi is

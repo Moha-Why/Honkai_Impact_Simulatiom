@@ -124,8 +124,17 @@ isn't waiting yet. **Unlocks:** kendo manager; Tanabe's nephew (birth).
 
 - **Nodes:** an orphan in Siberia, survives the Second Eruption at five,
   Cocolia's orphanage, wake at 18.
-- He wakes at 18 as one of Cocolia's children. He arrives in Nagazora in
-  September as a scholarship transfer with orders: get close to the Raiden
+- He wakes at 18 as one of Cocolia's children, in the house by Lake
+  Baikal, four months before X-10 (August 2013). He lives it as an adult:
+  Seele takes Bronya's place and asks him to keep it from Bronya and look
+  after her; he keeps the secret and watches Seele come apart in the
+  bunker; the next morning Bronya, knife at her own throat, makes them let
+  her in after Seele, and he pushes her chair to the machine and lets her
+  hold his hand. Nineteen days later she comes back paralyzed and empty,
+  with Project Bunny. He sits with her every night; on the twenty-second
+  her mouth goes up for a second. Cocolia sees it ("She looks at you") and
+  sends him to Japan. He arrives in Nagazora in
+  October as a scholarship transfer with orders: get close to the Raiden
   girl, report, and make sure she has nobody. The corruption route,
   sanctioned. He thinks it's perfect.
 - **Cocolia in person:** in December, in a hotel suite above the bay, after
@@ -353,7 +362,7 @@ later. See mei-run-childhoods.md for the full list.
   calls him Cecilia's boy), the 2001 photograph (he's on page nine of
   Loop 1's scrapbook), the 2003 test (Low D, Cocolia writes F), her office
   (he owns up; he never lies to her, which is how she knows in January),
-  the glove girl (reported, sent to her aunt), Seele takes Bronya's place in X-10 (he keeps her secret; "Keep my place"), Bronya goes in after her (he lets her), Bronya after (he sits with her; the almost-smile).
+  the glove girl (reported, sent to her aunt), Bronya arrives (Seele cleans her knuckles), Sin Mal on the cellar stairs (he says nothing; Bronya's legs), Seele's dark side and Sin Mal. X-10 itself is after the takeover, in the adult half.
 - **Loop 4:** hiding from the Okadas (Mrs. Okada in Loops 5 and 7), Ryoma
   in a plain suit (the boy fails on purpose; Ryoma sets up the
   scholarship), Haru at the gate (the start of the knife), Daichi at the
