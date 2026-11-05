@@ -965,7 +965,7 @@ I didn't have to think. It was the door I'd come for.
 [2001, April. You start school. Your uncle drives the Raiden girl to her school in the long black car every morning at seven-forty, and on the way back he drops you at yours. You ride in the front. She rides in the back.]
 [2001. She doesn't speak to you for a month. Then one morning she leans forward between the seats and asks if it's true that your father drove a bus. You say yes. She asks if he let you turn the wheel. You say yes. She sits back and doesn't say anything else, but the next morning she leans forward again.]
 [2002. You are six. You and Raiden Mei are friends. Your uncle calls her "young lady" and you call her Mei, which nobody else in the house does, and nobody tells you to stop.]
-[2002. Once a week a man in a Homu suit comes to the house dojo and teaches her the sword. The whole mascot, the big round white head with the huge eyes and the little pointed ears, white fur down to his ankles, a bokken in two fur paws. You're not allowed in. You watch through the gap in the hedge. Afterward she shows you everything he taught her, with sticks, behind the garage, and gets cross when you can't do it.]
+[2002. Once a week a man in a Homu suit comes to the house dojo and teaches her the sword. The whole mascot, the big round yellow head with the huge eyes and the long rabbit ears, yellow fur down to his ankles, a bokken in two yellow paws. You're not allowed in. You watch through the gap in the hedge. Afterward she shows you everything he taught her, with sticks, behind the garage, and gets cross when you can't do it.]
 [2002, November. You're seven. On Friday nights your uncle polishes the master's shoes at the kitchen table over the garage, and you hold the tin. On Saturday, through the gap in the hedge, you watch the man in the Homu suit take his shoes off at the dojo door. There's a scuff on the left heel. You held the tin while your uncle tried to get it out.]
 Tell her / Tell your uncle / Keep it to yourself
 ```
@@ -2236,7 +2236,7 @@ Go / Stay at the local school / Let your mother decide
 ```
 
 ```
-[2001, April. You are six. A man in a Homu suit starts coming to the house dojo every Saturday to teach her the sword, the whole mascot, the big round white head with the huge eyes, white fur, fur paws round the bokken. She tells him you're coming too. He looks at you for a long time through the mesh in the Homu's eyes.]
+[2001, April. You are six. A man in a Homu suit starts coming to the house dojo every Saturday to teach her the sword, the whole mascot, the big round yellow head with the huge eyes and the long rabbit ears, yellow fur, yellow paws round the bokken. She tells him you're coming too. He looks at you for a long time through the mesh in the Homu's eyes.]
 Step onto the floor / Stay by the door and watch / Tell your mother you'd rather not
 ```
 
@@ -3142,7 +3142,7 @@ I didn't answer. She watched me not answer for a long time.
 
 In the first week of January, Mei found the costume.
 
-She told me at dawn, after practice, kneeling on the boards with it folded in front of her. A Homu suit. The big round white head with its huge painted eyes and little pointed ears, the white fur body folded in on itself, the two fur paws on top.
+She told me at dawn, after practice, kneeling on the boards with it folded in front of her. A Homu suit. The big round yellow head with its huge painted eyes and long rabbit ears, the yellow fur body folded in on itself, the two paws on top.
 
 "When I was little I had a teacher," she said. "Before the hospital. Before you. He came every week and taught me the sword, and he wore this, and he never told me his name." Her finger traced one of the painted eyes. "I thought he was someone my father hired."
 
