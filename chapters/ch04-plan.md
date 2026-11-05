@@ -2,6 +2,10 @@
 
 Status: written to plan v4 (Loop 4 about 12k words, the six stages below);
 Loops 5 and 6 as before. Spine, rules and continuity: ch03-plan.md.
+Dialogue pass: every conversation that was only reported is now played as a
+scene (the assembly, Sayaka's lunch, Rin and the letter, Natsumi, the
+thunderstorm, Kiana's heater, the lunches, the school-office call), and the
+Monday lunch Eros quotes on the Thursday is now on the page.
 
 ## Why Loop 4 is being rebuilt
 
@@ -83,10 +87,14 @@ lies that work are true things put side by side, or one bare word.
   envelope; she says nothing. He goes to the accountant's office himself and
   reads the notice on the glass. She goes back to the lawyer on Monday.
 - Thursday, the steps: "They were never your friends." She doesn't believe
-  him and asks Sayaka on Friday; Sayaka sits with her. Monday, a rumor to
-  Emi about the police; Tuesday, Sayaka leaves again. Natsumi heard him.
-- The board letter in Rin's copy; the vote; the resignation. "Mei. You may
-  as well use it." (Close, Bending)
+  him and asks Sayaka on Friday; Sayaka sits with her at lunch (the TV
+  drama, the class chat turned face down, "You'll have to watch it with
+  me." "I would like that."). Monday, a rumor to Emi about the police;
+  Tuesday, Sayaka leaves again. Natsumi heard him.
+- The board letter in Rin's copy; the vote; the resignation, handed to Rin
+  at her classroom door ("I'd have voted for you." "I know you would have.
+  So it's better that you don't have to."). "Mei. You may as well use it."
+  (Close, Bending)
 
 ### Stage 4: the knife (December)
 - The receiver: staff gone, the car gone. Tanabe rings every evening; the
@@ -102,16 +110,18 @@ lies that work are true things put side by side, or one bare word.
   me"), the house blazing at 2 a.m.
 - Natsumi tells Mei the truth at the shoe lockers; Mei: "Please don't come
   closer now to tell me who else I should stay away from."
-- The thunderstorm story: "Why are you telling me this?" Trust stuck, and
-  he doesn't know why.
+- The thunderstorm story, told the evening after her storm: "Why are you
+  telling me this?" "You told me yours." "I didn't ask you for anything for
+  it." She won't take it as a trade. Trust stuck, and he doesn't know why.
 
 ### Stage 5: the wall (December 16 to January)
 - Kiana; the corridor; the park warning backfires (Mei gives her the summer
   house); the call he doesn't make; Mei cooking for Kiana.
 - **January (what tips her early):** two boxes on the desk and his bread;
-  the meters haven't moved since December. He finds a true thing: Kiana said
-  at lunch she'll go wherever her father goes the day she finds him. "Ask
-  her." Kiana: "Punch him... And then go wherever he's going, I guess." The
+  the meters haven't moved since December. He finds a true thing at Monday
+  lunch, alone with Kiana while Mei gets the tea: she'll go wherever her
+  father goes ("Nobody here ever asks about him." "I'm asking."). Thursday:
+  "Ask her." Kiana: "Punch him... And then go wherever he's going, I guess." The
   light over the desk flickers. Mei starts checking on Kiana every day, and
   holds Eros's sleeve ("You'd tell me. If you were going anywhere."). The
   streetlights go out down the hill. The System: "Frightened's a meter too."
@@ -124,7 +134,8 @@ lies that work are true things put side by side, or one bare word.
 ## Loops 5 and 6 (short)
 
 - **Loop 5** stays about 3k to 4k, as now: Mrs. Okada, the arrest through
-  the window, Kiana in the park, the snow, the truck. It works as a short
+  the window, Kiana in the park, the snow, the call to the school office
+  (anonymous, "My daughter's in her year"), the truck. It works as a short
   consequence.
 - **Loop 6** stays about 3.5k, as now: the childhood log and the last
   minute in the white.
