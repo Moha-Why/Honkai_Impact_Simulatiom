@@ -45,9 +45,9 @@ She didn't stop. She finished the cut, and the next one, and the next, and then 
 
 "Yes. I'm sorry. The noise woke me up, and I wanted to see what it was."
 
-"Now you've seen." It wasn't unfriendly. It was the voice I'd heard her use on a boy with a letter at the shoe lockers, in another file, courteous and finished, a door closed without a crack. "It's early. You should go back to bed."
+"Now you've seen." It was the voice I'd heard her use on a boy with a letter at the shoe lockers, in another file, courteous and finished. "It's early. You should go back to bed."
 
-I went back to bed. I didn't ask to watch. I'd learned in a garage what happens to a boy who walks through a door the first time it opens a crack. Behind me, as I went round by the street, I heard the dojo doors slide shut on their runners.
+I went back to bed. I didn't ask to watch. Behind me, as I went round by the street, I heard the dojo doors slide shut on their runners.
 
 I didn't go back to the gap. For three weeks I lay on the futon above the wall in the dark and listened, crack and crack, and at five I got up and put the lamp on at the desk by the window and did the day's maths while she worked, because the boy had always done his maths at five. My window looked straight down into her garden. When the dojo doors were open, they looked straight back up at it.
 
@@ -65,7 +65,7 @@ She looked at me for a moment, changing her shoes. "You don't come to the hedge 
 
 "You told me to go back to bed."
 
-Something very small happened at the corners of her eyes, as if she'd put her foot down on a stair that wasn't quite where she'd expected it. Then she closed her locker and went up to class.
+She looked at me a moment longer than she needed to. Then she closed her locker and went up to class.
 
 The next morning, when I put the lamp on at five, the dojo doors were open and she was standing in them, in her armor, with the sword in her hand, looking up at my window. She didn't call. She didn't wave. She stood there until she was sure I'd seen her, and then she went back in, and left the doors open.
 
@@ -95,7 +95,7 @@ She held the sword out to me, handle first. It was heavier than it looked. I too
 
 "Not like a bat," she said. "You're not hitting a ball." She came and stood beside me and moved my hands on the grip with two fingers, the left down to the very end, the right loose under the guard. "The left does the work. The right only steers. Again."
 
-I had it in a day. My hands knew where to go the next morning before she'd said anything, and she looked at them on the grip for a long moment, as if they'd done something rude. My arms were another matter. I got twenty strokes at the post before my shoulders gave out and the tip of the sword started wandering in the air like a drunk's finger, and she took it back out of my hands without a word and finished the set herself.
+I had it in a day. My hands knew where to go the next morning before she'd said anything, and she looked at them on the grip as if they'd done something rude. My arms were another matter. I got twenty strokes at the post before my shoulders gave out and the tip of the sword started wandering in the air like a drunk's finger, and she took it back out of my hands without a word and finished the set herself.
 
 It was the most honest thing I'd done in six files. I didn't tell her anything I knew. I didn't tell her anything at all, most days. I sat on my knees on the cold boards with my back straight while she worked, and my knees screamed, and the sky came up, and sometimes she talked and mostly she didn't.
 
@@ -133,7 +133,7 @@ He looked up. "So?"
 
 "So somebody's still making it for her. Every morning. Somebody's still being paid." I turned back round. "I'd heard everything was frozen. That's all."
 
-That was all. I didn't say anything else about her that week. I didn't need to.
+I didn't say anything else about her that week.
 
 Two days later, Kuroda stood up in the cafeteria with his tray and said, loudly enough for the whole room, "Hey, Queen. Who's paying for your lunch now?"
 
@@ -167,7 +167,7 @@ It came back up the line in three days, as everything did. Kuroda in the corrido
 
 She was ten steps behind him. I wasn't. I'd made sure I was in the library.
 
-That evening, at the bottom of the hill, her phone rang in her coat pocket. She took it out and looked at the name on the screen for a long moment, and put it back without answering, and walked on up the hill with it ringing in her pocket. The next evening it rang again, and she let it. On the third evening it didn't ring at all.
+That evening, at the bottom of the hill, her phone rang in her coat pocket. She took it out and looked at the name on the screen, and put it back without answering, and walked on up the hill with it ringing in her pocket. The next evening it rang again, and she let it. On the third evening it didn't ring at all.
 
 I walked beside her each time, and my face didn't do anything, and she didn't look at me once.
 
@@ -211,7 +211,7 @@ I let her. I'd decided that in the white. I watched her stand in the doorway of 
 
 Then I watched her start to win.
 
-She did it in four days. I'd known she would, and it was still something to see, like watching a wrecking ball go through a wall you'd spent three months building. Kiana didn't do anything clever. Kiana didn't know how to do anything clever. She sat with Mei at lunch and talked about her father and about food and about a cat she'd seen in the park that had only three legs, and when Kuroda came past on the second day and said something about the Queen's new pet, Kiana stood up and put him over a desk.
+She did it in four days. I'd known she would, and it was still something to see, like watching a wrecking ball go through a wall you'd spent three months building. Kiana didn't do anything clever. She didn't know how to. She sat with Mei at lunch and talked about her father and about food and about a cat she'd seen in the park that had only three legs, and when Kuroda came past on the second day and said something about the Queen's new pet, Kiana stood up and put him over a desk.
 
 She didn't hit him. She just did something with his arm, very fast, and he went over the desk backward with his legs in the air and his expensive watch skidding across the floor, and she stood over him with her hands on her hips.
 
@@ -278,7 +278,7 @@ She came to the dojo the next morning and didn't practice. She stood in the midd
 
 "You never asked."
 
-She looked at me for a long time across the dojo floor. I'd been on the receiving end of that look in every file I'd been in. It was the look she gave a sword when she was checking it for cracks.
+She looked at me across the dojo floor, the look she gave a sword when she was checking it for cracks.
 
 "I'm glad she's gone," she said.
 
@@ -391,7 +391,7 @@ It laughed. It was Mei's laugh, the small surprised one I'd heard once in the cl
 
 The current came out of its palm into me.
 
-It wasn't like the roof. On the roof the lightning had come all at once from across the concrete, and opened me, and let go. This didn't let go. It came in through my breastbone under her flat warm hand, slowly, and it stayed, and it filled me up from the middle outward as water fills a jar, my heart first, then my lungs, then my arms, out to the fingers.
+On the roof in the fourth file the lightning had come all at once from across the concrete, and opened me, and let go. This didn't let go. It came in through my breastbone under her flat warm hand, slowly, and it stayed, and it filled me up from the middle outward as water fills a jar, my heart first, then my lungs, then my arms, out to the fingers.
 
 My heart stopped trying to beat its own rhythm and beat hers instead. I could feel it happen. One, and one, and one, slow and enormous, as if somebody else were pressing it like a pump.
 
@@ -443,7 +443,7 @@ My voice came out level. That was the first thing I noticed. I'd been on my knee
 
 [Choosing only means something,] said the System, [if there's something else to choose.]
 
-I thought about that for a long time, in the white, with the map hanging in front of me.
+I thought about that in the white, with the map hanging in front of me.
 
 Trust first, to the top. Then Corruption, and slowly, and only at the end. Never the knife. Kiana in the room. The node on its date.
 
@@ -526,7 +526,7 @@ Sit with her / Leave her alone; she's not yours to look after / Tell your mother
 
 "There are a hundred and twelve ceiling tiles," the boy said. "In this room. I counted. If you count them you fall asleep. It works every time."
 
-She looked at him for a long time. She had very dark eyes and a face that had decided not to show anything to anyone ever again.
+She looked at him. She had very dark eyes and a face that had decided not to show anything to anyone ever again.
 
 "That's stupid," she said.
 
@@ -547,7 +547,7 @@ Say nothing / Say good evening / Ask him why he's always tired
 "Ask him."
 
 ```
-[2005, October. "Why are you always tired?" you ask. He looks at you for a long time. "Because I'm keeping something asleep," he says. "Like you." He watches her sleep for another ten minutes, and goes.]
+[2005, October. "Why are you always tired?" you ask. He looks at you. "Because I'm keeping something asleep," he says. "Like you." He watches her sleep for another ten minutes, and goes.]
 [2005, December. You're ten. On the last night of the year, counting cars at the window, she tells you that if you ever go away and come back, you're allowed to ask her to go out with you. You ask what she'll say. "No," she says. "Every time. So you'll have to keep coming back." You promise you will.]
 [2006, February. She teaches you the first three cuts of the sword her teacher taught her, with two rolled-up magazines, in the corridor at midnight. A night nurse catches you and laughs so hard she has to sit down on the floor.]
 [2006, May. Her father puts his hand on your head on his way out and says, "Thank you for looking after her." You don't know what he means. You were only counting.]
@@ -569,7 +569,7 @@ If he went, there'd be a gap. A gap with letters in it. And at the end of the ga
 [2007, March. You tell Mei on the last night.]
 ```
 
-She didn't say anything for a long time. They were sitting on the floor of the ward under the window with their backs to the radiator, as they did on the bad nights, and the cars were going past below with their lights on, and she didn't count them.
+She didn't say anything. They were sitting on the floor of the ward under the window with their backs to the radiator, as they did on the bad nights, and the cars were going past below with their lights on, and she didn't count them.
 
 Then she reached up and took one of the two pins out of her hair. It was dark, with a small lacquered head the color of the inside of a shell. She'd had them since before the van. She'd never once taken them out in front of him.
 
@@ -828,13 +828,13 @@ The cars came up the hill at six-forty on the sixteenth, while we were sparring.
 
 I'd known when they'd come. I'd arranged to be there. When I heard the engines on the road below the house I was standing across the floor from her with a bokken in my hands and my lungs on fire, and she lowered her sword.
 
-We watched them go up the steps to the front of the house through the open doors of the dojo and across the garden. Somebody rang the bell. After a minute somebody opened the door. They brought her father out in his overcoat with a jacket over his wrists, and he looked back once, as he went down the steps. He looked at the upper window first. Then, as if he knew, he turned his head and looked at the dojo, and saw her, and saw me standing beside her, and I watched his face change. Something in it let go, like a man setting down a weight he'd carried up a long flight of stairs.
+We watched them go up the steps to the front of the house through the open doors of the dojo and across the garden. Somebody rang the bell. After a minute somebody opened the door. They brought her father out in his overcoat with a jacket over his wrists, and he looked back once, as he went down the steps. He looked at the upper window first. Then, as if he knew, he turned his head and looked at the dojo, and saw her, and saw me standing beside her, and I watched his face change. Something in it let go.
 
 He knew me. He'd put his hand on my head in a children's ward once, a long time ago, and thanked me for looking after her.
 
 Then they put him in the car.
 
-She didn't cry. She stood there for a long time after the cars had gone. Then she put the bokken back in the rack, very carefully, and straightened the two beside it so they were exactly parallel.
+She didn't cry. She stood there after the cars had gone, until we couldn't hear them any more. Then she put the bokken back in the rack, very carefully, and straightened the two beside it so they were exactly parallel.
 
 "Stay a little," she said.
 
@@ -852,7 +852,7 @@ She pressed the back of her wrist against her eyes for a second, hard.
 
 On the Wednesday Sayaka said it in the corridor by the window on the second floor, at the end of lunch, to the girls round her, in a sad clear voice that carried. "I always thought there was something wrong with that house. Didn't you? A dead mother and a father who's never home. It's not a surprise, really. It's almost sad."
 
-Mei was ten steps behind her with me. She didn't stop walking. Her face didn't do anything at all. She walked past Sayaka and the girls at exactly the same speed, with her back straight and her bag in front of her in both hands, and the girls went quiet as she passed and started again as soon as she was by.
+Mei was ten steps behind her with me. She didn't stop walking. Her face stayed exactly as it was. She walked past Sayaka and the girls at exactly the same speed, with her back straight and her bag in front of her in both hands, and the girls went quiet as she passed and started again as soon as she was by.
 
 At the top of the stairs, where nobody could see, she stopped and put her hand flat against the wall.
 
@@ -881,7 +881,7 @@ I stood at her desk at eight-twenty.
 
 "Raiden-san. I like you. Will you go out with me?"
 
-She looked at the empty doorway behind me, and then up at me, for a long time.
+She looked at the empty doorway behind me, and then up at me.
 
 "I'm sorry," she said. Her voice wasn't quite steady. "No."
 
@@ -980,7 +980,7 @@ So I made Kiana my friend, and I made sure Mei saw that Kiana did this with ever
 
 "Kiana loves everybody," I said to Mei at the bottom of the hill, watching her run off after the cat. "That's what's good about her."
 
-Mei watched her go for a long time, and when she turned back to me, her face was very still.
+Mei watched her go, and when she turned back to me, her face was very still.
 
 Kiana couldn't lie. When Mei asked her at lunch what she thought of me, she frowned at me and said, "He's kind of creepy. His face doesn't do anything. But he came back for you, didn't he? From Osaka. And he didn't leave." She swung her legs. "That counts."
 
@@ -996,7 +996,7 @@ Kiana caught me alone on the roof on the last day before the New Year holiday, w
 
 "I know. I'm there." She looked at me sideways. "That's not what I asked."
 
-I didn't answer. She watched me not answer for a long time.
+I didn't answer. She watched me not answer.
 
 "You want her to need you," she said at last, slowly, as though she'd had to find each word. "I can tell. It's in how you stand." She pushed off the railing. "I want her to be okay. That's different." At the door she stopped and looked back. "I'm going to keep saying it every morning. Just so you know."
 
@@ -1006,7 +1006,7 @@ I didn't answer. She watched me not answer for a long time.
 
 She wrote to her father every Sunday.
 
-She did it at the low table in the dojo after practice, on paper from the house, in her straight careful hand, two pages and never more, and folded them in three and gave them to me to post, because the post box was on my way and not on hers. I posted every one. I watched each of them go into the slot at the bottom of the hill and heard it land. It would have been easy to keep them. I didn't. That was the rule from the roof in the fourth file, and it held.
+She did it at the low table in the dojo after practice, on paper from the house, in her straight careful hand, two pages and never more, and folded them in three and gave them to me to post, because the post box was on my way and not on hers. I posted every one. I watched each of them go into the slot at the bottom of the hill and heard it land. Keeping them would have made me the cause, and I'd died on a roof in the fourth file for being the cause.
 
 For five Sundays nothing came back.
 
@@ -1018,7 +1018,7 @@ She folded the letter again and held it in her lap.
 
 "He's never told me to let anyone do anything," she said.
 
-I knelt on the boards and didn't say anything. My face did what it was for.
+I knelt on the boards and didn't say anything.
 
 [Her father likes you,] said the System, very gently. [He thinks he knows what you are. He saw a boy in a children's ward once.] A pause. [And he's handed her to you in writing.]
 
@@ -1077,7 +1077,7 @@ I put it with the facts. Stay alive. Now it meant something.
 
 ---
 
-On the twentieth of January I let Kuroda's group catch me behind the gym, because Corruption had been sitting at Bending since November and it needed Mei to see something done to someone who was hers. On the Friday before, I'd laughed at Kuroda in the corridor when he called her a criminal's daughter, where all his friends could see me do it. That was all it took.
+On the twentieth of January I let Kuroda's group catch me behind the gym, because Corruption had been sitting at Bending since November and it needed Mei to see something done to someone who was hers. On the Friday before, I'd laughed at Kuroda in the corridor when he called her a criminal's daughter, where all his friends could see me do it, and that was enough.
 
 There were four of them. I'd planned to take a beating, to go down early and cover my head and let them get bored. I hadn't planned on the pipe. One of the ones at the back had found a length of scaffold pole by the building work at the pool, and when I went down after the first two punches he stepped in and swung it.
 
@@ -1170,7 +1170,7 @@ She fought it. She was fast in a way that made my eyes ache to follow, and immun
 
 Then it saw me in the doorway, and stopped.
 
-It looked at me for a long time, with the snow coming down between us. Its eyes were hot pink in the middle and very calm. It knew me. It had been made out of her, and she'd been sitting up with me under a window since she was nine.
+It looked at me with the snow coming down between us. Its eyes were hot pink in the middle and very calm. It knew me. It had been made out of her, and she'd been sitting up with me under a window since she was nine.
 
 "You," it said. "The one she waits for."
 

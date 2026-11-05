@@ -8,9 +8,9 @@ Loops completed: 3
 Soul: Frayed
 ```
 
-Three files, three ways out. A gun behind a shrine. A garage, and two days of deciding. A terrace forty floors up. Each of them had taken something small on its way, a man's first name, a cook's name, a captain with a cane, and I'd stopped being able to tell how much was gone without going looking for it.
+I'd left three files by then, one by a gun behind a shrine, one by my own hand in a garage after two days of deciding, and one off a terrace forty floors up. Each of them had taken something small on the way out, a man's first name, a cook's name, a captain with a cane, and I'd stopped being able to tell how much was gone without going looking for it.
 
-What I had instead were rules. Don't use what I know on her. Never be one of Cocolia's. Stay out of every report on every desk in that city. And one more, which the tower had left me with and I hadn't said out loud yet. In the Siberian file the operation had done all the work, and I'd let it, and it had ended with me locked in a tower by a woman who loved me. This time nobody was going to do it for me. No mother, no orders, nobody's list. A boy from a children's home, on a scholarship, and whatever he did, he'd do with his own hands.
+What I had instead were rules. I didn't use what I knew on her, I was never going to be one of Cocolia's again, and I stayed off every report on every desk in that city. The tower had left me one more that I hadn't said out loud yet. In the Siberian file the operation had done the work for me, and it had ended with a woman who loved me locking me in a tower. This time there'd be no mother and no orders and nobody's list. A boy from a children's home, on a scholarship, and whatever he did to her he'd do with his own hands.
 
 [Loop 4,] said the System. [Be patient. You hate being patient.]
 
@@ -119,7 +119,7 @@ On the first morning of September Mr. Fujita introduced me to class 3-A with his
 
 Somebody laughed. He put me by the window, because it was the only empty desk. She was at the next one. She turned her head and gave me the smile she gave strangers in lifts, and turned back to the front.
 
-She was the Lightning Queen, and in that file I got to watch her be it.
+That was the file where I saw the Lightning Queen up close.
 
 On my fourth day a second-year boy was waiting at the shoe lockers when she came in, with a letter in both hands and two friends hanging back by the stairs to see it done. Half the entrance hall stopped to watch. She took the letter from him, because it would have been rude not to, and read it standing there, all of it, while he went red to the ears. Then she folded it back along its creases and held it out to him.
 
@@ -127,11 +127,9 @@ On my fourth day a second-year boy was waiting at the shoe lockers when she came
 
 She inclined her head to him, exactly the right depth, and changed her shoes, and walked away up the stairs with her back straight and her bag in front of her in both hands. The boy stood there holding his own letter. One of the friends by the stairs said something, and the other one laughed, and the boy didn't move until the bell went.
 
-It was the coldest kind thing I'd ever watched anyone do. Every word in it was polite. There wasn't a gap in it anywhere to get a finger into.
-
 She was like that with everyone. The three girls who walked her in from the car every morning laughed at things she said, and she didn't laugh at anything they said. Teachers loved her and she thanked them for it. When she came into 3-A the room went a little quieter, as rooms do for a teacher, and when she sat down at the desk next to mine she said good morning to me in exactly the voice she used for the cleaning lady, and turned to the front, and that was all, every day, for a week.
 
-In the game she'd been warm. Warm to Kiana, warm to Bronya, warm to the player at the bridge in the mornings. I'd forgotten that there'd been a year before any of that, in a school on a hill, when the only person she'd let near her was a man of sixty in white gloves who was paid to hold her door.
+In the game she'd been warm, to Kiana and to Bronya and to the player on the bridge in the mornings. I'd forgotten there'd been a year before any of that, in a school on a hill, when the only person she let near her was a man of sixty in white gloves who was paid to hold her door.
 
 The kendo club practiced in a hall behind the gym with a wooden floor that had been polished by sixty years of bare feet, and it smelled of old sweat and floor wax and the green tea somebody's mother sent every week. The vice-captain, a careful girl called Hayashi Rin who looked like she spent a lot of her life apologizing, nearly cried with relief when I asked about the manager's job.
 
@@ -167,7 +165,7 @@ She opened her mouth to apologize, out of habit, and then didn't, and went away 
 
 Rin told me about the dawn in the first week, while I was taping her wrist, because she told me most things while I was taping her wrist. It was the only time anyone in that hall sat still long enough to talk.
 
-"The captain does two hundred cuts every morning before school," she said. "At home. In her father's dojo, at five. Every day since she was six." She looked down the hall at the far end, where Mei was standing in front of the first-years with her sword. "That's why nobody beats her. Not because she's better. Because she's done it more."
+"The captain does two hundred cuts every morning before school," she said. "At home. In her father's dojo, at five. Every day since she was six." She looked down the hall at the far end, where Mei was standing in front of the first-years with her sword. "That's why nobody beats her. She's just done it more than anyone."
 
 I wrote it down in the place in my head where I kept things. Five in the morning, every morning, since she was six.
 
@@ -179,7 +177,7 @@ Mei came down the line slowly, looking at them, and the hall went silent.
 
 "The manager," said the smallest one, and her voice cracked halfway through it.
 
-Mei looked at the three of them for a long moment. She didn't raise her voice. She never raised her voice.
+She looked at the three of them. She didn't raise her voice. She never did.
 
 "Twenty laps," she said. "Then retie them properly." She turned her head and looked down the hall at me on the bench. "If you're going to put your hands on the girls' armor, learn to do it right. Rin will show you."
 
@@ -189,9 +187,9 @@ The three of them ran their twenty laps without a word. Afterward, while Rin was
 
 ---
 
-I made my mistake in the third week, and I made it because I was good at the job.
+In the third week I made a mistake.
 
-The record book had a page for every bout, the points and the techniques and who'd scored them, and nothing else. Rin had kept it like that for two years. In the second week I started a page of my own, after the bouts were written up, for the captain. Every point she'd taken since the first of September. Which technique. From which side. What she did when someone pressed her in close and what she did when they held off. Where she dropped her guard, which was almost nowhere, and when, which was the second minute, when she was ahead. Nobody had asked me to. I'd watched her in the game for ten years and I'd never once seen her lose, and I couldn't help it.
+The record book had a page for every bout, the points and the techniques and who'd scored them, and nothing else. Rin had kept it like that for two years. In the second week I started a page of my own, after the bouts were written up, for the captain. Every point she'd taken since the first of September. Which technique. From which side. What she did when someone pressed her in close and what she did when they held off. Where she dropped her guard, which was almost nowhere, and when, which was the second minute, when she was ahead. Nobody had asked me to. I'd kept notes on Raiden Mei for ten years in another life, on forums and in a folder on a second monitor, and it hadn't occurred to me to stop now that she was real.
 
 She went through the record book on Mondays. Rin had told me that too. I'd forgotten.
 
@@ -209,9 +207,7 @@ She closed the book and put it down on the bench. Then she looked at me, and it 
 
 "What do you want?" she said.
 
-"A reason to be somewhere."
-
-It was true. It didn't help at all.
+"A reason to be somewhere," I said, which was true and didn't help.
 
 "Then be somewhere else," she said. "The other end of the bench. From tomorrow. Rin can bring you the book."
 
@@ -241,7 +237,7 @@ On the ninth day Mei came down the hall after practice in her armor with her hel
 
 "You've been dropping it. In the last three weeks. From the left. When they press you in close."
 
-She looked at me over the top of the book. It was a different look from the one at the shoe lockers. It was the look she gave a sword when she was deciding whether it was any good.
+She looked at me over the top of the book, as she looked at a new sword before she'd decided whether it was any good.
 
 "Rin doesn't see that," she said.
 
@@ -313,7 +309,7 @@ She didn't move.
 
 "A man came round the homes from the foundation," I said. "Interviewing clever children for a school in Tokyo. On his own, in a plain suit, with his hair tucked down the back of it. He gave me a test, and I got eleven of the twelve wrong, on purpose, because I didn't want to go to Tokyo. He read it for a long time." I shifted the record book under my arm. "He said, you did that on purpose. My daughter does that at kendo when she's bored. And he folded it up and put it in his jacket, and he didn't take anyone that year. That's all. I never saw him again. I don't think he sent anyone anywhere."
 
-She looked at me for a long time. Her face didn't do anything at all.
+She didn't say anything for a while.
 
 "Did he say anything else?" she said.
 
@@ -329,8 +325,6 @@ When she took her helmet off afterward she looked straight down the hall at the 
 
 *She was bored.*
 
-[Ah,] it said. [A joke. She's telling you a joke.]
-
 ---
 
 The autumn match against the school from Kobe was on the last Saturday in October.
@@ -345,11 +339,9 @@ On Saturday there was a card on one of the seats in the front row of the big hal
 
 I found her afterward on the steps behind the hall, still in her armor, with her helmet beside her.
 
-I sat down two steps below her. I'd been giving her careful things for seven weeks, true ones, and she'd taken every one of them apart as it landed. So I gave her nothing to take apart. I sat on the step below her in the cold with my hands in my coat, and the bus from Kobe pulled out of the car park, and the sun went down behind the gym, and neither of us said anything for twenty minutes.
+I sat down two steps below her and didn't say anything. I sat there in the cold with my hands in my coat, and the bus from Kobe pulled out of the car park, and the sun went down behind the gym, and neither of us spoke for twenty minutes.
 
 When she got up to go she put her hand on my shoulder as she passed, once, very briefly, to steady herself on the step.
-
-That was the first thing she ever gave me that I hadn't taken.
 
 ```
 Raiden Mei
@@ -392,7 +384,7 @@ She didn't look up. "Please don't sit here."
 
 "I can't afford a lot of things."
 
-She looked up then. It was the first time since Saturday she'd looked straight at anyone. Her face was perfectly composed, and under it, at the very back of her eyes, something was standing at the edge of something very high.
+She looked up then. It was the first time since Saturday she'd looked straight at anyone. Her face was composed. Her eyes weren't.
 
 "Please," she said.
 
@@ -437,7 +429,7 @@ She didn't move. "That's a cruel thing to say."
 
 "It's a true thing to say. You know it is. You watched them work it out on Monday morning, in about four seconds."
 
-She was quiet for a long time. The sun went down behind the gym. The car came, and the old man got out of it and came round to open the door for her, and smiled up the steps at her, and she got up and went down to him, and before she got in she looked back at me once, a long look, as though I'd hurt her and she was trying to work out why it felt like help.
+She was quiet. The sun went down behind the gym. The car came, and the old man got out of it and came round to open the door for her, and smiled up the steps at her, and she got up and went down to him, and before she got in she looked back at me once, a long look, as though I'd hurt her and she was trying to work out why it felt like help.
 
 She didn't believe me. That was the thing I hadn't allowed for.
 
@@ -455,7 +447,7 @@ I ate my bread at my desk and watched them.
 
 [Oh dear,] said the System. [She asked. Nobody asks.]
 
-It was a crack in the funnel, and if it stayed open it would let all the others back through it, one at a time, a little ashamed, and by Christmas she'd have three girls who'd failed her once and been forgiven, which was better than friends, because they'd never fail her again. I'd have a seat by the window that didn't need me in it.
+If it stayed open the others would come back through it one at a time, a little ashamed, and by Christmas she'd have three friends who'd failed her once and would never do it again, and a seat by the window that didn't need me in it.
 
 Sayaka's best friend was a girl called Emi, who sat behind me in maths and didn't like Mei and never had. On Monday morning, waiting for the teacher, I turned round in my chair.
 
@@ -465,11 +457,11 @@ Emi looked up. "What police?"
 
 "They've been asking Raiden-san's friends about the money," I said. "Who she talked to. Who's been to the house. That's what I heard at the station. I thought Sayaka would know." I turned back round. "Sorry. It's probably nothing."
 
-That was all I said. Every word of it was something I'd heard somebody say, at the counter of the noodle stall, on the train, in the queue at the bank, in the first week after the arrest, when the whole city was guessing. I'd just put it in the right ear.
+Every word of it was something I'd heard at the noodle stall or on the train in the first week after the arrest, when the whole city was guessing. I'd only put it in the right ear.
 
 On Tuesday Sayaka took her tray to the table by the vending machines. She didn't look at the window once. Mei sat by herself with her box for the whole of lunch, and when I came and sat down across from her, she didn't say "Please don't." She didn't say anything.
 
-"She came back for one day," she said at last, very quietly, to the box. Not to me.
+"She came back for one day," she said at last, very quietly, to the box.
 
 When I looked up from my bread, Natsumi was watching me from the vending-machine table. She'd been in her seat behind Emi on Monday morning. She looked away when I met her eyes. After that she looked at me sometimes, in class, when she thought I wasn't watching, with a small frown, as you'd look at a sum that wouldn't come out.
 
@@ -501,7 +493,7 @@ She came and stood by the bench. I turned the book round so she could read it. S
 
 "Rin's frightened of being next," I said. "Everybody's frightened of being next. That's what this is." I closed the book. "If you resign before Friday, you're leaving. If you wait, they'll vote you out, and it'll be in the school paper, and they'll put your father's name in the same paragraph."
 
-She stood there for a long time, holding one wrist with the other hand, hard, as if it were trying to do something without her.
+She stood there holding one wrist with the other hand, hard, as if it were trying to do something without her.
 
 "Thank you for telling me," she said.
 
@@ -523,7 +515,7 @@ Corruption: Bending
 
 At the end of November the receiver froze everything the Raidens had.
 
-It happened on a Friday, without any noise. The cook stopped coming. The gardener stopped coming. The housekeeper, who'd been in the house for nineteen years, packed two suitcases and went to her sister's in Kobe, crying. The long black car stopped coming to the walkway at four, because there was nobody to pay for it, or for the man who drove it. On Monday Mei walked down the hill to school on her own, with her bag in front of her in both hands, and back up it in the evening, and the house at the top was dark except for two windows.
+It happened on a Friday, without any noise. The cook and the gardener stopped coming, and the housekeeper, who'd been in the house for nineteen years, packed two suitcases and went to her sister's in Kobe, crying. The long black car stopped coming to the walkway at four, because there was nobody to pay for it, or for the man who drove it. On Monday Mei walked down the hill to school on her own, with her bag in front of her in both hands, and back up it in the evening, and the house at the top was dark except for two windows.
 
 He rang her every evening. I was there the first time, at the bottom of the hill, when her phone went in her pocket. She looked at the screen, and something happened in her face that I'd never seen happen in it for me, and she turned half away from me to answer.
 
@@ -547,15 +539,15 @@ When the bell went she put the plastic from the rice balls in her bag, folded sm
 
 "That was nice," she said. As if it surprised her.
 
-It was the warmest twenty minutes in that file, and I hadn't done anything in them. I sat in maths afterward and couldn't work out what it had been for.
+I sat in maths afterward and couldn't work out what it had been for.
 
 ---
 
 I took the old man away from her last, because I'd been saving him too.
 
-I didn't have to make anything up. That was the beauty of it. On the Tuesday evening, walking back from the station the long way, past the ME Corp tower, I saw him. There was a covered bay at the side of the tower where the company cars waited, black and black and black, and a line of drivers in dark coats standing beside them. One of them was a man of sixty in white gloves. He was holding a door open for a man in a gray suit with a briefcase, and smiling at the pavement while the man got in, and he shut the door so it wouldn't slam.
+I didn't have to make anything up. On the Tuesday evening, walking back from the station the long way, past the ME Corp tower, I saw him. There was a covered bay at the side of the tower where the company cars waited, black and black and black, and a line of drivers in dark coats standing beside them. One of them was a man of sixty in white gloves. He was holding a door open for a man in a gray suit with a briefcase, and smiling at the pavement while the man got in, and he shut the door so it wouldn't slam.
 
-The receiver had let him go on the Friday. By the Tuesday ME Corp's car pool had him back, to drive the people who were running the company now that Raiden Ryoma wasn't. It wasn't a mystery. He was sixty and he needed the money and he'd driven for that company for thirty years. It was the most ordinary thing in the world.
+The receiver had let him go on the Friday. By the Tuesday ME Corp's car pool had him back, to drive the people who were running the company now that Raiden Ryoma wasn't. He was sixty and he needed the money and he'd driven for that company for thirty years. It was the most ordinary thing in the world.
 
 I told her on the Wednesday, at the bottom of the hill, after his call.
 
@@ -573,7 +565,7 @@ She didn't say anything for a while.
 
 "I know." I let it sit. "Mei. The police didn't find everything in your father's study in one morning by luck. Somebody showed them where to look. I don't know who. I'm only saying who's driving for the people who got the company out of it. And who rings you every evening to ask what you're doing."
 
-Every word of it was true, or a question. I didn't say he'd done anything. I didn't have to. I put two true things next to each other and walked away, and let her do the rest herself, because she was cleverer than I was and she'd do it better.
+I hadn't said he'd done anything. I'd put two true things next to each other and left her to do the rest, because she was cleverer than I was and would do it better.
 
 "How do you know?" she said.
 
@@ -600,7 +592,7 @@ She showed me the letter on the Friday at lunch, with the detention center's sta
 
 "I can't," I said. "They've asked me back to the home on Saturdays. To help with the little ones."
 
-They hadn't. I lay on the futon on Saturday with the curtains shut and imagined her on the bus across the bay on her own, by the window, with the letter in her pocket, and decided it didn't matter what a man said to his daughter through a sheet of glass after three weeks in a gray room. He'd be tired. She'd be brave. They'd talk about the weather.
+They hadn't. I lay on the futon on Saturday with the curtains shut and imagined her on the bus across the bay on her own, by the window, with the letter in her pocket, and decided it didn't matter what a man said to his daughter through a sheet of glass after three weeks in a gray room. He'd be tired and she'd be brave and they'd talk about the weather.
 
 She came to the bottom of the hill at six that evening and stood under the streetlamp, waiting, and I came down from the station as if from the home.
 
@@ -616,7 +608,7 @@ Then she turned her head and looked straight at me.
 
 "No," I said.
 
-One word. Liar's Face held my face, but she'd never read faces. She read what people said, and I'd given her a single syllable with nothing in it to read. She looked at me for a long time under the streetlamp, as if she were waiting for the rest of the sentence. There wasn't any. Then she went up the hill.
+She waited under the streetlamp for the rest of the sentence. I didn't give her any. After a while she went up the hill.
 
 ---
 
@@ -640,9 +632,7 @@ I didn't answer any of them. On the Tuesday I didn't come. On the Wednesday I di
 
 "I'm here."
 
-She didn't ask where I'd been. That was the worst of it. She'd decided in three days that asking would make me go again.
-
-It's the oldest trick there is. I'd never done it to anyone in my life, and it turned out nobody needed to teach me.
+She didn't ask where I'd been. She'd decided in three days that asking would make me go again.
 
 ---
 
@@ -688,7 +678,7 @@ She put the shoe in the locker and closed it, and went up the stairs past me wit
 
 That evening at the bottom of the hill I tried the last thing I had.
 
-Trust had sat at Open since November, and it hadn't moved for anything. Not the bench, not the steps, not the lunch in the rain, not the three days I'd stayed away and come back. So I gave her something true that cost me, which was what had worked on her in every file.
+Trust had sat at Open since November and nothing I did moved it. So I gave her something true that cost me, which was what had worked on her in every other file.
 
 I told her I was afraid of thunderstorms. That the boy had hidden under the long table at the home every time there was one, until he was eleven, with his hands over his ears, and the staff had stopped trying to get him out and just put a blanket under there with him. I let her see my hands while I said it.
 
@@ -696,7 +686,7 @@ She listened. Then she looked at me, carefully, as you'd look at a step you'd pu
 
 "Why are you telling me this?" she said.
 
-She was measuring it against something. I could see her doing it, and I couldn't see what the something was. She'd asked me a question under that streetlamp a week ago, and I'd given her one word, and since then every kind thing I did went onto a scale, and something on the other side of the scale outweighed it, and I didn't know what.
+She was weighing it against something, and I couldn't see what. Whatever it was, it had been there since the night under the streetlamp, and it was heavier than anything I put on the other side.
 
 [You're doing it wrong,] said the System in December, cheerfully.
 
@@ -738,7 +728,7 @@ My face was perfect. I could feel it being perfect.
 
 "I don't know what you're talking about," I said.
 
-Kiana looked at me for a long moment. Then she shrugged, the way somebody shrugs off a coat.
+Kiana looked at me. Then she shrugged, as somebody shrugs off a coat.
 
 "You're lying," she said simply. "I don't know how I know. Your face is weird. It doesn't do anything. But I can hear it." She turned to go, and then turned back. "Mei-senpai's mine to sit with now, too. So you'd better be nice."
 
@@ -752,7 +742,7 @@ Mei stopped. "No."
 
 "She hasn't got an address. Or a guardian. The school hasn't worked it out yet." I put my hands in my pockets. "When it does, they'll have to send her somewhere. A home, or the police. She'll be gone in a week. I'm only saying it so it doesn't hurt when it happens."
 
-She looked at me for a long time under the streetlight. Then she said, "Thank you," and went up the hill.
+She looked at me under the streetlight. Then she said, "Thank you," and went up the hill.
 
 The next day Kiana came into 3-A at lunch with a brown paper bag in each hand and her braids coming down and announced to the whole room that Mei-senpai had found out she lived in the park and had given her a key to the side gate of the house on the hill, and the summer house at the end of the garden, which had a sofa in it, and a heater. "It's got a heater!" she said, to everyone, as if nobody in the world had ever had a heater before. "Mei-senpai, it's got a heater!"
 
@@ -762,7 +752,7 @@ Mei was looking at her box. Her ears had gone red.
 
 "Why not? It's the best thing that's ever happened to me."
 
-I sat across from them and ate my bread. I'd told Mei to brace for Kiana leaving, and she'd gone straight home and made sure Kiana couldn't.
+I sat across from them and ate my bread.
 
 [You're very good at pushing on doors,] said the System. [You just don't always look which way they open.]
 
@@ -826,7 +816,7 @@ I'd been ready for it to look at Kiana. In the game it had wanted Kiana. It had 
 
 Kiana moved. She was fast, faster than anything I'd ever seen that was shaped like a person, and she put herself between us, and fired. The persona didn't even turn its head. The lightning went round Kiana like water round a stone. I saw it come. I had time to see it, and to see Kiana's face as she turned and saw where it was going, and to understand, very clearly, that it had known from the first second on the roof which of us it wanted, and why.
 
-It knew everything she'd felt. Every afternoon I hadn't come. Every night she'd sat by the phone not answering it. The old man in the white gloves who'd stopped ringing.
+It knew everything she'd felt, every afternoon I hadn't come and every night she'd sat by the phone not answering it, and the old man in the white gloves who'd stopped ringing.
 
 It was very bright.
 
@@ -882,7 +872,7 @@ I stayed on my knees for a while.
 
 "And the other one," I said. "Trust. It sat at Open for two months. I tried everything I had."
 
-[Do you want to know why?] It sounded as if it had been waiting the whole file to be asked. [The first Saturday in December. Her father, through the glass, at the end, when the guard said time. He put his hand flat on it. He's never touched anyone in his life. And he said, don't let anyone near you who wants something from you, Mei. Not now. Anyone who comes close now wants something.]
+[Do you want to know why?] It had plainly been waiting the whole file to be asked. [The first Saturday in December. Her father, through the glass, at the end, when the guard said time. He put his hand flat on it. He's never touched anyone in his life. And he said, don't let anyone near you who wants something from you, Mei. Not now. Anyone who comes close now wants something.]
 
 I didn't say anything.
 
@@ -911,7 +901,7 @@ The tape went back to the beginning, and this time I let it run.
 
 [Where do you want to live?] said the System. [The apartment by the station again, or a room at the home until they need the bed. Or there's a new one.] It let that hang. [A room in the empty house next to the Raidens'. And after school, the club or nothing. And September or October.] A pause. [Rin told you about the dawn, you know. In the first week, while you were taping her wrist. You wrote it down, and then you were so busy with your knife you never noticed it was a door.]
 
-I looked at the new option for a long time. A room on the other side of a wall from her garden. Five in the morning, every morning, since she was six.
+I looked at the new option. A room on the other side of a wall from her garden. Five in the morning, every morning, since she was six.
 
 It was the best door on the map, and I wasn't going to walk through it this time.
 
@@ -929,7 +919,7 @@ So the next file was about Kiana. It didn't need the club. A manager was tied to
 
 ---
 
-I went in Worn, and the first thing I found out was what that meant from the inside.
+I went in Worn, and for the first week I kept reaching for things that weren't there, a name, a face, the color of a room, and finding the smooth place where they'd been.
 
 The house next to the Raidens' had been empty for two years except for the old woman in the three rooms at the back. She opened the front door to me on the first evening of September in a cardigan with the elbows gone, eighty-one, about as tall as my chest, and looked at my bag and then at me.
 
@@ -941,7 +931,7 @@ The house next to the Raidens' had been empty for two years except for the old w
 
 Her name was on the letterbox. Okada.
 
-I'd hidden under the long table at the home from her when I was two, in this file and the last one both, while she stood in the doorway in a good coat and asked Mrs. Hōjō about me. The boy had it all, every detail, the table and the coat and the paper boat her husband had folded for me, sitting on the floor. I stood in the hall of her house with my bag in my hand and the boy's memory of her face, younger, and she didn't look back.
+I'd hidden under the long table at the home from her when I was two, in this file and the last one both, while she stood in the doorway in a good coat and asked Mrs. Hōjō about me. The boy didn't remember any of it. He'd been two. I did, from the log in the white, the table and the coat and the paper boat her husband had folded on the floor. She didn't know me, and she didn't look back.
 
 My room looked over a wall into the Raidens' garden. On the first morning I woke at five in the dark to a sound I didn't recognize, a sharp hollow crack, and then another, and another, regular as a metronome.
 
@@ -967,7 +957,7 @@ On the sixteenth of November the crack didn't come.
 
 I woke at six without it, to a different sound, engines on the hill and car doors and a man's voice saying something formal and loud, and I got up and went to the window. There were four police cars in the Raidens' drive with their lights going round, blue and red across the frost on the lawn. The front door of the big house was open. And across the garden, on the far side of the wall from me, the doors of the little dojo were slid open on its lamp, and Mei was standing in the doorway in her armor with the bokken in one hand, hanging at her side, watching men in dark coats go into her house.
 
-She stood there for twenty minutes. She didn't move. When they brought her father out to the car she lifted the bokken an inch, as if her arm had decided something without her, and then she let it hang again.
+She stood there for twenty minutes. She didn't move. When they brought her father out to the car she lifted the bokken an inch, and then let it hang again.
 
 I stood at my window above the wall and watched her, and I didn't open it, and I didn't go down.
 
@@ -981,13 +971,13 @@ I stood at my window above the wall and watched her, and I didn't open it, and I
 
 Mrs. Okada stopped me on the stairs one morning in December.
 
-She'd been calling me the student for three months. She called me the student when I paid the rent and when she told me the bath was hot and when she shouted up the stairs that I'd left a light on. That morning she was coming up as I was going down, one step at a time with her hand on the rail, and she stopped halfway and looked at me for a long time in the gray light from the landing window.
+She'd been calling me the student for three months. She called me the student when I paid the rent and when she told me the bath was hot and when she shouted up the stairs that I'd left a light on. That morning she was coming up as I was going down, one step at a time with her hand on the rail, and she stopped halfway and looked at me in the gray light from the landing window.
 
 "You hid under the table," she said.
 
 I didn't say anything.
 
-"At the home. You were very small. You wouldn't come out for anyone." She frowned, as if she were reading something a long way off. "My husband made you a boat. Out of newspaper. You wouldn't take it from him, so he left it under the table for you."
+"At the home. You were very small. You wouldn't come out for anyone." She frowned. "My husband made you a boat. Out of newspaper. You wouldn't take it from him, so he left it under the table for you."
 
 "I remember," I said.
 
@@ -1021,17 +1011,17 @@ She went completely still, with the cup halfway to her mouth.
 
 "Siegfried Kaslana," I said. "White hair, like yours. Tall. A scar through his left eyebrow. He was in Sapporo in October, at a bar near the old station, asking about a ship. A friend of mine poured his drinks."
 
-It was a lie from start to finish, except for the eyebrow, which was in the game. My face held. I watched it go into her, as I'd watched the lie about the old man go into Mei, and it went in faster, because Kiana believed things. That was what she was for.
+It was a lie from start to finish, except for the eyebrow, which was in the game. My face held. I watched it go in, faster than anything had ever gone into Mei, because Kiana believed things. That was what she was for.
 
 "Sapporo," she said.
 
 I took an envelope out of my coat. There was a train ticket in it, one way, the night sleeper to the north, for the next evening, and ten thousand yen.
 
-"I'm going to be honest with you," I said, which I'd learned was a sentence that made Kiana's eyes go very wide. "I've got no reason to help you. I just think if my father was out there, I'd want someone to tell me."
+"I'm going to be honest with you," I said. "I've got no reason to help you. I just think if my father was out there, I'd want someone to tell me."
 
 She held the envelope in both hands for a long time.
 
-"Nobody's ever told me anything," she said. "About that stinky old man. In two years." Her voice went strange on old man, and she cleared her throat at it, as if it had tripped her. She looked up. "Why would you?"
+"Nobody's ever told me anything," she said. "About that stinky old man. In two years." Her voice went strange on old man, and she cleared her throat. She looked up. "Why would you?"
 
 "Because you ate my noodles," I said, "and I like you."
 
@@ -1054,7 +1044,7 @@ I came down and stood in her doorway. On the screen a reporter in a hood was sta
 
 I went to the station the next morning. The board in the hall had a line of red across it, every service north, CANCELLED, CANCELLED, and the waiting room was full of people asleep in their coats on the benches, a businessman with his tie off, two students using their bags as pillows. I walked the whole length of it. She wasn't there. On the end of the last bench there was a flattened sheet of cardboard, folded once, and in the bin beside it, on top, a torn refund slip for one ticket, the night sleeper north, the tenth of December.
 
-I stood looking at the slip for a long time.
+I stood and looked at the slip.
 
 [It's only snow,] said the System.
 
@@ -1098,7 +1088,7 @@ The driver's door opened. A man got out and stood in the road in the headlights 
 
 The snow was coming down into the light. I lay with my cheek on the ice and watched it come. Up the hill, on the other side of a wall, the lights of the big house were dark, every window. Below them, in the old woman's house, there was one light on in the bath, where I'd left it.
 
-I thought, very clearly, that she was going to tell me off about it, and that I wasn't going to be there to hear it.
+I thought she was going to tell me off about it, and that I wasn't going to be there to hear it.
 
 The cold came up out of the ice into my face. The man was still saying it just went. Then he was further away, and then the light was, and then there was only the snow, coming down, and then not even that.
 
@@ -1140,7 +1130,7 @@ It had climbed two steps in a week, from nothing but pushing on one girl.
 Malmö, to an ME Corp man / Nagazora, at the gate of a children's home by the old port / Nagazora, to Mr. Tanabe's younger sister / a village outside the research city, Siberia / Nagazora, in the staff cottage behind the Raiden house
 ```
 
-I stood in front of it for a long time, looking at the last option.
+I stood in front of it looking at the last option.
 
 Twice now, the world had beaten me with history. A promise a thirteen-year-old broke because I told him to, and a girl the snow had been very attached to. And under both of them there was the thing I'd stepped round in the garage file, in June 2004, by keeping a boy home with a cold he didn't have. The van. I'd never pushed on it. I'd kept the boy out of the way and let it happen on its own.
 
@@ -1352,7 +1342,7 @@ Malmö, to an ME Corp man / Nagazora, at the gate of a children's home by the ol
 
 I did. I remembered it from the codex, from another life. A girl of nine in a children's ward who couldn't sleep.
 
-I looked at it for a long time, and didn't take it.
+I didn't take it.
 
 "Not yet," I said.
 
