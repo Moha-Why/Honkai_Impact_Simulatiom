@@ -353,7 +353,7 @@ later. See mei-run-childhoods.md for the full list.
   calls him Cecilia's boy), the 2001 photograph (he's on page nine of
   Loop 1's scrapbook), the 2003 test (Low D, Cocolia writes F), her office
   (he owns up; he never lies to her, which is how she knows in January),
-  the glove girl (reported, sent to her aunt), Seele ("Keep my place").
+  the glove girl (reported, sent to her aunt), Seele takes Bronya's place in X-10 (he keeps her secret; "Keep my place"), Bronya goes in after her (he lets her), Bronya after (he sits with her; the almost-smile).
 - **Loop 4:** hiding from the Okadas (Mrs. Okada in Loops 5 and 7), Ryoma
   in a plain suit (the boy fails on purpose; Ryoma sets up the
   scholarship), Haru at the gate (the start of the knife), Daichi at the

@@ -1342,32 +1342,57 @@ Her right hand reported. I wanted him to be her right hand.
 ```
 
 ```
-[2012, January. A small gray-haired girl with an empty face is brought to the house after trying to shoot matushka in the street. Her legs are bad. The older children say she's dangerous. Matushka says she's ours now. At dinner she sits alone at the end of the table.]
+[2012, January. A small gray-haired girl with a hard face is brought to the house after trying to shoot matushka in the street. She's sixteen. She walks like a soldier and sleeps with her boots on. The older children say she's dangerous. Matushka says she's ours now. At dinner she sits alone at the end of the table.]
 Sit with her / Leave her alone / Tell matushka you're afraid of her
 ```
 
-Bronya Zaychik. I'd know that face in any life. In two years, in February, she was going to be on a roof in Nagazora with a machine folded round her, bringing Mei to the woman at the head of this table.
+Bronya Zaychik. I'd know that face in any life, though not this version of it. This one still had things in it, a scowl, a mouth that had been told no too often. In two years, in February, she was going to be on a roof in Nagazora with a machine folded round her, bringing Mei to the woman at the head of this table.
 
 A sister at the end of it might be very useful.
 
 "Sit with her."
 
 ```
-[2012, January. You sit with her. She doesn't speak. You put a handheld console on the table between you with a game on it. After ten minutes she picks it up. After twenty she has beaten your best score. "Subject Eros is bad at this," she says, in English. It's the first thing she says to anyone in the house.]
-[2012. Bronya beats you at every game in the building. You stop trying to win. She notices and is offended. You start trying again.]
-[2012, August. Matushka needs one of the older children for an experiment in the autumn. Seele has said yes, because she says yes to everything matushka asks. The night before it's decided she comes to your door in her nightdress with her book held against her chest. She's shaking. "Would you go instead?" she says. "You're braver than me."]
-Go instead / Let her go / Ask matushka if you can go with her
+[2012, January. You sit with her. She doesn't speak. You put a handheld console on the table between you with a game on it. After ten minutes she picks it up. After twenty she has beaten your best score. "You're bad at this," she says, in English, and the corner of her mouth goes up. It's the first thing she says to anyone in the house.]
+[2012. Bronya beats you at every game in the building. You stop trying to win. She notices and is offended, and kicks you under the table. You start trying again.]
+[2012, spring. Seele reads to Bronya in the evenings, in the window seat on the landing, with Bronya pretending not to listen. By May she's stopped pretending. They say they'll go and see the sea together, when they're older, a warm one. You're allowed to come if you carry the bags.]
+[2012, August. You hear it through the office door. Matushka has chosen one of the older children for an experiment in the autumn, the tenth of its kind. She's chosen Bronya.]
+[2012, August. That night Seele comes to your door in her nightdress with her book held against her chest. She's been to matushka's office. She's shown matushka the mark on her chest, the one she's always hidden, and matushka has said that with it she'd do just as well. She's going instead. She's shaking. "Don't tell Bronya," she says. "Not till it's done. She'd stop me. And look after her. Please. She pretends she doesn't need anyone."]
+Tell Bronya tonight / Keep Seele's secret / Go to matushka and beg her to stop it
 ```
 
-I didn't have to think about it. Seele Vollerei went into the Sea of Quanta in the autumn of 2012, and the woman downstairs spent the next year and a half tearing a hole in Nagazora to get her back. That grief was the engine of the whole February, and I wasn't taking it out of the car.
+[She didn't ask you to save her,] said the System. [She asked you to look after her friend. I thought you'd want to know that.]
+
+It was true. She was the kindest person in that house, and she was seventeen, and she was going to walk into a machine in Bronya's place and not come out, and the woman downstairs was going to spend the next year and a half tearing a hole in Nagazora to get her back. That grief was the engine of the whole February. If Bronya knew tonight, she'd stop it, or she'd go in with her, and I didn't know what came out of the engine then.
+
+"Keep her secret."
+
+```
+[2012, August. You promise. She nods, and smiles at you, and gives you her book, with the corner turned down at the page she's on. "Keep my place," she says. "I'll want it back."]
+[2012, September. Seele goes away with matushka for the experiment and doesn't come back. Matushka comes home alone and doesn't speak for two days. They say the word quanta in the office with the door shut.]
+[2012, September. Bronya finds out. She stands in matushka's office and says that if they don't let her go in after Seele, she'll walk out into the snow and not come back. She means it. Everyone in the house can see she means it.]
+Hold her back / Let her go / Ask to go in with her
+```
+
+It was going to cost her. Her legs. Most of her face. And she'd come back with something folded on her back that would be on a roof in February.
 
 "Let her go."
 
-[She asked so nicely,] said the System.
+[You could have held her hand at least,] said the System. [On the way to the door.]
 
 ```
-[2012, August. You tell her you can't. She nods as if she'd expected it. She gives you her book, with the corner turned down at the page she's on. "Keep my place," she says.]
-[2012, autumn. Seele goes away with matushka for one of matushka's experiments and doesn't come back. Bronya goes very quiet. She sits in Seele's chair at dinner and won't move. You sit next to her every night.]
+[2012, September. You let her go. She doesn't look back at you. She doesn't look back at anyone.]
+[2012, December. Bronya comes back. She's been gone eleven weeks. She comes back in a wheelchair, with something large and gray and folded strapped behind it that nobody will let you near. The doctors say the Honkai got into her legs, and into a part of her brain they draw for matushka on a whiteboard.]
+[2013, January. She doesn't scowl any more. She doesn't do anything. Her face is a plate. She calls everyone "subject" and herself "Bronya", as if she were filing a report about somebody else. She doesn't ask for Seele. She sits in Seele's chair at dinner and won't move.]
+[2013, March. They fit her with legs. They click on the stairs.]
+Sit with her like before / Leave her to the doctors / Bring her the console
+```
+
+"Sit with her."
+
+```
+[2013, March. You sit next to her every night. You put the console on the table between you. She beats your score. Nothing happens in her face. "Subject Eros is bad at this," she says.]
+[2013, April. One night you beat her score by accident. She looks at the screen for a long time. Then the corner of her mouth goes up, exactly where it used to, for about a second. Nobody else at the table sees it except matushka, who puts her spoon down.]
 [2013, April 13.]
 ```
 
@@ -1479,13 +1504,13 @@ On the twelfth of January, there was a knock at the door of my apartment at nine
 
 It was Bronya.
 
-She was smaller than I'd expected, even knowing. She came up to my chest. She had her hair in its two long twisted tails and a school bag on her back and a face with nothing in it at all, and under a heavy gray coat hanging open she was wearing a gray latex catsuit, glossy, skin-tight from her ankles to her throat and unzipped from the collar to below her navel, the two edges of it pulling apart over her bare chest and stomach and hanging on to her tits only at the sides. The zip pull swung just above her crotch. Bunny ears on a band. A fluffy white tail just showing under the hem of the coat, a sniper's holster on her thigh. In Krasnoyarsk I'd made the boy keep his eyes on his plate. In Nagazora there was nobody to make me, and I looked at that zip pull, and at the two inches it had left to go. She stood in the doorway and looked at me, and for a second, very briefly, something moved behind the nothing.
+She was smaller than I'd expected, even knowing. She came up to my chest. She had her hair in its two long twisted tails and a school bag on her back and a face with nothing in it at all, and under a heavy gray coat hanging open she was wearing a gray latex catsuit, glossy, skin-tight from her ankles to her throat and unzipped from the collar to below her navel, the two edges of it pulling apart over her bare chest and stomach and hanging on to her tits only at the sides. The zip pull swung just above her crotch. Bunny ears on a band. A fluffy white tail just showing under the hem of the coat, a sniper's holster on her thigh. In Krasnoyarsk I'd made the boy keep his eyes on his plate. In Nagazora there was nobody to make me, and I looked at that zip pull, and at the two inches it had left to go. She stood in the doorway and looked at me, and for a second, very briefly, something moved behind the nothing. In that whole house it had only ever moved for two people, and one of them was in the Sea of Quanta.
 
 "Bronya has arrived in Nagazora," she said. "Bronya was sent ahead."
 
 "Come in."
 
-She came in. She looked around the apartment. She looked at the console under the television and went and crouched in front of it and looked at the game I'd had in it, and then she stood up again.
+She came in, with the small even click on my floor that I'd heard on the dormitory stairs every night for a year. She looked around the apartment. She looked at the console under the television and went and crouched in front of it and looked at the game I'd had in it, and then she stood up again.
 
 "You did not beat Bronya's score," she said.
 

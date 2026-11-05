@@ -10,7 +10,9 @@ so 18 from February 18, 2013, before the adult Eros arrives in the Mei run
 
 **Appearance (canon):** short (147 cm) and slight, light gray hair in
 drill-shaped twin tails, gray eyes, a blank face. Her legs are prosthetic
-(Sin Mal broke them at the orphanage). In the field, Project Bunny 19C, a
+(story: they were healthy until the X-10 experiment in autumn 2012; the
+Honkai got into them while she was in the Sea of Quanta, and she's fitted
+with prosthetics in March 2013). In the field, Project Bunny 19C, a
 heavy mechanical symbiont she brought back from the Sea of Quanta, unfolds
 around her.
 
@@ -23,10 +25,19 @@ around her.
   spared her and took her into the orphanage, where Bronya called her
   "matushka".
 - Best friend of Seele Vollerei, with romantic undertones; they promised to
-  go to the sea together. Project X-10, the trial that was meant to make her
-  immune to Honkai corruption, left her emotionally stunted. When Seele was
-  lost in the Sea of Quanta, Bronya went in after her and came back with
-  Project Bunny instead.
+  go to the sea together. Cocolia chose Bronya for the X-10 experiment.
+  Seele, who has a stigma, asked to go in her place to protect her, and was
+  lost in the Sea of Quanta. Bronya threatened to kill herself unless she
+  was let in after Seele. Her long time in the trial let the Honkai into her
+  legs and into the part of her brain that feels, and she came back without
+  the use of her legs and without her emotions. Seele sent her back with
+  Project Bunny 19C. (Sources: honkaiimpact3.fandom.com/wiki/X-10_Experiment,
+  honkaiimpact3.fandom.com/wiki/Bronya_Zaychik/Story.)
+- **Before and after (story):** before X-10 she's guarded but feels things:
+  she scowls, smirks, kicks under the table, says "you" and "I". After it
+  her face is empty and she speaks in the third person. Only two people can
+  still move something in her: Seele, and (in Loop 3) Eros, who sat with her
+  before and after.
 - A bio-chip in her brain lets Cocolia control her when she has to.
 
 **Personality (canon):** deadpan voice, matching face. Very logical; bad

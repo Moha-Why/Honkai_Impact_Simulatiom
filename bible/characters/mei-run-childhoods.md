@@ -70,9 +70,13 @@ letters and one photograph of Kuroda with his dog, Leo.
 - **The girl with the gloves:** three, in the back of the truck; he gives
   her Cocolia's gloves. One of the house's children afterward.
 - **Seele Vollerei (canon):** see seele-vollerei.md. Born March 18, 1995. Soft, shy, always reading; arrives in 2010 at 15,
-  follows him for a month, lost on one of Cocolia's experiments in autumn
-  2012. Before she goes she asks him to go instead; Eros has him let her go.
-  She leaves him her book with the corner turned down. "Keep my place."
+  follows him for a month, reads to Bronya in 2012. When Cocolia chooses
+  Bronya for X-10 in August 2012, Seele shows her stigma and goes in
+  Bronya's place, asking the boy to keep it from Bronya and look after her.
+  Eros has him keep the secret, then let Bronya go in after her. Bronya
+  comes back in December without her legs or her feelings; he sits with her
+  every night, and in April 2013 she almost smiles at him. Seele leaves him
+  her book with the corner turned down. "Keep my place."
 - **Cecilia Schariac (canon cameo):** on February 18, 2000, leading the
   S-1 Formation north toward the Herrscher, she stops on the road for a boy
   of five walking south. Long white hair, the yellow and black Schicksal
