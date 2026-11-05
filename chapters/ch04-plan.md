@@ -1,11 +1,9 @@
-# Mei's run, plan v4: three chapters, and Loop 4 as a real arc
+# Chapter 4 plan: The Knife and the Bandage (Mei's run, part 2 of 3)
 
-Status: **plan, waiting for approval.** Nothing in the chapters has been
-moved or rewritten yet. When it's approved, this replaces the loop table and
-the Loop 4, 7 and 8 sections of ch03-plan.md, and becomes ch04-plan.md and
-ch05-plan.md.
+Status: approved plan v4. Loop 4 is to be rewritten to the staged arc below;
+Loops 5 and 6 are written. Spine, rules and continuity: ch03-plan.md.
 
-## Why
+## Why Loop 4 is being rebuilt
 
 Loop 4 reads as a scoreboard: Eros says the right line, a meter goes up,
 repeat. Five causes:
@@ -19,29 +17,6 @@ repeat. Five causes:
 4. The meter windows narrate the change instead of her behavior showing it.
 5. Eight loops in one chapter leaves each loop 5k to 8k words. The lesson
    loops (2, 5, 6) can live with that. The two full romances (4, 8) can't.
-
-## The split
-
-| Chapter | Title | Contains | Now | Target |
-|---|---|---|---|---|
-| 3 | The Lightning Queen | Opening, gifts, Loops 1 to 3 | about 30.5k | 31k to 34k |
-| 4 | The Knife and the Bandage | Loop 4 (full arc), Loop 5, Loop 6 | about 14.5k | 22k to 25k |
-| 5 | The Pin | Loop 7, Loop 8, settlement, waking | about 18.5k | 26k to 30k |
-
-- **Chapter 3** ends in the white after Loop 3: the hotel file, the new
-  option in the staff cottage, "Not yet," "The children's home." That's
-  already a chapter ending: he walks away from the door that will matter.
-  Loop 2 still needs the scene and death pass (its reset becomes a full
-  scene).
-- **Chapter 4** opens on the Loop 4 childhood (the mandarin box) with no
-  recap; the reader comes straight from Chapter 3. It ends in the white
-  after Loop 6, on "He was very brave. You'd never have done that." and the
-  new birth at the ME Corp institution.
-- **Chapter 5** opens with Loop 7 (Worn, the house next door) and runs to
-  the waking and the watch room. The soul stage sits at Torn going into
-  Loop 8, as now.
-- Nothing about the run changes: same births, deaths, soul budget, meters,
-  objectives and settlement. Only the space and the build.
 
 ## Rules for the full loops (4, 7, 8)
 
@@ -175,7 +150,7 @@ people who stayed.
 - **The white:** Worn, the walls of memory going dark, "Corruption feeds
   it," "Be the cure. Never the cause." Unlocks the house next door.
 
-## Loop 5 and Loop 6 (Chapter 4, short)
+## Loops 5 and 6 (short)
 
 - **Loop 5** stays about 3k to 4k, as now: Mrs. Okada, the arrest through
   the window, Kiana in the park, the snow, the truck. It works as a short
@@ -183,30 +158,38 @@ people who stayed.
 - **Loop 6** stays about 3.5k, as now: the childhood log and the last
   minute in the white.
 
-## Loop 7 (Chapter 5, about 9k)
 
-Same rules as Loop 4, lighter. Her want: to keep the dawn practice the one
-thing that's hers, and later, after Kiana leaves, to keep him. Add one failed
-move (the cousin's rumor comes back to him: Mochizuki's cousin tells Mei
-who started it, and Eros has to talk his way out). Add her father's letter
-from the detention center, which she reads to him in the dojo. Cut the
-meter windows to four.
+## Loops 4 to 6 as first planned
 
-## Loop 8 (Chapter 5, about 15k)
+#### Loop 4: "The Knife and the Bandage" (about 6k words)
 
-The same treatment. Her wants: to clear her father's name (she writes to
-his lawyer every week), to keep the club, to keep Kiana. Eros's failures:
-the first months he can't make Corruption move at all, because she trusts
-him completely and the trust carries her through everything (the opposite
-of Loop 4). He has to make her doubt the world without ever making her
-doubt him. Add ordinary days from the childhood they share (the ceiling
-tiles, the letters). Cut the windows to five.
+As written (scholarship, station, kendo manager; he breaks her down himself;
+Kiana, "You're the one who makes her sad"; the persona, "You're the one who
+made her small"). **Unlocks:** the house next door. **Lesson:** be the cure,
+never the knife.
 
-## What else changes when this is approved
+#### Loop 5: "The Fixed Node" (about 1.5k words)
 
-- ch03-lightning-queen.md is cut after Loop 3's white; Loops 4 to 6 move to
-  ch04, Loops 7 and 8 and the waking to ch05, with new titles.
-- ch03-plan.md keeps the spine, rules and Loops 1 to 3; ch04-plan.md and
-  ch05-plan.md take the rest.
-- tracker.md and the README list the new chapters.
-- Then Loop 4 is rewritten to this plan, and sent, before Loops 7 and 8.
+As written (Kiana, the snow, the truck on the ice). **Lesson:** a fixed node
+can't be stopped; what comes after it can be moved.
+
+#### Loop 6: "Nine" (about 3k words, mostly log lines)
+
+- **Nodes:** live it. The Raidens' housekeeper's son, Mr. HOMU's other
+  student at six, there when she's taken at nine.
+- The first time he gives up control. A real child lives it: a boy raised on
+  the estate, who learns the sword beside her from a man in a Homu
+  mascot suit, and who is in the back of the car with her and Mr. Tanabe one day in
+  2004.
+- **The kidnapping** is fixed. The child does what a brave, stupid nine-year-
+  old does with a bokken against grown men. He dies on the road. The log
+  lines are short and the scene is offscreen.
+- **The white:** he gets it all back at once, nine years of a childhood he
+  lived, and the last of it. The first time in the run he can't keep his
+  voice level.
+- **Lessons:** a lived history is real, and he can't steer the child who
+  lives it. The kidnapping can't be touched. But the three years after it
+  are a door.
+- **Unlocks:** a patient at the ME Corp institution.
+- **The System:** "He was very brave. You'd never have done that."
+

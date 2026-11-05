@@ -2,7 +2,11 @@
 
 Where things stand. Update after every chapter.
 
-## As of: end of Chapter 3 (February 5, 2014, dawn)
+## As of: end of Chapter 5 (February 5, 2014, dawn)
+
+Mei's heroine run spans Chapters 3 to 5: Chapter 3 (The Lightning Queen),
+Loops 1 to 3; Chapter 4 (The Knife and the Bandage), Loops 4 to 6; Chapter 5
+(The Pin), Loops 7 and 8, settlement and the waking.
 
 ### Eros's System
 
