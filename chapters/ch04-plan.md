@@ -108,6 +108,13 @@ lies that work are true things put side by side, or one bare word.
 ### Stage 5: the wall (December 16 to January)
 - Kiana; the corridor; the park warning backfires (Mei gives her the summer
   house); the call he doesn't make; Mei cooking for Kiana.
+- **January (what tips her early):** two boxes on the desk and his bread;
+  the meters haven't moved since December. He finds a true thing: Kiana said
+  at lunch she'll go wherever her father goes the day she finds him. "Ask
+  her." Kiana: "Punch him... And then go wherever he's going, I guess." The
+  light over the desk flickers. Mei starts checking on Kiana every day, and
+  holds Eros's sleeve ("You'd tell me. If you were going anywhere."). The
+  streetlights go out down the hill. The System: "Frightened's a meter too."
 
 ### Stage 6: the roof (late January)
 - The death, in full. **The white:** the System tells him what Ryoma said

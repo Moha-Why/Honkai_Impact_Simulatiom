@@ -760,6 +760,8 @@ I thought about the other thing, the simple one, for three nights running, on th
 
 I didn't make the call. Mei would have known in an hour who'd rung, the boy who'd told her at the bottom of the hill that the school would find out, and she'd have looked at me with that look she gave a sword when she was checking it for cracks, and found one.
 
+The lights in the Raiden house came on by themselves three more times before Christmas.
+
 ---
 
 She started cooking in January.
@@ -778,7 +780,67 @@ Every day after that there was another one. Two, by the end of the week. One for
 
 ---
 
-The lights in the Raiden house came on by themselves three more times before Christmas.
+By the middle of January there were two boxes on the desk every day, and I ate my bread.
+
+Kiana didn't notice. She ate hers and then the end of Mei's, and talked through all of it, about the three-legged cat, about a maths test she'd failed by a long way, about the summer house, which had a draft under the door that she'd stopped with a towel. Mei listened with her chopsticks still. Sometimes she laughed, behind her hand. Once she reached across and took a grain of rice off Kiana's chin without thinking about it, and then looked at her own fingers.
+
+The meters in the corner of my vision hadn't moved since December. She'd stopped looking at the door when I came into the room.
+
+So I went back to what had always worked on her, and found something true.
+
+On the Thursday, at the bottom of the hill, after Kiana had run on ahead to the side gate to get the heater going, I asked Mei whether Kiana had ever told her why she'd come to Nagazora.
+
+"Her father," Mei said. "She's looking for him."
+
+"Somebody told her he'd been seen here. That's all she has. A man at a station who said white hair." I watched Kiana's braids go up the hill and through the gate. "She said it at lunch on Monday, while you were getting the tea. She'll go the day she finds him, wherever he is. She didn't even stop to think about it."
+
+Mei didn't say anything.
+
+"She didn't say that to me," she said at last.
+
+"Ask her," I said, and said goodnight, and went back down the hill.
+
+---
+
+She asked her the next day at lunch. I was across the desk with my bread.
+
+"Kiana-chan," she said. "When you find your father, what will you do?"
+
+Kiana had her mouth full. She swallowed and thought about it, frowning, with her chopsticks in the air.
+
+"Punch him," she said. "Right in his stupid face. For leaving." She thought some more. "And then go wherever he's going, I guess. He's my old man." She went back to her rice ball. "Why?"
+
+"No reason," said Mei.
+
+"I'd come back for these, though," Kiana said, with her mouth full again, and held up what was left of the rice ball. "Obviously."
+
+Mei smiled at her. It was a very good smile. I'd seen her give it to teachers.
+
+The fluorescent tube over the desk flickered twice and buzzed and steadied.
+
+"Whoa," said Kiana, looking up. "Did you see that?"
+
+"It's an old building," said Mei.
+
+---
+
+After that she asked Kiana small things every day. Whether the heater in the summer house was working. What she wanted in her rice ball tomorrow, as if tomorrow were something that needed checking. Kiana answered all of it with her mouth full and never noticed she was being counted.
+
+At the bottom of the hill, on the Monday, Mei stopped me with her hand on my sleeve.
+
+"You'd tell me," she said. "If you were going anywhere."
+
+"I'm not going anywhere."
+
+It was true. She didn't let go of my sleeve until we'd reached the corner where I turned back.
+
+The lights came on in the house on the hill every night that week. On the Wednesday I stood at the bottom of her street at two in the morning and watched them come on, every window, and stay on. Then the streetlights along the hill brightened and buzzed and went out one after another down toward me, each with a small flat bang, until I was standing in the dark at the bottom with the glass from the last one on the pavement round my shoes.
+
+[You've frightened her,] said the System.
+
+*She's frightened of losing Kiana.*
+
+[Mm. And who told her she would?] A pause. [Frightened's a meter too, you know. I just don't put that one on your screen.]
 
 ---
 
