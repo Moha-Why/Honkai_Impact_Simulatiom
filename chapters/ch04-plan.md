@@ -33,122 +33,86 @@ repeat. Five causes:
 - **Ordinary days.** Some scenes don't turn anything. A lunch where nothing
   happens. A walk in the rain. They're what make the turns feel earned.
 
-## Loop 4: "The Knife and the Bandage" (about 14k words)
+## Loop 4: "The Knife and the Bandage" (about 13k words, as written)
+
+**Chapter opening:** a short passage in the white after Loop 3. Status
+window (Frayed, three loops), what the three deaths took, the rules, and his
+plan: this time nobody does it for him.
 
 Born at the port children's home. Scholarship, the apartment by the
-station, kendo club manager, September. He breaks her down himself. Meters
-across the loop: Affection Stranger to Close; Trust Wary to Open, then
-stuck; Corruption Untouched to Compromised.
+station, kendo club manager, September. He breaks her down himself. Meters:
+Noticed and Polite (Stage 1), Friendly (Stage 2), Trust Open on the Monday
+after the arrest, Close and Bending (Stage 3), Compromised (Stage 4). Trust
+then sticks at Open.
 
-**Mei's own wants in this loop:** to be captain in her last year and win
-something that isn't her father's name; to get her father to one match;
-after the arrest, to prove he's innocent and keep the club; to keep the
-people who stayed.
+**Rule for this loop (from the user's notes on the first draft):** Mei is
+the Lightning Queen and gives nothing away for free. She never confides in
+one exchange. Eros learns most private things by watching, not by being
+told. His lies have to survive her, and she reads words, not faces, so the
+lies that work are true things put side by side, or one bare word.
 
-### Stage 1: the bench (September, about 2k)
+### Stage 1: the bench (September)
+- The Queen: a second-year's letter at the shoe lockers ("Thank you. I am
+  not looking for anything of that kind."). Polite to everyone, warm to no
+  one in the school.
+- The hall, the job, the forms. Rin tells him about the dawn practice (five
+  in the morning since she was six) while he tapes her wrist.
+- The first-years' cords: twenty laps, "learn to do it right." Tomo: "She
+  made a second-year cry last spring."
+- **His mistake:** a page in the record book on the captain alone. "What
+  do you want?" "A reason to be somewhere." The far end of the bench.
+- **The correction:** he writes pages for all thirty-one girls. Rin admits
+  Mei asked her to watch him and shows Mei the pages. "Come back to your
+  end. The draft's bad down here." (Noticed, Polite)
+- She laughs only with Tanabe, at the car.
 
-- **He tries:** the manager's job as access. He's very good at it (forms,
-  tape, shinai).
-- **She tests him:** she's turned down twelve boys; another boy using the
-  club to get near her is the most ordinary thing in the world. She has
-  Rin watch him, and one evening leaves a deliberately wrong score in the
-  record book to see if he copies it out to please her or corrects it.
-- **It backfires:** he corrects it too fast, with the technique named, and
-  she decides he's been watching her, not the club. "What do you want?"
-  She moves him to the far end of the bench for a week and won't speak to
-  him.
-- **Her own life:** the empty house, the three-tier box from the cook,
-  Tanabe at the walkway (he hears her laugh with the old man and never with
-  anyone in the school).
-- **Ordinary day:** the first-years teaching him to tie armor cords wrong
-  as a joke.
-- **The shift:** he does the job for a week at the far end of the bench and
-  never once looks at her end. She comes back to the bench herself. The
-  record-book scene ("You've been watching my men"). Window: Friendly,
-  Polite.
+### Stage 2: the corridor (October)
+- Footwork in the corridor ("If you're going to do it in my corridor, do
+  it properly").
+- The October assembly announces her father's scholarship and makes him
+  stand. "Did he send you? To watch me?" He tells the truth, the 2003
+  test. "Did he say anything else?" "No." She gives nothing back. The next
+  evening she leaves her side open on purpose in a bout and looks at the
+  bench: a joke.
+- She asks her father to the Kobe match; the empty seat; twenty minutes of
+  silence on the steps; her hand on his shoulder. (Friendly)
 
-### Stage 2: the corridor (October, about 2k)
+### Stage 3: the bandage (November)
+- The arrest; Monday; "Please." (Trust Open)
+- He sees her at the station with an accountant's file box and a law firm's
+  envelope; she says nothing. He goes to the accountant's office himself and
+  reads the notice on the glass. She goes back to the lawyer on Monday.
+- Thursday, the steps: "They were never your friends." She doesn't believe
+  him and asks Sayaka on Friday; Sayaka sits with her. Monday, a rumor to
+  Emi about the police; Tuesday, Sayaka leaves again. Natsumi heard him.
+- The board letter in Rin's copy; the vote; the resignation. "Mei. You may
+  as well use it." (Close, Bending)
 
-- **Her want:** the autumn match against the Kobe school. She asks her
-  father to come; he says he'll try.
-- **He tries:** being caught doing the footwork badly; the scholarship
-  conversation; true things about the home.
-- **She resists:** she checks his story. She asks Mr. Fujita about the
-  scholarship and finds out her father set it up. For a day she thinks Eros
-  was placed near her by her father, and is cold to him.
-- **The match:** her father doesn't come; she wins anyway; on the steps she
-  says nothing at all, and Eros, for once, says nothing too, and it's the
-  first thing that works without a line.
-- **The shift:** the dawn ("It's the only time it's quiet." "Quiet from
-  what?" "From being looked at."). Window: Open.
+### Stage 4: the knife (December)
+- The receiver: staff gone, the car gone. Tanabe rings every evening; the
+  voice with the laugh in it.
+- The rainy lunch: convenience-store rice balls laid in the lacquered box.
+  "That was nice."
+- Tanabe: rehired by ME Corp's car pool. Eros puts two true things side by
+  side and says "Go and look." She watches the old man open a door for a new
+  director. (Compromised; "You didn't even lie.")
+- The visit, alone. "How was he?" "Thin." Then, "Do you want something from
+  me?" "No." One word with nothing in it to read.
+- The days away and her messages. The snow ("There's something wrong with
+  me"), the house blazing at 2 a.m.
+- Natsumi tells Mei the truth at the shoe lockers; Mei: "Please don't come
+  closer now to tell me who else I should stay away from."
+- The thunderstorm story: "Why are you telling me this?" Trust stuck, and
+  he doesn't know why.
 
-### Stage 3: the bandage (November 16 to the end of November, about 3k)
+### Stage 5: the wall (December 16 to January)
+- Kiana; the corridor; the park warning backfires (Mei gives her the summer
+  house); the call he doesn't make; Mei cooking for Kiana.
 
-- The arrest from the street; Monday, the desk, "Please don't sit here."
-  Window: Close.
-- **Her want:** to prove he's innocent. She goes to her father's lawyer on
-  her own, and to the house's accountant, and comes back with nothing but
-  "these things take time."
-- **He tries the knife:** "They were never your friends."
-- **She pushes back:** she doesn't believe him. She goes to Sayaka and asks
-  her straight out, and Sayaka, ashamed, sits with her at lunch the next
-  day.
-- **He has to act:** Sayaka coming back would close the funnel. He tells
-  Sayaka's friend, offhand, that the police have been asking the Raiden
-  girl's friends about the money, and on Thursday Sayaka goes back to her
-  table. Mei watches her leave a second time, which is worse than the
-  first.
-- **It costs:** Natsumi saw him talking to Sayaka's friend and starts
-  watching him.
-- **Her want, the club:** she drafts a letter to the board and asks Rin to
-  stand with her. The record book with the three calls; the vote coming;
-  the resignation she writes twice. Window: Bending.
-
-### Stage 4: the knife (December, about 3k)
-
-- **The old man:** the Tanabe lie. **She resists:** "How do you know?" He
-  has to give her proof, so he takes a page from the club's correspondence
-  file with a phone number on it and tells her it's the number Tanabe rang
-  on the morning of the arrest. Liar's Face holds. It's the biggest risk he
-  takes in the loop. She stops answering Tanabe's calls. Window:
-  Compromised.
-- **The trick:** the days he stays away, her messages on his phone, "You're
-  here." She doesn't ask where he's been.
-- **Her own life, the visit:** her visiting form finally goes through and
-  she goes to see her father, alone, because Eros made sure he was busy.
-  Through the glass Ryoma tells her not to let anyone near her who wants
-  something from her. She comes back quiet.
-- **Why Trust is stuck:** her father's words. Every time Eros is kind, she
-  measures it against them. He tries for two weeks to move it: kindness
-  with nothing taken back, the thunderstorm story. She flinches at the
-  kindness. "Why are you telling me this?" The meter doesn't move, and now
-  the reader knows why and he doesn't.
-- **Ordinary day:** a lunch where she shares her box with him without a
-  word and they don't talk, and it's the warmest scene in the loop.
-- The snow at the bottom of the hill ("There's something wrong with me").
-  The house blazing white at 2 a.m.
-
-### Stage 5: the wall (December 16 to January, about 2.5k)
-
-- Kiana enrolls; "Mei-senpai's mine to sit with now, too." The corridor
-  ("You're lying. Your face is weird").
-- **He tries:** to make Mei see Kiana as one more person who'll leave, the
-  way he did with Sayaka. **It fails:** Kiana doesn't leave. She comes back
-  every day, louder.
-- **He tries again:** he considers reporting her (no address, no papers),
-  and stops, because Mei would see the shape of it. Kiana sits between
-  them at every lunch.
-- **Mei's own life, the cooking:** Mei starts making a box for Kiana, and
-  it's terrible, and Kiana eats it all. Mei's never cooked for anyone. It's
-  the one thing in her life Eros didn't put there, and he can't reach it.
-- **The Gem:** lights, the streetlights, the readings nobody can see.
-
-### Stage 6: the roof (late January, about 1.5k)
-
-- A week early. The roof, Kiana with the pistols, the persona ("You're the
-  one who made her small"). The full death as now.
-- **The white:** Worn, the walls of memory going dark, "Corruption feeds
-  it," "Be the cure. Never the cause." Unlocks the house next door.
+### Stage 6: the roof (late January)
+- The death, in full. **The white:** the System tells him what Ryoma said
+  through the glass ("Anyone who comes close now wants something") and why
+  Trust never moved. "Then she can't see me want anything."
 
 ## Loops 5 and 6 (short)
 

@@ -51,6 +51,15 @@ Check these before planning a chapter and again before sending it.
   whoever is standing next to them, unless the scene is about that
   unfairness and treats it as such.
 - **Prices are clear:** who's paying, for what, and who named it.
+- **Disclosures are earned.** A guarded character doesn't confide in one
+  exchange. Each private thing she gives costs her something and fits what
+  she knows of him by then. Most of what Eros learns about a guarded
+  heroine, he learns by watching. If she would never tell him, he finds out
+  another way, or not at all.
+- **Lies have to survive the listener.** Mei reads words, not faces, so
+  Liar's Face only hides his face. A lie that works on her is built from
+  true things, or is too short to read. Check every lie against how that
+  character actually tests things.
 
 ## Staging
 
