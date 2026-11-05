@@ -1,7 +1,7 @@
 # Chapter 4 plan: The Knife and the Bandage (Mei's run, part 2 of 3)
 
-Status: approved plan v4. Loop 4 is to be rewritten to the staged arc below;
-Loops 5 and 6 are written. Spine, rules and continuity: ch03-plan.md.
+Status: written to plan v4 (Loop 4 about 12k words, the six stages below);
+Loops 5 and 6 as before. Spine, rules and continuity: ch03-plan.md.
 
 ## Why Loop 4 is being rebuilt
 
