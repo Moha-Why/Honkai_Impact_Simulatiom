@@ -3153,11 +3153,9 @@ I didn't have the stomach for it. I'd watched one childhood in that city end on 
 ```
 [1995 to 2013, April. The same as the fourth file. The mandarin box, the table you hid under, the man in the plain suit, Daichi, Haru at the gate, the noodle stall, the pencils, the exam.]
 [2013, April 13.]
-[2013. Where do you live, and what do you do after school?]
-The apartment by the station / A room in the empty house next to the Raidens' / A room at the home, until they need the bed
-None / Kendo club (manager) / Kendo club (member)
-September / October
 ```
+
+[Same question,] said the System. [Where do you live? The station, the house next door, the home. And after school, the club or nothing. September or October.]
 
 The club was the only one I had to think about. The manager's bench had worked in the fourth file. It had got me Open by November, and it had given me a reason to be near her that she could see. But the dojo was a door into her mornings, and the hall was a door into her afternoons, and a boy who came through both of them every day was a boy who'd planned it. I'd learned that one in a garage.
 
@@ -3209,14 +3207,31 @@ I sat properly. I didn't talk. She went back to the post, and I watched her stri
 
 "Same time tomorrow, if you're awake," she said, and went into the house.
 
-```
-[2013, September. You watch Raiden Mei practice at dawn in her father's dojo. Most mornings. Not every morning.]
-[2013, September. You learn to sit for an hour without moving. Your knees hate it.]
-[2013, October. She shows you how to hold the sword. "Not like a bat. You're not hitting a ball." You get it in a day. Your arms give out after twenty strokes. (Quick Learner)]
-[2013, October. Trust: Open.]
-```
+I came most mornings after that. Not every morning. That was the rule from the garage, the small one in my own handwriting. I came four days in five, and on the fifth I lay above the wall in the dark and listened to the post alone, and on the sixth morning, when I came round to the gap in the hedge, she'd look up from the post a little faster than she needed to.
 
-I never came every morning. That was the rule from the garage, the small one in my own handwriting. I came four days in five, and on the fifth I let her practice alone, and on the sixth morning when I came she'd look up from the post a little faster than she needed to.
+The sitting was the worst of it at first. An hour on my knees on the cold boards with my back straight and my hands on my thighs, not moving, while she worked. In the first week my knees went numb after twenty minutes and then came back, in the second half of the hour, as two separate fires, and I knelt there in the gray light with sweat running down my back in the cold and didn't move, because she'd said not to, and because she'd have seen.
+
+"Your shoulders," she said once, without turning round from the post. "You're holding them up by your ears. Let them down. Nobody's going to hit you."
+
+I let them down.
+
+In October she stopped after the set one morning and stood looking at me with the sword in her hand.
+
+"Stand up," she said.
+
+I stood up, which took a while.
+
+She held the sword out to me, handle first. It was heavier than it looked. I took it in both hands, as you'd take a bat, and she made a small noise through her nose that in anyone else would have been a laugh.
+
+"Not like a bat," she said. "You're not hitting a ball." She came and stood beside me and moved my hands on the grip with two fingers, the left down to the very end, the right loose under the guard. "The left does the work. The right only steers. Again."
+
+I had it in a day. My hands knew where to go the next morning before she'd said anything, and she looked at them on the grip for a long moment, as if they'd done something rude. My arms were another matter. I got twenty strokes at the post before my shoulders gave out and the tip of the sword started wandering in the air like a drunk's finger, and she took it back out of my hands without a word and finished the set herself.
+
+```
+Raiden Mei
+Affection: Friendly
+Trust: Open
+```
 
 It was the most honest thing I'd done in six files. I didn't tell her anything I knew. I didn't tell her anything at all, most days. I sat on my knees on the cold boards with my back straight while she worked, and my knees screamed, and the sky came up, and sometimes she talked and mostly she didn't.
 
@@ -3229,14 +3244,23 @@ I let that sit until she'd finished the set.
 She looked round at me sharply. Then she went back to the post, and she didn't say anything else that morning, and when she bowed at the end she held it a little longer than usual.
 
 ```
-[2013, November. Affection: Close.]
+Raiden Mei
+Affection: Close
 ```
 
 ---
 
 After the sixteenth of November, I handed the knife to other people.
 
-I didn't have to look far. Kuroda Shun was in 3-B and had been waiting since the spring for exactly this, and he had a friend called Mochizuki who would repeat anything you told him to anyone who'd stand still long enough, and Mochizuki had a cousin in my class who sat behind me. So the cousin heard things, from me, in passing, as you'd mention the weather. That she'd been seen going into the detention center on Saturday. That the house on the hill had the electricity cut off for an afternoon. That she still had a servant-made bento in a lacquered box, so somebody was still paying for something.
+Kuroda Shun was in 3-B and had been waiting since the spring for exactly this, and he had a friend called Mochizuki who would repeat anything to anyone who'd stand still long enough, and Mochizuki had a cousin in my class who sat behind me and ate his lunch at his desk.
+
+"Did you see the Raiden girl's box?" I said to the cousin on the Tuesday, turning round in my chair with my bread. "The lacquered one. Still three tiers."
+
+He looked up. "So?"
+
+"So somebody's still making it for her. Every morning. Somebody's still being paid." I turned back round. "I'd heard everything was frozen. That's all."
+
+That was all. I didn't say anything else about her that week. I didn't need to.
 
 Two days later, Kuroda stood up in the cafeteria with his tray and said, loudly enough for the whole room, "Hey, Queen. Who's paying for your lunch now?"
 
@@ -3253,21 +3277,41 @@ I wasn't there. I'd made sure I was somewhere else. I found her twenty minutes l
 "I know you," I said. "That's enough to go on."
 
 ```
-[2013, November. Raiden Mei stops bringing the lacquered box to school.]
-[2013, November. Corruption: Bending.]
+Raiden Mei
+Corruption: Bending
 ```
 
-It went on like that for a month. I fed things down the line to Mochizuki's cousin, small things, the things you'd mention, and they came back up the line as Kuroda in a corridor, or the desk with the word on it, or her indoor shoes in the bin by the gym. Once I left her history notebook on a desk at the back of the classroom where Sayaka would find it, with a page in it where she'd written her father's name in the margin over and over in very small handwriting, and Sayaka found it and read it out to her friends at lunch in a sad voice, and they laughed.
+---
 
-Each time, I was somewhere else when it happened. Each time, I was there afterward.
+In the first week of December her history notebook went missing from her desk.
 
-On the steps. At the bottom of the hill. In the dojo in the morning, where she'd started to strike the post so hard that the straw split.
+It turned up at lunch, on a desk at the back of the classroom by the window, where I'd left it that morning before anyone came in, open at a page near the end. Sayaka found it. I watched her find it from my seat. She picked it up, and turned it over to see whose it was, and looked at the page it was open at, and her face did something soft and delighted, and she carried it over to her table by the vending machines, holding it in both hands like something that might spill.
 
-She stopped saying "Please don't sit here" to me in the second week. She still said it to everyone else.
+"Oh, no," she said to her friends, in a sad voice. "Look. Isn't that awful."
+
+Down the margin of the page, in very small handwriting, over and over, down past the notes on the Meiji Restoration, Mei had written her father's name. Raiden Ryoma. Raiden Ryoma. Raiden Ryoma. Forty times. Fifty. As you'd write a word when you're checking you still know how to spell it.
+
+Sayaka read it out. Not the whole thing. Just the name, again and again, in a little sing-song, and the table laughed, and somebody said "Daddy's girl," and they laughed again.
+
+Mei was at the door. She'd come back early from wherever she'd gone. She stood in the doorway for perhaps three seconds and heard it, and then she walked across the room to Sayaka's table, very straight, and held out her hand, and Sayaka put the notebook in it, still smiling. Mei closed it, and put it in her bag, and walked out again.
+
+I found her in the dojo that evening. I'd never come in the evening before. She was striking the post so hard that the straw had split and was coming out of the binding in tufts, and when she saw me in the doorway she stopped, with her chest going up and down, and the sword in both hands.
+
+"I didn't leave it there," she said. "I didn't leave it there. I never leave it."
+
+"I know."
+
+"Somebody took it."
+
+"Somebody did," I said, and came in, and took the sword out of her hands, gently, the left hand at the end and the right one only steering, as she'd taught me, and put it on the rack.
+
+She stopped saying "Please don't sit here" to me in the second week of December. She still said it to everyone else.
 
 ```
-[2013, December. Trust: Confides.]
-[2013, December. Affection: Fond.]
+Raiden Mei
+Affection: Fond
+Trust: Confides
+Corruption: Bending
 ```
 
 [You're so good at this,] said the System one evening in December, as I lay on the floor of the room above the wall and listened to the trains in the distance. [I mean that. I've watched a lot of people, Eros. Most of them have to learn it.]
@@ -3317,10 +3361,19 @@ It was the same lie I'd told her in the other file, word for word, the bar in Sa
 
 This time there was no snow.
 
-```
-[2013, December 22. Kiana Kaslana takes the night train north to look for her father.]
-[2013, December 22. She leaves a note for Raiden Mei with the school office. "Noodle guy found my stinky old man!!! Back soon!!! Save me lunch, Mei-senpai!!!"]
-```
+On the Sunday evening I walked her to the station. She had her school bag on her back and nothing else, and the envelope inside her shirt, and she stopped at the school office first, on the wrong side of the hill, because she said she had to leave something for Mei-senpai and the office was the only place in the city with Mei-senpai's name on a box.
+
+She wrote the note sitting on the step outside the locked office door, with my pen, on a page torn out of the back of her maths book, with her tongue between her teeth.
+
+"Is this okay?" She held it up for me. NOODLE GUY FOUND MY STINKY OLD MAN!!! BACK SOON!!! SAVE ME LUNCH, MEI-SENPAI!!! "Is three enough? Of the..." She waved her hand at the exclamation marks. "She'll know I mean it if there's three."
+
+"Three's enough."
+
+She folded it in four and pushed it through the slot in the office door and listened to it land, and then she stood up and looked at me in the dark with her breath smoking.
+
+"You're kind of creepy," she said. "You know that? Your face doesn't do anything." She hitched her bag up. "But you found him. Nobody else ever even looked." Then she hugged me, hard, all at once, with her chin on my shoulder, as a dog jumps up at you, and let go before I'd done anything at all.
+
+At the station she bought a can of hot tea from the machine with my change and held it in both hands on the platform till the train came in. She waved from the window. She was still waving when the last carriage went into the tunnel.
 
 She didn't come back. I didn't know if the bar existed in this file, or if the man on the phone would tell her the same thing, or what she'd do when he did, and I didn't think about it very much. Using it on Kiana had cost me nothing I could see.
 
@@ -3373,13 +3426,30 @@ The Trust meter dropped a whole step while I stood there. Corruption jumped one 
 
 She started to keep me after that.
 
-There isn't a better word for it. She was waiting at the gap in the hedge every morning when I came, instead of in the dojo. She was waiting at the gate of the school in the afternoon, and at the bottom of the hill, and once, at seven in the evening, at the front door of the old woman's house, in her coat, without having rung the bell. She asked where I'd been if I was late. She asked who I'd been talking to. When Mrs. Okada asked me at breakfast if I'd like her to wash my school shirts with hers, Mei, who'd come round to walk to school with me and was standing in the hall, said, "He does his own," before I could answer, in a voice that made the old woman look at her and then at me and then go back into her rooms and shut the door.
+I came round to the gap in the hedge on the morning after Christmas and she was already standing in it, outside the dojo, in her coat, waiting for me, with the lamp lit behind her and the sword not even out of its rack. She'd been there since four. Her hair had frost on it.
+
+"You're late," she said.
+
+"It's five."
+
+"You're usually here at five to." She looked at my face, carefully, as if checking it for marks. "Where were you?"
+
+That was the first morning. After it she was waiting at the gate of the school in the afternoon, and at the bottom of the hill, and on the thirtieth of December, at seven in the evening, at the front door of the old woman's house, in her coat, without having rung the bell. I opened it to put the rubbish out and she was standing on the step in the dark.
+
+"I wanted to see if you were in," she said.
+
+On the second of January Mrs. Okada asked me at breakfast if I'd like her to wash my school shirts with hers. Mei, who'd come round to walk to school with me and was standing in the hall in her coat, said, "He does his own," before I could answer, in a voice I'd never heard her use on an old woman, the Lightning Queen's voice, polite and final, a door shut without a crack. Mrs. Okada looked at her, and then at me, and then she went back into her rooms and shut her own door.
 
 She stopped sleeping. I could hear it from my room above the wall, the bokken on the post at two in the morning, at three, at four. The lights in the Raiden house came on by themselves almost every night now, all of them at once, and stayed on till dawn, and the streetlights on our road had started to come on with them.
 
 ```
-[2014, January 3. Corruption: Fallen.]
-[World. Fate Deviation: Collapse risk.]
+Raiden Mei
+Corruption: Fallen
+```
+
+```
+World
+Fate Deviation: Collapse risk
 ```
 
 It came up on the third of January, in the dojo, while she was holding my sleeve at the end of practice and telling me in a perfectly ordinary voice that she'd thought about it and she didn't think I should go back to school after the holiday, because there were too many people there, and she could teach me everything I needed to know herself. I looked at the meter in the corner of my vision and something in me went very cold and very clear.
@@ -3392,7 +3462,19 @@ Fallen was the top. It was the line on the screen the System had sold me in the 
 
 [It's never too early for something wonderful.]
 
-I tried to slow it down. I came less, and she came to me. I talked about the others, Rin and the kendo club and Mr. Fujita, and she listened politely and didn't say anything, and that night every streetlight on the hill came on at once at two in the morning and stayed on. I told her it was all right to be afraid. She said she wasn't afraid of anything anymore, except one thing, and she didn't say what, and she didn't have to.
+I tried to slow it down.
+
+The next morning I didn't go to the dojo. I lay on the futon above the wall at five and listened to the post, crack and crack, and at five past, it stopped. At ten past there was a knock at the old woman's front door, very soft. I didn't go down. At a quarter past the post started again, much harder.
+
+At school I talked to her about other people. I'd never done it before. Rin, who'd asked after her in the corridor. Mr. Fujita, who'd been kind about her history mark. The kendo club, which had lost its first match since she'd stopped going. She listened to all of it politely, with her hands in her lap, as she listened to teachers, and when I'd finished she said, "Yes," and nothing else.
+
+That night every streetlight on the hill came on at once at two in the morning and stayed on.
+
+On the steps at the bottom of the hill the next evening I told her it was all right to be afraid.
+
+"I'm not afraid of anything any more," she said. She looked up the hill at her dark house, and the streetlights flickering along the road to it. "Except one thing."
+
+She didn't say what it was. She didn't have to.
 
 ---
 
@@ -3423,6 +3505,26 @@ I didn't move. I'd been ready for something like this since the third of January
 It laughed. It was Mei's laugh, the small surprised one I'd heard once in the cafeteria, when Kiana had put Kuroda over a desk.
 
 "Go?" it said. "Everything dies tonight. The whole city. Can't you feel it? Everything she ever looked at." It put its hand flat on my chest, over my heart, very gently, as you'd touch something you'd bought. "I'm not letting it have you."
+
+The current came out of its palm into me.
+
+It wasn't like the roof. On the roof the lightning had come all at once from across the concrete, and opened me, and let go. This didn't let go. It came in through my breastbone under her flat warm hand, slowly, and it stayed, and it filled me up from the middle outward as water fills a jar, my heart first, then my lungs, then my arms, out to the fingers.
+
+My heart stopped trying to beat its own rhythm and beat hers instead. I could feel it happen. One, and one, and one, slow and enormous, as if somebody else were pressing it like a pump.
+
+"There," it said, very softly, with Mei's mouth an inch from mine. "Now you're keeping time with me."
+
+My eyes went next. The dojo went white, the lamp and the rack and the post with its split straw and the open doors with the garden beyond them full of hissing frost, all of it washed out into one white sheet, and then the white burned brown at the edges like paper held to a candle, and then there was nothing in front of me at all. I'd spent my last second of seeing on her. I was glad of that, in a far-off way, and then too tired to be glad.
+
+I could still hear. Out in the city, a long way down the hill, something huge was waking up, a roar under everything like the sea coming in under a pier, and car alarms going off one after another in a long line, and somewhere a siren starting up and then stopping, all at once, as if it had been cut.
+
+Its other hand came up and touched my face. It traced my eyebrows, and my mouth, slowly, as you'd go over a thing you owned to see that it was all there.
+
+"She'd have liked to do this," it said. "She never dared." The beat in my chest slowed. One. A long, long gap. One. "Sleep. I'll keep you. I'll keep you in here with her, where nobody can take you away, and you'll never be late again."
+
+I tried to say her name. I don't know which one I meant.
+
+The next beat didn't come. Its hand stayed flat on my chest, warm, keeping me, and the roar came up the hill, and I went down into the dark with her time still in me, slower, and slower, and then no time at all.
 
 ---
 
