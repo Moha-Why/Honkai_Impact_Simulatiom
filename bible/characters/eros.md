@@ -119,7 +119,8 @@ each other for the whole story:
   dry, a fan's references and an engineer's metaphors, never a thug's
   catcalling. In the Mei run it tracks his soul (see world-fashion.md).
 - **Loop 1 of the Mei run is the fan at his warmest:** he confesses to her
-  every day for thirty days, honestly, and loses it all by being kind with
-  what he shouldn't know.
+  every school day, honestly, and never uses game knowledge on her. She
+  doesn't move until her father's arrest leaves him the only one still
+  asking. He dies for trying to stop that arrest.
 - **Moral line:** dark. Whatever gets him stronger and keeps him alive is
   on the table; he only holds back when it would cost him more than it gains.

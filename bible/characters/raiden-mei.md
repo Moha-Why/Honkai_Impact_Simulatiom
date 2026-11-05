@@ -159,13 +159,13 @@ needs at least five of eight, plus In Love and Fallen.
 ## In Chapter 3 (Mei run: eight loops)
 
 - **Loop 1:** the fan confesses every school day from his second week, each
-  time naming one true thing he's seen her do. "I'm sorry. No." The school
-  calls him the lightning rod. By day thirty she's at Friendly and Polite and
-  asks him why ("I get to say it to you"). After a friendly match her father
-  doesn't come to, he comforts her with her mother and Mr. HOMU. "How do you
-  know that name?... Who sent you?" Trust Wary, "Don't come to my desk
-  again." He stops three weeks before the arrest, so "the last one standing"
-  can't complete.
+  time naming one true thing he's seen her do, never anything from the game.
+  Before the arrest she stays the Lightning Queen: "I'm sorry. No.", the
+  same forty seconds every day, Noticed and Wary at most. After November 16
+  every other boy stops and he doesn't; she starts looking at him when she
+  says no, reaches Friendly and Polite by December, and asks him why ("I get
+  to say it to you"). He dies on December 12, before she starts waiting for
+  it, so "the last one standing" doesn't complete.
 - **Loop 2:** he's Tanabe's nephew, her friend from six. He tells her father
   about the burst bulb at thirteen. "You promised." Five years of silence.
   In October 2013 he tells her who Mr. HOMU is. "You kept his. I lied to

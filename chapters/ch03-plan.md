@@ -88,22 +88,23 @@ the fight), the password (every Sunday for seven years; the audit finds
 it), stay with the grandmother, the harbor (Low D holds; Mormor gets Honkai
 sickness looking for him), the pen pal (Kuroda, his friend in 3-B, who
 writes on her desk), and hiding her forgetting (the stove, the hip). After
-18 he plays it as the fan, the warmest he ever is. He arrives in September
-and confesses every school day from his second week, saying one true thing
-he's seen her do each time, never anything from the game. "I'm sorry. No."
-3-B calls him the lightning rod and Kuroda runs a book on him. Her no's
-soften (a particle corrected, "Sorry. Go on"), and by day twenty-three she
-asks why. On a Saturday at the end of October her father misses her
-friendly match, and on the steps behind the hall he comforts her with her
-mother and Mr. HOMU. "Who sent you?" Trust back to Wary, "Don't come to my
-desk again" (day thirty). He stops three weeks before the arrest, so the
-last-one-standing objective can't complete. Then, out of love, he tries to
-save her father (the laptop, the call to Ryoma, the folder to Hoshino Kei),
-plans to tell her through the gate, and the gray car kills him. The cruel
-"Is that all?" test from the old draft is cut; the System gives him the
-Corruption rule in the white. It also tells him he'd have been the only one
-still at her desk by Christmas, which is why Loop 8 confesses daily. **Unlocks:** kendo manager; Tanabe's nephew (birth).
-**Lesson:** never use what he knows on her, not even to be kind (what he sees works, what he knows kills it); Cocolia's people kill diggers.
+18 he plays it as the fan, the warmest he ever is, and he never uses
+game knowledge on her. He arrives in September and confesses every school
+day from his second week, saying one true thing he's seen her do each time.
+3-B calls him the lightning rod and Kuroda runs a book on him. Before the
+arrest she doesn't move: "I'm sorry. No.", forty seconds, every day
+(Noticed, Wary). In October the System tells him to wait for November; he
+refuses to wait for her father's arrest and tries to stop it (the laptop,
+an evidence-only call to Ryoma with no names, the folder to Hoshino Kei).
+The node holds. After November 16 every other boy stops and he doesn't, and
+only then do her meters move (Friendly, Polite by December; "She reads what
+people say, and who's still saying it"). The route thought and "There he
+is" come here. She asks why at the car. After the audit he decides to stop
+digging, and the gray car kills him the next day. In the white the System
+tells him she'd have been waiting for him in another week or two, which is
+why Loop 8 confesses daily. "The last one standing" never completes: she
+isn't waiting yet. **Unlocks:** kendo manager; Tanabe's nephew (birth).
+**Lesson:** never use what he knows on her (he didn't, and it was the one thing he got right); Cocolia's people kill diggers.
 
 ### Loop 2: "Reroll" (about 1.5k words)
 
