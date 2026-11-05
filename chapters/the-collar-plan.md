@@ -52,10 +52,17 @@ left of his soul, and she does it without asking why.
 
 ## Rules for this loop
 
-- **Nothing sexual on the page** (content-rules.md; Corruption is
-  non-explicit, gifts-and-rewards.md). The pet is control, not sex: her
-  food, her sleep, permission, who she may speak to, her name, the tag,
-  kneeling, waiting.
+- **Sexual up to the moment, never explicit** (gifts-and-rewards.md,
+  Heroine runs). The pet is control first: her food, her sleep,
+  permission, who she may speak to, her name, the tag, kneeling, waiting,
+  what she wears. Her devotion can include her body, on the page up to the
+  moment and off the page after it, and always her choice on the page. Two
+  limits in this loop:
+  - **Never the mouth.** The first kiss is an objective, and he's saving it
+    for the node. He can take everything else without ending the run, and
+    the kiss he keeps back is part of the leash.
+  - **Nothing while it's awake.** When the Herrscher has her, Mei can't
+    choose, so nothing sexual happens.
 - **No objective completes.**
   - The kiss: he holds it back as his last move, saved for the node, when
     every meter is at the top. The gray car comes first.
@@ -170,18 +177,22 @@ Everything up to "How do I stop it ending like that?" stays. Then:
 - **The wardrobe (December 14 and 15):** she has the mended harness and her
   coat; the tailored sets went on the third day (lots one hundred and fifty
   to one hundred and seventy-three). He spends the boy's savings at the pet
-  shop (a big-dog harness in red webbing, a leash), the secondhand shop
-  under the arches (a white vinyl bodysuit that covers everything) and the
-  hundred-yen shop (a clear raincoat, purple tape), and brings the boy's
-  apron from the noodle stall. In her bedroom he cuts the bodysuit to a
-  design from the folder while she watches. "Not at school. You agreed."
-  "You said not at school. These are clothes." She can't find the gap in her
-  own words: "I should have said it properly." She hems his cuts. "Is this
-  what you want to look at?" "Yes." "Then I will wear it." "They'll laugh,
-  and I'll know who chose it, and they won't." The apron is for cooking,
-  "Only you." The raincoat is for the gate, so he can see her from his
-  window. She holds out the leash, clip first: "Outside the gate." Outfits:
-  image-prompts-world.md, Mei 6 to 9.
+  shop (two big-dog harnesses in red webbing for the straps, a leash, two
+  small-dog collars for her wrists), the secondhand shop under the arches
+  (a white vinyl bodysuit that covers everything) and the hundred-yen shop
+  (a clear raincoat, purple tape, pasties shaped like dog bones), and
+  brings the boy's apron from the noodle stall. In her bedroom he cuts the
+  bodysuit down to two strips and a seat while she watches, and cuts his
+  name across the seat ("Every picture in the folder had been signed").
+  "Not at school. You agreed." "You said not at school. These are clothes."
+  She can't find the gap in her own words: "I should have said it
+  properly." She hems his cuts, the letters too, and keeps the offcuts.
+  "Is this what you want to look at?" "Yes." "Then I will wear it." EROS
+  reads as a rude word in Japanese: "They'll read that as a word... And
+  I'll know it's a name, and they won't." He cuts the apron down to a bib,
+  for cooking, "Only you." The raincoat is for the gate, so he can see her
+  from his window. She holds out the leash, clip first: "Outside the
+  gate." Outfits: image-prompts-world.md, Mei 6 to 9.
 
 ## Stage 4: Terms (December 16 to 25)
 
@@ -229,7 +240,8 @@ Everything up to "How do I stop it ending like that?" stays. Then:
 - **Cooking for one.** One box at lunch, his. She eats after him. Kiana,
   broke, watches it. "Mei-senpai... is that egg?" "It's his."
 - **An ordinary day.** Dinner in the Raiden kitchen, at a table with lot
-  seven on its leg. She cooks; he eats and says nothing; she watches him
+  seven on its leg. She cooks in the cut-down apron, with the leash tied
+  off short to the oven handle; he eats and says nothing; she watches him
   eat. Nothing else happens, and for her it's enough.
 - **Term two falls.** The January visiting form. She asks to leave the tag
   off for the visit, and he says no. He waits outside the detention center

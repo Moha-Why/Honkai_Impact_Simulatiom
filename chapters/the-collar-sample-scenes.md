@@ -179,11 +179,11 @@ She lifted her eyes at that, as far as my chin, and didn't ask what.
 
 The boy had nineteen thousand yen in an envelope inside his dictionary, from five years of Saturdays at the noodle stall and whatever the scholarship paid for books that he hadn't spent on books. I took all of it down the hill that afternoon.
 
-The pet shop first. The girl at the counter remembered me and asked if he'd liked the tag. I said he had. On the back wall, past the fish, there was a shelf for big dogs, and on it a step-in harness of red nylon webbing for a breed the size of a man, with black plastic buckles and a steel ring at the back and two padded panels for the chest, and a leash to match. It adjusted everywhere. I held it up against myself in the aisle to judge the straps, and a woman with a poodle looked at me and then didn't.
+The pet shop first. The girl at the counter remembered me and asked if he'd liked the tag. I said he had. On the back wall, past the fish, there was a shelf for big dogs, and on it a step-in harness of red nylon webbing for a breed the size of a man, with black plastic buckles and a steel ring at the back, and a leash to match. I took two of the harnesses, for the straps. From the shelf for small dogs I took two red collars that would go round a wrist. I held one of the harnesses up against myself in the aisle to judge the straps, and a woman with a poodle looked at me and then didn't.
 
 [Is it for the same dog?] said the System.
 
-Under the arches by the station there was a shop that sold other people's clothes by the kilo. In the back, on a rail of vinyl that smelled of somebody's cupboard, I found a white bodysuit, long-sleeved and high-necked, with a zip down the back and a stain on one cuff, for twelve hundred yen. It covered everything. That was why I bought it. Two doors down, the hundred-yen shop had a clear plastic raincoat in a packet, and a roll of purple electrical tape.
+Under the arches by the station there was a shop that sold other people's clothes by the kilo. In the back, on a rail of vinyl that smelled of somebody's cupboard, I found a white bodysuit, long-sleeved and high-necked, with a zip down the back and a stain on one cuff, for twelve hundred yen. It covered everything. That was why I bought it. Two doors down, the hundred-yen shop had a clear plastic raincoat in a packet and a roll of purple electrical tape. On the rack by the till, where on Earth there'd have been reading glasses, there were pasties on cards, and one card had a pair in red rubber shaped like dog bones.
 
 [Is this from the folder?] said the System, while I paid for the tape.
 
@@ -229,17 +229,23 @@ She watched it come out. She didn't move back. Her eyes followed the blade down 
 
 "Where?" she said.
 
-I showed her with the point, without cutting yet, as she'd have shown a first-year where the strike went. Down the front from the collarbones to a hand below the navel, a hand's width open. The sides away from the armpits to the hips. An oval over each hip. The back, down to the base of the spine. She listened, and at each one she nodded once.
+I showed her with the point, without cutting yet, as she'd have shown a first-year where the strike went. The front, away in one long V from the shoulders almost to the groin, leaving two strips two fingers wide. The sides, from the armpits to the hips. The back, down to the base of the spine. The sleeves, off at the shoulder. She listened, and at each one she nodded once.
+
+"And here," I said, and laid the point on the seat. "My name."
+
+Every picture in the folder had been signed in a corner. She looked at the place on the vinyl for a moment.
+
+"Yes," she said.
 
 Then I cut it.
 
-The boy's hands had never held a knife for anything but bread. Mine had forty years of skinning in them from a forest in Hokkaido, and they went through cheap vinyl as easily as through the belly of a hare, one long pull and the edges parting behind the point. It took four minutes. When I'd finished I ran the purple tape down every edge I'd made and pressed it flat with my thumb, and there was a design lying on her bed that I'd last seen as a filename.
+The boy's hands had never held a knife for anything but bread. Mine had forty years of skinning in them from a forest in Hokkaido, and they went through cheap vinyl as easily as through the belly of a hare, one long pull and the edges parting behind the point. The letters took longer than all the rest of it together. When I'd finished I ran the purple tape down every edge I'd made and pressed it flat with my thumb, and there was a design lying on her bed that I'd last seen as a filename, with my name across the seat in letters a hand high.
 
-"It will tear at the corners," she said. "Where you turned the blade." She was looking at the oval over the hip. "May I hem them?"
+"It will tear at the corners," she said. "Where you turned the blade." She was looking at the S. "May I hem them?"
 
 "Yes."
 
-She got up and took a flat tin out of the drawer of her desk, which was seventy, and sat down again with a needle and black thread, and put a small hard stitch into the corner of every cut, one after another, with her head bent and her hair falling forward over one shoulder. She'd been mending everything she owned since November. She was good at it. When she'd finished she bit the thread off and put the needle back in the tin and shut the lid.
+She got up and took a flat tin out of the drawer of her desk, which was seventy, and sat down again with a needle and black thread, and put a small hard stitch into the corner of every cut, one after another, the corners of the letters too, with her head bent and her hair falling forward over one shoulder. She'd been mending everything she owned since November. She was good at it. When she'd finished she bit the thread off, and gathered the offcuts into a neat pile, every one, and put them in the tin with the needles and shut the lid.
 
 "Put it on," I said.
 
@@ -249,7 +255,7 @@ She stood up and undid the first ribbon. I didn't turn round, and she didn't ask
 
 When she was in it she stood in front of the mirror with sixty-one on its frame and looked.
 
-The cut down the front showed the inner curves of her tits and her bare stomach to a hand below her navel, with the purple tape for a frame. The sides were open from her armpits to her hips, so that every time she moved her arm the outer curve of a breast showed and went. The ovals over her hips were bare skin in white. When she turned to see her back in the glass it was bare to the base of her spine, and below that the vinyl was pulled tight over her ass, as the folder had always drawn it and the official art never had. At her throat, on the ring where the stone had been, there was a brass disc with my name on it.
+The front was open in one long V from her shoulders almost to her groin, and all that crossed it was the two strips of white over her tits, with a cross of purple tape on each, where I'd shown her. The sides were gone, so every time she moved an arm the whole outer curve of a breast showed and went. When she turned to see her back in the glass it was bare to the base of her spine, and below that the seat was pulled tight over her ass, as the folder had always drawn it and the official art never had, with my name cut out of it in bare skin. At her throat, on the ring where the stone had been, there was a brass disc with the same four letters.
 
 I was hard, and had been since the first ribbon. I wanted to fuck her. It was a fact, like the lot numbers, and I put it with the others and went on looking.
 
@@ -259,15 +265,17 @@ She looked at herself for a long time, very straight. Then she looked at me in t
 
 "Yes."
 
-"Then I will wear it." She turned from side to side, once each way, and watched the sides open and close in the mirror. "Sayaka will laugh. All of them will. They'll think I can't afford a tailor."
+"Then I will wear it." She turned from side to side, once each way, and watched the sides open and close in the mirror. Then she looked back over her shoulder at the letters. "They'll read that as a word."
 
-"You can't."
+In Japanese it was a word, and not a polite one. When the boy was six a teacher had stopped at it in the register, and the class had laughed.
 
-"No." Something moved at the corner of her mouth that I hadn't seen there since September. "They'll laugh, and I'll know who chose it, and they won't."
+"Most of them will," I said.
+
+"Sayaka will laugh. All of them will. They'll think I can't afford a tailor, and they'll think I chose it." Something moved at the corner of her mouth that I hadn't seen there since September. "And I'll know it's a name, and they won't."
 
 She put her hand up to the tag and turned it over once and let it fall.
 
-The apron and the raincoat were still on the bed. She picked up the apron and read the stall's name on the chest.
+The apron and the raincoat were still on the bed. I picked up the apron and cut it down the sides, two long cuts each side, until it was a narrow bib and a short flap on its strings, with the stall's name still across the chest.
 
 "When you cook," I said.
 

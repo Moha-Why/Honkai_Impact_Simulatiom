@@ -123,9 +123,11 @@ which items are allowed, and how many Fate Fragments he's paid.
   experience depth, Fate Fragments).
 - **Extras on the cards:** a **bond gift** unique to her (its color follows
   Love and Corruption) and her personal item.
-- **Corruption is non-explicit.** It's devotion turning dark (jealousy,
-  obsession, choosing him over everyone and everything), shown on the page
-  through what she does, never as sexual content.
+- **Corruption can turn sexual between adults.** It's devotion turning dark
+  (jealousy, obsession, choosing him over everyone and everything), and
+  what she'd do for him includes her body: offering herself, wearing what
+  he chooses, jealousy with heat in it. On the page up to the moment, off
+  the page after it. Never explicit, and always her choice on the page.
 
 ## Reward types
 
