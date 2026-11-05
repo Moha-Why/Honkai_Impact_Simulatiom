@@ -73,6 +73,11 @@ Check these before planning a chapter and again before sending it.
   room, and let Eros the fan recognize it when he would.
 - **The flat-voice test.** If a line that carries a change of mood would
   read the same in a flat voice, it needs staging.
+- **Changes in Eros happen on the page.** When he changes how he plays
+  (warm to cold, a new method, a line he swore he wouldn't cross), show the
+  moment he decides, with its reason, as a scene in the white or in the
+  loop. One sentence isn't a turn, and neither is the next loop just
+  starting different. The reason has to fit his soul stage at that point.
 
 ## Before each chapter
 
