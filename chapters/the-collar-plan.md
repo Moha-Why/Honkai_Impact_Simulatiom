@@ -1,6 +1,6 @@
 # Plan: "The Collar" (a new loop in Mei's run)
 
-Status: proposal, not in the chapters yet. Two sample scenes from Stage 3
+Status: shelved for now (a proposal, not in the chapters). Two sample scenes from Stage 3
 (the collar, the wardrobe) are in
 [the-collar-sample-scenes.md](the-collar-sample-scenes.md). Spine and run
 rules: ch03-plan.md. Rules for full loops: ch04-plan.md. About 15k words.
@@ -61,8 +61,9 @@ left of his soul, and she does it without asking why.
   - **Never the mouth.** The first kiss is an objective, and he's saving it
     for the node. He can take everything else without ending the run, and
     the kiss he keeps back is part of the leash.
-  - **Nothing while it's awake.** When the Herrscher has her, Mei can't
-    choose, so nothing sexual happens.
+  - **The Herrscher is still Mei,** her other personality, not someone
+    else in her body. What that side of her chooses, Mei chooses, and the
+    rule holds for her the same way: her choice on the page.
 - **No objective completes.**
   - The kiss: he holds it back as his last move, saved for the node, when
     every meter is at the top. The gray car comes first.
@@ -291,12 +292,12 @@ Everything up to "How do I stop it ending like that?" stays. Then:
   isn't sorry. She turns to Eros for her name.
 - **It wakes under the leash.** Her eyes are pink in the middle. The air
   tastes of a battery, and down in the city something starts to roar. The
-  persona comes up through her, and the first thing it goes for is the tag.
-  "You put your name on her." Mei's own hand closes over it and won't let
-  go, and for a few seconds the two of them fight over his name at her
-  throat.
-- **The math.** If it wins, it kills him with lightning: the big one,
-  Hollow. He has his knife. He puts it in her hand, handle first, as she
+  other Mei comes up, the one that doesn't need anyone, and one of her hands
+  goes for the tag. "You put your name on her." The other hand closes over
+  it and won't let go, and for a few seconds she fights herself over his
+  name at her throat.
+- **The math.** If the other Mei wins, she kills him with lightning: the
+  big one, Hollow. He has his knife. He puts it in her hand, handle first, as she
   gave him the sword in the last file, and shows her where with two
   fingers. Forty years of a knife know exactly where (Hunting and Field
   Craft). "Mei." She doesn't ask why.
@@ -308,9 +309,10 @@ Everything up to "How do I stop it ending like that?" stays. Then:
 
 - A scattered detail. Still Torn.
 - [She didn't ask why. Did you notice? Not once since December.]
-- **What the branch did after,** because he asks. It had her about a
-  minute after he went. It tried to take the tag off, and she wouldn't let
-  it. [It's the only thing on her that isn't lightning.] Kiana got there.
+- **What the branch did after,** because he asks. About a minute after he
+  went, the other Mei took over completely. She tried to tear the tag off,
+  and her own hand wouldn't let go of it. [It's the only thing on her that
+  isn't lightning.] Kiana got there.
   [She always gets there. You'd broken the hand she uses.]
 - **The facts he adds to the list:**
   - She did everything he said and never once relied on him. Obedience
