@@ -3801,12 +3801,7 @@ Corruption: Untouched
 
 "No," I said. "He did."
 
-```
-[2013. Where do you live, and what do you do after school?]
-A room in the empty house next to the Raidens' / The scholarship dormitory / Your aunt's flat across the city
-Kendo club (manager) / None / Kendo club (member)
-September / October
-```
+[Where do you want to live?] said the System. [The house next door, the scholarship dormitory, or your aunt's flat across the city. The club or nothing. September or October.] A pause. [You know already. You always know already, now.]
 
 "The house next door," I said. "The manager's bench. September." Both doors this time, her mornings and her afternoons, so slowly that by the time she noticed there were two of them, she'd be glad.
 
@@ -3842,17 +3837,40 @@ She didn't say anything else. She crossed the walkway in four steps, past the ol
 
 "I wanted to see your face," I said, which was true. It had been the boy's reason. It was mine now.
 
+By lunch the whole school knew. By the end of the week there were three versions of it going round the corridors, and in all of them the Lightning Queen had run across the walkway in front of the cars and put her arms round a boy nobody had ever seen. In one of them she'd kissed him. In another he was a prince from somewhere. Natsumi asked me at the shoe lockers on the Thursday, with four girls behind her, whether it was true I'd known Raiden-san since we were children.
+
+"Since we were nine," I said. "In a hospital."
+
+She looked at me as if I'd told her I'd been to the moon. Behind her the four girls looked at each other.
+
+"She's never," Natsumi said. "With anyone. Not once. Twelve boys on Valentine's Day, in one morning..."
+
+"I know," I said. "She told me. In a letter."
+
 ```
-[2013, September. Raiden Mei's childhood friend transfers into class 3-A. The school talks about nothing else for a week.]
-[2013, September. Affection: Fond.]
+Raiden Mei
+Affection: Fond
 ```
 
 ---
 
-```
-[2013, September. You confess to her before homeroom on your second day. "Like you promised when we were ten. If I ever came back." She laughs. "I'm sorry. No." The class starts keeping count on the corner of the blackboard.]
-[2013, September. You confess every morning after that. She turns you down every morning, smiling.]
-```
+On the second morning I stood at her desk at eight-twenty, before homeroom, with the whole class coming in round us.
+
+"Raiden-san," I said. "I like you. Will you go out with me?"
+
+She looked up from her book. The room went quiet, the particular quiet of thirty people deciding to listen without looking like it.
+
+"Like you promised when we were ten," I said. "If I ever came back."
+
+She laughed. It surprised her as much as it surprised anyone. It came out of her all at once and she put her hand over her mouth, and her eyes were wet, and she was still laughing behind her hand.
+
+"I'm sorry," she said, when she could. "No."
+
+"Tomorrow, then."
+
+Somebody at the back of the room got up, went to the blackboard, and in the bottom corner, very small, in chalk, made a single mark.
+
+I came the next morning, and the next. She turned me down every morning, smiling, and every morning somebody made another mark in the corner of the blackboard, and by the second week the duty monitor had stopped rubbing them off.
 
 It had been a joke when we were ten, a thing the boy and the girl said in a hospital corridor. The boy had meant it. I meant something else. Every other boy in that school who'd ever confessed to her wanted something, and she'd seen it in them in a second and closed the door. I wanted something too, and it was in the second week of December, when every other boy in the school would have stopped saying her name and I'd be the only one still standing at her desk at eight-twenty every morning saying the same words. I'd done it once before, in the first file, meaning every word. I had that as a line in a list now, like everything else. Three months of no, three weeks of being the only one left, a gun. This time I didn't mean a word of it, and I'd learned to keep my mouth shut.
 
@@ -3892,12 +3910,37 @@ She stood over me with the bokken lowered and laughed, really laughed, as she'd 
 
 "You're very fast," she said, "and you're very stupid. Get up."
 
+My body did what it did. It got out of the way of things before I saw them, and out of the way of things that weren't there, and by the end of October she'd stopped feinting at me, because it was too easy, and started coming in for real. I got to eleven seconds. Then fourteen.
+
+The footwork came in a week. My lungs didn't. A minute of it at full speed and they closed up like a fist, and I'd end up on my knees on the boards wheezing, and she'd stand over me and wait without saying anything until I could get up, and then say "Again."
+
+The car was late on a Tuesday in the middle of October. The old man rang the house at seven-thirty to say there was an accident on the coast road and he'd be twenty minutes, and she came out of the gate with her bag and stood there looking at her watch.
+
+"We'll walk," I said.
+
+"It's twenty-five minutes. We'll be late."
+
+"Not if we run."
+
+She looked at me, and then she ran, without warning, as she did everything, all at once, with her bag held against her chest and her hair flying out behind her. I caught her by the bottom of the hill and passed her at the corner by the shrine and was at the school gate first, by a long way, with the cars still going past, and then I had to hold on to the gatepost with both hands and breathe for a full minute while she came up the last of the hill behind me, not even out of breath, looking at me as if I'd done a magic trick and then fallen down the stairs.
+
+"How are you so fast," she said, "and so terrible?"
+
+"Talent."
+
+She laughed again. Twice in a month.
+
+Rin found me at the kendo hall the same week, by the bench, with the record book in both hands. She'd been doing it herself since the old manager left and it showed.
+
+"Raiden-san says you can count," she said. "She says you used to count ceiling tiles."
+
+"I can count."
+
+She held the book out to me. Her hands were shaking with relief. "Please," she said. "The forms for the regionals are due on Friday and I haven't even started."
+
 ```
-[2013, October. You spar with her at dawn. Your body gets out of the way of things before you see them, and out of the way of things that aren't there. (Quick Reflexes)]
-[2013, October. You learn the footwork in a week. You can't do it for more than a minute without your lungs giving out. (Quick Learner)]
-[2013, October. You walk her to school when the car's late. You're always first to the gate. By the gate you're wheezing. (Sprinter)]
-[2013, October. You keep the kendo club's records. Rin nearly cries with relief.]
-[2013, November. Trust: Confides.]
+Raiden Mei
+Trust: Confides
 ```
 
 ---
@@ -3916,17 +3959,27 @@ She didn't cry. She stood there for a long time after the cars had gone. Then sh
 
 "Stay a little," she said.
 
-```
-[2013, November 16. You are with her when they take her father.]
-```
-
 ---
 
-After that the cruelty did what it had done in every file, on its own. I didn't need to touch it.
+After that the cruelty did what it had done in every file, on its own. I didn't need to touch it. I didn't stop any of it either. Every piece of it was a line in a list, and I was where each one landed, a step behind her, when it did.
 
-I didn't stop any of it. I knew when each piece was coming. Natsumi would move her desk on the Monday. Sayaka would say what she said in the corridor on the Wednesday, by the window, in a sad clear voice that carried. I made sure I was beside Mei when she heard it. I was there when she found the word on her desk, and when her indoor shoes turned up in the bin by the gym, and when Rin read out the vote at the club in a voice like an apology and couldn't look up from the paper. I never once raised my voice to stop them.
+On the Wednesday Sayaka said it in the corridor by the window on the second floor, at the end of lunch, to the girls round her, in a sad clear voice that carried. "I always thought there was something wrong with that house. Didn't you? A dead mother and a father who's never home. It's not a surprise, really. It's almost sad."
 
-Then I was there afterward. On the stairs, on the hill, in the dojo at five in the morning, where she struck the post until the straw split.
+Mei was ten steps behind her with me. She didn't stop walking. Her face didn't do anything at all. She walked past Sayaka and the girls at exactly the same speed, with her back straight and her bag in front of her in both hands, and the girls went quiet as she passed and started again as soon as she was by.
+
+At the top of the stairs, where nobody could see, she stopped and put her hand flat against the wall.
+
+"I lent her my notes," she said. "For the whole of first year. She was ill in the spring and I copied everything out for her twice."
+
+I stood beside her and didn't say anything, which was what the moment wanted, and after a while she took her hand off the wall and we went down.
+
+Rin read the vote at the club on the Friday.
+
+I was at the bench with the record book, because I was the manager, and Mei was in the line of girls in their armor with the rest of them, because she hadn't been told yet that she wasn't captain. Rin stood at the front with a sheet of paper and her voice went up and down like an apology, and she didn't once look up from the paper. The board had recommended. The parents had felt. In view of the circumstances. Fourteen to three.
+
+Mei bowed to the room when it was over, from the waist, as you bow at the end of a bout. Then she untied her armor, very neatly, cord by cord, and folded it, and put it on the bench beside me, square to the edge.
+
+"Would you keep this for me?" she said. "I won't need it here."
 
 "Please don't sit here," she said to me, the first Monday, at lunch, out of habit, before she'd looked up and seen who it was. Then she saw, and put her chopsticks down.
 
@@ -3936,10 +3989,19 @@ She pressed the back of her wrist against her eyes for a second, hard.
 
 "That's fifty-seven, Eros," she said. "You can stop counting. I already am."
 
-```
-[2013, November. The other boys stop confessing to her. All of them, on the same day.]
-[2013, November. You don't.]
-```
+The other boys stopped on the same day.
+
+It was the Monday after. I'd known it was coming as I'd known everything else, and it was still strange to see. In September there'd been a boy at her shoe locker most mornings, or at the door of 3-A, or in the courtyard, with a letter or a speech or a box of chocolates from the station. That Monday there was nobody. The corridor outside 3-A at eight-twenty was empty. The boy from 3-D who'd tried twice in October walked past the door with his friends and looked at the floor. Nobody had told them to stop. They'd all just stopped, together, as birds go off a wire.
+
+I stood at her desk at eight-twenty.
+
+"Raiden-san. I like you. Will you go out with me?"
+
+She looked at the empty doorway behind me, and then up at me, for a long time.
+
+"I'm sorry," she said. Her voice wasn't quite steady. "No."
+
+Somebody at the back made a mark on the blackboard. Nobody laughed.
 
 ---
 
@@ -3947,7 +4009,7 @@ It rained on the last Thursday in November.
 
 The limousine had stopped coming the week before. The servants were gone, and the old man in the white gloves had been let go with the rest of them, and she'd started walking home down the hill and back up the other side.
 
-I knew about the rain the way I knew everything by then, as a fact in a list. On the last Thursday in November, at about four o'clock, the old man would come in his own small car, on his own time, to drive her home.
+The rain was a fact in a list, like everything by then. On the last Thursday in November, at about four o'clock, the old man would come in his own small car, on his own time, to drive her home.
 
 At ten to four I said, "The front's full of reporters again. Let's go out the back."
 
@@ -3973,9 +4035,23 @@ I ate every grain, and the fish, both sides.
 
 It was the right thing. Anyone else at that school would have told her it was good, and she'd have seen the lie on them in a second. The truth cost me nothing, and it went in deeper than any lie could have, because it meant I'd eat it anyway.
 
+She cooked every day after that.
+
+I could tell, because the light in the Raidens' kitchen came on at four in the morning now, an hour before the crack of the sword on the post, and I could see it from my window above the wall, one yellow square in the dark house, and her shape moving back and forth in it. The boxes got better. Not much, and not fast. The egg stopped being black on the fourth day and was only brown. The rice stopped being burned on the bottom in the second week. In the third week there was a rolled omelette, lopsided, and she watched me eat it with her chopsticks stopped halfway to her own mouth.
+
+"Better?" she said.
+
+"Worse."
+
+"It isn't."
+
+"No," I said. "It isn't."
+
+She put her chopsticks down and looked at me across the desk, and something happened in her face that I'd never seen in any file, the whole of it coming open at once and staying open, without a guard on it anywhere.
+
 ```
-[2013, December. She cooks for you every day.]
-[2013, December. Affection: In Love.]
+Raiden Mei
+Affection: In Love
 ```
 
 ---
@@ -3998,9 +4074,7 @@ Mei put her face in her hands. "I'm sorry," she said into them. "No."
 
 "Okay!" said Kiana. "Tomorrow, then!"
 
-```
-[2013, December. Raiden Mei now receives two confessions every morning before homeroom.]
-```
+From then on Raiden Mei got two confessions every morning before homeroom, and the marks in the corner of the blackboard came in pairs.
 
 I'd been the last one standing for a month. Now there were two of us. I couldn't stop it without putting my hand on Kiana, and Kiana was on the list of things I didn't touch.
 
@@ -4040,10 +4114,6 @@ I didn't answer. She watched me not answer for a long time.
 
 "You want her to need you," she said at last, slowly, as though she'd had to find each word. "I can tell. It's in how you stand." She pushed off the railing. "I want her to be okay. That's different." At the door she stopped and looked back. "I'm going to keep saying it every morning. Just so you know."
 
-```
-[2013, December 27. Kiana Kaslana tells you she's not giving up.]
-```
-
 [I like her,] said the System. [She's very rude.]
 
 ---
@@ -4071,9 +4141,13 @@ She folded the coat up again with great care, and put her hands flat on it.
 
 "I want you to learn the rest."
 
-```
-[2014, January. Raiden Mei begins teaching you the Raiden family sword at dawn in her father's dojo.]
-```
+She started the next morning, at five, in the dojo, with the lamp lit and the doors shut for the first time against the cold. She'd never shut them before. She stood me in the middle of the floor with a bokken in my hands and walked round me once, slowly, as if she were measuring me for something.
+
+"My father taught it to me here," she said. "When I was six. In the Homu suit. I thought it was a game." She stopped in front of me. "It isn't a game. It's the only thing my family has that nobody can freeze or take to court. You don't write it down. You don't show it to anyone outside the family. Do you understand?"
+
+"Yes."
+
+"Then the first cut," she said, "is not a cut at all. It's how you stand before it." She put her hand flat on my back between my shoulders, and pushed, very gently, until I was standing as she wanted. "There. Like that. Now don't move for an hour."
 
 ---
 
@@ -4119,18 +4193,18 @@ She saw me in the doorway. Her face went white and then went nothing, absolutely
 
 "Who," she said.
 
+I didn't tell her. She didn't need me to. She knelt on the boards in front of me and undid my coat and my shirt with her cold fingers and looked at the bruise coming up along my ribs, black already at the center, and put two fingers on it, very lightly, and I flinched so hard I nearly fell over.
+
+"Cracked," she said. "Not broken. My father cracked two once, sparring. You strap it and you don't laugh for a month." She was already unrolling the tape from the kendo kit. She strapped it without a word, tight, round and round, her mouth set, and when she'd finished she sat back on her heels and looked at me, and her eyes were perfectly dry and perfectly calm and very far away.
+
 ```
-[2014, January 20. You have a cracked rib.]
-[2014, January 20. Corruption: Compromised.]
+Raiden Mei
+Corruption: Compromised
 ```
 
 On the Monday, in the PE kendo lesson, she asked if Kuroda would be her partner for the demonstration. She went for his wrist, a kote, the strike she'd won the regionals with, with the whole weight of her body behind it, and I heard the bone from the bench. She bowed to him from the waist, as you bow to an opponent at the end of a bout, and told the teacher, "I'm very sorry. It slipped."
 
 She looked at me across the hall over Kuroda's head and let me see that she wasn't.
-
-```
-[2014, January. Raiden Mei breaks Kuroda Shun's wrist in a PE kendo lesson. She says it slipped. It didn't.]
-```
 
 I held it there, at Compromised, like holding a weight out at arm's length. I didn't push. When the lights in the house came on by themselves at two in the morning, I didn't go over the wall.
 
@@ -4305,19 +4379,43 @@ Objective complete: Raiden Mei's first kiss.
 
 Over her shoulder, over the bay, a light was coming.
 
-It came in low and fast from the south over the water, white and very bright, with searchlights going down from it into the burning streets, and a sound under it I'd have known anywhere, a deep long hum I'd felt in the railings of a landing window every day for months on an island I could barely see anymore. Early. Hours early. Fed all winter, the thing in her had gone off bigger than it ever had in the game, and a phone had rung in an office two hundred kilometers south, and someone had stopped waiting.
-
 "Look," I said. Or tried to.
 
 She didn't look. She kept her eyes on me.
 
-The ship came over the city with its lights going down into the roads, and a woman's voice came out of it, enormous, over all of Nagazora. "This is the Hyperion. Any survivors, stay where you are. We are coming to you."
+"Count," I said.
 
-The white light came across the roof and over the snow and over Kiana on her knees and over Mei's bent head, and filled everything.
+I don't know if it came out. She heard it anyway. She'd always heard it.
+
+"One," she said, against my forehead.
+
+My breath came in and caught on something halfway down and went out again with a sound under it.
+
+"Two."
+
+The light was over the water now, coming in low across the bay with the searchlights going down from it into the burning streets. I could see it in the snow on her hair, getting brighter.
+
+"Three. Four." Her voice was very steady. It was the voice she'd used under the ceiling of a children's ward when we were nine, with the lights out, counting tiles so neither of us had to think about the dark. "Five."
+
+I stopped being able to feel her hand on my face somewhere around twelve. I could still see it, out of the corner of my eye, but I couldn't feel it. My own hand had gone somewhere. Kiana was holding it, I think. Somebody was.
+
+"Twenty," Mei said. "Twenty-one."
+
+A woman's voice came out of the sky over the city, enormous, from a long way off and getting closer. "This is the Hyperion. Any survivors, stay where you are. We are coming to you."
+
+"Twenty-nine. Thirty."
 
 Somewhere inside her, in her voice, very softly, something that wasn't quite her said, "She'll find you."
 
 The pin was in her hand. I didn't remember giving it to her.
+
+"Thirty-six," said Mei. "Thirty-seven."
+
+I'd fallen asleep at thirty-eight, the first time. In the ward. She'd told me so in a letter, years later, as if it were a complaint.
+
+"Thirty-eight," she said.
+
+The white light came up over the edge of the roof, over the snow and over Kiana on her knees and over Mei's bent head with the pin in her fingers, and I didn't see it arrive.
 
 ---
 
