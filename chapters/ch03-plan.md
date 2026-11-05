@@ -120,34 +120,47 @@ isn't waiting yet. **Unlocks:** kendo manager; Tanabe's nephew (birth).
 - **Unlocks:** an orphan in Siberia. He'd asked himself in Loop 1 where
   Cocolia's people came from.
 
-### Loop 3: "The Inside Man" (about 4k words)
+### Loop 3: "The Inside Man" (about 9k words)
 
 - **Nodes:** an orphan in Siberia, survives the Second Eruption at five,
-  Cocolia's orphanage, wake at 18.
-- He wakes at 18 as one of Cocolia's children, in the house by Lake
-  Baikal, four months before X-10 (August 2013). He lives it as an adult:
-  Seele takes Bronya's place and asks him to keep it from Bronya and look
-  after her; he keeps the secret and watches Seele come apart in the
-  bunker; the next morning Bronya, knife at her own throat, makes them let
-  her in after Seele, and he pushes her chair to the machine and lets her
-  hold his hand. Nineteen days later she comes back paralyzed and empty,
-  with Project Bunny. He sits with her every night; on the twenty-second
-  her mouth goes up for a second. Cocolia sees it ("She looks at you") and
-  sends him to Japan. He arrives in Nagazora in
-  October as a scholarship transfer with orders: get close to the Raiden
-  girl, report, and make sure she has nobody. The corruption route,
-  sanctioned. He thinks it's perfect.
-- **Cocolia in person:** in December, in a hotel suite above the bay, after
-  her first press conference as head of ME Corp. She's warm with him, as with
-  all her children. She reads his reports and sees what he's doing. "A girl
-  who has someone won't come to me, Eros. I need her alone. Pull back." He
-  says yes, and Liar's Face carries it.
-- **She doesn't believe him.** In January, Bronya, who has been his sister in
-  the orphanage for two years, comes to his apartment. "Bronya regrets
-  this. Matushka's orders."
-- **Lesson:** Cocolia's plan needs Mei alone and will remove anything she
-  holds on to. Stay invisible to the operation. And Bronya is coming for Mei
-  at the end.
+  Cocolia's house by Lake Baikal, wake at 18.
+- **The heart of the loop is Bronya.** Seele and Eros are the two people
+  she cares about most, and the loop is built on that.
+- **Childhood (logs):** Bronya arrives in January 2012 with a hard face and
+  healthy legs; Seele cleans her knuckles; the console ("You're bad at
+  this"); she floors an older boy for him ("He's ours. Mine and Seele's").
+  The landing, the sea promise. Sin Mal on the cellar stairs (he says
+  nothing); in hospital Bronya won't let the doctors near until he and
+  Seele are both there. Seele's dark side and Sin Mal.
+- **April to September 2013 (immersive):** breakfast (she eats his bread;
+  Seele gives him hers). Spring on the landing; Bronya watches the two of
+  them as a sniper watches two doors; her list ("Work it out"). August 12,
+  Cocolia chooses Bronya; Seele shows her mark, takes her place, and asks
+  Eros only to keep it from Bronya and look after her ("Keep my place").
+  The bunker; Seele comes apart. Bronya at breakfast looks at him: "You
+  knew." Knife at her own throat; he pushes her to the egg and she holds
+  his hand anyway, because nobody else is left on the list ("Look after the
+  book"). Nineteen days. She comes back paralyzed and empty and recites
+  Seele's words: "Seele said, he promised me he would look after you. So go
+  back and let him." She follows him everywhere; "Subject Eros will be here
+  tomorrow" every night; the almost-smile. Cocolia, frightened, sends him to
+  Japan. At the gate: "Then Bronya will come later."
+- **Nagazora (immersive):** orders in an envelope, the garage on Thursdays,
+  Bronya's call every Sunday at nine ("Bronya has beaten your score"), the
+  Mei route sanctioned and climbing. The hotel in December: Bronya asks
+  where he is every night, "not even Seele." He lies that he'll pull back.
+  In January the Sunday calls stop.
+- **The death (full scene):** January 12, Bronya at his door. "Bronya is
+  the only one he would let in." The bio-chip lifts her hand in stages; her
+  face comes back all at once ("Bronya is not doing this"). He tells her
+  it's all right. Shot in the chest; she kneels and presses on the wound,
+  crying, in the first person for the first time since August ("I tried,"
+  "I just got it back and it's this"). "You're bad at this." He dies holding
+  her hand.
+- **The white:** his hand still closed. The System: it was the first thing
+  she'd felt since August. "You never told her about the stairs."
+- **Lesson:** Cocolia's plan needs Mei alone and removes anything she holds
+  on to. Stay invisible to the operation. Bronya is coming for Mei at the end.
 - **Unlocks:** Mr. HOMU's other student (Cocolia's file on the Raidens
   mentioned a second child in the dojo, years ago).
 

@@ -57,21 +57,22 @@ sister.
 
 **In Chapter 3:**
 
-- **Loop 3:** his sister in Cocolia's orphanage by Lake Baikal. Arrives in
-  January 2012 with a hard face, still feeling things ("You're bad at this,"
-  and the corner of her mouth goes up). Sin Mal breaks her legs in November
-  2012 while the boy watches and says nothing. In 2013, at 18, her house set
-  is the white strap harness with bunny ears, tail and the inked checklist,
-  with a cast on her left leg. In August Seele takes her place in X-10; the
-  next morning she holds a kitchen knife to her own throat to be let in
-  after her, and the adult Eros pushes her chair to the machine and lets her
-  hold his hand. She's inside for nineteen days and comes back paralyzed,
-  empty, in the third person, with Project Bunny 19C strapped behind the
-  chair; a bio-chip goes in behind her ear. He sits with her every night,
-  and on the twenty-second night her mouth goes up for a second when he
-  beats her score by accident. Cocolia sees it and sends him to Japan. In January,
-  on Cocolia's orders, she comes to his apartment in Nagazora and kills him.
-  "Bronya regrets this. Matushka's orders."
+- **Loop 3 (the heart of the loop):** Seele and Eros are the two people
+  she cares about most. Arrives at the house by Lake Baikal in January 2012
+  with a hard face and healthy legs ("You're bad at this"); floors an older
+  boy for him ("He's ours. Mine and Seele's"). Sin Mal breaks her legs in
+  November 2012 while the boy says nothing; in hospital she won't let the
+  doctors near until both of them are there. In 2013, at 18, she wears the
+  chapel harness with a cast; watches the two of them like two doors; "I've
+  got a different list now. Work it out." When Seele is gone she knows Eros
+  knew, and holds his hand across the bunker anyway. In the Sea of Quanta
+  Seele sends her back to him ("he promised me he would look after you. So
+  go back and let him"). Afterward she follows him everywhere ("Subject Eros
+  will be here tomorrow"), smiles once when he beats her score, and calls
+  him every Sunday at nine from the house. In January 2014 Cocolia sends her
+  to kill him and the bio-chip makes her fire. Her feelings come back all at
+  once as it happens; she kneels and presses on the wound, crying, saying
+  "I" for the first time since August. He dies holding her hand.
 - **Loop 8:** a small gray-haired figure on the roof across from the school
   gate on the morning of the Eruption. She doesn't reach the school roof
   before the Hyperion does.

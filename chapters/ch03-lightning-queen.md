@@ -1247,8 +1247,6 @@ Say yes / Say no / Ask her where she's going
 
 The cape was Schicksal's. I'd seen it on a hundred loading screens. Cecilia Schariac was walking north into the Second Eruption on her own, toward the thing that was going to kill her, and in the game I'd only ever met her inside somebody else's memory.
 
-She'd also, that same week, saved a captain in a Russian army coat from the beasts on a road like this one.
-
 "Ask her where she's going."
 
 ```
@@ -1261,7 +1259,7 @@ She'd also, that same week, saved a captain in a Russian army coat from the beas
 Take the gloves / Give them to the girl beside you, who's younger / Don't move
 ```
 
-I knew who she was. A captain who'd refused to keep quiet about a colonel selling guns, and had come out of the ruins of a jail with a dead man's wife and a pistol, and had been saved by a woman with white hair. She was going to open an orphanage for children like these. She was going to love them, and use them.
+I knew who she was. A captain who'd refused to keep quiet about a colonel selling guns, and had come out of the ruins of a jail with a dead man's car keys and got his pregnant wife out of Siberia on her own. She was going to open an orphanage for children like these. She was going to love them, and use them.
 
 She'd noticed me already. If I wanted to be the one she chose, I had to give her something to keep noticing.
 
@@ -1355,9 +1353,10 @@ A sister at the end of it might be very useful.
 
 ```
 [2012, January. You sit with her. She doesn't speak. You put a handheld console on the table between you with a game on it. After ten minutes she picks it up. After twenty she has beaten your best score. "You're bad at this," she says, in English, and the corner of her mouth goes up. It's the first thing she says to anyone in the house.]
-[2012. Bronya beats you at every game in the building. You stop trying to win. She notices and is offended, and kicks you under the table. You start trying again.]
-[2012, spring. Seele reads to Bronya in the evenings, in the window seat on the landing, with Bronya pretending not to listen. By May she's stopped pretending. They say they'll go and see the sea together when they're older, a warm one. You're allowed to come if you carry the bags.]
-[2012, autumn. Sin Mal, who's fifteen and has been Seele's shadow since before you can remember, stops speaking to Seele. In the evenings she stands at the bottom of the stairs and watches the two of them in the window seat, and doesn't come up.]
+[2012, February. Bronya beats you at every game in the building. You stop trying to win. She notices and is offended, and kicks you under the table. You start trying again.]
+[2012, March. Two of the older boys corner you behind the boiler room, because you're matushka's favorite and they've decided it's time you knew it. Bronya puts the bigger one on the floor in about a second and a half and sits on his chest. "He's ours," she tells him. "Mine and Seele's. Next time ask us first."]
+[2012, spring. In the evenings Seele reads to Bronya in the window seat on the landing, with Bronya pretending not to listen, and you sit on the stairs below them with the console. By May Bronya has stopped pretending. They say they'll go and see the sea together when they're older, a warm one. You're allowed to come if you carry the bags.]
+[2012, autumn. Sin Mal, who's fifteen and has been Seele's shadow since before you can remember, stops speaking to Seele. In the evenings she stands at the bottom of the stairs and watches the three of you on the landing, and doesn't come up.]
 [2012, November. You see Sin Mal waiting at the top of the cellar stairs when Bronya goes down for coal.]
 Shout / Go down first / Say nothing
 ```
@@ -1370,8 +1369,9 @@ Bronya's legs had always been part of it. In the game they'd gone on the stairs 
 
 ```
 [2012, November. Bronya falls the whole flight. Both legs, the left one twice. She doesn't scream. Seele does.]
-[2012, December. A week later Sin Mal falls down the same stairs. Seele is standing at the top when you get there. When she turns round, her eyes are the wrong color, and she's smiling as if she were somebody else. Then she blinks, and starts to cry, and doesn't know why she's standing there.]
-[2012, December. Sin Mal goes to a house in Irkutsk with her arm in a cast and doesn't come back. Bronya comes home from the hospital in a wheelchair. Seele pushes it everywhere.]
+[2012, November. In the hospital in Irkutsk she won't let the doctors touch her until you and Seele are both in the room. Then she lets them do anything they like, and holds Seele's hand, and looks at you over the top of the doctors' heads as if you were the one who might fall down the stairs.]
+[2012, December. A week after she comes home, Sin Mal falls down the same stairs. Seele is standing at the top when you get there. When she turns round, her eyes are the wrong color, and she's smiling as if she were somebody else. Then she blinks, and starts to cry, and doesn't know why she's standing there.]
+[2012, December. Sin Mal goes to a house in Irkutsk with her arm in a cast and doesn't come back. Bronya comes home from the hospital in a wheelchair. Seele pushes it everywhere. You carry it up the stairs.]
 [2013, April 13.]
 ```
 
@@ -1379,7 +1379,7 @@ Bronya's legs had always been part of it. In the game they'd gone on the stairs 
 
 I woke up in a narrow bed in the boys' dormitory of the old house by Lake Baikal, with snow on the window and eighteen years of a boy in me, and the first thing I felt, before anything else, was that I loved the woman downstairs in the kitchen.
 
-He did. The boy had loved her since a truck in February 2000, since a scarf wrapped round his hands. She'd marked him on a doorframe. She'd made him cakes with too much sugar. And the boy had loved the small gray-haired girl at the end of the table, as you love a sister who beats you at everything and needs you anyway, and the shy one with the books who'd cleaned the gray-haired girl's knuckles on her first night in the house and never stopped looking after her. There was a pair of army gloves in the drawer under the bed. Now I had all of it, lived, and I lay in the dark and looked at it.
+He did. The boy had loved her since a truck in February 2000, since a scarf wrapped round his hands. She'd marked him on a doorframe. She'd made him cakes with too much sugar. And he'd loved the two girls on the landing. The small gray-haired one who'd put a boy twice her size on the floor for him and sat on his chest, and the shy one with the books who'd cleaned the gray-haired one's knuckles on her first night in the house and had never once stopped looking after either of them. There was a pair of army gloves in the drawer under the bed. Now I had all of it, lived, and I lay in the dark and looked at it.
 
 Then I put it where it belonged, with everything else that was going to be useful.
 
@@ -1393,23 +1393,39 @@ August was four months away. In August a machine in the bunker under this house 
 
 ---
 
-Breakfast in that house was porridge and black bread and forty children, and matushka at the head of the table in her greatcoat with her coffee, reading reports from Moscow while the little ones fought over the jam. She looked up when I came in and smiled at me as if I were the best thing that had happened to her all week, and the boy in me went warm all the way down, and I let him.
+Breakfast in that house was porridge and black bread and forty children, and matushka at the head of the table in her greatcoat with her coffee, reading reports from Moscow while the little ones fought over the jam. She looked up when I came in and smiled at me as if I were the best thing that had happened to her all week, and the boy in me went warm right through, and I let him.
 
 Bronya was at the end of the table where she'd always sat, in the wheelchair, with a cast on her left leg from the hip to the ankle. The doctors in Irkutsk had broken it again in March to set it straight. She'd turned eighteen in February, and this house had done what every house in this world did when a girl turned eighteen, and she sat there eating porridge in a harness of white straps and very little else, a pair of white bunny ears on a band in her hair and a fluffy white tail, and three small boxes drawn in black ink on her bare thigh above the cast, two of them ticked. Seele was beside her, buttering her bread for her. She'd turned eighteen in March and was still working out how to sit in hers. It was a hand-me-down from one of the older girls, a harness of faded blue rope tied in diamonds over her ribs, two blue satin cups, a white lace thong with a ribbon at the hip, and over all of it an enormous knitted cardigan that she kept pulling shut, and a book held against her chest because the cardigan wouldn't stay shut on its own.
 
-The boy had grown up with them. He'd seen them both change on their birthdays, and kept his eyes on his plate, and thought nothing about it he'd have been ashamed of. I wasn't the boy. I took the inventory before I'd sat down, the rope on Seele's ribs, the ticked boxes on Bronya's thigh, what the white straps did when she leaned forward for the salt, and the boy in me stared at his porridge so hard that he nearly put his spoon through the bowl. So I looked at my porridge too, mostly. In four months one of the girls at that end of the table would be gone, and the other one would come back without most of her face, and some part of me that wasn't the boy didn't want to have spent the four months looking at their straps.
+The boy had grown up with them. He'd seen them both change on their birthdays, and kept his eyes on his plate, and thought nothing about it he'd have been ashamed of. I wasn't the boy. I took the inventory before I'd sat down, the rope on Seele's ribs, the ticked boxes on Bronya's thigh, what the white straps did when she leaned forward for the salt, and the boy in me stared at his porridge so hard that he nearly put his spoon through the bowl. So I looked at my porridge too, mostly. In four months one of the girls at that end of the table would be gone, and the other would come back without most of her face, and some part of me that wasn't the boy didn't want to spend the four months looking at their straps.
 
-"You're up late," Bronya said, without looking at me. "I already ate your bread."
+"You're late," Bronya said, without looking up. "I ate your bread."
 
 "You hate rye."
 
 "I know." The corner of her mouth went up. "It was yours."
 
+Seele slid her own slice across the table to me without a word, and Bronya watched her do it and sighed, as if the two of us were a great trial to her, and went back to her porridge. The little ones fought over the jam. Matushka turned a page.
+
+That was the whole of it, every morning. I'd played the game for ten years and I'd never once seen Bronya Zaychik eat breakfast.
+
 ---
 
 The spring went slowly, as springs do by a lake that's frozen until May.
 
-In the evenings Seele read to Bronya in the window seat on the landing, with the wheelchair pulled up beside it and Bronya pretending she wasn't listening. I sat on the stairs below them with the console and lost. I lost a great deal that spring. Bronya beat my scores with her leg up on a cushion and a blanket over the cast, and said "You're still bad at this" every single night, and every single night the corner of her mouth went up exactly where it always had.
+In the evenings Seele read to Bronya in the window seat on the landing, with the wheelchair pulled up beside it and Bronya pretending she wasn't listening, and I sat on the stairs below them with the console and lost. I lost a great deal that spring. Bronya beat my scores with her leg up on a cushion and a blanket over the cast, and said "You're still bad at this" every single night, and every single night the corner of her mouth went up exactly where it always had.
+
+She watched us. That was the thing the game had never shown me. She watched Seele and she watched me, all the time, as a sniper watches the two doors of a room. When Seele coughed, Bronya looked at her. When I came in from outside with snow on my coat, Bronya looked at the snow, and then at me, and only went back to her game once she'd decided I was all there. If one of us was late for dinner she didn't eat. She'd have said she wasn't hungry.
+
+"I had a list," she told me once, in May, when Seele had gone down to make tea and the two of us were alone on the landing. She was looking out of the window at the ice going gray on the lake. "Before. In the gang. People I'd been paid to shoot. I kept it in my head, so nobody could take it off me." She was quiet for a while. "I've got a different list now."
+
+"Who's on it?"
+
+"Work it out." She didn't look round. "You're supposed to be clever. Matushka says you're the clever one."
+
+I didn't need to work it out. It had two names on it, and one of them was coming back up the stairs with three cups of tea.
+
+[She means you,] said the System, very quietly, as if it didn't want to be overheard. [I thought I'd better say. You're not very good at hearing it.]
 
 "We're going to see the sea," Seele told me, one night in June, when Bronya had fallen asleep in the chair with the console on her chest. "When her legs are better. A warm one. She's never seen a warm sea. Neither have I." She smiled at me over the top of her book. "You can come if you carry the bags."
 
@@ -1418,8 +1434,6 @@ In the evenings Seele read to Bronya in the window seat on the landing, with the
 "You always say yes to things," she said. "Like me."
 
 I didn't say anything to that. Below us in the hall, the clock that matushka wound every Sunday ticked over to ten.
-
-[You're doing very well,] said the System, very quietly, as if it didn't want to wake anyone. [I'd almost believe you.]
 
 ---
 
@@ -1447,7 +1461,7 @@ Seele was standing in the corridor in her cardigan with her book held against he
 
 "Seele."
 
-"Don't tell her." She said it very fast, as if she'd practiced it on the stairs. "Not till it's done. She'd stop me. Or she'd go anyway, and she can't. And look after her. Please. She pretends she doesn't need anyone, and she needs everyone. She needs you." She swallowed. "That's all. That's all I came for."
+"Don't tell her." She said it very fast, as if she'd practiced it on the stairs. "Not till it's done. She'd stop me. Or she'd go anyway, and she can't. And look after her. Please. She pretends she doesn't need anyone, and she needs us. She needs you." She swallowed. "That's all. That's all I came for."
 
 She hadn't asked me to stop it. She hadn't asked me to go in her place or to save her or to do anything at all for her. She'd walked down a dark corridor at one in the morning to ask me to look after somebody else.
 
@@ -1494,21 +1508,31 @@ Fate Deviation: Stable
 
 Bronya found out at breakfast.
 
-There was nothing to find. There was an empty place beside the wheelchair and nobody buttering her bread, and forty children not saying anything, and she looked at the empty place and then at matushka at the head of the table, and her face did something I'd never seen it do in either life. It came apart, too.
+There was nothing to find. There was an empty place beside the wheelchair and nobody buttering her bread, and forty children not saying anything, and she looked at the empty place, and then at matushka at the head of the table, and then at me. She looked at me for a long time. I was the one who'd have known. I was the one Seele would have told.
+
+I looked back at her with my perfect face, and her own face came apart.
 
 By nine she was in the bunker. I don't know how she got the chair down the stairs. I found her at the bottom of them, at the door of the room with the egg in it, with a knife from the kitchen held against her own throat in a hand that wasn't shaking at all, and matushka in front of her with both hands up, as if Bronya were a sniper on a ridge in the snow again.
 
 "Put me in it," Bronya said. "Let me go in after her. Or I'll do it here." The knife moved a millimeter, and a line of red came up under it. "You know I will. You taught me not to miss."
 
-Matushka looked at me.
+She didn't look at matushka while she said it. She looked past her, at me, on the bottom stair.
 
-I could have taken the knife. I was close enough, and Bronya would have let me, I think, if I'd asked her to. I could see the whole of it in my head, the hand on her wrist, the knife on the floor, matushka's face going slack with relief, and Bronya alive and whole at the end of the table with her legs healing and her mouth going up at the corner every night for the rest of her life. And no Project Bunny on a roof in February. No machine folded round her. No file.
+"You knew," she said.
+
+It wasn't a question, and I didn't answer it.
+
+I could have taken the knife. I was close enough, and she'd have let me, I think, if I'd asked her to. I could see the whole of it in my head, the hand on her wrist, the knife on the floor, matushka's face going slack with relief, and Bronya alive at the end of the table with her legs healing and her mouth going up at the corner every night for the rest of her life, and hating me for it, and alive. And no Project Bunny on a roof in February. No machine folded round her. No file.
 
 I walked down the last three stairs and stood beside her chair.
 
 "I'll take you," I said.
 
-Matushka didn't stop us. I pushed the wheelchair across the concrete to the egg, and Bronya held the knife against her throat the whole way, and with her other hand, without looking at me, she found mine on the handle of the chair and held on to it. She held on so hard that the bones moved. Then they opened the egg, and she let go.
+Matushka didn't stop us. I pushed the wheelchair across the concrete to the egg, and Bronya held the knife against her throat the whole way. Halfway there, without looking at me, she found my hand on the handle of the chair with her free one and held on to it. She held on so hard that the bones moved. She'd just found out I'd let Seele go, and she held on to me anyway, because there was nobody else left on the list.
+
+"Look after the book," she said, at the door of the egg. "She'll want her place."
+
+Then they opened it, and she let go.
 
 [You held her hand,] said the System, when the egg had closed. It didn't sound pleased. It didn't sound anything. [I'd wondered if you would.]
 
@@ -1526,11 +1550,19 @@ And her face was empty.
 
 Not tired, not grieving, not anything. Empty, as a plate is empty when it's been washed and put away. The doctors from Anti-Entropy drew a diagram for matushka on the whiteboard in her office, and I read it upside down through the half-open door. A part of the brain, drawn in red, and an arrow, and a word in Latin.
 
-"Bronya has returned," she said, when they wheeled her past me in the corridor. She said it to the wall, in a voice like a train announcement. "Bronya did not find the subject."
+They wheeled her down the corridor toward the infirmary, and at the top of the stairs she put out one hand and caught the banister, and the chair stopped, and the doctor pushing it nearly went over the handles.
 
-The subject. Seele.
+She turned her head and looked at me.
 
-In the second week they put something the size of a grain of rice behind her ear, and matushka told me it was to keep her well. In the third week they started fitting her for legs, white ones, with joints that clicked.
+"Bronya has returned," she said. Her voice was flat and even, like a train announcement, and it was coming out of the same mouth that had said *you're bad at this* every night for a year and a half. "Bronya did not bring back the subject. The subject would not come."
+
+"Seele," I said.
+
+"The subject Seele said several things." She recited them, in order, with no more feeling than a list of stations. "Seele said, remember our promise. Seele said, we will see each other again in the real world. Seele said, go back now, before it takes the rest of you." A pause, exactly as long as it needed to be. "Seele said, he promised me he would look after you. So go back and let him."
+
+She looked at me with nothing at all in her face.
+
+"Bronya does not know what to do with this information," she said, and let go of the banister.
 
 ```
 Bronya Zaychik
@@ -1541,15 +1573,25 @@ Status: Not a heroine of this run
 
 ---
 
-I sat with her every night.
+In the second week they put something the size of a grain of rice behind her ear, and matushka told me it was to keep her well. In the third week they started fitting her for legs, white ones, with joints that clicked.
 
-It was the one thing I didn't decide. I came down to dinner on the first evening and there she was at the end of the table in the wheelchair, in Seele's place, which she'd pushed herself into and wouldn't move from, and I sat down beside her because the boy had sat down beside her every night for a year and a half, and my body went and did it without asking me.
+She followed me.
 
-I put the console on the table between us. She picked it up. She beat my score in nine minutes. Nothing happened in her face at all.
+That was what she did instead of feeling things. Wherever I was in that house, within an hour she was there too, in the wheelchair and then on the white legs, click and click, down the long corridors. She sat outside the boiler room while I fixed the pressure valve. She sat at the end of the kitchen while I peeled potatoes for forty. She didn't talk unless I talked first. When the little ones ran past her she watched them go as you'd watch weather. Once a girl of seven climbed into her lap and went to sleep there, and Bronya let her, and sat perfectly still for an hour with her hand on the child's back, and her face didn't change at all, and I don't think she knew why her hand was there.
+
+She'd been told to come back to me. So she'd come back to me. It was the only order she had that she hadn't been given by matushka.
+
+At dinner she sat in Seele's chair, beside mine, which she'd pushed herself into on the first evening and wouldn't move from. I put the console on the table between us. She picked it up. She beat my score in nine minutes. Nothing happened in her face at all.
 
 "Subject Eros is bad at this," she said.
 
-Every night for three weeks. She beat my score, and said it, and nothing happened. She ate when the food was in front of her and stopped when it wasn't. When the little ones fought over the jam she watched them as you'd watch weather. Once, a girl of seven climbed into her lap and went to sleep there, and Bronya let her, and sat perfectly still for an hour with her hand on the child's back, and her face didn't change at all, and I don't think she knew why her hand was there.
+Every night for three weeks. She beat my score, and said it, and nothing happened. And every night, when I got up to go, she said one more thing, in exactly the same voice.
+
+"Subject Eros will be here tomorrow."
+
+It wasn't a question. She didn't do questions any more. It was a fact she was checking, as you'd check the gauge on a boiler.
+
+"Yes," I said, every night.
 
 On the twenty-second night I beat her score by accident.
 
@@ -1571,23 +1613,37 @@ Matushka called me into her office at the end of September.
 
 She was standing at the window with her back to me, looking out at the lake, which had gone the color of iron. Seele's cardigan was on the back of her chair. Nobody had moved it.
 
-"You were there," she said. "In the bunker. Both times."
+"She smiled at you," she said.
 
-"Yes."
+"For a second."
 
-"She looks at you." She turned round. Her eyes were very tired and very clear. "She doesn't look at anyone else. Not even me." She came and stood in front of me and put her hands on my face, as she had when I was six and had come in from the snow. "I'm going to need you, Cecilia's boy. There's a girl in Japan who needs watching. I'd trust you with it. I wouldn't trust anyone else."
+"For a second." She turned round. Her eyes were very tired and very clear. "The doctors say she can't. They've shown me the pictures of where it used to be. And then she sits down next to you with that game and does it anyway." She came and stood in front of me and put her hands on my face, as she had when I was six and had come in from the snow. "You're the only thing left in her that I can't account for, Cecilia's boy. Do you know how much that frightens me?"
+
+I didn't say anything.
+
+"There's a girl in Japan who needs watching," she said. "I'd trust you with it. I wouldn't trust anyone else." Her thumbs moved once on my cheekbones. "And it will be good for Bronya to learn to do without you for a while. She'll need to, later."
 
 "And Bronya?"
 
-"Bronya will come later." Her thumbs moved once on my cheekbones. "When she's ready. When I need her."
+"Bronya will come later," said matushka. "When she's ready. When I need her."
 
-"Yes," I said, before the System could say anything at all.
+I understood the shape of it then, and I said yes anyway, before the System could say anything at all. I had a route in Nagazora, sanctioned, paid for. I had Mei at the next desk and the whole of the operation behind me. I put the rest where it belonged.
+
+Bronya was at the gate on the morning I left, on the white legs, in a heavy gray coat over the harness, with snow on her shoulders. She'd been there since five. Nobody had told her what time the car was coming.
+
+"Subject Eros will be here tomorrow," she said.
+
+"No," I said. "Not tomorrow."
+
+She took that in. I watched it go in. It went in like a stone into deep water, and nothing came back up.
+
+"Then Bronya will come later," she said.
 
 ---
 
-I flew into Nagazora in October and moved into a rented apartment by the station, with a train going past the window every eleven minutes, and I had all of it with me, as I'd had Malmö and the garage. A woman's scarf in the snow. Twelve years of a big cold house full of children. A gray-haired girl at the end of a table, beating me at every game in the building.
+I flew into Nagazora in October and moved into a rented apartment by the station, with a train going past the window every eleven minutes, and I had all of it with me, as I'd had Malmö and the garage. A woman's scarf in the snow. Twelve years of a big cold house full of children. A gray-haired girl at the end of a table, beating me at every game in the building, and a book on the shelf with its corner turned down that I hadn't once opened since the bunker.
 
-On the table there was a phone with three numbers in it. One was labeled with a single Cyrillic letter. One was the school. One was a number with no name at all, and on the first evening it rang.
+On the table there was a phone with three numbers in it. One was labeled with a single Cyrillic letter, and was the house. One was the school. One was a number with no name at all, and on the first evening it rang.
 
 "You've arrived," said a man's voice. Flat, unhurried. "Good. Thursdays, eight o'clock, the parking garage under the station. Level three."
 
@@ -1595,11 +1651,9 @@ I knew the voice. I'd heard it on a quiet street behind a shrine, a long time ag
 
 "I'll be there," I said.
 
-```
-[2013, October. Your orders, from matushka, in her own handwriting: get close to the Raiden girl. Report every Thursday. After November, make sure she has nobody.]
-```
+Under the phone there was an envelope with my name on it in matushka's handwriting, and inside it one sheet of the paper she used for letters to Moscow. Get close to the Raiden girl. Report every Thursday. After November, make sure she has nobody.
 
-I read the orders three times, sitting on the floor of the apartment with the trains going past. Then I folded them up very small and put them in the bin and set fire to them in the sink, because that was what the boy who'd grown up in that house would have done, and because I was so happy I couldn't sit still.
+I read it three times, sitting on the floor of the apartment with the trains going past. Then I folded it up very small and set fire to it in the sink, because that was what the boy who'd grown up in that house would have done, and because I was so happy I couldn't sit still.
 
 [You look like Christmas,] said the System.
 
@@ -1607,24 +1661,37 @@ I read the orders three times, sitting on the floor of the apartment with the tr
 
 [She's going to pay you,] it agreed. [How nice for everyone.]
 
+On Sunday at nine in the evening the phone rang again, and the screen said the single Cyrillic letter.
+
+"Bronya has beaten your score," said Bronya. "Subject Eros has not played this week."
+
+Then she hung up.
+
 ---
 
 It went better than anything I'd done in any file.
 
-I didn't use what I knew on her. I'd kept to that at a desk by a window, and it was the one thing I'd got right there. I came in as a transfer student from a school in Hokkaido with a sad quiet story about an orphanage, which was half true, and I sat by the window where the System always put me, and I was useful and polite and I didn't come on too close. I looked, though. I looked all day. The Lightning Queen in black patent latex at the next desk, and the operation was going to pay me to sit there. I'd learned that in a garage. By November I had Polite, and then Open.
+I didn't use what I knew on her. I'd kept to that at a desk by a window, and it was the one thing I'd got right there. I came in as a transfer student from a school in Hokkaido with a sad quiet story about an orphanage, which was half true, and I sat by the window where the System always put me, and I was useful and polite and I didn't come on too close. I looked, though. I looked all day. The Lightning Queen in black patent latex at the next desk, and the operation was going to pay me to sit there. I'd learned that in a garage.
 
-And on Thursdays I went down to level three of the parking garage under the station and stood beside a gray sedan, and told the man in the plain coat what she'd had for lunch.
+On Thursdays I went down to level three of the parking garage under the station and stood beside a gray sedan, and told the man in the plain coat what she'd had for lunch. On Sundays at nine the phone rang, and Bronya told me she'd beaten my score, and hung up. I started playing again, on the train, so that she'd have something to beat. It was the only report I made that month that was true.
 
 ```
-[2013, October. Trust: Open.]
-[2013, November 16. Raiden Ryoma is arrested. The operation begins in earnest.]
+Raiden Mei
+Affection: Friendly
+Trust: Open
+Corruption: Untouched
 ```
+
+On the sixteenth of November I watched the arrest on the television in a noodle shop by the station, the house on the hill and the police cars and, for a second, a tall shape with long dark hair standing very still behind an upstairs window. The man in the plain coat rang me that night for the first time on a day that wasn't Thursday.
+
+"It's started," he said, and hung up.
 
 After the sixteenth, I didn't have to hold the knife at all. The operation held it. It was enormous and patient and it had people everywhere. A reporter got a tip about the Raiden girl's mother's medical records. A parent on the kendo club's board got a phone call. The detention center lost her visiting form twice. Somebody started a thread on a school forum that nobody could trace. I watched it all land on her, one piece at a time, and I didn't lift a finger, and every evening I was there afterward. On the steps. At the bottom of the hill.
 
 ```
-[2013, December. Trust: Confides.]
-[2013, December. Corruption: Bending.]
+Raiden Mei
+Trust: Confides
+Corruption: Bending
 ```
 
 On the eighth of December, Cocolia gave her first press conference as interim head of ME Corp, and that evening the man in the plain coat drove me to a hotel above the bay and took me up in a lift to the top floor.
@@ -1641,7 +1708,7 @@ She smelled of soup and wool. The boy in me had loved her as a mother for thirte
 
 "Sit," she said. "Eat something. You're too thin. They don't feed you in this country."
 
-We ate soup. She asked about school. She asked if I was sleeping. She told me Bronya had beaten the high score on a game I'd liked, and that Bronya pretended not to miss me, and was very bad at pretending. She was warm and funny and completely attentive, and I understood for the first time why the children in her orphanage would have died for her.
+We ate soup. She asked about school. She asked if I was sleeping. She told me that every Sunday Bronya sat by the telephone in the hall from eight o'clock, on the white legs, without moving, and rang me at nine exactly, and afterward sat by it until somebody came and took her up to bed. "She asks where you are," matushka said. "Every night. She has never once asked where anyone is. Not even Seele." She was warm and funny and completely attentive, and I understood for the first time why the children in her orphanage would have died for her.
 
 Then she put her spoon down and wiped her mouth with the napkin.
 
@@ -1668,33 +1735,92 @@ She looked at me for a long time. Then she smiled and patted my cheek and picked
 I didn't pull back. I told myself I'd do it later, in January, when Mei was further in. It was too good. Corruption was climbing on the operation's work and Trust was climbing on mine, and I had both meters going at once for the first time in any file, and I wasn't going to slow down for a woman who thought I was hers.
 
 ```
-[2014, January. Trust: Confides.]
-[2014, January. Corruption: Compromised.]
+Raiden Mei
+Trust: Confides
+Corruption: Compromised
 ```
+
+On the first Sunday of January the phone didn't ring.
+
+I sat on the floor with the console in my lap until eleven, with my score sitting at the top of the table where she'd left it, and it didn't ring. It didn't ring the Sunday after.
 
 On the twelfth of January, there was a knock at the door of my apartment at nine at night.
 
 It was Bronya.
 
-She was smaller than I'd expected, even knowing. She came up to my chest. She had her hair in its two long twisted tails and a school bag on her back and a face with nothing in it at all, and under a heavy gray coat hanging open she was wearing a gray latex catsuit, glossy, skin-tight from her ankles to her throat and unzipped from the collar to below her navel, the two edges of it pulling apart over her bare chest and stomach and hanging on to her tits only at the sides. The zip pull swung just above her crotch. Bunny ears on a band. A fluffy white tail just showing under the hem of the coat, a sniper's holster on her thigh. By the lake I'd mostly kept my eyes on my porridge, because the boy wouldn't let me do anything else. In Nagazora there was nobody to stop me, and I looked at that zip pull, and at the two inches it had left to go. She stood in the doorway and looked at me, and for a second, very briefly, something moved behind the nothing. In that whole house it had only ever moved for two people, and one of them was in the Sea of Quanta.
+She was smaller than I'd remembered, even knowing. She came up to my chest. She had her hair in its two long twisted tails and a school bag on her back and a face with nothing in it at all, and under a heavy gray coat hanging open she was wearing a gray latex catsuit, glossy, skin-tight from her ankles to her throat and unzipped from the collar to below her navel, the two edges of it pulling apart over her bare chest and stomach and hanging on to her breasts only at the sides. The zip pull swung just above her crotch. Bunny ears on a band. A fluffy white tail just showing under the hem of the coat, a sniper's holster on her thigh. By the lake I'd mostly kept my eyes on my porridge, because the boy wouldn't let me do anything else. In Nagazora there was nobody to stop me, and I looked at that zip pull, and at the two inches it had left to go, and only then at her face.
+
+Something moved in it. Very briefly. In that whole house it had only ever moved for two people, and one of them was in the Sea of Quanta.
 
 "Bronya has arrived in Nagazora," she said. "Bronya was sent ahead."
 
 "Come in."
 
-She came in, with the small even click on my floor of the white legs they'd been fitting her for when I left. She looked around the apartment. She looked at the console under the television and went and crouched in front of it and looked at the game I'd had in it, and then she stood up again.
+She came in, with the small even click of the white legs on my floor. She looked around the apartment. She looked at the console under the television and went and crouched in front of it, slowly, the legs folding in their careful stages, and looked at the score on the screen, and then she stood up again.
 
 "You did not beat Bronya's score," she said.
 
 "I didn't try."
 
-"Hm." She stood in the middle of the room with her bag still on her back. "Matushka says you have not pulled back."
+"You tried." She looked at the shelf, at the book with its corner turned down. "You are bad at this."
+
+She stood in the middle of the room with her bag still on her back.
+
+"Matushka says you have not pulled back," she said.
 
 "I'm doing it slowly. She said slowly."
 
-"Matushka says you have not pulled back," Bronya said again, in exactly the same voice, "and Matushka says you have never lied to her before, and that this is how she knows." Her hand came out of her coat. I hadn't seen her put it in. "Bronya regrets this. Matushka's orders."
+"Matushka says you have not pulled back," Bronya said again, in exactly the same voice, "and Matushka says you have never lied to her before, and that this is how she knows." Her right hand went into her coat. "Matushka says Bronya is the one who must do it. Because Subject Eros will not be afraid of Bronya. Because Bronya is the only one he would let in."
 
-I had time to think, very clearly, that I'd sat next to her at dinner every night for a year and a half, and had never once been afraid of her.
+The hand came out with a pistol in it.
+
+It came out very slowly. That was what I'd remember. In the game she'd been the fastest thing on any roof, and in the house she'd put a boy twice her size on the floor in a second and a half, and now her hand came up out of her coat as if it were being pulled up on a string, one stage at a time, like the legs, and the rest of her stood quite still and let it.
+
+"Bronya is not doing this," she said.
+
+Her face wasn't empty any more.
+
+I'd never seen anything happen to a face like that. It was as if something had been cut away inside her and grown back wrong and was trying now, all at once, in the one minute it had, to be every expression she'd missed since August. Her mouth pulled. Her eyes went wide and wet. Behind her ear, under the gray hair, where they'd put the grain of rice, there was a tiny point of light I'd never noticed, blinking green.
+
+"Bronya is not doing this," she said again, and her voice cracked across the middle, and the pistol came level with my chest.
+
+[Run,] said the System, and I'd never heard it say that before. [Eros. The window.]
+
+I didn't run. I don't know why. Maybe because there was nowhere in that apartment she couldn't hit, and I'd known it since the knock. Maybe because she'd held my hand across the whole bunker floor after finding out what I'd done, and I owed her not making this any harder for her body than it already was.
+
+"It's all right," I said.
+
+It was the first thing I'd said to her in either life that wasn't true and that I wanted her to believe.
+
+The shot was very loud in that small room. Something hit me in the chest like a door slammed into it, and I sat down on the floor without meaning to, with my back against the wall under the window, and a train went past outside, every window lit, all the people in it looking at their phones.
+
+It didn't hurt at first. Then it did, all at once and everywhere, and my breath came in wet and short and wouldn't go down far enough, and there was warmth spreading under my shirt that seemed to be happening to somebody else, a long way off.
+
+The pistol hit the floor. The green light behind her ear had gone out.
+
+She came down onto her knees in front of me, all at once, not in stages, the white legs folding under her any old how, and she put both her hands on my chest over the hole and pressed, hard, as Seele had pressed a cloth on her split knuckles on her first night in the house.
+
+"No," she said. "No. No. I didn't. I didn't, it wasn't me, I couldn't stop it, I tried, I *tried*..."
+
+I. Not Bronya. I. It was the first time I'd heard it since the knife in the bunker.
+
+"I know," I said. It came out as mostly breath.
+
+"You're supposed to be here tomorrow." She was crying. I'd never seen her cry, in either life, not once. It was ugly and helpless and it made her look about six years old and about a hundred. "You said. Every night you said. You're supposed to carry the bags. You promised her. You promised her you'd look after me, and I, I..."
+
+"Bronya."
+
+"Don't." She pressed harder. Blood came up between her fingers anyway. "Don't, don't, I can't, I just got it back, I just got it back and it's *this*, I don't want it if it's this, take it back..."
+
+I got a hand up. It took a long time. I put it over hers, on my chest, and she held on to it, as she had on the bunker floor, so hard the bones moved.
+
+The room was getting dark at the edges, and very cold. The train had gone. Somewhere a long way above me Seele's book was on the shelf with its corner turned down, and I thought, quite clearly, that somebody ought to tell her what page she'd got to, and that it wasn't going to be me.
+
+"You're bad at this," Bronya said, through her teeth, crying, holding my hand against the hole in me, and the corner of her mouth tried to go up and couldn't, and she put her forehead down on my shoulder.
+
+I had time to think that I'd sat next to her at dinner every night for a year and a half, and had never once been afraid of her, and that I still wasn't.
+
+Then the cold came all the way in.
 
 ---
 
@@ -1709,9 +1835,19 @@ I stood in the white for a long time.
 
 Something else had gone, a small thing. A woman from St. Freya with a burn scar down her neck, who'd come up to the eleventh floor one July on a cane. A captain. I could see the cane. I couldn't find her name.
 
-[She did love you,] said the System. [In her way. That was the sad part.]
+My right hand was still closed, as if somebody were holding it.
 
-"She needs Mei alone."
+[They both loved you,] said the System. [Matushka in her way. That was the sad part.] A pause. [And the other one in hers. Did you notice? It was the first thing she'd felt since August. You. She got it all back for you, and then she got to keep it for about a minute.]
+
+"Don't."
+
+[You never told her about the stairs, either. Or the corridor at one in the morning.] It said it without any edge at all. [She'll never know. She isn't real, remember. You keep telling me.]
+
+I stood there with my hand closed for a long time. I'd told myself in a garage and in a glass tower that none of them were real, and it had been easy to believe in both places. It was harder with the shape of her fingers still in mine.
+
+Then I made myself open it.
+
+"She needs Mei alone," I said.
 
 [She does.]
 
@@ -1719,7 +1855,7 @@ Something else had gone, a small thing. A woman from St. Freya with a burn scar 
 
 [So?]
 
-"So I stay out of her sight. I'm never on a list. I'm never in a report. Nobody in her operation ever writes my name down." I thought about the small gray-haired girl in the doorway of the apartment with her hand coming out of her coat. "And Bronya's coming for her at the end. On the day."
+"So I stay out of her sight. I'm never on a list. I'm never in a report. Nobody in her operation ever writes my name down." I thought about a pistol coming up out of a gray coat one stage at a time, like a thing on a string. "And Bronya's coming for her at the end. On the day."
 
 [You read the file,] said the System, approvingly. [In the hotel. While she was in the bathroom.]
 

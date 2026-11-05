@@ -59,10 +59,15 @@ Believes the ends are the point.
 **In Chapter 3:**
 
 - **Every loop:** on television in December as the new head of ME Corp.
-- **Loop 1:** Eros names her; her man in the gray car kills him.
-- **Loop 3:** Eros is one of her orphans (Second Eruption, Siberia), sent to
-  Nagazora to isolate Mei. She meets him in person in December in a hotel
-  suite above the bay, warm as with all her children: "A girl who has
-  someone won't come to me, Eros. I need her alone. Pull back." He lies
-  that he will, and she sends Bronya.
+- **Loop 1:** Eros digs into the frame; her man in the gray car kills him.
+- **Loop 3:** Eros is one of her orphans, "Cecilia's boy," at the house by
+  Lake Baikal. He's there for X-10 in August 2013. She lets him into the
+  bunker ("Somebody should be there who loves her") and puts her hands flat
+  on the glass when Seele dissolves. When she sees Bronya almost smile at
+  him she's frightened ("You're the only thing left in her that I can't
+  account for") and sends him to Nagazora to isolate Mei, partly to teach
+  Bronya to do without him. In December, in a hotel suite above the bay:
+  "I need her alone. Pull back." He lies that he will. She sends Bronya,
+  and uses the bio-chip to make her fire, because he'd never be afraid of
+  Bronya and she's the only one he'd let in.
 - **Loop 8:** her outbreak at Chiba Academy.
