@@ -32,10 +32,14 @@ between the two places.
   port. He confesses to Kiana at the lighthouse; Mei, five meters away,
   runs before Kiana says no. On the roof Mei's other personality breaks
   Kiana first, then kills him when he runs to her.
-- **Loop 5 (Liar's Face):** the same year played as a lie. He never follows
-  Kiana, never looks at her where Mei can see, learns the sword from Mei,
-  and on the roof walks to Mei instead of Kiana. Liar's Face does its job,
-  and it works.
+- **Loop 5 (Liar's Face):** born to a night nurse on the sixth floor of the
+  ME Corp hospital, the boy grows up beside Mei in the children's ward from
+  nine, leaves for Osaka at twelve with one of her two pins ("So you'll come
+  back"), and comes back at eighteen. Then the same year played as a lie. He
+  never follows Kiana, never looks at her where Mei can see, learns the
+  sword from Mei as a killing art, and on the roof walks to Mei instead of
+  Kiana and smiles at her with her hand in his chest. Liar's Face does its
+  job, and it works.
 
 Underneath: the thing he builds is the thing he wants. He engineers someone
 who needs him completely. It works, and it feels good. That's the horror of
@@ -76,8 +80,10 @@ from the white come back as things he did.
 
 Births on offer: Malmö (an ME Corp man), the port children's home,
 Mr. Tanabe's sister, a Siberian village, the Raidens' staff cottage (never
-taken), and Willow Street as the System's joke. Loops 4 and 5 both use the
-port children's home.
+taken), the ME Corp hospital (to a night nurse in the children's ward),
+and Willow Street as the System's joke. Loop 4 uses the port children's
+home; Loop 5 the hospital, which puts somebody awake in the room with the
+hundred and twelve ceiling tiles.
 
 Loop 2's failure is now a fork: at thirteen he has the nephew tell Ryoma
 about Mei's bursting lights, breaking a promise, and she never forgives
@@ -97,8 +103,8 @@ him.
   cottage ("Not yet"), "The children's home."
 - **Chapter 4** opens in the white with no recap and ends in the white after
   Loop 4, on his choice for Loop 5.
-- **Chapter 5** opens on the Loop 5 log ("The same as the fourth file") and
-  runs to the waking and the watch room.
+- **Chapter 5** opens on the Loop 5 log (the ward, from birth) and runs to
+  the waking and the watch room.
 
 Five attempts. Each tries a different door into her life.
 
@@ -108,7 +114,7 @@ Five attempts. Each tries a different door into her life.
 | 2 | Reroll | Wake at 18 | Tanabe's nephew from birth | "You're not him." He resets himself. | Frayed |
 | 3 | The Inside Man | Wake at 18 | Siberia, Cocolia's orphanage | Self: kept in the ME Corp tower, he goes over the terrace rail (ordinary) | Frayed, close to Worn |
 | 4 | Five Hundred Centimeters | Wake at 18 | The port children's home; daily confessions; Kiana, the hunts, the lighthouse | Herrscher lightning, after he runs to Kiana | **Worn** |
-| 5 | Liar's Face | Wake at 18 | The same birth; the same year, played as a lie | The wound, on the roof, as the purple goes out of the sky | **Torn** (the hand) |
+| 5 | Liar's Face | Wake at 18 | The ME Corp hospital ward; the pin at twelve; the same year, played as a lie | The wound, on the roof, as the purple goes out of the sky | **Torn** (the hand) |
 
 ### Loop 1: "The Lightning Rod" (about 6k words)
 
@@ -136,7 +142,7 @@ people say, and who's still saying it"). The route thought and "There he
 is" come here. She asks why at the car. After the audit he decides to stop
 digging, and the gray car kills him the next day. In the white the System
 tells him she'd have been waiting for him in another week or two, which is
-why the boy in Loop 5 confesses daily. "The last one standing" never completes: she
+why he confesses daily in Loops 4 and 5. "The last one standing" never completes: she
 isn't waiting yet. **Unlocks:** kendo manager; Tanabe's nephew (birth).
 **Lesson:** never use what he knows on her (he didn't, and it was the one thing he got right); Cocolia's people kill diggers.
 
@@ -294,8 +300,14 @@ later. See mei-run-childhoods.md for the full list.
   gate (the truth, early), Daichi at the noodle stall (he says nothing), the
   pencils (he keeps both). At the takeover every one of them is his own
   memory.
-- **Loop 5:** the same forks, except Haru: this time the boy tells him his
-  mother is coming. Haru waits happy all spring, is adopted anyway, and
-  waves at the gate.
+- **Loop 5 (the ward):** the night porter (stay and count the cars), Ren
+  ("Yes," with a perfect face; he dies with his shoes packed), sit with her
+  (the tiles; thirty-eight), ask Ryoma why he's always tired ("keeping
+  something asleep"), Osaka (go, for the gap; the pin), Dr. Matsuda (no;
+  she marries him anyway), the letters (keep writing), Tokyo (don't go; she
+  loses by a kote), the porter's funeral (write to her; she counts for
+  him), the scholarship (sit it, don't tell her). In 2013 Mrs. Okada, the
+  widow from Loop 4's paper boat, is his landlady next door and has never
+  met him.
 - **Objectives:** no childhood fork completes a hidden objective, so the
   lock-in never starts early.

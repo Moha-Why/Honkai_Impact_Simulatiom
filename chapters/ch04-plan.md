@@ -466,10 +466,15 @@ before he does that the run is real.
     girl and the right roof ("You'd cracked the wing. She had to drink a
     whole city to mend it. And then you ran the other way."). "And you were going up there to tell her about
     the guns." His choice for Loop 5 comes out in talk with the System, not
-    narration: same birth; he won't go where Kiana goes (the Homu Happy after
-    ten, the warehouses, the lighthouse); the family sword nobody's been
-    taught; "And Kiana?" and he doesn't answer. Haru: "This time he tells him
-    she's coming." "Loop 5."
+    narration. He leaves the children's home dark ("Not the home?") because
+    of the room she told him about on the dojo step, a hundred and twelve
+    ceiling tiles and nobody else awake: "This time somebody's awake." He
+    takes the night nurse in the ME Corp hospital ("That's a long way round.
+    Nine years before you even meet her."). He won't go where Kiana goes (the
+    Homu Happy after ten, the warehouses, the lighthouse); the family sword
+    nobody's been taught; "And Kiana?" and he doesn't answer; Liar's Face "is
+    going to have to work for a living." The map goes out to one window on
+    the sixth floor of a hospital. "Loop 5."
 
 ## Meters (thresholds only)
 

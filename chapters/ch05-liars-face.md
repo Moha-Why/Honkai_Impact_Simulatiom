@@ -6,189 +6,397 @@ Loops completed: 4
 Soul: Worn
 ```
 
-The log ran fast this time. It didn't stop for the mandarin box or the gulls or the paper boat going soft on the windowsill. It went past them in a white blur of dates, eighteen years with nothing in them I hadn't already chosen, and I stood in the white and let it go.
+```
+[1995, March. You are born in the maternity ward of the ME Corp medical institution in Nagazora, on the fourth floor, at the end of a night shift. Your mother, Kanda Yūko, works nights in the children's ward on the sixth. She names you Eros, from the crossword she was doing between contractions, because it was four across and it fit. She's back on shift in seven weeks, because the rent doesn't wait, with you in a basket under the nurses' station.]
+[1996. You learn to sleep anywhere. On the spare bed in the staff room. Under the nurses' station, in the basket, and then without it. In the chair by the window in the children's ward at three in the morning, with the lights of the coast road going past below.]
+[1998. You're three. The night porter teaches you to count the cars on the coast road. Red ones are two points. You get to four hundred before you fall asleep.]
+[2000, April. You're five. Your aunt across the city offers to have you on your mother's night shifts, in a real bed, so you can start school properly rested.]
+Go to your aunt's / Stay at the hospital / Ask the night porter
+```
+
+"Ask the porter."
+
+[You're letting a porter choose?]
+
+"He'll say stay."
 
 ```
-[1995 to 2009, February. The same as the fourth file.]
-[2009, February. You're thirteen. A boy of six called Haru waits at the gate every afternoon for his mother, who said she'd come back in the summer. The staff say she isn't coming. He asks you, because you know things, whether she is.]
-Tell him the truth / Tell him she's coming / Tell him to ask Mrs. Hōjō
+[2000, April. The porter thinks about it for a whole cigarette, outside the back door. "Stay," he says. "Who'd count the cars?" You stay. Your aunt is offended until Christmas.]
+[2001. You start school. You're quiet and good at sums, and you can't sleep in a bed that doesn't smell of a hospital. On the nights your mother works, you do your homework at the nurses' station, and the nurses check it, and get it wrong.]
+[2003. You're eight. You know every child who has stayed on the sixth floor for more than a week. You know which ones are going home and which ones aren't, before they do, from how the nurses talk at the station. You don't tell anyone.]
+[2003, July. A boy of six called Ren has been on the sixth floor since Easter. He isn't going home. One night at the window he asks you, very seriously, whether he is.]
+Tell him the truth / Tell him yes / Tell him to ask your mother
 ```
 
-"She's coming," I said.
+"Yes."
+
+I'd drawn a face for lying, and in the fourth file I'd used it on her for everything. I wanted to see it used once for something soft.
 
 ```
-[2009, February. You tell him she's coming. He waits at the gate every afternoon all spring, with his coat sleeves turned back twice, and he's happy there.]
-[2009, June. A family from Kobe meets him and likes him. At the gate he turns round and waves at the window where you're standing, with both arms, until the car takes the corner.]
-[2009 to 2013. The same as the fourth file.]
+[2003, July. You tell him yes. Your face doesn't move at all. He believes you completely.]
+[2003, August. He dies three weeks later, in the night, with his shoes packed by the bed. Your mother is on shift. She finds you in the chair by the window in the morning, and doesn't ask.]
+[2004, September. A girl is brought into the children's ward. She's nine, like you. She has two pins in her hair and doesn't speak to anyone. The nurses say she was taken in June by bad men and brought back in August. They say her father owns everything. On the second night you see that she doesn't sleep.]
+Sit with her / Leave her alone; she's not yours to look after / Tell your mother she isn't sleeping
+```
+
+"Sit with her," I said.
+
+[What will he say?]
+
+"I don't know. I can't steer him past the fork."
+
+[No,] said the System. [You can't.]
+
+```
+[2004, September. On the second night you watch her not close her eyes. At five, when the window goes gray, she's still looking at the ceiling.]
+[2004, September. On the third night you get out of the chair by the window and go and sit on the end of her bed.]
+```
+
+"There are a hundred and twelve ceiling tiles," the boy said. "In this room. I counted. If you count them you fall asleep. It works every time."
+
+She looked at him. She had very dark eyes and a face that had decided not to show anything to anyone ever again.
+
+"That's stupid," she said.
+
+"It works."
+
+She looked back at the ceiling. After a while her lips started to move. He sat on the end of the bed and counted with her, under his breath, one tile at a time, along the rows by the window and back.
+
+She fell asleep at thirty-eight.
+
+```
+[2004, October. She falls asleep at sixty. Then at twenty. Then she stops needing the tiles and counts the cars on the coast road instead, out loud, at the window, and you correct her when she gets the colors wrong. Red ones are two points. She says that's a stupid rule. She keeps it.]
+[2004, November. She speaks to one of the nurses for the first time. She asks for a second pillow, for the boy in the chair.]
+[2005, January. Your mother lets the two of you sit up until eleven on her night shifts, because it's the only thing that makes the girl sleep. "Ten more minutes, then bed. Both of you. I'm counting."]
+[2005, March. She tells you about the men in the van. Only once, in the dark, with her back to the radiator. You listen to all of it and don't say anything at all. Afterward she says, "You're the only one who didn't say sorry."]
+[2005. Her father visits on Sundays. He's always very tired. He brings her books, and she doesn't read them. Once he sees you in the chair by her bed and stops in the doorway for a long time.]
+[2005, October. One Sunday she's asleep when he comes. He sits down in the other chair, across the bed from you, and doesn't say anything for ten minutes.]
+Say nothing / Say good evening / Ask him why he's always tired
+```
+
+"Ask him."
+
+```
+[2005, October. "Why are you always tired?" you ask. He looks at you. "Because I'm keeping something asleep," he says. "Like you." He watches her sleep for another ten minutes, and goes.]
+[2005, December. You're ten. On the last night of the year, counting cars at the window, she tells you that if you ever go away and come back, you're allowed to ask her to go out with you. You ask what she'll say. "No," she says. "Every time. So you'll have to keep coming back." You promise you will.]
+[2006, February. She teaches you the first three cuts of the sword her teacher taught her, with two rolled-up magazines, in the corridor at midnight. A night nurse catches you and laughs so hard she has to sit down on the floor.]
+[2006, May. Her father puts his hand on your head on his way out and says, "Thank you for looking after her." You don't know what he means. You were only counting.]
+[2006. She starts sleeping through the night. She still asks for the second pillow.]
+[2007, February. Your mother is offered a post at the ME Corp clinic in Osaka. More money, day shifts, a flat with two rooms. You're nearly twelve. She asks you what you want.]
+Go with her / Stay in Nagazora with your aunt / Ask the girl's father if you can stay
+```
+
+If the boy stayed, she'd grow up with him at the next desk every day for six years, until he was part of the furniture. If he went, there'd be a gap with letters in it, and at the end of the gap a boy coming back.
+
+"Go with her."
+
+```
+[2007, March. You tell Mei on the last night.]
+```
+
+She didn't say anything. They were sitting on the floor of the ward under the window with their backs to the radiator, as they did on the bad nights, and the cars were going past below with their lights on, and she didn't count them.
+
+Then she reached up and took one of the two pins out of her hair. It was dark, with a small lacquered head the color of the inside of a shell. She'd had them since before the van. She'd never once taken them out in front of him.
+
+She took his hand, put the pin in his palm and closed his fingers over it.
+
+"So you'll come back," she said.
+
+```
+[2007, March. She goes home to the house on the hill the same week. You go to Osaka.]
+[2007 to 2009. Letters. Every week at first, in her very straight handwriting, about school and the sword and her father, who is never home. You write back about Osaka, which is loud, and the new school, which is easy, and the night porter at the clinic, who doesn't know any games.]
+[2008, October. You're thirteen. A doctor at the clinic, Dr. Matsuda, takes you out for ramen and asks you, very formally, whether he may marry your mother.]
+Say yes / Say no / Say it's up to her
+```
+
+"No."
+
+A stepfather was a man with plans for the boy, and a man with plans might move him somewhere the scholarship couldn't find him.
+
+```
+[2008, October. You say no. He thanks you for your honesty and pays for the ramen.]
+[2009, April. She marries him anyway. You were only being asked to be polite. He's kind and dull and calls you "young man," and he never once tries to plan anything for you.]
+[2009. She writes that she wears one pin now. People ask why. She tells them she lost the other.]
+[2010, May. You're fifteen. Her letters have got shorter. Yours have too. There's a girl at your school who sits next to you in chemistry and laughs at your jokes. You haven't written to Nagazora in two months.]
+Keep writing / Write less / Stop
+```
+
+"Keep writing."
+
+```
+[2010, May. You keep writing. You write her a long letter about nothing, about the girl in chemistry and a cat at the clinic and the cars on the Osaka ring road, which are different colors. She writes back three pages. At the bottom it says, Red ones are still two points.]
+[2010, September. She's in the national junior final in Tokyo in October. She writes and asks if you'll come and watch. She's never asked you for anything before, except a second pillow.]
+Go / Don't go / Send something instead
+```
+
+"Don't go."
+
+A gap was only a gap if nobody crossed it.
+
+```
+[2010, October. You don't go. She loses the final by one point, a kote, in the last ten seconds.]
+[2010, October. Her next letter is three words long. You weren't there.]
+[2010, November. The one after that is four pages about nothing, as if the other one had never been sent.]
+[2011, February. The night porter at the hospital in Nagazora dies at seventy-four, in the chair in his booth. Your mother takes the train up for the funeral.]
+Go with her / Stay in Osaka / Write to Mei and ask her to go for you
+```
+
+"Write to her."
+
+```
+[2011, February. She goes. She stands beside your mother at the back. Afterward she asks to see the sixth floor, and your mother takes her up, and the two of them stand at the window by your old chair and count the cars on the coast road for him until it gets dark.]
+[2011, February. Your mother tells you about it at the kitchen table with her coat still on. "She got to two hundred," she says. "She gave every red one four."]
+[2011 to 2012. Birthdays, mostly. New Year cards. Once, in the middle of a winter, a letter with nothing in it but a pressed leaf from the tree in the dojo garden.]
+[2012, December. The ME Corp foundation offers a scholarship to Chiba Academy, the school on the hill in Nagazora, for its third year. You're eligible. Your mother's employer pays for the forms.]
+Sit the exam and tell her / Sit the exam and don't tell her / Don't sit it
+```
+
+"Sit it," I said. "Don't tell her."
+
+[Why not?]
+
+"Because the boy wants to see her face." It had been the boy's reason, in a letter he never sent. "And so do I."
+
+```
+[2013, March. You pass. You still don't tell her.]
 [2013, April 13.]
 ```
 
-The System didn't say anything about Haru. Neither did I.
+---
+
+I woke up in a bedroom in Osaka on the morning of her eighteenth birthday, at the bottom of a boy.
+
+He came up to meet me all at once, with the weather still on him. The hospital smell. The chair by the window, and the coast road going past under it. A boy called Ren with his shoes packed by the bed, believing every word. A girl's lips moving in the dark, and the radiator hot against his back, and her fingers closing his over something small and hard.
+
+I'd loved her from the outside, through a screen, on a train in another life. He'd loved her from inside, since he was nine. Every letter. Every red car. The scholarship he hadn't told her about, because he wanted to see her face. It was mine now, all of it, as if I'd lived it, because I had.
+
+And under it, the other thing. Cold concrete under me, the lighthouse steps, and a girl's small voice saying "Me?" to the sea. A roof, and the sky lit from inside in a net of white, and Kiana in the air beside me with her braids straight out.
+
+I lay on the narrow bed with both of them in me, and the alarm going off in the next room, and neither of them would move over.
+
+I got up. There was a biscuit tin on the shelf over the desk with six years of letters in it, and under the letters, wrapped in a handkerchief, a dark pin with a small lacquered head the color of the inside of a shell.
+
+I turned it over in my fingers for a long time.
+
+```
+[Status]
+Name: Eros
+Age: 18
+Combat Rating: Civilian
+Honkai Resistance: Low D
+Honkai Adaptability: None
+Soul: Worn
+Gifts: Quick Learner (Green), Sprinter (White), Quick Reflexes (Green), Honkai Resistance (Blue), Liar's Face (Green)
+Experience: Hunting and Field Craft (Professional)
+
+Raiden Mei
+Affection: Close
+Trust: Confides
+Corruption: Untouched
+```
+
+[Look at those numbers,] said the System. [You didn't do anything for those.]
+
+"No," I said. "He did."
+
+[Where do you want to live? The house next to hers, the scholarship dormitory, or your aunt's flat across the city. September or October.]
+
+"The house next door," I said. "September."
 
 ---
 
-I woke up at the bottom of the boy, and the fourth file came up through him like the sea through a cellar door.
+I came back to Nagazora on the first of September with a bag, a scholarship letter and a biscuit tin.
 
-It didn't come as a list. It came as noise and weather and a body. Cold concrete under me, the lighthouse steps, and a girl's small voice saying "Me?" to the sea. Forty pachinko jingles howling in the dark at once. Rain coming down in a stairwell and a cat notebook going soft on a wet step. Then the roof. The whole sky lit up from the inside in a net of white, every strand of it turning, slowly, to point at one spot on the concrete, and Kiana in the air beside me with her braids straight out and her mouth open, and her voice from the foot of the water tank, cracking down the middle. *Go to her! She's right there!*
+Mr. Okada had died two years before, and since then his widow had let three rooms of the house next to the Raidens' to students and lived in the back of it herself. My room looked over the wall into the Raidens' garden. On the windowsill there was a paper boat, gone gray with dust. Her husband had folded them, she said, for any child who'd sit still long enough.
 
-I sat up so fast my head hit the bunk above me.
+I put it back exactly where it had been.
 
-[Careful,] said the System. [That's the only head you've got in here.]
+At five the next morning a sound began on the other side of the wall, a sharp hollow crack, and another, and another, as regular as a metronome. A wooden sword on a wooden post.
 
-Three boys asleep. Gray light off the harbor. Gulls walking on the gutter. My heart going like something trying to kick its way out of a box. I put both hands flat on the mattress and held on until the room stopped being a roof.
+I lay in the dark and counted the strokes. Two hundred and six. Then they stopped, and a door slid shut, and a bird started up in the tree over the wall as if somebody had given it permission.
 
-Under the roof, the boy. Eighteen years of him, arriving all at once with the weather still on them, the long table and the Thursday miso and the paper boat. And Haru, which was new. A small boy at the gate in June, turning round in his new family's car door, waving at the corridor window with both arms over his head as if he were bringing in a plane. The boy had stood at that window with his hand up until the car was gone, and then stood there a while longer.
+At half past seven I walked up the hill to the school gate with the cars going past me, black, black, silver, black, and stood under the covered walkway where the students got out, and waited.
 
-It was in me now. It sat beside the other thing, the one with the net of white in it, and they didn't touch.
+The long black car came at seven-forty. The old man in the white gloves came round to open the door, and she got out.
 
-[Where do you want to live?] said the System.
+The Lightning Queen. Taller than most of the boys, very straight, her bag held in front of her in both hands. Her hair fell to the backs of her thighs, dark, with a blue sheen where the light hit it, and it was held up at one side by a single pin.
 
-"The apartment," I said. "September."
+Only one. Above her left ear there was a small bare place where the second one had been for six years.
 
-The same words as last time. It didn't say anything about that either.
+She hit me from the bottom of the walkway as she had in every file. Something in me that had nothing to do with plans sat up and said *That's Mei*, as stupidly as it had the first time, and this time the boy said it with me, and his voice was louder.
 
-On the Saturday before term I went to the noodle stall, and Daichi was at the end of the counter, and I thanked him for the noodles, and he told me about the pool table in Kobe word for word. I'd have known his next line in my sleep. I let him say it anyway. He'd only ever get to say it once.
+She saw me.
+
+The Lightning Queen went out of her face all at once, like a light switched off in a window, and for one second there was only a girl of eighteen on a curb with her mouth open and her hand going up to the bare place above her ear without her knowing it.
+
+"You came back," she said.
+
+I took the handkerchief out of my pocket, and the pin out of the handkerchief, and held it up.
+
+She crossed the walkway in four steps, past the old man and the three girls who'd been waiting for her, in front of the whole line of cars, and put her arms round my neck and held on, very hard, as she'd held on to the radiator on the bad nights.
+
+"You didn't tell me," she said into my shoulder. "You didn't tell me you were coming."
+
+"I wanted to see your face."
+
+By lunch the whole school knew. By the end of the week there were three versions of it going round the corridors, and in all of them the Lightning Queen had run across the walkway in front of the cars and put her arms round a boy nobody had ever seen. In one of them she'd kissed him. In another he was a prince from somewhere.
+
+```
+Raiden Mei
+Affection: Fond
+```
 
 ---
 
-On the Monday of my second week I stood up at eight-twenty and turned to face her desk.
+On the second morning I stood up at her desk at eight-twenty, with the whole class coming in round us.
 
-"Raiden-san. I like you. Will you go out with me?"
+"Raiden-san," I said. "I like you. Will you go out with me?"
+
+She looked up from her book. The room went quiet, thirty people deciding to listen without looking as though they were.
+
+"Like you promised when we were ten," I said. "If I ever came back."
+
+She laughed. It surprised her as much as anyone. It came out of her all at once, and she put her hand over her mouth, and her eyes were wet, and she was still laughing behind her hand.
+
+"I'm sorry," she said, when she could. "No."
+
+"Tomorrow, then."
+
+At the back of the room a boy got up, went to the blackboard, and in the bottom corner, very small, made a single mark in chalk.
+
+I came the next morning, and the next. She said no every morning, smiling, and every morning there was another mark in the corner of the board, and by the end of September Emi had a cat notebook with the odds down the back page and most of the money on a yes by Christmas.
+
+"That's nineteen," Mei said, on the twentieth, without looking up from her book.
+
+"Twenty."
+
+"You're counting."
+
+"So are you."
+
+She looked up then, with her eyes very bright, and looked down again before it could become anything.
 
 "I'm sorry," she said. "No."
 
-"Okay. I'll ask again tomorrow."
-
-Emi said "What," very quietly, to nobody. On Wednesday the boy at the back made his first mark in the corner of the blackboard. By the end of September the cat notebook had the odds down the back page, and most of the money said Christmas.
-
-[Still Christmas,] said the System. [I'd still take Christmas.]
-
-I knew every one of her no's before she said it, and which morning in October she'd start looking up before I reached the desk. I stood up every morning anyway and said the ten words at the same weight, and sat down, and took out my maths.
-
-```
-Raiden Mei
-Affection: Noticed
-Trust: Polite
-```
-
 ---
 
-In October I asked her to teach me kendo.
+At five on the fourth morning I went through the gap in the hedge at the bottom of Mrs. Okada's garden, and Mei was in the dojo in her practice clothes with sweat darkening the back of her jacket. She saw me through the open doors and lowered the sword.
 
-I did it at the gym door after school, with her armor bag over her shoulder and the rest of the club already inside, stamping on the boards and shouting.
+"You're staying next door," she said. "With Mrs. Okada. Of course you are." She almost smiled. "Sit properly, if you're going to watch. You always sat like a sack of rice."
 
-"The club is for members," she said. Every word was polite and complete, and she was already turning away.
+I sat properly.
 
-On Monday I was a member.
+By October she'd put a practice sword in my hands. By the middle of October she was standing across the boards from me with hers.
 
-I stood at the end of the line in borrowed armor that smelled of somebody else's summer, with the helmet strings tied wrong, and fourteen people in navy looked at me as you'd look at a dog that's wandered into a shrine. Hayashi Rin, the vice-captain, a small fierce second-year with a bun like a fist, looked at Mei. Mei looked at the far wall.
+I lasted nine seconds. She came in from the right with a cut I never saw, and my body saw it for me.
 
-"Footwork," she said. "Until I say."
+[Quick Reflexes,] said the System.
 
-She said it for a week. I slid up and down the boards on the balls of my feet, *shff, shff, shff,* while the others sparred around me in the din, crack after crack of bamboo on armor, and every time I looked up she was watching somebody else.
+I was already going sideways under the blade, and her sword cracked against the post where my head had been.
 
-On the second Friday she pointed her shinai at me.
+"When did you learn to do that?"
 
-"Jigeiko," she said. "With me."
+"I don't know."
 
-The dojo went quiet in a ring. Somebody's shinai clattered on the boards and nobody picked it up.
+"Do it again."
 
-I knew exactly how this was going to go. The boy didn't. The boy's heart was hammering against the inside of his armor, and his palms were wet inside the gloves, and his body did what an eighteen-year-old body does when the Lightning Queen of Chiba Academy points a stick at it in front of fourteen people, which was everything wrong.
+She came in again from the right, slower, and I flinched so hard I sat down on the floor. It had been a feint. My body had believed it completely and thrown me out of the way of a blow that wasn't coming.
 
-We bowed. We crouched. We rose.
+She stood over me with her sword lowered and laughed, really laughed, as she'd laughed in a hospital corridor at midnight when she was ten, with a night nurse sitting on the floor beside her.
 
-She was already in front of me.
-
-I never saw her feet move. One moment there were three meters of boards between us and the next there weren't, and her shinai came down on the top of my helmet, *PAK*, so hard the dojo went white at the edges and my teeth met.
-
-"Men," said Mei, as you'd tell someone the time.
-
-I came up out of it swinging.
-
-[Kendo: Men,] said the System.
-
-It was a beginner's men, loud and late and a mile wide, and she wasn't there. She was beside me, and her shinai snapped across my wrist, *PAK*, and my fingers opened on their own.
-
-"Kote."
-
-I picked the shinai up. She let me. I went at her again, and again, and the boards boomed under my stamping feet, and she took me apart in front of everyone, one clean cut at a time. Men. Kote. Dō, a slap across the ribs that knocked the air out of me sideways. Men again, so fast the sound arrived after the sting. I went down on one knee. I got up. I went down on my back and lay looking at the rafters with the dojo ringing round me like a struck bell.
-
-[Kendo: Kote,] said the System, as I swung at her from the floor.
-
-*Pak.* I hit her wrist. Barely. Wide and weak, the bamboo glancing off the edge of her glove.
-
-The ring of navy went very still.
-
-She looked down at her glove. Then she looked at me, lying on the boards with my helmet half off and my chest heaving.
-
-"Every boy who's joined this club for me," she said, quietly, so that only I could hear it, "has quit before the summer tournament."
-
-"I didn't join for you."
-
-I said it to her face, and my face didn't give it away. It was half true. That was the easy kind.
-
-"Then why did you join?"
-
-"I want to be able to hit back."
-
-She looked at me a while longer through the bars of her helmet. I don't know what she saw there. Then she stepped back and raised her shinai to the middle of my helmet again, as calm as a teacher.
-
-"Again," she said.
+"You're very fast," she said, "and you're very stupid. Get up."
 
 I got up.
 
-When I went out to the shoe lockers at seven, sore in places I hadn't known I had, Rin was sitting on the bench with her bun undone, putting her shoes on.
+"Show me the cuts," she said. "The three. You can't have forgotten."
 
-"She's never done that to anyone," Rin said, not looking at me. "Not even the boy from Kyoto with the scholarship to the national team. She just let him quit."
+[Raiden, First Form: Shiden.]
 
-"Is that good?"
+The boy had practiced them every night for six years in a two-room flat in Osaka, with a rolled-up magazine, where his mother couldn't see. The draw came off my hip in one line, *shff*, and stopped a hand's width from her throat, shaking.
 
-Rin put her other shoe on and stood up and looked at me for the first time.
+Mei looked at the practice sword at her throat for a long moment. Then she looked at me.
 
-"Nobody's ever hit her," she said. "Not in a year and a half." And she walked off into the dark with her bag over her shoulder.
+"You kept practicing," she said.
+
+"Every night."
+
+She turned away to the rack and put her own sword up, and stood with her back to me for a while, straightening the swords on the rack that didn't need straightening.
+
+"Five o'clock," she said, without turning round. "Every morning. Don't be late."
 
 ---
 
-On the last Friday in October the man from Weekly Nagazora was waiting at the taxi rank with his paper cup, exactly where I'd left him in another life.
+In October I joined the club as well, because she was its captain and it was where she was at six. Hayashi Rin, the vice-captain, a small fierce second-year with a bun like a fist, took one look at the new boy the captain had walked in with and decided to hate me. She kept it up for a week, until she watched me take the captain's head strike in jigeiko eleven times in a row and get up eleven times without being told.
 
-I said the same things. Her father's lawyer in the back of the car, behind the black glass; she's a minor; go before he gets out. Mr. Tanabe frowned through the windscreen with his phone at his ear, and the man looked at the black windows and went away into the Friday crowd. It worked the same. Most things did, if you did them the same.
+"She doesn't do that to people," Rin said afterward at the shoe lockers, not looking at me. "Hit them that many times. She lets them quit."
 
-Then she stood at the open car door and asked me if it was true.
+I didn't say anything.
 
-In the fourth file I'd told her no. A no could turn out to be wrong in three weeks, on every television in the city.
+"Is it true?" said Rin. "About the hospital. When she was little."
+
+"Yes."
+
+Rin put her shoes on and stood up. "Don't quit, then," she said, and went off into the dark with her bag over her shoulder.
+
+---
+
+In the last week of October there were men from a magazine at the Raidens' gate, two of them, with a camera, smoking. Mr. Tanabe went out to them in his white gloves, and they didn't go away.
+
+Mei asked me that night over the wall, in the dark, with her arms folded on the top of it.
+
+"They say my father's going to be arrested," she said. "Is it true?"
+
+The boy would have said no. The boy would have meant it.
 
 "I don't know," I said.
 
-She looked at me for a long moment, holding her bag against her chest with both hands, and then she nodded and got into the car.
-
-"Thank you for walking me," she said.
-
-Mr. Tanabe watched me in his mirror all the way to the lights.
-
-```
-Raiden Mei
-Affection: Friendly
-```
+She looked at me over the wall for a long moment. Then she nodded, and went in.
 
 ---
 
-On the fifteenth of November she said no with a laugh in it, and at the rank she said "Goodnight."
+On the fifteenth of November she told me over the wall that her father was coming home for lunch tomorrow, for the first time in a month, and that she was going to make him sit down.
 
-On the sixteenth I sat under the television at the noodle stall with a bowl I wasn't eating. At ten past one the house on the hill came on the screen, and the steps, and the cars, and a man in a dark suit being brought down between two others with a jacket folded over his wrists, and at the end of the counter Daichi put his chopsticks down.
+On the sixteenth I stood at the window of Mrs. Okada's front room at one o'clock and watched three plain dark cars come up the hill and stop at the Raidens' gate.
 
-"His kid goes to your school, doesn't she?" he said. "The girl."
+I'd watched it on a television in a noodle stall in two files. From here I could see the color of the gravel. Four men in dark suits went up the steps. The cameras were already at the gate; somebody had told them when. Ten minutes later her father came down the steps between two of the men with a jacket folded over his wrists, and got into the second car without looking back at the house, and the cars went away down the hill, and all along the gate the cameras went off like rain on a roof.
 
-"She's in my class."
+I went over the wall.
 
-"Poor kid," said Daichi, and went back to his noodles.
+The kitchen door was open. She was in the dining room, in her place at the table, with her chopsticks in her hand, eating her lunch. Across the table there was another bowl with the chopsticks laid across it, and a piece of grilled mackerel with the skin turned face down.
 
-I mouthed it along with him. I couldn't help it. He didn't see.
+She didn't look up.
+
+"He told me to finish my lunch," she said. "So I'm finishing it."
+
+I sat down in the chair beside her.
+
+She ate every grain. Then she put her chopsticks down and folded her hands and looked at the other bowl.
+
+"He had two mouthfuls," she said.
+
+I didn't say anything. At nine, with her back to a radiator, she'd told me I was the only one who hadn't said sorry.
+
+She put her hand out on the table, palm up, without looking at me, and I put mine in it, and we sat there like that until the light went in the garden.
 
 ---
 
-On Monday the desks moved away from hers like water away from a dropped stone, and there were two words in black marker across the lid, and Sayaka said what Sayaka said. At eight-twenty I stood up into a silence you could have cut, and said the ten words, and her "I'm sorry. No." broke in the middle, as it had before, and nobody laughed.
+On Monday the desks moved away from hers like water away from a dropped stone, and there were two words in black marker across the lid of her desk, and Sayaka said what Sayaka said.
 
-The only thing that was different that day happened at six o'clock, in the dojo.
+At eight-twenty I stood up into a silence you could have cut.
+
+"Raiden-san. I like you. Will you go out with me?"
+
+She'd been looking at the words on her desk. She looked up at me, and for a second her face did nothing at all, and then she lifted her chin.
+
+"I'm sorry," she said, clearly, so that every person in that room could hear it, and every person in the corridor too. "No."
+
+"Tomorrow, then."
+
+"Tomorrow," she said.
+
+At the back of the room the boy with the chalk sat very still for a moment. Then he got up and made his mark.
+
+The only other thing that happened that day happened at six o'clock, in the dojo.
 
 Rin read the letter out. She stood in the middle of the boards in her practice clothes with the paper shaking in both hands, the parents' association of Chiba Academy and the club's own sponsors, very respectfully, regretting, in view of the circumstances, other schools, the reputation of the club. She got halfway through it and her voice went, and she started again from the top and got through it the second time, with her face red and wet.
 
@@ -206,13 +414,11 @@ Three hands. Rin's, shaking. A second-year girl called Ueda who'd been crying si
 
 I put my hand up.
 
-Mei's eyes moved. Only her eyes. They went along the three hands and stopped on the fourth, and stayed there.
-
 "Fourteen to four," said Rin.
 
-Mei bowed to the club, low and correct, exactly as long as a captain's bow should be. Then she went to the rack by the door, took down the key to the club room on its red cord, and put it into Rin's hand, and closed Rin's fingers over it with her own.
+Mei bowed to the club, low and correct, exactly as long as a captain's bow should be. Then she went to the rack by the door, took down the key to the club room on its red cord, put it into Rin's hand, and closed Rin's fingers over it with her own.
 
-I walked down the hill with her afterward in the dark. She didn't speak until the bottom.
+We walked up the hill afterward in the dark. She didn't speak until the corner by her gate.
 
 "It was the right decision," she said.
 
@@ -222,18 +428,13 @@ I walked down the hill with her afterward in the dark. She didn't speak until th
 
 "Yes."
 
-She walked a few more steps. Then she stopped under the streetlight at the corner and turned round and looked at me, properly, for the first time since September, as if I were a word in a language she'd been sure she could read.
+She stopped under the streetlight at the corner and looked at me.
 
 "You've been a member for seven weeks," she said. "You don't get a vote until three months. It's in the rules."
 
 "Nobody checked."
 
 The streetlight above us flickered, once, and came back.
-
-```
-Raiden Mei
-Trust: Open
-```
 
 ---
 
@@ -257,7 +458,7 @@ She looked at the towel.
 
 "I was at the other end of the building."
 
-She looked at his face. It was a perfectly ordinary face, a little tired, with a yellow bruise going along the jaw that he said had been the bathroom door. It told her nothing at all, which was what faces did. She'd never been any good at them. She'd always gone by what people said, and what he'd said was a good answer, and it came out a fraction too fast.
+She looked at his face. It was the face she'd known half her life, a little tired, with a red mark along the jaw that she'd given him herself at five o'clock that morning. It told her nothing. Faces never did; she'd always gone by what people said. And every kind lie he'd told her since they were nine had started with *I heard*.
 
 She held out her hand. He gave her the towel. She folded it in half, and in half again, very neatly, and put it back over his arm.
 
@@ -269,7 +470,7 @@ What I stopped, they did to me instead. That was the price, and I paid it in the
 
 There were four of them. There usually were. Kuroda leaned on the railing with his jacket over his shoulder and his watch off, because he didn't like to scratch it, and the other three did it.
 
-I could have fought. I had a beginner's men and a beginner's kote and two months of being hit by the best kendoka in the prefecture, and every one of those would have been worse than nothing against three boys who'd done this before. So I put my bag down and got my hands up and let my body do the one useful thing it knew.
+I could have fought. I had three cuts and three months of dawns. But a cut is only a cut with something in your hand, and I had a school bag, and whatever I did to them in the bike sheds they'd do to her desk in the morning. So I put my bag down and got my hands up and let my body do the one useful thing it knew.
 
 [Quick Reflexes,] said the System.
 
@@ -285,17 +486,17 @@ I walked into the dojo at six with my lip split and one eye closing. Practice st
 
 Mei was taping Rin's wrist at the bench. She finished the tape, and smoothed the end down, and stood up. She went to the cupboard by the door and took out the first-aid box and came across the boards and put it into my hands without a word.
 
-Then she went back to the bench and picked up her shinai, and for the next hour, in jigeiko, she put Rin on the boards eleven times.
+Then she went back to the bench and picked up her shinai, and for the next hour, in jigeiko, she put Rin on the boards nine times.
 
 ---
 
 On the twelfth of December, when we came up the hill in the dark at half past five, the house was black.
 
-Every window. The whole long front of it, two floors and the wing at the side, as dark as the hill behind it. The electricity company's letters had been going to the receiver for a month, and the receiver hadn't paid them, and somewhere around four o'clock that afternoon somebody in an office had pressed a key. The streetlight at the gate was the only light on that side of the road.
+Every window. The whole long front of it, two floors and the wing at the side, as dark as the hill behind it. The electricity company's letters had been going to the receiver for a month, and the receiver hadn't paid them, and somewhere around four o'clock that afternoon somebody in an office had pressed a key. The streetlight at the gate and Mrs. Okada's kitchen window were the only lights on that side of the road.
 
 She stopped at the gate with her hand on the latch and didn't open it.
 
-I'd walked her up that hill every evening for three weeks. I'd never once been through the gate. I stood on my side of it with my hands in my pockets and waited, as I'd waited every evening, for her to say goodnight and go in.
+We came up that hill together every evening, and I went through the hedge to her dojo every morning, and I'd been inside the house once, on the sixteenth of November, over the wall and in at the kitchen door. I stood on my side of the gate with my hands in my pockets and waited, as I waited every evening, for her to say goodnight and go in.
 
 She didn't go in. She stood there looking at the dark house with her hand on the latch, and I watched her knuckles go white on it.
 
@@ -321,14 +522,13 @@ Then she stood in the middle of it with the box of matches in her hand and looke
 
 "Will you stay," she said, "until I can go upstairs."
 
-There was no please in it. I'd never once heard her ask for anything without one.
+There was no please in it. In nine years I'd never once heard her ask for anything without one.
 
 "Yes," I said.
 
 ```
 Raiden Mei
 Trust: Relies
-Affection: Close
 ```
 
 ```
@@ -391,7 +591,7 @@ He didn't say anything. He'd stopped looking at the gun. Now he was looking at t
 
 "Who's this?" said Kiana, with her mouth full. "Your boyfriend?"
 
-"He's in my club," said the tall girl.
+"He's my oldest friend," said the tall girl.
 
 "Then I've still got a chance!"
 
@@ -413,7 +613,7 @@ We ate on the roof after that, the three of us. Mei brought three boxes.
 
 I did it properly. That was the whole plan, and it turned out to be the hardest thing I'd ever done in any file. I sat so that Mei was always between us. When Kiana said something that made the whole roof laugh, I laughed, and I looked at Mei while I did it, at Mei's hand going up to her mouth, never at the girl who'd said it. When Kiana reached across and stole the egg out of my box, which she did every day from the second day, I let her, and looked at the sea. When she fell asleep against the water tank in the winter sun with her mouth open and rice on her chin, I watched the gulls.
 
-It worked. Mei laughed more that December than I'd heard her laugh in two files. She stopped holding one wrist with the other hand when she sat down. She started bringing a fourth thing, a flask of tea, and pouring it into three cups without asking.
+It worked. Mei laughed more that December than she had since the ward. She stopped holding one wrist with the other hand when she sat down. She started bringing a fourth thing, a flask of tea, and pouring it into three cups without asking.
 
 On the stairs going down one lunchtime, with Mei a flight ahead of us carrying the empty boxes, Kiana dropped back beside me and walked with her hands in her pockets, not looking at me either.
 
@@ -473,7 +673,7 @@ Afterward she climbed up onto a shipping container at the edge of the market and
 
 She took the radar out and hit it against the container, twice. The needle swung, wobbled, and lay down again. She put it back in her pocket.
 
-The boy from Mei-senpai's club never asked where she went at night. Everybody else did. Mei-senpai asked with her eyes, and the people at the Homu Happy asked, and the old lady who owned the block asked every time Kiana came in at two in the morning with blood on her trainers. He'd seen her come up the hill with a cut lip and he hadn't asked. He hadn't looked.
+Mei-senpai's oldest friend never asked where she went at night. Everybody else did. Mei-senpai asked with her eyes, and the people at the Homu Happy asked, and the old lady who owned the block asked every time Kiana came in at two in the morning with blood on her trainers. He'd seen her come up the hill with a cut lip and he hadn't asked. He hadn't looked.
 
 She sat on the container in the cold and looked at the empty half of it next to her for a long time.
 
@@ -481,11 +681,11 @@ Then she ate her bread, because you didn't waste food, and went home.
 
 ---
 
-On the last day of term Mei-senpai went down to the staff room at lunch to hand in her history project, and Kiana was alone on the roof with the boy from her club for the first time.
+On the last day of term Mei-senpai went down to the staff room at lunch to hand in her history project, and Kiana was alone on the roof with Mei-senpai's oldest friend for the first time.
 
 She sat against the water tank with her knees up and a bruise across her forehead the color of a plum, and watched him at the fence. He was looking at the sea as if he'd paid for it.
 
-She'd been watching him for a week. It had started as a joke, the boy who wouldn't look at her, and then it had stopped being funny, because once she'd started watching she couldn't stop seeing it. He was always where Mei-senpai was. On the stairs, a step behind her. At the gate, every evening. In the club, Ueda said, he never missed a single practice, not one, not even with his face swollen up like a melon. Mei-senpai didn't go anywhere now without looking round first to see if he was coming. And Mei-senpai's hands, when he wasn't there, went to her wrists.
+She'd been watching him for a week. It had started as a joke, the boy who wouldn't look at her, and then it had stopped being funny, because once she'd started watching she couldn't stop seeing it. He was always where Mei-senpai was. On the stairs, a step behind her. At the gate, every evening, and through the hedge, Ueda said, every morning at five, because he lived next door. In the club he never missed a single practice, not one, not even with his face swollen up like a melon. Mei-senpai didn't go anywhere now without looking round first to see if he was coming. And Mei-senpai's hands, when he wasn't there, went to her wrists.
 
 Kiana had seen people do that before.
 
@@ -533,27 +733,31 @@ Mei didn't say anything. She picked up her chopsticks again and went on eating, 
 
 ---
 
-Mei walked up the hill that evening without saying anything, and he walked beside her, as he had every evening since November, on the side the wind came from.
+Mei walked up the hill that evening without saying anything, and he walked beside her, as he had every evening since September, on the side the wind came from.
 
 At the gate she stopped.
 
-She'd thought about this all afternoon, through English and through maths and through the long cold practice in the dojo, where she'd put a first-year on his back so hard he'd cried. Kiana had asked him in front of her. Kiana, who could make anybody do anything just by wanting it at the top of her voice. And he'd looked at Mei, and said no, and gone on eating.
+She'd thought about it all afternoon, through English and through maths and through the long cold practice in the dojo, where she'd put a first-year on his back so hard he'd cried. Kiana had asked him in front of her. Kiana, who could make anybody do anything just by wanting it at the top of her voice. And he'd looked at Mei, and said no, and gone on eating.
 
-Everyone went. Her mother. The girls. The club. Mr. Tanabe. Her father down the steps with a jacket over his wrists. Everyone went, in the end.
+Everyone went. Her mother. The girls. The club. Mr. Tanabe. Her father down the steps with a jacket over his wrists. A boy of twelve on the train to Osaka, and that night she'd stood at her bedroom window and counted the cars on the coast road on her own, and stopped at forty, because there was nobody to tell her she'd got the colors wrong.
 
 He'd said no.
 
-She put her hand up to her hair. There were two pins in it, as there always were, the dark lacquered ones with heads the color of the inside of a shell, that she'd worn every day since she was small. She took one of them out. A strand of hair came down across her cheek, and she let it.
+"Do you still have it?" she said.
 
-She took his hand, turned it palm up, and put the pin in it, and closed his fingers over it, as she'd closed Rin's over the key.
+He put his hand in his coat and took out a handkerchief, folded small, a boy's handkerchief gone soft with years of Nurse Kanda's ironing, and opened it on his palm. The pin lay in the middle. He'd carried it in his coat, then. Every day. Not in a drawer.
 
-"So you'll stay," she said.
+She took it and slid it into her hair above her left ear, into the place where it had been until she was eleven. For a moment she had two again, as she'd had at nine, with a boy on the end of her bed counting ceiling tiles under his breath.
 
-She didn't wait for him to answer. She went in through the gate and up the drive in the dark, and she didn't look back, because she knew that if she looked back she'd see his face, and she'd never been any good at faces, and she didn't want to find out tonight that she'd been wrong.
+Then she took it out again. She turned his hand over, put the pin in it, and closed his fingers over it, as she'd done on the floor of the ward, as she'd done with Rin and the key.
+
+"You came back," she said. "So you'll stay."
+
+She didn't wait for him to answer. She went in through the gate and up the drive in the dark, and she didn't look back, because she knew that if she looked back she'd see his face, and she'd never been any good at faces, not even his, and she didn't want to find out tonight that she'd been wrong.
 
 ---
 
-I stood at the gate with the pin in my fist until the light went on in one upstairs window of the dark house, a candle, small and yellow, moving.
+I stood at the gate with the pin in my fist until a candle went past one upstairs window of the dark house, small and yellow, moving.
 
 I opened my hand. It weighed almost nothing.
 
@@ -565,7 +769,7 @@ Corruption: Bending
 
 [Oh,] said the System.
 
-I put the pin in my wallet, behind the note with my name on it, and walked down the hill in the dark.
+I wrapped it in the handkerchief again and put it back in my coat, and went in next door.
 
 ---
 
@@ -577,13 +781,13 @@ Mr. HOMU.
 
 She sat down on the boards with the head in her lap.
 
-Every Sunday morning from the age of six to the age of twelve, a teacher in a Homu suit had come to the dojo and taught her the sword. Her father had said he was a master from Kyoto who'd lost a bet. Mr. HOMU never spoke. He corrected her grip with fat yellow paws, and stood behind her with his paws over her hands to show her the line of a cut, and once, when she was nine and couldn't stop crying after the hospital, he'd sat down on the boards beside her in his ridiculous head and stayed there, not saying anything, for an hour.
+Every Sunday morning from the age of six until the summer of the van, and again for a year after she came home from the hospital, a teacher in a Homu suit had come to the dojo and taught her the sword. Her father had said he was a master from Kyoto who'd lost a bet. Mr. HOMU never spoke. He corrected her grip with fat yellow paws, and stood behind her with his paws over her hands to show her the line of a cut, and once, the spring she came home, when she couldn't stop crying and wouldn't say why, he'd sat down on the boards beside her in his ridiculous head and stayed there, not saying anything, for an hour.
 
 The suit smelled of her father's cigarettes.
 
 She sat there with the head in her lap until it was dark in the training room. Then she folded the suit and put it back in the cupboard, behind the armor, very carefully, the head on top.
 
-The next morning she was at the dojo door at half past five, in her practice clothes, with two practice swords under her arm, waiting for him in the dark.
+The next morning, when he came through the hedge at five, she was already at the dojo door in the dark, waiting for him.
 
 ---
 
@@ -593,7 +797,7 @@ She didn't bow to him. She went to the rack at the end of the room and took down
 
 He went very still.
 
-"My father's," she said. "And his father's. Kendo is a sport. This isn't." She turned to face the straw. "This is what was here before the sport. My father said it was for killing men in armor on a hill four hundred years ago, and it's never been for anything else, and it doesn't pretend to be. It doesn't block. It doesn't wait. Every form is an attack." She settled into the stance he'd watched her take a thousand times in the club, back straight, still hands, weight forward. "Watch."
+"My father's," she said. "And his father's. Kendo is a sport. This isn't." She turned to face the straw. "This is what was here before the sport. My father said it was for killing men in armor on a hill four hundred years ago, and it's never been for anything else, and it doesn't pretend to be. It doesn't block. It doesn't wait. Every form is an attack." She settled into the stance he'd watched her take a thousand times since September, back straight, still hands, weight forward. "Watch."
 
 He watched.
 
@@ -607,27 +811,35 @@ Then the top half of the mat slid off the bottom half, slowly, on a cut so clean
 
 She turned round. He was staring at the mat.
 
-"You wanted to be able to hit back," she said.
+"You've been doing that with a rolled-up magazine since you were ten," she said.
 
 "Yes."
 
-"This doesn't hit back," said Mei. "This is the last thing they see." She held out a practice sword to him, handle first, across both palms, the way a sword is given. "Hold it like this."
+"This is what it's for," said Mei. "It's the last thing they see."
 
-He learned it.
+She stood a second mat on the peg and held the sword out to him, handle first, across both palms, as a sword is given.
 
-That was the strange thing. Every boy she'd ever seen in the club learned the way water learns a slope, slowly, in the same wrong places every time. He learned it as if he were remembering it. She showed him the draw once and he did it wrong, and she showed him again and he did it less wrong, and by the fifth time the line of his cut was the line of hers, near enough, and only his body was slow. His arms didn't have the strength for it yet. His wrists shook at the end of the cut. But the shape was there, the whole shape, all at once, as if somebody had poured it into him.
+He had the shapes. He'd had them since a hospital corridor at midnight, and he'd kept them six years in Osaka, and the draw came off his hip in the same line as hers. But he cut like a boy in a corridor. The blade went into the straw a hand's width and stopped there, where a magazine would have stopped against a neck, and stuck, and he stood holding it with his wrists shaking.
 
-"Again," she said, and he did it again.
+"Through," said Mei. "Not to. Through."
 
-By the end of the second week he had the first form, and she showed him the second. Ikazuchi. Both hands, from above, straight down through whatever was raised against it, an arm, a pipe, a sword, and on into the collarbone. She did it to the straw, and the whole mat split from top to bottom into two halves that fell away from each other like a book opening. By the end of the third week she showed him the third. Narukami, low and forward, under the ribs and through, and a turn of the wrists at the end that she made him practice on a sandbag until he could do it without thinking.
+He worked the blade out and went back to the start. The second time it went halfway. The fifth time the top of the mat slid off and hit the boards, and he stood looking at it as she'd stood looking at her first one, at twelve, with fat yellow paws on her shoulders, and she had to turn away to the rack for a moment.
 
-She didn't show him the fourth. She'd never been able to do the fourth herself, quite, and Mr. HOMU had stopped coming the winter she turned thirteen, before he finished teaching her the last.
+"Again," she said, when she could.
 
-On the Saturday of the third week they sat on the edge of the boards with their feet down on the cold step outside, cooling off in the gray dawn with the lamps still burning behind them, and she found herself telling him about the hospital.
+By the end of the second week the first form went through the straw every time, and she gave him the second. Ikazuchi. Both hands, from above, straight down through whatever was raised against it, an arm, a pipe, a sword, and on into the collarbone. She did it first, and the whole mat split from top to bottom into two halves that fell away from each other like a book opening. By the end of the third week she gave him the third. Narukami, low and forward, under the ribs and through, and a turn of the wrists at the end that she made him practice on a sandbag until he could do it without thinking.
 
-She'd never told anyone, not even the doctors. A big room, never properly dark, nobody else awake. A hundred and twelve ceiling tiles that she'd counted every night and never once got to the end of. She always fell asleep somewhere around thirty-eight.
+She didn't show him the fourth. She'd never been able to do the fourth herself, quite, and Mr. HOMU had stopped coming the winter before she turned thirteen, before he finished teaching her the last.
 
-He didn't look at her while she said it. He looked at the garden, at the frost on the stones, and didn't say anything at all.
+On the Saturday of the third week they sat on the edge of the boards with their feet down on the cold step outside, cooling off in the gray dawn with the lamps still burning behind them. From the step you could see one bend of the coast road at the bottom of the hill, between two roofs, with the first lorries of the morning going round it with their lights on.
+
+A red one came round the bend. A post office van.
+
+"Two," said Mei.
+
+She'd always said that was a stupid rule. She'd never once not kept it.
+
+They counted until the sun came up over the bay and the lorries turned their lights off. She got to sixty-one. He said she'd made up the fire engine. She said it was red, wasn't it, and he gave it to her.
 
 ---
 
@@ -641,7 +853,7 @@ I had my bag in one hand and an umbrella in the other, a cheap black one from th
 
 I put my bag down.
 
-They came all at once, the way they always had, and the boy who'd lain on the concrete in December with his arms round his head would have got his hands up and waited for it.
+They came all at once, as they always had, and the boy who'd lain on the concrete in December with his arms round his head would have got his hands up and waited for it.
 
 I didn't wait.
 
@@ -681,7 +893,7 @@ He looked at Goto, still sitting in the slush with his hands at his throat. He l
 
 Mei didn't say anything when I came into the dojo at six.
 
-She looked at the way I was holding my side. She went to the cupboard, took out the long roll of tape, and pointed at the bench. I sat. She pulled my shirt up over my ribs and looked at the bruise, which was already going black, and pressed two fingers along the bone, one at a time, watching my face, and when I flinched at the third she nodded once.
+She looked at how I was holding my side. She went to the cupboard, took out the long roll of tape, and pointed at the bench. I sat. She pulled my shirt up over my ribs and looked at the bruise, which was already going black, and pressed two fingers along the bone, one at a time, watching my face, and when I flinched at the third she nodded once.
 
 She strapped it. Round and round, tight, her mouth a straight line and her hands perfectly steady, and she didn't say a single word the whole time, and neither did I. When she'd finished she smoothed the end of the tape down flat with her thumb and held her thumb there for a moment longer than she needed to.
 
@@ -705,7 +917,7 @@ Kuroda came forward fast, as boys did when they wanted to finish things before a
 
 *KRAK.*
 
-It was a kote. That was all. The wrist strike every beginner learned in the first week, the one he'd landed on her lying on his back on the boards in October, a thing so ordinary that nobody in the gym even saw it happen. They only heard it. A sound with a split in the middle of it, like a branch going in frost.
+It was a kote. That was all. The wrist strike every beginner learned in the first week, a thing so ordinary that nobody in the gym even saw it happen. They only heard it. A sound with a split in the middle of it, like a branch going in frost.
 
 Kuroda's shinai hit the floor. He went down on his knees after it, holding his wrist against his chest, and his face came out of the grille of his helmet gray.
 
@@ -734,7 +946,7 @@ It was night in the dream, and the roof was the school's, but too big, wide as a
 
 She woke up on the floor of her room with the quilt round her ankles and both hands crossed over her chest, gripping her own wrists so hard the nails had broken the skin.
 
-She was counting. Out loud, in the dark, through her teeth.
+She was counting the boards of the ceiling. Out loud, in the dark, through her teeth.
 
 Twenty-nine. Thirty. Thirty-one.
 
@@ -742,7 +954,7 @@ She made herself stop.
 
 ---
 
-She told me at the dojo door at half past five, in the dark, before she'd lit the lamps.
+She told me at the dojo door at five, in the dark, before she'd lit the lamps.
 
 "I dreamed I killed you," she said. "On a roof."
 
@@ -782,13 +994,19 @@ A coin of heat under her breastbone. A second heartbeat, slow and enormous, out 
 
 It was her own thought, in her own words.
 
-*They're always late. Your father was late. He sat down and had two mouthfuls and he said he'd be back for dinner.*
+*They're always late, and then they don't come at all. Your father had two mouthfuls and told you to finish your lunch.*
 
 "Stop it," said Mei.
 
 *He said he'd come back up.*
 
 "He will."
+
+*He went to Osaka.*
+
+"He came back."
+
+*He didn't come to Tokyo. You lost by a kote in the last ten seconds, and you looked for him in the stands.*
 
 She held the box. She held it so hard against her stomach that the lacquer creaked. Sparks crawled out of her fingers and over the lid and into the gaps, and she could smell the rice inside going hot.
 
@@ -848,7 +1066,7 @@ The stairs above us were full. Our classmates, and the first-years, and two teac
 
 [Raiden, First Form: Shiden.]
 
-I didn't think about it. Five weeks of dawns thought about it for me. The practice sword came off my hip in one line, *SHHK*, and took the boy across the throat as he reached the bottom step, and he went down on the landing and didn't get up.
+I didn't think about it. A corridor at midnight and five months of dawns thought about it for me. The practice sword came off my hip in one line, *SHHK*, and took the boy across the throat as he reached the bottom step, and he went down on the landing and didn't get up.
 
 Kiana stared at me with both guns hanging at her sides.
 
@@ -878,7 +1096,7 @@ My arms were going. Three forms, and the wood was heavy as iron, and my wrists w
 
 Behind us, somebody was coming up the stairs.
 
-Not running. Walking. Slow, careful, one step at a time, the way a tired man climbs stairs at the end of a long day, and in the next flash of the window I saw him, on the flight below us, coming up out of the dark with his cardigan buttoned wrong and the scholarship forms still in his hand.
+Not running. Walking. Slow, careful, one step at a time, like a tired man climbing stairs at the end of a long day, and in the next flash of the window I saw him, on the flight below us, coming up out of the dark with his cardigan buttoned wrong and the scholarship forms still in his hand.
 
 Mr. Fujita. "So he's very clever," he'd told the class on my first day, looking at his notes. "Probably."
 
@@ -888,7 +1106,7 @@ In the fourth file my hand had come up and stopped, on a wet step, with a cat no
 
 [Raiden, Third Form: Narukami.]
 
-I went down the stairs to meet him. Low, forward, all of my weight, everything five weeks had poured into me and everything my arms had left, the point of the practice sword in under his ribs, *THK*, and the turn of the wrists at the end that she'd made me practice on the sandbag until I could do it without thinking.
+I went down the stairs to meet him. Low, forward, all of my weight, everything she'd poured into me since we were ten and everything my arms had left, the point of the practice sword in under his ribs, *THK*, and the turn of the wrists at the end that she'd made me practice on the sandbag until I could do it without thinking.
 
 I didn't have to think. I felt his ribs go.
 
@@ -918,7 +1136,7 @@ Kiana threw both empty guns at its head, one after the other. They burned in the
 
 It caught her by the throat.
 
-It didn't turn its head. It put one hand up behind it, without looking, the way you'd catch a ball someone had thrown you from behind, and its fingers closed round her neck in midair and held her there with her feet off the ground, and the lightning went into her.
+It didn't turn its head. It put one hand up behind it, without looking, as you'd catch a ball someone had thrown you from behind, and its fingers closed round her neck in midair and held her there with her feet off the ground, and the lightning went into her.
 
 One frozen moment. Kiana hanging in the air by her throat, her braids standing straight up in the static, her mouth open, and white lightning pouring down the arm that held her and into her like water into a drain, and Mei-senpai's face below her, still turned away, still looking at the door.
 
@@ -932,7 +1150,7 @@ Kiana grabbed the arm with both hands and climbed it. She pulled herself in alon
 
 "I don't care if you're a monster or a Herrscher!" she screamed into her shoulder. "I'm not letting you go, Mei!"
 
-"Not you," it said, quite gently, the way you'd speak to a dog that had got into the wrong room.
+"Not you," it said, quite gently, as you'd speak to a dog that had got into the wrong room.
 
 It threw her.
 
@@ -956,7 +1174,7 @@ It moved.
 
 It became a line across the roof, a white streak of lightning ten meters long, *ZZRAK*, with her hand at the front of it like a blade, and in the instant it took me to see it I saw something else.
 
-I'd learned that line on cold boards at dawn, from her hands over mine. The draw. The fastest kill in the style. It came from the hip and it went for the throat, and it didn't wait, and it didn't block.
+I'd learned that line at ten, in a hospital corridor at midnight, with her hands over mine on a rolled-up magazine. The draw. The fastest kill in the style. It came from the hip and it went for the throat, and it didn't wait, and it didn't block.
 
 Neither did I.
 
@@ -1002,17 +1220,27 @@ The thing in Mei watched me come. It didn't move back. It didn't send the bird. 
 
 Its hand went into my chest.
 
-It went through my coat and my shirt and my skin and my ribs like a hand going into water, and it was full of light, and it closed on something in there, and I felt the something begin to come apart.
+It went through my coat and my shirt and my skin and my ribs like a hand going into water, and it was full of light, and it closed on something in there, and I felt the something begin to come apart, slowly, under a weight like the whole school laid on my chest.
 
-I got my own hand into my coat pocket. My wallet. Behind the note with my name on it, something small and hard.
+Her face was very close. Mei's face, with the horns, and the pink light in her eyes, and her hair lifting round us both in the static.
 
-I held up the pin.
+I smiled at her.
 
-Its eyes went to it. The dark lacquer, the head the color of the inside of a shell. Its hand, inside me, went still.
+My face did it perfectly. It was what I'd drawn it for, and it had never carried anything this heavy, and it held. The smile was warm and a little sorry and completely calm, the smile of a boy who'd come home. My voice didn't hold at all. That wasn't my face's job.
 
-"You gave me this so I'd stay," I said. I didn't have much air. "I stayed."
+I got my hand into my coat. The handkerchief, and inside it something small and hard.
+
+I held the pin up between us where she could see it. Dark, with a small lacquered head the color of the inside of a shell, the twin of the one lying somewhere in the rice behind her.
+
+Its hand, inside me, went still.
+
+"A hundred and twelve," I said. It came out wet, and I kept smiling. "Ceiling tiles. In the ward. You fell asleep at thirty-eight."
 
 The pink flickered.
+
+"You gave me this," I said, "so I'd come back." I didn't have much air. "I came back, Mei."
+
+Every word of it was true. A boy had lived it, all of it, since he was nine.
 
 "Count with me," I said. "One."
 
@@ -1088,7 +1316,7 @@ No ship came. Nobody came. There was only the gray sky, and the two of them.
 
 "Count with me," I said.
 
-Mei's face crumpled. Then she straightened it, the way she straightened everything, and put her forehead down against mine.
+Mei's face crumpled. Then she straightened it, as she straightened everything, and put her forehead down against mine.
 
 "One," she said.
 
@@ -1096,7 +1324,7 @@ Mei's face crumpled. Then she straightened it, the way she straightened everythi
 
 "Three," said Mei.
 
-I counted with them for a while. Then I let them count. Their voices went on above me, Mei's and Kiana's, turn and turn about, steady, a hundred and twelve ceiling tiles in a room that was never properly dark, and I listened to the numbers go up into the ordinary gray sky.
+I counted with them for a while. Then I let them count. Their voices went on above me, Mei's and Kiana's, turn and turn about, steady, a hundred and twelve ceiling tiles in a room on the sixth floor that was never properly dark, and I listened to the numbers go up into the ordinary gray sky.
 
 "Thirty-six," said Kiana.
 
@@ -1177,7 +1405,7 @@ Keep this gift permanently.
 Keep this gift permanently.
 
 [Item: Raiden Mei's Hair Pin (Gold)]
-One of the two pins she wore, given to you at her gate so you'd stay. Honkai lightning knows whoever carries it. Lightning from Raiden Mei, from the Herrscher of Thunder or from any Honkai source arcs around you, and what lands does a fraction of the harm. With a stigma and a battlesuit, you can take it in and carry it.
+One of the two pins she wore as a child, given to you at twelve on the floor of a ward so you'd come back. Honkai lightning knows whoever carries it. Lightning from Raiden Mei, from the Herrscher of Thunder or from any Honkai source arcs around you, and what lands does a fraction of the harm. With a stigma and a battlesuit, you can take it in and carry it.
 
 [Experience: Raiden Kenjutsu (Master)]
 The Raiden family sword, as she taught it to you at dawn in her father's dojo, and the forms she never had time to show you.
@@ -1188,13 +1416,13 @@ Twice the run's Fate Fragments.
 
 The blue card first. Low D was the floor under everything that came after.
 
-Then the pin. I looked at it for a long time, turning in the white, the dark lacquer and the head like the inside of a shell, and I didn't think about stigmata or battlesuits at all. I thought about a gate on a hill in January, and her hand closing my fingers over it.
+Then the pin. I looked at it for a long time, turning in the white, the dark lacquer and the head like the inside of a shell, and I didn't think about stigmata or battlesuits at all. I thought about the floor of a ward with our backs to the radiator, and her hand closing my fingers over it.
 
 Then the sword. Shiden and Ikazuchi and Narukami, and Hekireki, and the last form, the one Mr. HOMU had never finished, all of it, waiting in my hands for a body that could carry it.
 
 That left the green card.
 
-I'd drawn Liar's Face at the start of the run to lie to Mei. I'd used it on a roof to lie to Kiana. It had worked every time, perfectly, and I didn't want to see my own face in a mirror one more time and not be able to tell.
+I'd drawn Liar's Face at the start of the run to lie to Mei. In this file I'd used it on a boy of six with his shoes packed by the bed, and on Kiana every day from December, and on a roof with Mei's hand in my chest, and I still didn't know which of those had been lies. I didn't want to look in a mirror one more time and not be able to tell.
 
 "Resistance," I said. "The pin. And the sword."
 
@@ -1232,7 +1460,7 @@ Heroine simulations unavailable until the soul heals.
 
 I woke up on top of the blanket with the light still on and something small and hard in my right hand.
 
-The clock by the bed said five-twelve. Outside the window it was still dark. I didn't open my hand. I lay there without moving while everything came back, and it came back all at once, the way a wave comes back, and it came back in the wrong order.
+The clock by the bed said five-twelve. Outside the window it was still dark. I didn't open my hand. I lay there without moving while everything came back, and it came back all at once, as a wave comes back, and it came back in the wrong order.
 
 The walls of the apartment where I'd died the first time. Yellow. A bad cheap yellow that the landlord had called "sunflower." A night clerk with my order ready before I reached the counter. A brown dog at Willow Street that slept on my feet the winter I was seven.
 
@@ -1240,7 +1468,7 @@ Doudou. His name was Doudou.
 
 I lay there and said it out loud to the ceiling, twice, and something in my chest that had been clenched since a roof in another file let go a little.
 
-Then the rest came. The boy, eighteen years of him, with Haru waving both arms at the corridor window. Five dawns a week on cold boards. The sound of Kuroda's wrist. A burning stump of wood in my two fists. A girl's voice coming up through a god's like a swimmer through dark water, counting.
+Then the rest came. The boy, eighteen years of him, the hospital smell and the chair by the window and a radiator hot against his back, a girl's lips moving in the dark over ceiling tiles, a biscuit tin full of letters. Five months of dawns on cold boards. The sound of Kuroda's wrist. A burning stump of wood in my two fists. A girl's voice coming up through a god's like a swimmer through dark water, counting.
 
 And the fan. He came back last, from the end of his long dark corridor, slowly, and stood in me and looked at what I'd done, every lie of it, every lie that had worked, and didn't say anything.
 
@@ -1250,7 +1478,7 @@ A pin. Dark, with a small lacquered head the color of the inside of a shell. It 
 
 [It's yours,] said the System. [You picked it.]
 
-It was something the System had made, then, out of a save file, in a convenient shape. I put it in my wallet, behind the note with my name on it, and closed the wallet.
+It was something the System had made, then, out of a save file, in a convenient shape. I didn't have a handkerchief. I put it in my wallet and closed the wallet.
 
 My phone was buzzing on the bed. The Nagazora alert.
 

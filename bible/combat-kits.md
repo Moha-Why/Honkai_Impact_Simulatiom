@@ -123,9 +123,15 @@ power behind it, the same forms are lightning.
 
 **Rating: Civilian.** The same body, the same gifts and the same Field Craft
 as Loop 4, but no hunts and no gun: he never goes where Kiana goes. What's
-new is the Raiden sword: kendo club basics from October, then the forms
-from Mei at dawn from January. Quick Learner gets the shapes right fast;
-it does nothing for his arms. By February 4 he has the first three forms.
+new is the Raiden sword. Mei taught him the shapes of the first three forms
+at ten, in a hospital corridor at midnight with rolled-up magazines, and he
+practiced them every night for six years in Osaka. From September 2013 he
+trains with her at dawn in her house dojo, and joins the club in October.
+In January she teaches the forms as what they are, with her father's sword
+on straw: he cuts like a boy with a magazine, stopping at the skin, until
+"Through. Not to. Through." Quick Learner and the years give him the
+shapes; nothing gives him the arms. By February 4 he can kill with the
+first three forms.
 
 | Move | Limit |
 |---|---|

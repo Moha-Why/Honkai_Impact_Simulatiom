@@ -99,7 +99,7 @@ letters and one photograph of Kuroda with his dog, Leo.
   away to look for her family. Cocolia finds her aunt in Irkutsk and sends
   her there. She leaves the gloves on his bed.
 
-## Loops 4, 5 and 7, the port children's home
+## Loop 4, the port children's home
 
 - **Mrs. Hōjō:** director of the Sakura-no-Ie home by the old port. Gave him
   the name from his hospital band. Writes "a responsible boy" in his file;
@@ -113,8 +113,9 @@ letters and one photograph of Kuroda with his dog, Leo.
   for four years and asks the old man not to say.
 - **Mr. and Mrs. Okada:** come to adopt a toddler in 1997 and want him; he
   hides under the table. They come back twice. Mr. Okada dies in 2011. In
-  Loops 5 and 7 Eros lodges in the widow's house next to the Raidens', and
-  in December she calls him by his name. "You hid under the table."
+  Loop 5 (the ward birth) Eros lodges in the widow's house next to the
+  Raidens'; she has never met him. A paper boat on the windowsill of his
+  room, gone gray with dust. He puts it back exactly where it was.
 - **Raiden Ryoma:** in 2003 visits the home for the ME Corp foundation in a
   plain suit and interviews the clever boys for a gifted program in Tokyo.
   Eros has the boy fail on purpose. "You did that on purpose. My daughter
@@ -140,7 +141,7 @@ letters and one photograph of Kuroda with his dog, Leo.
 - **May 2004:** he hears the men at the gate say "this month," and after that
   he takes the bokken everywhere.
 
-## Loop 8, the ward
+## Loop 5, the ward
 
 - **Kanda Yūko:** see kanda-yuko.md.
 - **The night porter:** taught him to count cars on the coast road. Red ones
@@ -155,4 +156,13 @@ letters and one photograph of Kuroda with his dog, Leo.
   "Because I'm keeping something asleep."
 - **The 2010 nationals:** she asks him to come to Tokyo; he doesn't. She
   loses the final by one point, a kote, and writes "You weren't there."
-  The next letter is normal.
+  The next letter is normal. On February 4 the voice in her chest uses it.
+- **The pins:** two, dark, with small lacquered heads the color of the inside
+  of a shell, worn since before the van. She gives him one on the floor of
+  the ward in March 2007, "So you'll come back," and wears one after that;
+  people ask, and she says she lost the other. He keeps it in a biscuit tin
+  of letters, wrapped in his handkerchief, and carries it from September
+  2013. In January she puts it back in her hair for a moment and gives it to
+  him again: "You came back. So you'll stay."
+- **The night porter's funeral (2011):** the boy asks Mei to go for him. She
+  and Nurse Kanda count the cars from his old chair until dark.

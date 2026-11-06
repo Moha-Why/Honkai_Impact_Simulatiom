@@ -2048,13 +2048,28 @@ I stayed on my knees for a while.
 
 I got up eventually. The map was there, hanging in front of me with its stations, and the children's home was still lit at the bottom of it by the old port.
 
-I put my finger on it.
+I didn't touch it.
 
-[Same again?] said the System.
+[Not the home?] said the System.
 
-"Same again."
+"She told me about a room," I said. "On the dojo step, with the candle. A big room that was never properly dark, with a hundred and twelve ceiling tiles, and nobody else awake. She was nine."
 
-[The first half worked,] it said. [In Love by the fifteenth of December.] A pause. [And Kiana comes through that door on the sixteenth whatever you do. You can't move her.]
+[And?]
+
+"This time somebody's awake."
+
+```
+[1995. You are about to be born.]
+Malmö, to an ME Corp man / Nagazora, at the gate of a children's home by the old port / Nagazora, to Mr. Tanabe's younger sister / a village outside the research city, Siberia / Nagazora, in the staff cottage behind the Raiden house / Nagazora, in the ME Corp hospital, to a night nurse in the children's ward
+```
+
+"The night nurse," I said.
+
+[That's a long way round,] said the System. [Nine years before you even meet her.]
+
+"I know."
+
+[And Kiana comes through that door on the sixteenth of December whatever you do. You can't move her.]
 
 "Then I won't go where she goes. Not the Homu Happy after ten. Not the warehouses. Not the lighthouse."
 
@@ -2072,22 +2087,10 @@ I didn't answer that.
 
 [You drew it for her,] it said. [For Mei. To lie to Mei.] A pause. [I suppose it still is.]
 
-There was one other thing. I found it on the map, a little gray fork in 2009 at the gate of the home, and I stood looking at it.
-
-"Haru," I said. "This time he tells him she's coming."
-
-[That's a lie,] said the System. [She isn't.]
-
-"I know."
-
-[You told him the truth last time. You wanted to see what it did.]
-
-"I saw what it did," I said. "I've got the boy's memory of it now. I don't want it twice."
-
 The System was quiet for a moment.
 
 [Loop 5,] it said.
 
 "Loop 5."
 
-The map went out, station by station, until only the home was left at the bottom by the old port, and somewhere down there in the dark of it a box of mandarins was waiting on a step at four in the morning.
+The map went out, station by station, until only one light was left near the top of the hill, a window on the sixth floor of a hospital with a chair in it, and the coast road going past underneath with all its cars.
