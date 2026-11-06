@@ -53,8 +53,10 @@ she doesn't know about).
 - **Limits.** Ammunition and reload time; she's one girl; she charges; she
   isn't technical (when the radar breaks she stuffs foil in it); she doesn't
   stop to breathe, so she doesn't notice when he can't.
-- **Open:** the baseball bat the Novel repo gives her, if the author wants
-  it here.
+- **The bat.** From the new year she carries a dented aluminum bat out of a
+  skip behind the batting cages, pushed through her backpack straps like a
+  sword, to save rounds. It isn't with her at school; on the stairs during
+  the Eruption she uses a fire extinguisher instead.
 
 ## Turned people (Nagazora, 2013 to 2014)
 
@@ -81,16 +83,17 @@ and the canon beats from the author's research. She uses her power like a
 child with a hammer at first and learns fast. She speaks little, in
 commands and contempt, and never explains herself. The System puts up her
 big moves when Eros sees them; she names them herself in a word or two.
-Names marked (Novel) are taken from the author's Novel repo; the author can
-replace any of them.
+Names marked (Novel) are taken from the author's Novel repo, with the
+author's approval.
 
 | Move | What it is | Looks like / sound | What gets past it |
 |---|---|---|---|
 | Wrath of the Violet Heaven (Novel) | The storm coming off her body | Sheets of lightning crawling over the concrete; the wire fence glows and runs like wax. *KRZZZT* | No aim; it's weather |
-| Thunderbird | One huge bolt shaped like a bird, out of the purple cloud onto one spot | White and screaming, wings folded back; a crater you could put a car in. *KRAKA-THOOM* | One target, one direction, and you can see it gather |
+| Thunderbird | Her opener. One huge bolt shaped like a bird, out of the purple cloud onto one spot | White and screaming, wings folded back; a crater you could put a car in. *KRAKA-THOOM* | One target, one direction, and you can see it gather |
 | Violet Sanctum (Novel) | A reflex barrier a meter out from her body | Bullets burn up in it like moths in a lamp | It burns what's fast. Something slow and held gets through, and the metal heats and the hand burns |
 | Crescent | The wing sweeps the roof | A purple crescent, low and flat; vents and fence posts cut like paper. *SHHAANG* | Low and flat; you can slide under it |
 | The catch | Takes hold and drains | Lightning up the caught limb into the body | Kiana's blood drinks it |
+| Purple Lightning, First Seal: Heaven Strikes the Unworthy (Novel) | Her finisher, after "Then die as one." Two hundred bolts out of the violet sky onto one spot | The whole sky lights up from inside in a net of white, every strand turns to one spot, then comes down. *KRAKA-THOOOOM* | One spot. Whatever is pushed out of it lives |
 
 - **The wing root** is her weak point (canon: Kiana tears the wing off).
 - Her lightning is a soul attack (see

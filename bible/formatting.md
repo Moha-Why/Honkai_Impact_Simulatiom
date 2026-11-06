@@ -13,6 +13,11 @@ System's lines never get lost among them.
 - **Notices** (binding, loading, gift draws, scenario, cause of death, soul
   damage, grade, rewards, choices): plain lines inside one code block per
   moment, grouped instead of one line each.
+- **Move calls in fights:** the System's speech, so square brackets, usually
+  on a line of their own with no tag: [Sprinter.] [Field Craft: Deer Cut.]
+  Enemy moves Eros can see get the same treatment ([Violet Sanctum.]). A
+  boss gets a title card as a notice block the first time he sees it. See
+  [fight-writing.md](fight-writing.md).
 - **[Ding!]** on its own line, only for big events (the binding, a heroine
   run unlocking), right before the notice block.
 - **♪** is rare. See [characters/the-system.md](characters/the-system.md).

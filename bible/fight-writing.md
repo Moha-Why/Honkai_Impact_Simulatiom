@@ -29,10 +29,14 @@ scaled to this story's Eros, who stays weak for a long time.
   - A Herrscher names her big moves herself, in a word or two.
   - Names only appear where the point-of-view character could see or hear
     them. No System brackets in Kiana's or Mei's scenes.
+  - A move name in the System's brackets may carry a colon ([Field Craft:
+    Deer Cut.]). It's a label in the System's voice, not narration.
 - **A clear visual and a sound for every move that matters.** Sound effects
   in italic capitals: *BANG*, *SHHK*, *KRAKA-THOOM*.
 - **Impact frames on the big hits.** One frozen frame (where everyone is,
-  what's in the air), then the delayed sound.
+  what's in the air), then the delayed sound. Only for moves with real power
+  behind them (Kiana's, a Herrscher's). Eros's own moves don't get one while
+  he's weak: the System names them, they get a small sound, and that's all.
 - **Spectacle at the right scale.** A box cutter drops a man to one knee;
   Kiana's guns blow out a row of pachinko machines; a Herrscher takes a roof
   apart. The destruction matches who's doing it.
