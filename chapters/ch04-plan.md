@@ -226,15 +226,16 @@ before he does that the run is real.
       the dust says four ([Field Craft: Tracking]); she doesn't listen.
       "Kaslana Special!" off the cashier's counter: a row of machines goes
       down in sparks; the bat sends one over the next row (impact frame,
-      *CLANNNG*); two shots in the knees for the third. The fourth comes for
-      him from the left: [Quick Reflexes] out of his coat, [Sprinter] down
-      the aisle until his lungs close, a crate of ten thousand steel balls
-      under its feet, [Field Craft: Deer Cut] (no impact frame; he's weak).
-      It gets his ankle anyway; his thumb slips and the blade sticks; Kiana
-      ends it from the top of a machine. The shorted row lights up and plays
-      forty jingles. "There's no such thing as a Kaslana Special." "There is
-      now." Aftermath: a torn coat (a cheap new one at school, which Mei
-      notices) and finger bruises on his ankle.
+      *CLANNNG*); two shots in the knees for the third. The fourth grabs him
+      from the left and he fights it himself: [Quick Reflexes] into the grab,
+      [Field Craft: Joint Cut] so the hand opens, under the swing, [Field
+      Craft: Deer Cut], then Kiana's spare from his belt, two shots. No impact
+      frames; he's weak, and his hands shake after. Kiana saw it: "Okay. WHAT
+      was that?" "Hunting videos." "That was SO COOL! Do the knee thing
+      again!" "You can do THAT, and you've been letting me haul you around by
+      the collar?" "You never asked." The shorted row plays forty jingles.
+      "There's no such thing as a Kaslana Special." "There is now." Four
+      bruises in a row on his shoulder, which Mei sees when his collar slips.
     - Before term starts: her shopping bag in the drainage tunnel, the night
       ferry terminal. Onigiri on the lighthouse steps; the stinky old man; he
       could tell her more about him than she knows and doesn't. At school

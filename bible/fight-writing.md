@@ -76,8 +76,15 @@ scaled to this story's Eros, who stays weak for a long time.
   contributes small, real things. No team combos with Kiana, no beating
   anything stronger than one turned adult, nothing his eighteen-year-old
   body couldn't do.
-- **His lungs are the timer.** About ten fast meters, or a minute of
-  running in Honkai air, and he's on one knee.
+- **His lungs are a limit, not a refrain.** Show it once to set it up, then
+  let his weakness show in other ways (shaking hands after, a safety he
+  misses, Kiana hauling him up a stair). Never the same line twice ("lungs
+  closed like a fist", "ground glass").
+- **The right tool.** A fighter uses the best thing they actually have for
+  the moment. If his hands know the knife and the spare pistol is in his
+  belt, he doesn't run.
+- **Reactions to new skills.** When someone shows a skill the others haven't
+  seen, show the others react (Kiana: "WHAT was that?").
 
 ## 5. Hole checklist (before and after drafting)
 
@@ -90,6 +97,9 @@ scaled to this story's Eros, who stays weak for a long time.
       biggest an impact frame?
 - [ ] Do weapons and devices still work (Kiana's rounds, the radar's
       spring, the box cutter)?
+- [ ] Does each fighter use the best tool they actually have?
+- [ ] Is any limit, image or line repeated from an earlier fight?
+- [ ] Does anyone who sees a new skill react to it?
 - [ ] Is every character where the last scene left them?
 - [ ] Do later scenes match what the fight left behind (wounds, torn
       clothes, broken things)?

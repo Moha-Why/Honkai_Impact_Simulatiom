@@ -21,9 +21,11 @@ names it all, and none of it makes him strong.
 | [Sprinter] | A straight burst over ten meters | The floor blurs and he's simply there | Once a fight, twice if he's lucky. It spends the lungs |
 | [Quick Reflexes] | His body moves before he decides: a flinch, a slip, a catch | He's already moving when the hand closes | Reaction, not skill. He gets out of a grab and can't follow it up. He also flinches at every gunshot |
 | [Field Craft: Deer Cut] | Forty years of dressing game: the back of the knee, opened in one move | Low, past the reaching arms, the blade still moving | Drops a turned adult to one leg; doesn't kill it. He has to be close. His thumbs are eighteen and slip, and the blade sticks |
+| [Field Craft: Joint Cut] | The tendons on the inside of a wrist, cut across, so a grip opens | The hand on him goes loose all at once, like a dropped glove | He has to turn into the grab, not away, to reach the wrist. It frees him; it doesn't stop the thing |
 | [Field Craft: Tracking] | Reads prints, scuffs, drips and blood | He has the count before the radar does | Needs a still minute and some light |
 | Pistol (Quick Learner) | Kiana's spare, after the deal. Her drills in a week; he strips it faster than she does by the second Saturday | Arms locked, weight forward, breathes out before he squeezes | Hits what's close and slow. One magazine and no spare unless she hands him one. Never at school |
 
+- **How a fight with one goes:** he turns into the grab, cuts, cuts again, and finishes it with the pistol if he has it. Running is a last resort, not his move.
 - **Also:** the box cutter from the station, always in his coat; what the
   game taught him about turned people, which he uses and can't explain.
 - **Can't:** kill a turned adult one on one with a blade; fight two at once;

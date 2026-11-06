@@ -1020,7 +1020,7 @@ I took the spring out of my pen. Somebody had scratched a logo off the back of t
 
 We hunted three nights a week after that, all through the holiday and into January.
 
-She taught me to fall. That was first, before anything else. "If you can't fall, you can't do anything," she said, and put me on my back on the warehouse floor forty times in an evening, until I could go down without my head hitting the concrete. Then she taught me to hold a pistol, her spare one, with my arms locked and my weight forward, and to breathe out before I squeezed. The drills came to me in a week. I could strip the thing and put it back together faster than she could by the second Saturday, which annoyed her so much she wouldn't speak to me for an hour. My lungs didn't come in a week. A minute of running in that air and they closed up, every time, and I'd be on one knee somewhere with the map in my hand and the gun in my belt, dragging at the air, and she'd come back for me with a face like thunder and haul me up by the collar.
+She taught me to fall. That was first, before anything else. "If you can't fall, you can't do anything," she said, and put me on my back on the warehouse floor forty times in an evening, until I could go down without my head hitting the concrete. Then she taught me to hold a pistol, her spare one, with my arms locked and my weight forward, and to breathe out before I squeezed. The drills came to me in a week. I could strip the thing and put it back together faster than she could by the second Saturday, which annoyed her so much she wouldn't speak to me for an hour. My lungs didn't come in a week, and she'd come back for me with a face like thunder and haul me up by the collar.
 
 "You're so slow," she said.
 
@@ -1072,55 +1072,63 @@ The third she shot twice in the knees as it came over the counter, and it fell a
 
 The fourth one came for me.
 
-It came out of the dark along the left-hand wall, where the prints had gone, slow and wide, dragging the foot, and much closer than it had any right to be. I heard it before I saw it. Then a hand closed on the back of my coat.
+It came out of the dark along the left-hand wall, where the prints had gone, slow and wide, dragging the foot, and much closer than it had any right to be. I heard it a second before its hand closed on my shoulder.
 
 [Quick Reflexes.]
 
-I was already turning out of the coat. It ripped up the back seam and I came out of it, and the thing stood there with my coat in its fist like a man holding somebody's laundry.
+I didn't pull away. I turned into it, under the arm, the way my hands wanted to, and the box cutter was already open.
 
-[Sprinter.]
+[Field Craft: Joint Cut.]
 
-The aisle went past in a blur. Machines, machines, machines, and the end of the row, and then my lungs closed like a fist and I went down on one knee against the last machine with the air going into me like ground glass.
+I opened the inside of its wrist, and the hand on my shoulder went loose all at once, like a dropped glove.
 
-It came after me, slow, dragging the foot, with my coat still in its hand.
-
-There was a crate by the last machine, the kind they'd used to carry balls out to the counters, still full. I put my shoulder against it and pushed.
-
-*KSHHHHHHHH.*
-
-Ten thousand steel balls went down the aisle like water. The thing put its bad foot down in them and both legs went out from under it, and it came down on its hands and knees in the silver, two meters from me.
+It swung the other arm at my head. I was already lower than the arm.
 
 [Field Craft: Deer Cut.]
 
-The box cutter was out and open before the rest of me had caught up. I went in low past its arm and opened the back of its good knee. *Shk.*
+The back of the knee. *Shk.* It went down on one leg in the spilled balls and reached for me, and kept reaching, because nothing I'd done hurt it.
 
-It didn't care. It turned on the floor, faster than anything that shape should move, and got my ankle.
-
-The grip was like a car door shutting on it. My thumb slipped and the blade went into its coat and stuck there, and I was on my back in the steel balls with the thing pulling me in hand over hand, and I didn't have the air to shout.
+Kiana's spare was in my belt. Arms locked, weight forward. I breathed out.
 
 *BANG. BANG.*
 
-Kiana was standing on top of the last machine in the row, both feet on the glass, the pistol pointing straight down.
+It folded over onto the floor and stopped reaching.
 
-It let go.
+My hands were shaking. I went to put the safety back on and missed it the first time.
 
-I lay in the balls and breathed. After a while I could feel my ankle again. It hurt in four places in a row, where the fingers had been.
+Up on the counter Kiana had turned round with her pistol half raised, and she was still holding it like that, half raised, with her mouth open. She jumped down and came over and looked at the thing on the floor, at its wrist and its knee and the two holes, and then at me.
 
-"I said stay behind me," said Kiana.
+"Okay," she said. "WHAT was that?"
 
-"I said four."
+"Hunting videos."
 
-She looked down at me from the top of the machine. Then she looked at the floor, at ten thousand silver balls and the thing lying in them and my coat. Her mouth twitched.
+"Hunting videos."
+
+"There's a man in Hokkaido who does deer. He's very good."
+
+She looked at me a while longer. Then she grabbed my arm with both hands, the one with the box cutter in it, and shook it.
+
+"That was SO COOL! The knee thing! Do the knee thing again!"
+
+"There's nothing left to do it on."
+
+"Then teach me!" She let go of my arm, and her face changed. "Wait. You can do THAT, and you've been letting me haul you around by the collar for a week?"
+
+"You never asked."
+
+"I'm asking NOW!"
 
 Behind her, all along the row the guard had gone into, the broken wiring found something. Every machine in the row lit up at once and played its jingle, forty different jingles at the same time, in the dark.
 
-She sat down on top of the machine and laughed until she had to hold on to it. I lay in the balls and laughed too, which hurt.
+She laughed until she had to sit down on the counter, and I sat down on the floor among the balls and laughed too.
 
 "Kaslana Special," she said, wiping her eyes.
 
 "There's no such thing."
 
 "There is now."
+
+In the morning there were four bruises in a row on my shoulder, where its fingers had been.
 
 Before the holiday was over she fell in the drainage tunnel under the fish market and came up wearing somebody's shopping bag, and we did the night ferry terminal, where the departures board was still turning over places nobody was going to.
 
@@ -1172,7 +1180,7 @@ She looked at me a moment longer, with her head on one side. Then she threw the 
 
 ---
 
-Mei saw the first bruise in the first week of January, a mark on the back of his hand. Then two on his wrist, then a scrape along his jaw that he said was the bathroom door, and a matching one on Kiana's chin the same morning. He came to school in a different coat, a cheap one from the station, and said the old one had torn. They came up the hill on the first day of term half asleep and laughed at things nobody else understood, a pachinko parlor, a departures board, a shopping bag, and when she asked what was funny Kiana said "Nothing!" much too fast and went red to the ears.
+Mei saw the first bruise in the first week of January, a mark on the back of his hand. Then two on his wrist, then a scrape along his jaw that he said was the bathroom door, and a matching one on Kiana's chin the same morning. Once, when his collar slipped, four in a row on his shoulder. They came up the hill on the first day of term half asleep and laughed at things nobody else understood, a pachinko parlor, a departures board, a shopping bag, and when she asked what was funny Kiana said "Nothing!" much too fast and went red to the ears.
 
 "Shifts," he'd said, when she asked where they went.
 
@@ -1359,7 +1367,7 @@ On Tuesday night Kiana made the rules before they'd even got to the warehouses.
 
 She'd half expected him to argue. He didn't. He just nodded and took the radar out of her hands to check it, and gave it back, and they went.
 
-He was slow that night in his head, a beat behind, looking at the wrong door. His legs were always slow after ten meters, and she was used to that; this was something else. In the second warehouse a dockworker came round a pallet he should have heard and opened his forearm from the wrist to the elbow before Kiana could shoot it.
+He was slow that night in his head, a beat behind, looking at the wrong door. He was always slow on his feet, and she was used to that; this was something else. In the second warehouse a dockworker came round a pallet he should have heard and opened his forearm from the wrist to the elbow before Kiana could shoot it.
 
 She taped it up sitting on the lid of a container, with the first-aid kit out of her backpack and his arm across her knees. She didn't look at his face. She looked at the cut. It wasn't deep. It bled a lot.
 
@@ -1636,7 +1644,7 @@ Then the sound, all of it at once in that small concrete space. *BANG-BANG-BANG-
 
 "Last magazine!" Kiana slapped it into one pistol. Her hands were shaking. With the other hand she pulled the fire extinguisher off its hook on the wall. "Kaslana Snowstorm!"
 
-She pulled the pin, and a white cloud filled the landing, and she went into it swinging the extinguisher by its hose, *CLANG*, *CLANG*, and things fell over in the white, and I went up behind her through the rain with the box cutter in my hand and my lungs going.
+She pulled the pin, and a white cloud filled the landing, and she went into it swinging the extinguisher by its hose, *CLANG*, *CLANG*, and things fell over in the white, and I went up behind her through the rain with the box cutter in my hand.
 
 On the third landing Emi was waiting.
 
@@ -1654,7 +1662,7 @@ I couldn't get down. Emi had me against the wall. Kiana fired past my ear, *BANG
 
 The cat notebook fell open on the wet step, at the back page, at the total with the box drawn round it. The sprinklers rained on it, and the ink began to run.
 
-By the last flight my lungs had closed up like a fist, and I went up it on Kiana's sleeve with the air like glass in my throat and the rain coming down on both of us.
+I went up the last flight on Kiana's sleeve, with the rain coming down on both of us.
 
 The door at the top was half open, as we'd left it, and the light coming down through it was the wrong color for daylight.
 
@@ -1754,7 +1762,7 @@ Behind me it banged open, and things came out onto the roof, and the storm took 
 
 [Sprinter.]
 
-Ten meters of open concrete. Past the crater, through air like ground glass, with the box cutter open in my hand.
+Ten meters of open concrete, past the crater, with the box cutter open in my hand.
 
 [Violet Sanctum.]
 
@@ -1774,7 +1782,7 @@ Then I looked past her at the water tank.
 
 Kiana was trying to get up. She had her good hand flat on the concrete, and her other arm hung bent where arms don't bend, and her face was gray.
 
-I got up and went to her. I couldn't run anymore. I went half walking, half falling, with the air like glass in my throat.
+I got up and went to her, half walking, half falling.
 
 "Look," said the thing in Mei's voice, behind me, very quietly. "Look where he runs."
 
