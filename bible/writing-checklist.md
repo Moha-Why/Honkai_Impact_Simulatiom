@@ -109,6 +109,13 @@ Check these before planning a chapter and again before sending it.
   (a question that wasn't answered, a bruise, a job nobody names) and draws
   ordinary conclusions, which are often wrong. Nobody has "never once been
   wrong" about people, and nobody "can always tell".
+- **People act inside the relationship they actually have.** Nobody does or
+  assumes more than the relationship on the page allows. A classmate who
+  asks her out every morning isn't family or a close friend, so he doesn't
+  turn up at her house when something happens to her family, and nobody
+  (Daichi, the class, her staff) assumes he's close to her unless they've
+  seen it. Status gaps are real: nobody expects the scholarship boy from the
+  port homes to be friends with the ME Corp heiress.
 - **His face is a normal face.** Liar's Face hides a lie and nothing else.
   The rest of the time he smiles, winces, goes red, looks tired, and people
   read it as they'd read anyone's. Never describe his face as blank,

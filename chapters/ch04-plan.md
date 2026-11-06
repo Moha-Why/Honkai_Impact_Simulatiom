@@ -33,7 +33,7 @@ before he does that the run is real.
 | Who | Scenes |
 |---|---|
 | Eros (first person) | the white, the log, the takeover, the confessions, the man at the rank, the arrest at the stall, his side of the bullying, the hunts, the realization, the lighthouse after Mei runs, Monday, the roof door, his death, the white |
-| Mei | one October morning: what his confession is to her; the bucket, from inside the stall; the night she tells him about the ceiling tiles; December 16 in the corridor (five hundred centimeters and the USP); following them to the lighthouse; Monday at her desk; the east stairs the wrong way round; Kiana leaving them alone; February 3; the stairwell door on February 4 |
+| Mei | one October morning: what his confession is to her; November 16 at the table (two mouthfuls); the bucket, from inside the stall; the night she tells him about the ceiling tiles; December 16 in the corridor (five hundred centimeters and the USP); following them to the lighthouse; Monday at her desk; the east stairs the wrong way round; Kiana leaving them alone; February 3; the stairwell door on February 4 |
 | Kiana | her first morning at Chiba and the corridor from the far end; the first hunt, when she notices he isn't sick; the aftermath of the lighthouse; the hunt by the rules; cornering Mei in the toilets; the roof fight until she goes down |
 
 ## Rules this loop runs on
@@ -112,14 +112,25 @@ before he does that the run is real.
 
 ## Part 2: After the sixteenth (November 16 to December 15)
 
-8. **November 16.** He waits at the noodle stall on purpose: he can't be
-   anywhere near the house when it happens (Loop 1, the gray car). The
-   arrest comes on the television at ten past one, Daichi at the end of the
-   counter. "His kid goes to your school. The girl." "She's in my class." He's
-   already off the stool; Daichi pushes his coins back: "Go on, then. I'll
-   pay." He runs up the hill. The cars are gone; she's
-   at the gate in her coat, alone. He stands there with her until dark. She
-   never brings up what he told her at the rank.
+8. **November 16 (Mei, then Eros).**
+   - Mei makes her father sit down to the lunch she cooked with the cook
+     standing beside her (mackerel, the torn skin turned face down). "It's
+     very good, Mei." Two mouthfuls, then the doorbell, which nobody rings
+     at that house. He isn't surprised. "Finish your lunch. It's a
+     misunderstanding. I'll be back for dinner." Four men on the steps, the
+     cameras already at the gate (somebody told them when), an officer's
+     jacket over his wrists. Tanabe with his gloves off: "Young lady. Come
+     inside." She remembers the reporter, the boy who said it wasn't true,
+     her father's "tax office." She eats all her lunch because he told her
+     to, then washes up.
+   - Eros at the noodle stall, ten past one, the arrest on the news. He
+     knew; in Loop 1 he tried to stop it and the gray car came, and this
+     time he did nothing but tell her it wasn't true. Daichi, as any
+     stranger would: the scholarship ("What happens to that now?" "I don't
+     know."), then "His kid goes to your school, doesn't she?" "She's in my
+     class." "Poor kid." He doesn't go up the hill. He isn't family or even
+     a friend, he doesn't have her number, and there'll be cameras at her
+     gate. She never brings up what he told her at the rank.
 9. **Monday.** Natsumi moves her desk first. "Criminal's daughter" on her
    desk in marker. Sayaka's line. Every other boy has stopped. He says it
    anyway, and her "I'm sorry. No." breaks in the middle. Nobody laughs.

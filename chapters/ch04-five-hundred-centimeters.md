@@ -381,11 +381,55 @@ I stood at the rank until I couldn't see it anymore, and then I walked home.
 
 ---
 
-The noodle stall had a television on a bracket over the counter, turned to the news with the sound down. I'd been sitting under it since twelve on the sixteenth with a bowl I wasn't eating.
+Mei made her father sit down.
 
-I couldn't be anywhere near the house when it happened. The last time I'd tried to get in its way, the man in the gray car had come for me a week later. So I sat at the stall and watched the news with the sound off, and at ten past one it showed the house on the hill.
+He came in at ten to one, reading something on his phone, and stood in the dining room doorway still reading it. She took the phone out of his hand and put it face down on the sideboard. The cook, who had stood beside her at the stove all morning saying "Lower, Miss Mei, lower, it isn't a fire," looked in from the kitchen and went away again.
 
-The camera found the gate, and the steps, and the cars, three of them, plain and dark, and a man in an overcoat being brought down the steps between two others with a jacket folded over his wrists. The caption ran along the bottom. RAIDEN RYOMA, ME CORP CHIEF EXECUTIVE, DETAINED. FRAUD. The old man reached up and turned the sound on, and a reporter's voice filled the stall with words like irregularities and the foundation and ongoing.
+"Sit down," Mei said.
+
+He looked at her in surprise. Then he laughed and sat.
+
+She'd made rice, and miso soup, and grilled mackerel, because he liked mackerel. The skin had stuck to the grill in one place and torn, and she'd put that side down on the plate.
+
+He ate a mouthful of the fish and closed his eyes.
+
+"It's good," he said. "It's very good, Mei."
+
+He'd taken a mouthful of rice when the doorbell rang.
+
+Nobody rang the doorbell at the house. People who came were expected, and Mr. Tanabe or one of the maids had the door open before they reached it. It rang again, a long ring. Then there were men's voices in the hall, several of them, and Mr. Tanabe's voice, higher than she'd ever heard it.
+
+Her father put his chopsticks down across his bowl.
+
+He didn't look surprised. He wiped his mouth and folded his napkin and stood up, and buttoned his jacket.
+
+"Finish your lunch," he said.
+
+"Father..."
+
+"It's a misunderstanding. I'll be back for dinner." He put his hand on her head as he went past her chair, as he used to when she was small. "Finish your lunch, Mei. It's very good."
+
+He went out into the hall, and the voices stopped.
+
+She didn't finish her lunch. She went after him as far as the front door. There were four men in dark suits on the steps around her father, and one of them was reading aloud from a sheet of paper in a flat, tired voice, as if he'd read it to a lot of people. Down at the bottom of the drive, outside the gate, there were people with cameras, twenty or thirty of them, pressed up against the bars. They'd been there before the cars came. Somebody had told them when.
+
+One of the men took off his own jacket and folded it over her father's wrists, in front, so the cameras wouldn't see what was on them. Her father let him. He went down the steps between two of them and got into the second car without looking back, and all along the gate the cameras went off at once.
+
+Mr. Tanabe was standing beside her. She hadn't heard him come. He'd taken his gloves off and was holding them in one hand, and she realized she had never seen his hands before.
+
+"Young lady," he said. "Come inside."
+
+She went back to the dining room. Her father's bowl was where he'd left it, with the chopsticks laid across the top. He'd had two mouthfuls, one of the fish and one of the rice.
+
+In October a man at the station had asked her if her father was going to be arrested. A boy from her class had told her it wasn't true, and her father had told her on the telephone that it was the tax office. She sat down in her own place and picked up her chopsticks, because he'd told her to, and she ate her lunch, all of it. Then she cleared both places and washed the bowls herself, and dried them, and put them away.
+
+---
+
+At ten past one I watched it on the television at the noodle stall.
+
+I'd been sitting under the set since twelve with a bowl I wasn't eating. I'd known about the sixteenth since my first file. I'd tried to get in its way that time, and a week later the man in the gray car had come for me. This time I hadn't done anything. I'd told her it wasn't true, and let her go home and wait for him to come to lunch.
+
+The picture was the gate, and the steps, and a man in a dark suit being brought down them between two others with a jacket folded over his wrists. The caption ran along the bottom. RAIDEN RYOMA, ME CORP CHIEF EXECUTIVE, DETAINED. FRAUD. The old man reached up and turned the sound on, and a reporter's voice filled the stall with words like irregularities and the foundation and ongoing.
 
 At the end of the counter Daichi had stopped eating.
 
@@ -393,31 +437,17 @@ At the end of the counter Daichi had stopped eating.
 
 "Yes."
 
-"His kid goes to your school. The girl."
+"What happens to that now?"
 
-"She's in my class." I was already off the stool, putting coins down on the counter.
+"I don't know."
 
-Daichi pushed them back at me with two fingers. "Go on, then," he said. "I'll pay."
+He watched the screen a while longer. "His kid goes to your school, doesn't she? The girl."
 
-It was twenty-five minutes up the hill. I did it in fifteen, the first half running and the second half walking with my hands on my knees every hundred meters, and when I came round the last bend the cars had gone.
+"She's in my class."
 
-The gate was open. She was standing in it in her school coat, buttoned to the throat, with the hem of an apron showing underneath it, and her hands at her sides. The road was empty. The drive behind her was empty. Somewhere up at the house a door was banging in the wind, over and over, and nobody was going to shut it.
+"Poor kid," said Daichi, and went back to his noodles.
 
-She saw me and didn't move.
-
-I stopped beside her and didn't say anything. There wasn't anything in any of my files for this, for standing at a gate with her afterward with nothing to do. Three weeks ago at the taxi rank I'd told her it wasn't true. She didn't bring that up, that day or any other.
-
-"He sat down," she said after a while. She was looking at the road. "I made him sit down. I'd made rice and the fish he likes, and he sat down at the table, and he said it was good." Her voice was perfectly level. "He'd had two mouthfuls."
-
-The door at the house banged.
-
-"Somebody should shut that," she said, and didn't go.
-
-We stood at the gate until it got dark. Twice she put her hand on the latch, and once she straightened it, as though it had been hanging crooked, and when the streetlights came on down the hill she said, "You should go home," in the voice she used for teachers.
-
-"In a bit."
-
-She didn't tell me again. When I left, an hour later, she was still standing there, and the door had stopped banging, because somebody inside, one of the last of the staff, had finally gone and shut it.
+I didn't go up the hill. I thought about it most of the afternoon. But I wasn't anything to her, not family, not even a friend. I was a boy from her class who asked her out every morning in front of everyone. I didn't have her number. There would be cameras at her gate. I paid for the noodles I hadn't eaten and went home.
 
 ---
 

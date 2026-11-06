@@ -111,7 +111,9 @@ each other for the whole story:
   the scholarship boy from the port homes, the new kid, the one who
   confesses every morning. Nobody finds him mysterious. They put him in the
   obvious box until something he does on the page doesn't fit it, and the
-  heroines start out thinking he's like any other boy.
+  heroines start out thinking he's like any other boy. Nobody assumes he's
+  close to a heroine until they've seen it, and he doesn't act closer than
+  he is (a classmate doesn't go to her house in a family crisis).
 - His face is a normal face. Liar's Face only stops it giving away a lie;
   the rest of the time it shows what he feels, and people read it like
   anyone's. He misreads people as often as they misread him.
