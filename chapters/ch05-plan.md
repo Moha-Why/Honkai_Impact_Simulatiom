@@ -118,13 +118,16 @@ goes to Mei.
     pins out of her hair and puts it in his hand. "So you'll stay."
 13. **The family sword (Mei).** She finds the Mr. HOMU suit in the training
     room and understands her father was teaching her all along. She teaches
-    Eros the Raiden forms at dawn, with the dojo doors shut against the cold.
+    Eros the Raiden forms at dawn, with the dojo doors shut against the cold:
+    an old art for killing, not for sport, and she doesn't pretend otherwise.
     She tells him about the ceiling tiles as if for the first time; he lets
     her, and says nothing about sixty-one.
-14. **Kuroda's pipe (Eros, fight).** Kuroda's group with a scaffold pipe, after
-    school. He has an umbrella and the first form she taught him. He disarms
-    Kuroda and still comes away with a cracked rib. She straps it in the
-    dojo without a word.
+14. **Kuroda's pipe (Eros, fight).** Kuroda's group with a scaffold pipe, by
+    the bike sheds after school. He has an umbrella. Shiden into the first
+    boy's throat; Ikazuchi straight down through Kuroda's pipe arm, and the
+    umbrella explodes and Kuroda's collarbone goes. [With a blade, that's two
+    dead,] says the System. Then the other two take him from behind, and he
+    comes away with a cracked rib. She straps it in the dojo without a word.
 15. **The kote (Mei).** In PE kendo she breaks Kuroda's wrist with a kote,
     says it slipped, and lets Eros see it didn't. (Compromised.)
 16. **The dream (Mei, late January).** She dreams she killed him on a roof,
@@ -137,16 +140,22 @@ goes to Mei.
     and waits for him past the bell, the first lesson she's ever missed,
     because he said he'd come. At one-forty the school goes off underneath
     her. The voice in her chest: "He's late. They're always late. Let me."
-    She doesn't let go; it takes her anyway.
+    She doesn't let go, and it's a fight inside her, written as one (the
+    lights of the city answering her, the sky turning, what she holds on to
+    this time) before it takes her anyway. Animated, never two lines.
 18. **The stairs (Eros, fight).** Natsumi coughing blood; the windows. His
     practice sword in its bag, carried every day since January. Kiana on the
-    stairs. A different climb from Loop 4: the forms against people he knows,
-    and what the practice sword can and can't do.
+    stairs: "You can DO that?" The power fails, and the stairwell is lit only
+    by her gunfire and the purple flashes. Shiden through a throat, Ikazuchi
+    down through a reaching arm. Mr. Fujita, turned, comes up after them, and
+    this time Eros does it himself, Narukami under the ribs.
 19. **The roof (Kiana, then Eros; boss fight).** Kiana fights it first, by the
     canon beats. Then it turns from her to him. "You." It speaks a word or
-    two at a time and never explains Mei's heart ("Mine."). He blocks one
-    bolt with a form, and the practice sword burns in his hands. He drops it
-    and walks to her. Her hand goes into his chest. He holds up the pin:
+    two at a time and never explains Mei's heart ("Mine."). Her Shiden, the
+    real one, lightning across ten meters; his Shiden, wood, the same form he
+    learned from her, and the two cuts meet. The practice sword burns down to
+    the handle in his hands, and he's still standing. He drops it and walks
+    to her. "Kneel." He keeps walking. Her hand goes into his chest. He holds up the pin:
     "You gave me this so I'd stay. I stayed." "Count with me." Mei surfaces
     and pulls the lightning out, and it takes a stage of his soul with it
     (Torn). Kiana kneels and holds out her hand: "It doesn't matter what you
@@ -168,9 +177,9 @@ goes to Mei.
 | Fight | Shape | Eros's part |
 |---|---|---|
 | Kiana alone (10) | fodder, Kiana POV | none; she has no map |
-| Kuroda's pipe (14) | strong (trained-ish humans with a pipe) | the first form with an umbrella; disarms Kuroda; cracked rib |
-| The stairs (18) | strong (a crowd he knows) | the forms with a practice sword |
-| The roof (19) | boss | one block with a form; then he drops the sword and walks to her |
+| Kuroda's pipe (14) | strong (four boys and a pipe) | Shiden and Ikazuchi with an umbrella; Kuroda's collarbone; a cracked rib |
+| The stairs (18) | strong (a crowd he knows) | Shiden, Ikazuchi, and Narukami for Mr. Fujita |
+| The roof (19) | boss | his Shiden meets hers; the sword burns; he walks to her |
 
 ## Hidden objectives
 

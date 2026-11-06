@@ -186,8 +186,14 @@ Fights follow [fight-writing.md](fight-writing.md), with every fighter's kit in
 - **No scenery doing the feelings.** Traffic lights, weather and lamps don't
   change on cue to mirror a mood or hold a pause. (Mei's lights going out
   are her power waking, which is an event.)
-- **Plain over pretty.** Say what happened, in order, in ordinary words. A
-  simile has to make a thing clearer, not make the sentence sound written.
+- **Hype, not plain.** These chapters should make the reader want to get up
+  and run thirty miles. Big moments get build-up, motion and sound: strong
+  verbs, sentences that speed up when things speed up, the camera moving
+  (close on a hand, then the whole sky), a struggle before anything breaks,
+  and a payoff the reader can see. An awakening, a death, a fight or a
+  confession is never over in two lines. Quiet scenes can be quiet, but
+  nothing is flat. A simile earns its place by making the picture bigger or
+  clearer. (Still no explaining, no posing dialogue, no AI tics.)
 - **Changes in Eros happen on the page.** When he changes how he plays
   (warm to cold, a new method, a line he swore he wouldn't cross), show the
   moment he decides, with its reason, as a scene in the white or in the

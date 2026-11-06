@@ -80,6 +80,9 @@ scaled to this story's Eros, who stays weak for a long time.
   let his weakness show in other ways (shaking hands after, a safety he
   misses, Kiana hauling him up a stair). Never the same line twice ("lungs
   closed like a fist", "ground glass").
+- **Attackers attack.** No fights built on parrying and waiting for an
+  opening. The Raiden sword in particular never blocks: a form thrown at an
+  incoming blow cuts through it.
 - **The right tool.** A fighter uses the best thing they actually have for
   the moment. If his hands know the knife and the spare pistol is in his
   belt, he doesn't run.

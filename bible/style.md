@@ -8,6 +8,9 @@
   each in her own voice. Chapters 1 to 3 stay with Eros only. See
   writing-checklist.md, Points of view.
 - Comedic on the surface, with a dark undertone.
+- **Energy.** Hype, not plain: the big moments are animated, loud and
+  built up, anime style, and nothing is flat. See writing-checklist.md
+  (Hype, not plain) and fight-writing.md.
 - Power progression is central: every run should move his strength forward.
 - The shura field, Eros surviving the heroines finding out about each other,
   is a major source of tension and comedy.

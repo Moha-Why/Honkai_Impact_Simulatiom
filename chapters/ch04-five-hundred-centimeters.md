@@ -1582,19 +1582,57 @@ She sat looking at the three open boxes in the cold.
 
 At one-forty the school went off underneath her.
 
-She felt it before she heard it. It came up through the concrete into her body, a blow, as if the whole building had been struck from below by an enormous hand, and then the sound came, a deafening flat bang that she felt in her teeth, and the windows all down the east wing blew out together. The air changed. It turned thick and sweet and metallic, like a battery on the tongue, like blood, and above the bay the clouds came down. They came down purple. They poured in over the city from nowhere, low and heavy and moving the wrong way, and the light went out of the afternoon as though someone had shut a door on it.
+She felt it before she heard it. It came up through the concrete into her body, a blow, as if the whole building had been struck from below by an enormous hand, and then the sound came, a colossal flat *BOOM* that she felt in her teeth, and every window down the east wing blew out at once in one long glittering sheet. The air changed. It turned thick and sweet and metallic, like a battery on the tongue, like blood, and over the bay the clouds came down. They came down purple. They poured in over the city from nowhere, low and boiling and turning the wrong way, and the afternoon went out like a lamp.
 
 Below her, in the courtyard, someone screamed. Then a great many people.
 
-Something in her chest woke up.
+Something in her chest opened its eyes.
 
-It had been there all her life. She'd felt it at four years old, and at nine, in the back of a van, and every night since November when the lights went on by themselves. It had always been asleep, or nearly. It wasn't asleep now. It came up through her as the blow had come up through the concrete, all at once, and it was cold and enormous and perfectly calm, and it looked out through her eyes at the three open boxes on the concrete and the purple sky and the screaming courtyard, and it didn't need anyone.
+Heat first, a coin of it under her breastbone. Then a second heartbeat, slower and heavier than her own and out of step with it. Her hair lifted off her shoulders. The chopsticks in the three open boxes began to tick against the lacquer. The water tank behind her hummed like a struck bell. Down the hill, in time with the second heartbeat, every streetlight in Nagazora came on in the middle of the afternoon, and went out, and came on.
 
-*Let me,* it said. *You're tired. You've been tired since November. Let me.*
+*Let me,* it said.
 
-She let go.
+It wasn't a voice. It was her own thoughts, in her own words, said in a way she had never once let herself say them.
 
-The first of them came up the fire stairs at the side of the building a minute later, students from the first floor, with their eyes full of pale pink light and their hands out. The thing that had been Mei stood up from beside the water tank. Lightning came off it in sheets. It didn't raise a hand. It looked at them, and the sky came down on the fire stairs, and when the light had gone there was nothing on them at all.
+"No," said Mei.
+
+She took hold of one wrist with the other hand. Sparks crawled out between her fingers and over her knuckles like ants. She took hold of the other wrist too, and held on.
+
+*They went down together,* it said. *You heard them. "We tell her together." They'll come up those stairs side by side and stand in front of you, and they'll be kind about it.*
+
+"Stop."
+
+*You don't have to be here for that. Let me be here.*
+
+She counted. She'd counted ceiling tiles through a whole winter when she was nine, and she counted now, the bolts along the fence, aloud, through her teeth. One. Two. Three. With every number the lights down the hill went out and came back. Eleven. Twelve. Over the school the sky began to turn, slowly, a wheel of purple cloud as wide as the city with Chiba Academy at its hub.
+
+Twenty. Twenty-one.
+
+Feet on the fire stairs. A lot of them, climbing, and the wet broken sound of people coughing who couldn't stop.
+
+Thirty. Thirty-one.
+
+They came over the top of the fire stairs, first-years, girls from the tennis club in their windbreakers, with that pale pink light swimming up in their eyes and their hands out, and they came across the roof toward her.
+
+Thirty-five. Thirty-six.
+
+A hand closed round her crossed wrists. A girl with a ponytail and a tennis club badge, her face a foot away, her mouth open, her grip like a door shutting.
+
+"Thirty-sev..."
+
+The count broke.
+
+The thing in her chest came up through the gap where the number had been.
+
+One frozen moment. Mei rising off the concrete with her head thrown back. Her two pins spinning away through the air, and her hair pouring upward out of them in the static like ink in water. The girl with the ponytail lifted off her feet, hanging by the hand that still held Mei's wrists. Three lacquer lids in the air, turning over. The lights of a whole city out at once.
+
+Then the sound. *KRA-KOOOOOM.*
+
+It came off her in a wall. The girl with the ponytail went across the roof like a leaf. The lightning didn't fork; it poured, sheets of it, white and violet, down her arms and off her fingers, and where it touched the concrete the concrete split and steamed. Horns pushed up out of her hair with a sound like ice cracking across a pond. Something tore along her shoulder blades, and a wing unfolded out of her back, one wing, made of light, the length of a car, opening feather by feather with a noise like a sheet of glass drawn slowly across a stone. Her eyes opened. They were pink in the middle, hot and perfectly calm.
+
+The thing that had been Mei looked at the girls on the roof, and at the ones still coming up the fire stairs. It didn't raise a hand.
+
+The sky came down on the fire stairs. When the light had gone there was nothing on them at all.
 
 ---
 

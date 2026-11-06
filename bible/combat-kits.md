@@ -101,27 +101,45 @@ author's approval.
 - Her lightning is a soul attack (see
   [soul-and-fate.md](soul-and-fate.md)).
 
+## The Raiden sword (story)
+
+The Raiden house's sword is a battlefield art, centuries older than kendo,
+made to kill armored men in one or two cuts. It doesn't block and it doesn't
+wait for an opening: every form is an attack, and a form thrown against an
+incoming blow cuts through it. Kendo is what it became once nobody needed
+it. Raiden Ryoma taught all of it to Mei as Mr. HOMU. With the Herrscher's
+power behind it, the same forms are lightning.
+
+| Form | What it does | Looks like / sound |
+|---|---|---|
+| First Form: Shiden (Purple Lightning) | The draw: one cut from the sheath or from low, through the throat. The fastest kill in the style | A line of light where the blade was; the cut lands before the step does. *SHHK* |
+| Second Form: Ikazuchi (Thunderbolt) | Two hands, straight down through whatever is raised against it (an arm, a pipe, a sword) and on into the collarbone | Like a dropped guillotine. *GOOOM* |
+| Third Form: Narukami (Thunder God) | Low and forward, under the ribs to the heart through the gap in armor, and a turn | Through. *THK* |
+| Fourth Form: Hekireki (Thunderclap) | Three cuts in one step: throat, wrist, thigh. One sound made of three | Mei's. *KRAK* |
+| The last form | Her father never finished teaching it to her | |
+
 ## Eros, Mei run, Loop 5 (proposed, awaiting the author's approval)
 
 **Rating: Civilian.** The same body, the same gifts and the same Field Craft
 as Loop 4, but no hunts and no gun: he never goes where Kiana goes. What's
-new is a sword, learned in two steps: the kendo club from October, then the
-Raiden family forms from Mei at dawn from January. Quick Learner makes him
-fast to learn; it does nothing for his arms. By February 4 he has the forms
-in his head and five weeks of them in his body.
+new is the Raiden sword: kendo club basics from October, then the forms
+from Mei at dawn from January. Quick Learner gets the shapes right fast;
+it does nothing for his arms. By February 4 he has the first three forms.
 
-| Move | What it is | Looks like / sound | Limit |
-|---|---|---|---|
-| [Kendo: Men], [Kendo: Kote] | Club basics: the head strike and the wrist strike | Clumsy, loud, a beginner's stamp. *PAK* | A beginner's. Good for learning, useless against anything that doesn't stop when hit |
-| [Raiden, First Form: Shiden] | One straight cut, the fastest thing in the style | A single line, almost no wind-up. *SHFF* | Fast for him, not fast. One cut; if it misses he's open |
-| [Raiden, Second Form: Raimei] | The parry: meets the blow and turns it aside along the blade | The other thing's force goes past him. *KNNG* | Turns a blow; doesn't stop one. Each one costs his wrists, and his weapon |
-| [Raiden, Third Form: Inazuma] | The wrist strike that takes a weapon out of a hand | Down across the wrist, then away. *TAK* | Needs the opening Raimei makes. Against a pipe, he takes the hit first |
+| Move | Limit |
+|---|---|
+| [Raiden, First Form: Shiden] | Fast for a boy, slow for the style. With wood it crushes instead of cutting |
+| [Raiden, Second Form: Ikazuchi] | All his weight in one cut; for a breath afterwards his arms are lead |
+| [Raiden, Third Form: Narukami] | Needs his whole body behind it. With a practice sword it breaks ribs instead of going through them |
+| Hekireki and the last form | Out of his reach |
 
 - **Weapons:** an umbrella when that's what he has; from January a practice
-  sword in a cloth bag, carried every day. Wood: it splinters, and it burns.
+  sword in a cloth bag, carried every day. Wood breaks bones, then breaks
+  itself, and it burns.
+- **His body is the limit,** not the forms: three forms in a row and his arms
+  shake. Every move he makes is an attack; there's no waiting.
 - **Still:** Quick Reflexes, Field Craft (no box cutter at school), Sprinter
-  for one burst, and his weak body. Mei's forms are names he can say and
-  shapes he can make, not power.
+  for one burst.
 
 ## Kiana Kaslana, Loop 5 (alone)
 
@@ -136,6 +154,7 @@ Violet Sanctum, Crescent, the catch), plus:
 
 | Move | What it is | Looks like / sound | What gets past it |
 |---|---|---|---|
-| Shiden (Novel) | Her body remembers the Raiden style: she becomes the lightning, crosses ten meters and cuts with her hand | A white streak. *ZZRAK* | It's the girl's first form, and he has learned it: he can see where it's going |
+| Shiden (Novel) | Her body remembers the Raiden style: she becomes the lightning, crosses ten meters and cuts with her hand | A white streak. *ZZRAK* | Another cut. He has learned the same form, so he sees where it's going and meets it with his own |
+| Ikazuchi | The second form done with the sky: a column of lightning straight down along the line of her hand | The sky split top to bottom. *GOOOOOM* | Not being under it |
 | The Queen's word | One spoken word that lands as a blow ("Kneel." The static pushes down like a hand on the back of the neck) | The air thickens; knees buckle | Walking anyway |
 | Mine | The finisher in Loop 5: her hand into his chest | Her hand through his coat, lit from inside | Nothing. Only Mei, from inside |
