@@ -149,8 +149,11 @@ goes to Mei.
     by her gunfire and the purple flashes. Shiden through a throat, Ikazuchi
     down through a reaching arm. Mr. Fujita, turned, comes up after them, and
     this time Eros does it himself, Narukami under the ribs.
-19. **The roof (Kiana, then Eros; boss fight).** Kiana fights it first, by the
-    canon beats. Then it turns from her to him. "You." It speaks a word or
+19. **The roof (Kiana, then Eros; boss fight).** Kiana fights it first, and it
+    never looks at her: her bullets and her thrown guns burn while its eyes
+    stay on the door; she jumps from the water tank and it catches her by
+    the throat behind its back without turning (impact frame); her blood
+    drinks the voltage; the hug line; "Not you." Then it turns to him. "You." It speaks a word or
     two at a time and never explains Mei's heart ("Mine."). Her Shiden, the
     real one, lightning across ten meters; his Shiden, wood, the same form he
     learned from her, and the two cuts meet. The practice sword burns down to

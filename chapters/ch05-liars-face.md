@@ -441,13 +441,7 @@ She dropped off the roof onto the nearest stall with both feet, *BANG*, and the 
 
 *BANG-BANG.* The man in the apron went down. *BANG-BANG.* One of the orange coats spun round on his heel and folded. Two shots each, as the stinky old man had made her practice until she could do it with her eyes shut, in a barn in Brittany with snow coming through the roof.
 
-The second orange coat came over a stall at her, faster than it should have been able to. She didn't shoot it. She pulled the bat off her back and swung.
-
-One frozen moment. The bat at the end of its swing, bent a little in the middle. The thing in the orange coat in the air, sideways, higher than her head, with a whole crate of frozen squid exploding out of the stall behind it in a cloud of ice.
-
-Then the sound. *KLANNNG.*
-
-It went into the far wall of the market and stayed there.
+The second orange coat came over a stall at her, faster than it should have been able to. She pulled the bat off her back and swung it into the side of its head, *KLANG*, and the bat bent in the middle and the thing went sideways into a crate of frozen squid and stayed there.
 
 That left the woman in the cap. Kiana turned round to find her.
 
@@ -465,9 +459,11 @@ So she went toward it.
 
 She twisted round onto her knees, into the grip instead of away from it, with her hair tearing at the roots, and came up face to face with the woman in the fish-market cap, a foot apart, nose to nose, the pink light swimming in the woman's eyes.
 
-"Kaslana Headbutt," Kiana said through her teeth, and put her forehead into the woman's face as hard as she'd ever hit anything in her life.
+"Kaslana Headbutt," Kiana said through her teeth.
 
-*CRACK.*
+One frozen moment. Kiana's forehead coming forward, the woman's face a hand's width away with the pink swimming in its eyes, and Kiana's own white hair still wound round the woman's fist between them like a rope.
+
+Then the sound. *CRACK.*
 
 The grip went loose. Kiana jammed the pistol up under the woman's chin.
 
@@ -914,31 +910,33 @@ It was looking past her, at the door.
 
 "Give her back!" Kiana yelled. "Give me back my Mei!"
 
-The pink eyes came to her, slowly, as if she were very small and very far away.
+Its eyes stayed on the door.
 
-It lifted a hand.
+She fired. Both pistols, everything she had left, walking forward into the storm with her arms out, and the bullets burned up a meter from Mei-senpai's body like moths in a lamp, and its eyes stayed on the door.
 
-"Thunderbird," it said.
+Kiana threw both empty guns at its head, one after the other. They burned in the air. She was already running behind them, past it, to the water tank in the corner, and up the side of the tank, and off the top of it, higher than she'd ever jumped in her life, out over the roof with the purple whirlpool turning above her, and came down at it out of the sky with both arms open.
 
-Kiana was already moving.
+It caught her by the throat.
 
-It came down out of the whirlpool shaped like a bird, a huge one, white and shrieking, wings folded back. One frozen moment. The whole roof white, the bird a meter above the spot where she'd been, and Kiana in the air beside it, sideways, her braids straight out. Then the sound. *KRAKA-THOOOM.* A crater in the concrete you could have parked a car in, and the blast throwing her across the roof and rolling her, and her coming up on one knee with both guns still in her fists, because you never, ever let go of the gun.
+It didn't turn its head. It put one hand up behind it, without looking, the way you'd catch a ball someone had thrown you from behind, and its fingers closed round her neck in midair and held her there with her feet off the ground, and the lightning went into her.
 
-She fired. The bullets burned up in the air a meter from Mei-senpai's body, little sparks, like moths, and she didn't care, she was already running through the smoke they made. The wing came round in a crescent of purple, low and flat, *SHHAANG*, and she slid under it on her back with the heat going over her face, and came up out of the slide already in the air, already turning, her leg coming round in the kick she'd practiced ten thousand times on a tire.
+One frozen moment. Kiana hanging in the air by her throat, her braids standing straight up in the static, her mouth open, and white lightning pouring down the arm that held her and into her like water into a drain, and Mei-senpai's face below her, still turned away, still looking at the door.
 
-It caught her ankle.
+Then the sound. *KRZZZZT.*
 
-Thousands of volts went up her leg and through her body and into her teeth, and something deep inside her opened its mouth and drank them, and Kiana used the half second it bought her. She pulled herself up her own leg by the arm that held it and threw both arms round Mei-senpai's neck and held on with everything she had.
+Thousands of volts, in through her throat, into her teeth and her heart. And something deep inside her opened its mouth and drank them.
+
+The hand on her throat felt it go. For the first time, the thing turned its head and looked at her.
+
+Kiana grabbed the arm with both hands and climbed it. She pulled herself in along the arm that held her, hand over hand, and got her arms round Mei-senpai's neck, and held on, with the lightning crawling all over the two of them and her blazer smoking.
 
 "I don't care if you're a monster or a Herrscher!" she screamed into her shoulder. "I'm not letting you go, Mei!"
-
-It didn't fight her. It didn't even look at her.
 
 "Not you," it said, quite gently, the way you'd speak to a dog that had got into the wrong room.
 
 It threw her.
 
-She hit the water tank. Her arm went with a sound like a stick breaking, and she was on the concrete at the foot of the tank with the burn coming up her leg and the purple sky going round and round above her.
+She hit the water tank. Her arm went with a sound like a stick breaking, and she was on the concrete at the foot of the tank with the burn coming up her throat and the purple sky going round and round above her.
 
 The last thing she saw before it stopped going round was him.
 

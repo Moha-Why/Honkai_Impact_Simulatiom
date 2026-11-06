@@ -250,7 +250,7 @@ She didn't talk much on the way down. She carried her school bag in front of her
 
 On the last Friday in October there was a man waiting at the rank.
 
-He wasn't waiting for a taxi. He was standing by the ticket machines with a camera bag on his shoulder and a paper cup in his hand, watching the bottom of the hill, and when we came round the corner he put the cup down on top of a machine and came straight over.
+He was standing by the ticket machines, not in the taxi queue, with a camera bag on his shoulder and a paper cup in his hand, watching the bottom of the hill, and when we came round the corner he put the cup down on top of a machine and came straight over.
 
 "Raiden Mei-san?" He was already holding out a card. "Sorry to stop you. Nozaki, Weekly Nagazora. Two minutes, that's all."
 
@@ -268,7 +268,7 @@ Mei stopped. She didn't take the card.
 
 She didn't answer that. She stood with both hands on the handle of her bag, very straight, looking at a point somewhere past his ear, and she didn't walk away. It took me a moment to see why. She didn't know how. A grown man was asking her questions, and everything she'd been taught since she was small said that you stood still and answered him.
 
-He'd got the camera out of the bag by then. He wasn't pointing it at her yet. He was holding it against his chest, ready.
+He'd got the camera out of the bag by then and was holding it against his chest, ready, not pointed at her yet.
 
 Behind him the car was waiting at the rank. Its back windows were black glass, and all you could see in them was the station and the three of us, reflected. The old man in the white gloves was at the wheel with his phone at his ear, frowning out at us.
 
@@ -910,7 +910,7 @@ It was the boy from Mei-senpai's class. Noodle guy. The one who said it every mo
 
 "What," she said, "are you doing here?"
 
-He didn't seem to hear her. He was looking past her at the men on the floor.
+He was looking past her at the men on the floor, as if he hadn't heard her.
 
 "What were they?" he said. "Their eyes. What was wrong with their eyes?"
 
@@ -1048,31 +1048,39 @@ I crouched by the door with my phone light on the floor. The dust between the ro
 
 "There are four sets of feet."
 
-"Then the fourth one's slow." She had a pistol in her right hand and the bat in her left. "Stay behind me."
+"Then the fourth one's slow." She pulled the bat out of her straps and took a pistol in her other hand. "I'll go in first. You..."
 
-They came over the top of the machines.
+"Wait."
 
-Three of them, climbing the rows like ladders, with pink light coming up in their eyes. A man in a security guard's jacket. Two in coats gone stiff with dirt.
+There was a breaker panel on the wall beside the door, gray steel with the electricity company's sticker on it, and the main switch pulled down. Somebody had been living in here before they stopped being somebody. A sleeping bag behind the counter. A camping stove. An extension lead running from the panel to a kettle. The power was still connected; the squatter had seen to that.
 
-Kiana was up on the cashier's counter in one jump.
+Four hundred machines, and every one of them on that switch.
 
-"Kaslana Special!"
+"They go for noise," I said.
 
-There's no such thing as a Kaslana Special. She fired anyway, *BANG-BANG-BANG*, three shots off the counter in one breath, and the man in the guard's jacket went backward into a row of machines and took the whole row with him, glass and steel pins and sparks, *KSSSHHH*, every little light along it flaring white and dying.
+"How do you know?"
 
-The second one came over the counter at her. She didn't shoot it. She stepped inside its arms and swung.
+"I've been watching them for a week."
 
-One frozen moment. The bat at the end of its swing. The thing in the dirty coat off the ground, its feet higher than its head, halfway over the next row, with a whole tray of silver balls from the counter hanging in the air around it like a swarm.
+Kiana looked at the panel, and at the dark rows, and at me, and slowly her whole face lit up like a kid's at a birthday.
 
-Then the sound. *CLANNNG.*
+"Get on the counter," I said. "When the lights come on, they'll be standing in them."
 
-It came down three rows over and didn't get up.
+She was on the counter before I'd finished the sentence. I put my hand on the switch and threw it.
 
-The third she shot twice in the knees as it came over the counter, and it fell at her feet and lay there reaching.
+The parlor came alive.
 
-The fourth one came for me.
+Four hundred machines at once. Every light, every flashing border, every spinning reel, white and gold and screaming pink, and every jingle at the same time, a wall of music so loud the floor buzzed under my shoes and the glass in the doors shook in its frames. The dark rows turned into canyons of light. And up out of them, toward the loudest machines in the middle of the hall, came three shapes with their heads turning and their arms out, lit from below like actors on a stage.
 
-It came out of the dark along the left-hand wall, where the prints had gone, slow and wide, dragging the foot, and much closer than it had any right to be. I heard it a second before its hand closed on my shoulder.
+Kiana fired from the counter. I couldn't hear the shots over the jingles. I only saw the muzzle flashes, white on white. The man in the security guard's jacket spun on his heel and went down between two machines. The second one swung toward the flashes and came over the top of a row at her, and she shoved the pistol into her pocket, took the bat in both hands, and stepped off the counter to meet it.
+
+One frozen moment. The bat at the end of its swing, both her feet off the floor. The thing in the dirty coat sideways in the air over the next row, with a whole tray of silver balls from the counter hanging round it like a swarm, every one of them lit pink and gold by four hundred machines.
+
+Then the sound, even over the music. *CLANNNG.*
+
+I turned to the left-hand wall, where the fourth set of prints had gone, and there was nothing there. Light, and rows, and noise. I couldn't hear my own breathing. I couldn't hear anything at all.
+
+The hand came out of the gap between two machines and closed on my shoulder.
 
 [Quick Reflexes.]
 
@@ -1080,9 +1088,7 @@ I didn't pull away. I turned into it, under the arm, the way my hands wanted to,
 
 [Field Craft: Joint Cut.]
 
-I opened the inside of its wrist, and the hand on my shoulder went loose all at once, like a dropped glove.
-
-It swung the other arm at my head. I was already lower than the arm.
+I opened the inside of its wrist, and the hand on my shoulder went loose all at once, like a dropped glove. It came out of the gap after me, a big man in a fish-market apron, slow and wide, dragging the foot, with the pink swimming in his eyes, and swung the other arm at my head. I was already lower than the arm.
 
 [Field Craft: Deer Cut.]
 
@@ -1096,7 +1102,17 @@ It folded over onto the floor and stopped reaching.
 
 My hands were shaking. I went to put the safety back on and missed it the first time.
 
-Up on the counter Kiana had turned round with her pistol half raised, and she was still holding it like that, half raised, with her mouth open. She jumped down and came over and looked at the thing on the floor, at its wrist and its knee and the two holes, and then at me.
+Behind me Kiana yelled something I couldn't hear. I turned round. The third one was up on top of the row nearest the counter, crawling along the tops of the machines toward her on its hands and knees, and she'd turned to look at me, and the pistol was in her pocket and the bat was on the floor where she'd dropped it to watch.
+
+She didn't go for either. She went for the end of the row.
+
+"KASLANA SPECIAL!"
+
+She put her shoulder into the last machine with her whole weight behind it, and it went over, and took the next with it, and the next, forty machines going down one after another in a long roaring cascade of glass and lights and sparks, each one's jingle cutting out as it hit, *KSSH, KSSH, KSSH, KSSH,* all the way down the row, with the thing on top riding them down into the wreck at the far end.
+
+The last machine hit the wall. That row went dark. The other three hundred and sixty went on singing.
+
+Kiana stood at the end of what was left of it with her hair in her face, panting. Then she looked at me, and at the thing in the fish-market apron at my feet, at its wrist and its knee and the two holes, and her mouth fell open.
 
 "Okay," she said. "WHAT was that?"
 
@@ -1106,21 +1122,19 @@ Up on the counter Kiana had turned round with her pistol half raised, and she wa
 
 "There's a man in Hokkaido who does deer. He's very good."
 
-She looked at me a while longer. Then she grabbed my arm with both hands, the one with the box cutter in it, and shook it.
+She looked at me a while longer. Then she came over the wreckage and grabbed my arm with both hands, the one with the box cutter in it, and shook it.
 
-"That was SO COOL! The knee thing! Do the knee thing again!"
+"That was SO COOL! The knee thing! And the LIGHTS!"
 
-"There's nothing left to do it on."
+"You knocked over forty machines."
 
-"Then teach me!" She let go of my arm, and her face changed. "Wait. You can do THAT, and you've been letting me haul you around by the collar for a week?"
+"Teach me the knee thing!" She let go of my arm, and her face changed. "Wait. You can do THAT, and you've been letting me haul you around by the collar for a week?"
 
 "You never asked."
 
 "I'm asking NOW!"
 
-Behind her, all along the row the guard had gone into, the broken wiring found something. Every machine in the row lit up at once and played its jingle, forty different jingles at the same time, in the dark.
-
-She laughed until she had to sit down on the counter, and I sat down on the floor among the balls and laughed too.
+I went and pulled the breaker. The parlor died around us all at once, back into the dark, and in the sudden silence our ears rang like bells, and Kiana started laughing and couldn't stop, and sat down on the counter, and I sat down on the floor among the balls and laughed too.
 
 "Kaslana Special," she said, wiping her eyes.
 
@@ -1658,35 +1672,59 @@ The stairs were full of our classmates.
 
 Some of them were still coughing, on their knees on the landings. Some of them had stopped coughing and were standing up again, slowly, and turning their heads toward us with that pale pink light coming up in their eyes.
 
-On the first landing it was a boy from the baseball club and a girl from 3-D whose name I'd never learned. The boy came off the wall at Kiana with his arms out.
+On the first landing it was a boy from the baseball club. He came off the wall at Kiana with his arms out.
 
 *BANG BANG.*
 
 "Sorry!" Kiana shouted, already past him. "Sorry, sorry!"
 
-The girl from 3-D came at her back. Kiana didn't see her. Kiana was looking at the boy on the floor.
+The second-floor corridor opened off the next landing, and it was full. Thirty of them, more, most of 3-D and half of 3-C, people I'd sat behind in assembly, standing up out of their coughing between the lockers, and every head turned at the sound of Kiana's gun.
+
+Kiana counted her magazines with her thumb without looking down. Two.
+
+"There's too many," she said.
+
+I took my phone out, set every alarm on it to the same minute, turned the volume all the way up, and sent it skidding down the corridor along the floor, under thirty pairs of reaching hands, all the way to the far end by the music room door.
+
+It went off.
+
+Thirty heads turned after it. Then thirty bodies, shuffling, then running, away from us down the corridor toward the small bright noise screaming by the music room.
+
+Kiana stared at me.
+
+"Up," I said. "Now."
+
+I went first. I'd never gone first before.
+
+A girl from 3-D whose name I'd never learned came out of the third-floor doorway at Kiana's back as she passed it.
 
 [Field Craft: Deer Cut.]
 
-I went in under the girl's arm and opened the back of her knee, and she went down on the step and kept reaching. Kiana grabbed my sleeve and pulled me up the next flight before I could look at her face.
+I was down the two steps and under the girl's arm before Kiana had turned round, and the girl went down on the landing and kept reaching. Kiana grabbed my sleeve and pulled me on before I could look at her face.
 
-On the second landing there were too many. They were coming down out of the second-floor corridor, six, seven, more behind them, people I'd sat behind in assembly, all with the same light in their eyes.
+Behind us, at the far end of the second-floor corridor, the alarm stopped.
 
-"Ears!" said Kiana.
+It stopped in the middle of a note, with a crunch, the way a phone stops when somebody stands on it.
 
-I put my hands over my ears. She emptied both pistols up the stairwell.
+For a second the whole building was quiet except for the coughing. Then thirty pairs of feet turned round at the far end of the corridor and came back. Running now. Toward the only noise left in the building, which was us.
 
-One frozen moment. The stairwell full of falling plaster, the bodies on the stairs thrown back, her empty cases hanging in the air, and through the window on the half landing the whole sky lit violet from end to end.
+"Okay," said Kiana. "Okay. Ears!"
+
+I put my hands over my ears. She turned on the step and emptied both pistols down the stairwell into the front of them as they came round the turn.
+
+One frozen moment. The stairwell full of falling plaster, the front of the crowd thrown back off its feet, her empty cases hanging in the air like brass rain, and through the window on the half landing the whole sky lit violet from end to end.
 
 Then the sound, all of it at once in that small concrete space. *BANG-BANG-BANG-BANG-BANG-BANG.* The fire alarm went off. A second later the sprinklers burst on over our heads, and it was raining in the stairwell, cold, hard rain, with the purple light flickering through it.
 
-"Last magazine!" Kiana slapped it into one pistol. Her hands were shaking. With the other hand she pulled the fire extinguisher off its hook on the wall. "Kaslana Snowstorm!"
+"Last magazine!" Kiana slapped it in. Her hands were shaking. More of them were coming round the turn below, climbing over the ones she'd dropped, and she didn't fire. She pulled the fire extinguisher off its hook with her free hand and yanked the pin out with her teeth.
 
-She pulled the pin, and a white cloud filled the landing, and she went into it swinging the extinguisher by its hose, *CLANG*, *CLANG*, and things fell over in the white, and I went up behind her through the rain with the box cutter in my hand.
+"Kaslana Snowstorm!"
 
-On the third landing Emi was waiting.
+A white cloud filled the stairwell below us. She went down into it two steps, swinging the extinguisher by its hose like a flail, *CLANG*, *CLANG*, and things fell back down the stairs in the white, and I stood on the step above her with the box cutter and took the ones that came out of the cloud at her sides.
 
-She still had the cat notebook in her hand. She came out of the rain and got me by the collar with the other hand and put me into the wall, *THUD*, and my head hit the concrete and the stairwell went white at the edges.
+Then a hand closed on my collar from above.
+
+Emi. She'd come down from the third floor behind us while we were looking the other way, and she still had the cat notebook in her other hand. She put me into the wall, *THUD*, and my head hit the concrete and the stairwell went white at the edges.
 
 [Quick Reflexes.]
 
@@ -1694,13 +1732,17 @@ My hand came up with the box cutter in it, and stopped.
 
 Her face was a foot from mine. The cat notebook was still in her other hand.
 
-"Down!" Kiana shouted.
+Kiana came up out of the white cloud below with the extinguisher already swinging.
 
-I couldn't get down. Emi had me against the wall. Kiana fired past my ear, *BANG*, so close it burned, and Emi let go of my collar and sat down on the stairs and lay back, and the water running down the steps went pink round her.
+*CLANNG.*
+
+Emi let go of my collar and went down the stairs past Kiana, all the way to the turn, and lay there, and the water running down the steps went pink round her.
 
 The cat notebook fell open on the wet step, at the back page, at the total with the box drawn round it. The sprinklers rained on it, and the ink began to run.
 
-I went up the last flight on Kiana's sleeve, with the rain coming down on both of us.
+Kiana stood on the step with the dented extinguisher hanging from her hand, breathing hard, and didn't say anything.
+
+I went up the last flight on her sleeve, with the rain coming down on both of us.
 
 The door at the top was half open, as we'd left it, and the light coming down through it was the wrong color for daylight.
 
@@ -1756,19 +1798,43 @@ Kiana saw the thing in Mei-senpai's body lift one hand.
 
 Kiana was already moving.
 
-It came down out of the purple cloud shaped like a bird, a huge one, white and screaming, wings folded back. One frozen moment, the whole roof white, the bird a meter above the place where she'd been standing, and Kiana in the air beside it with her braids straight out behind her. Then the sound. *KRAKA-THOOM.* It blew a hole in the concrete you could have put a car in. The blast picked Kiana up and threw her ten meters across the roof and rolled her, and she came up on one knee with her hands and her knees skinned raw and both pistols still in her fists, because the stinky old man had taught her you never, ever let go of the gun.
+It came down out of the purple cloud shaped like a bird, a huge one, white and screaming, wings folded back, straight at the place where she'd been standing. She was running along the fence by then, and the bird never hit the roof.
 
-She fired the one that was still loaded, fast, everything she had left.
+It turned.
 
-The bullets never got there. They burned up in the air a meter from the thing in Mei-senpai's body, one after another, little sparks, like moths in a lamp. Kiana hadn't thought they would. She wasn't aiming at Mei-senpai. She would never in her life have aimed at Mei-senpai. She was aiming at the air in front of her, and the shots made a wall of smoke and noise, and she was already running through it.
+It pulled out of its dive a meter off the concrete and came after her, low, screaming, along the fence, tearing the wire out of its posts behind her in one long burning zipper of sparks. Kiana ran flat out with the heat of it on her back and the ends of her braids starting to smoke, and the water tank came up in front of her, the big steel tank on its legs in the corner of the roof, and she didn't slow down. She went up it, one foot on a leg brace and the other on the rim, and over, and down the far side.
 
-The wing came round. A crescent of purple light, low and flat, across the whole roof, *SHHAANG*, and it went through the air vents and the fence posts like a hot knife through paper. Kiana dropped and slid under it on her back, feeling the heat of it go over her face and singe the front of her blazer, and came up out of the slide already in the air, already turning, her leg coming round in the kick the stinky old man had made her practice ten thousand times on a tire in a barn somewhere, straight at Mei-senpai's face.
+The bird went into the tank.
+
+One frozen moment. The steel tank swelling outward like a balloon, the bird's white wings spread across the whole face of it, Kiana in the air on the far side upside down with her arms flung out, and every rivet in the tank popping out at once in a ring of little silver stars.
+
+Then the sound. *KRAKA-THOOOM.*
+
+Ten tons of water came out of the corner of the roof in one white wall. It went across the concrete in a wave, steaming where the lightning touched it, and took Kiana's legs out from under her and rolled her, and three lunch boxes went past her on it, open, spilling, and over the edge where the bird had torn the fence away, and the rest of the wave went after them in a waterfall off the roof.
+
+She came up on her knees in the wet with both guns still in her fists, because the stinky old man had taught her you never, ever let go of the gun.
+
+She fired the one that was still loaded, fast, everything she had left, through the steam.
+
+The bullets never got there. They burned up in the air a meter from Mei-senpai's body, one after another, little sparks, like moths in a lamp, and the pistol clicked empty in her hand.
+
+She threw it.
+
+It burned too, a meter out, in a puff of glowing metal, and the thing in Mei-senpai's body watched it go with its head a little on one side, as if a child had thrown a sweet at it.
+
+The wing came round. A crescent of purple light, low and flat, across the whole roof, *SHHAANG*, and Kiana dropped flat on the wet concrete and felt it go over her back like a train, and when she lifted her head every post of the fence along that side had been cut off at the knees in one long line, glowing at the top.
+
+She wrenched one out of its socket. A meter of steel pipe, white hot at the end.
+
+"Okay," she said. "Plan B."
+
+She ran at it through the steam with the pipe held out in front of her like a lance, and threw it from three meters as hard as she'd ever thrown anything in her life, and the barrier caught it and burned it, and while it was burning she was already in the air behind it, already turning, her leg coming round in the kick the stinky old man had made her practice ten thousand times on a tire in a barn somewhere, straight at Mei-senpai's face.
 
 It caught her leg.
 
 It caught her by the ankle out of the air, easily, with one hand, and the lightning went into her.
 
-All of it. Thousands of volts, straight up her leg, through her body, into her teeth. It should have stopped her heart. She felt it try. And then something in her, deep down, something she'd never had a name for, opened its mouth and drank. The lightning went into her and didn't come out the other side. It went somewhere inside her and stayed there. The thing holding her ankle felt it go, and for the first time something moved in its face.
+All of it. Thousands of volts, straight up her leg, through her body, into her teeth. It should have stopped her heart. She felt it try. And then something in her, deep down, opened its mouth and drank. The lightning went into her and didn't come out the other side. It went somewhere inside her and stayed there. The thing holding her ankle felt it go, and for the first time something moved in its face.
 
 Kiana used the moment. She pulled herself up her own leg by the arm that held it, and got both arms round Mei-senpai's neck, and held on, with the lightning crawling all over the two of them and her blazer smoking and her hair standing out round her head, and pushed her face into Mei-senpai's shoulder.
 
@@ -1784,27 +1850,25 @@ Kiana's arms went slack.
 
 It was half a second. She didn't decide it. Her arms heard the words and stopped, as your hand stops on a door when someone says your name behind you, and in that half second the thing took her by the back of the blazer and threw her.
 
-She hit the water tank. She heard her arm go before she felt it, a sound like a stick breaking, and then she felt it, and then she was on the concrete at the foot of the tank with the burn coming up her leg and her arm bent wrong under her and the purple sky turning round and round above her.
+She hit the wreck of the water tank. She heard her arm go before she felt it, a sound like a stick breaking, and then she felt it, and then she was on the concrete at the foot of the tank with the burn coming up her leg and her arm bent wrong under her and the purple sky turning round and round above her.
 
-The last thing she saw before it stopped turning was the door. He'd been holding it, with his back against it and something coming up the stairs behind it. He wasn't holding it anymore. He was coming across the roof.
+The last thing she saw before it stopped turning was the door. He'd let go of it. He was coming across the roof, walking, slowly, with a box cutter in his hand.
 
 ---
 
 In the game she gets her hand on the wing and pulls, and it breaks off in her fist like a branch, and the storm stalls and the horns go and Mei comes back into her own eyes and says Kiana's name.
 
-Kiana was lying at the foot of the water tank with her arm under her, not moving. Nobody had got a hand on the wing. The thing in Mei stood in the middle of the roof with its back to me, ten meters from the door, and the wing came out of its shoulder blade, humming.
+Kiana had got her hand on it. I'd seen it from the door. Her arms round Mei's neck and her fingers at the root of the wing, through all that lightning, and the barrier had let her in. The bullets had burned. The pistol had burned. The fence post had burned. Kiana hadn't, because Kiana hadn't been fast. She'd been holding on.
 
 I let go of the door.
 
-Behind me it banged open, and things came out onto the roof, and the storm took them as they came. I didn't look round.
+Behind me it banged open, and things came out onto the roof, and the storm took them as they came. I didn't look round. I walked.
 
-[Sprinter.]
+Every part of me wanted to run, and I didn't let it. I walked across the wet concrete toward her back with the box cutter open in my hand, slowly, as you'd walk up on a deer that hasn't seen you, one step and then the next, through the steam.
 
-Ten meters of open concrete, past the crater, with the box cutter open in my hand.
+[Violet Sanctum,] said the System.
 
-[Violet Sanctum.]
-
-A meter from her back the air turned thick and hot, like reaching into an oven, and the blade went dull red in my fingers. It didn't burn away. It was moving too slowly for that. I put it into the root of the wing, where the light came out of her shoulder blade, and pushed.
+A meter from her back the air went thick and hot, like walking into an oven. The blade went dull red in my fingers and stayed whole, too slow to burn. I kept walking. The heat came up my wrist and into my sleeve, and the back of my hand began to blister, and I put the blade into the root of the wing, where the light came out of her shoulder blade, and pushed.
 
 Something gave. A thin white crack ran up the wing from the blade, and the whole wing flickered like a bad bulb, and over the roof the storm stuttered.
 
@@ -1812,13 +1876,25 @@ She turned her head.
 
 "You," she said.
 
-The back of her hand brushed me off like crumbs off a table. I went across the concrete on my back and stopped against the foot of the fence. The box cutter was gone. My right palm was one white blister in the shape of the handle.
+She lifted her face to the sky.
 
-The wing was still flickering. The crack ran up it in the light. One more push at the root.
+[Blackout,] said the System.
 
-Then I looked past her at the water tank.
+Down the hill, the lights of Nagazora began to go out.
 
-Kiana was trying to get up. She had her good hand flat on the concrete, and her other arm hung bent where arms don't bend, and her face was gray.
+Street by street, from the harbor up. Block after block of windows going dark in a wave, the station, the ring road, the long rows of streetlights going out one after another up the hill toward us like footsteps, and all of it, every volt of it, coming up off the city in a thin bright rain of sparks, rising, pulled up into the purple wheel overhead and down the column of the storm into her.
+
+The crack in the wing filled with light. It sealed from the root up, brighter than before, white to the tips, and the wing spread itself out over the whole roof.
+
+Then she brushed me off like crumbs off a table.
+
+I went across the concrete on my back and stopped against the stumps of the fence. The box cutter was gone. My right palm was one white blister in the shape of the handle.
+
+The whole city was dark. Every light in Nagazora was in her.
+
+Then I looked past her at the wreck of the water tank.
+
+Kiana was trying to get up. She had her good hand flat on the wet concrete, and her other arm hung bent where arms don't bend, and her face was gray.
 
 I got up and went to her, half walking, half falling.
 
@@ -1908,7 +1984,7 @@ The horns went. She felt them go, like a headache lifting. The wing behind her f
 
 She looked down the roof.
 
-Kiana was on her knees by the water tank with her arm hanging wrong, and she had him. She had his head in her lap. His coat was smoking. There was a black hole burned through the back of it the size of a dinner plate, and he wasn't moving, except his eyes.
+Kiana was on her knees by the wreck of the water tank with her arm hanging wrong, and she had him. She had his head in her lap. His coat was smoking. There was a black hole burned through the back of it the size of a dinner plate, and he wasn't moving, except his eyes.
 
 Mei had done that. She knew it as you know your own handwriting. She could still feel it in her hand.
 
@@ -1960,7 +2036,7 @@ I reached for things. Some of them were there. The island, the seawall, the watc
 
 I stayed on my knees for a while.
 
-[You had the whole roof,] it said, after a time. [Do you know that? You'd cracked the wing. One more push. And you ran the other way.] It let that sit. [Right roof. Wrong girl.]
+[You had the whole roof,] it said, after a time. [Do you know that? You'd cracked the wing. She had to drink a whole city to mend it. And then you ran the other way.] It let that sit. [Right roof. Wrong girl.]
 
 "She followed us," I said. My voice came out wrong. "To the lighthouse. She was behind the shack. She heard me, and she ran before Kiana said no."
 
