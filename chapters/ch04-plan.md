@@ -283,43 +283,61 @@ before he does that the run is real.
     know." He can't make her leave. In the stairwell door, unseen, Mei sees
     the two of them on the roof she asked him to come to alone, and hears
     "We tell her together." She goes back down without a sound.
-33. **One-forty (Eros).** Bronya on the roof across the road; the air changes
-    in fifth period; Mei's chair is empty. He runs for the roof. Turned
-    students on the stairs (the box cutter, his body, his lungs, the Eruption
-    air on Low D). He gets the roof door shut behind him and holds it.
-34. **The Herrscher (Kiana).** It goes for her first, with no soft spot for her
-    at all. It sees them both as traitors, and since Eros was Mei's first,
-    Kiana is the one who stole him. She's immune and fast, and it's like
-    fighting the weather. It calls her a thief in Mei's voice. Less than a
-    minute: into the water tank, an arm gone, the burn. The last thing she
-    sees standing is Eros leaving the door.
-35. **Eros.** He sees her go down, stops fighting, lets the door go, and runs
-    across the open roof to her.
-36. **Eros and Kiana (as he reaches her).** "What are you doing? Go to her! She's right there!" /
-    "You're hurt." / "I'm immune, dummy." / "Did she see? At the
-    lighthouse?" / "Tell her I said no. Promise you'll tell her." / "...The egg
-    thing with the seaweed was really good. Tell her that too." / "Run,
-    idiot." He doesn't.
-37. **The three of them (Eros).** The Herrscher, in Mei's voice, lower and
-    slower, tells him she was five meters away behind the shack and heard
-    him say he stopped meaning it, and on the stairs heard "We tell her
-    together." Why Kiana went first: "He's very good at this. You aren't.
-    That's how she knew which of you to start with." Kiana: "I said no! I hit
-    him for you! I told him to say it to you Monday and mean it! We were going
-    to tell you about the guns!" The Herrscher: "He said it Monday." And to
-    him: "Did you mean it?" He can't answer. It watches him kneel by Kiana.
-    "Look where he runs."
-38. **The question (Eros).** It lifts him off her with lightning crawling up
-    his coat. Then it turns to Kiana and asks the question Mei never could:
-    "She never asked you. She was afraid of what you'd say. I'm not." / "Tell
-    him you don't want him, Kaslana. Say it, and he can go." Kiana would say
-    anything to save him. Her instincts tell her it's a trap, and she can't
-    lie anyway. She looks for words that aren't a lie and aren't a
-    confession, and the only true ones are: "...I never said I didn't like
-    you." / "No," it says. "You didn't."
-39. **The death.** It doesn't hurry. The soul attack takes things as it goes.
-    Kiana screams his name. Its last line, in Mei's own voice: "She'll find
-    you."
+33. **The roof alone (Mei).** After the bell she goes back up instead of to
+    class, the first lesson she has ever skipped, and sits by the water tank
+    where the three of them ate, with the three boxes she made at four that
+    morning without knowing why. At one-forty Cocolia's bomb goes off under
+    the school: the burst, the purple air, the clouds coming down. The part of
+    her that doesn't need anyone stands up, and its first act is a storm that
+    burns every turned thing on the roof to ash.
+34. **The stairs (Eros).** Natsumi coughing blood; Mei's chair empty. He runs.
+    Kiana catches him on the stairs, and they fight up through their
+    classmates the way the hunts taught them (her pistols, his box cutter,
+    his lungs, Low D in the purple air). They come through the roof door
+    together, and that's the first thing she sees.
+35. **The warning (Eros).** The static stands their hair on end; lightning
+    melts the fences. Low and slow, never shouting: "Humanity's sins are
+    unforgivable." Then, to the two of them: "And you came up together. Even
+    now." Kiana: "Give me back my Mei!" "Your Mei?" The exchange: "She made
+    three this morning. She doesn't know why." / Kiana: "I said no! I hit him
+    for you! We were coming to tell you about the guns!" / "'We tell her
+    together.' She heard you. On the stairs." / Eros: "It was only ever me.
+    She said no." / "Then you're both liars, and one of you is better at it."
+    Turned students start up the stairs behind them; he holds the door. He
+    knows this fight from another life: the bird, then the wing.
+36. **The fight (Kiana).** The bird-shaped bolt comes down; she dives clear of
+    the crater. Her bullets burn up against the barrier, but they're cover;
+    she runs through the smoke, slides under the crescent the wing sweeps
+    across the roof, and goes for the kick. It catches her leg, and her blood
+    drinks the voltage the way it does in the game. She gets her arms round
+    it: "I don't care if you're a monster or a Herrscher! I'm not letting you
+    go, Mei!" In the game it panics. This one doesn't. Into her ear, very low:
+    "You let go of her on the twenty-fifth." Her grip slackens for half a
+    second, and it throws her into the water tank. Her arm goes. The burn.
+37. **Eros.** In the game she gets her hand on the wing. He lets the door go
+    and runs to her. "Look where he runs."
+38. **The hit (Eros).** Kiana gets up anyway: "Because I am Kiana Kaslana!" The
+    bird gathers over her: "Then die as one." He shoves her clear and takes
+    it, and it doesn't let go of him: a soul attack, taking things as it
+    goes. Kiana drags herself to him with one arm and gets his head into her
+    lap. "Why? That one was mine! It was mine, you idiot!" "You were supposed
+    to go to her." Then, because he's dying and she can't lie: "...I never
+    said I didn't like you." "I noticed."
+39. **The breakdown (Mei).** What her hand did tears the other personality out
+    of her. She comes up into her own eyes standing in the snow, with
+    lightning still running off her fingers; the horns go, the wing gutters
+    out, the storm stalls overhead. She sees him in Kiana's lap with his coat
+    smoking. Kiana screams it at her: "I said no! At the lighthouse! I said
+    NO! I hit him! I told him to go to you!" It's the part Mei ran from before
+    it was said, and she hears it now. She holds one wrist with the other
+    hand, then both, hard, because her fingers are still sparking and she's
+    afraid of her own hands. She takes a step and the lightning jumps toward
+    them, and she stops. Kiana, holding him with one arm: "Come here,
+    Mei-senpai. Come here. He wants you." Mei kneels as close as she dares and
+    can't touch him. "I'm sorry. I'm sorry. I'm sorry." He looks at her: "It
+    wasn't your fault." "It was." Then she breaks, all of it at once, the
+    Lightning Queen making a sound nobody at Chiba ever heard her make. The
+    scene ends when he stops breathing; this loop doesn't go on without him.
 40. **The white.** Worn, and what the chunk took. The System on the wrong
     girl and the right roof. His cold choice for Loop 5, made where he can
     still make one (see ch05-plan.md). "Loop 5."

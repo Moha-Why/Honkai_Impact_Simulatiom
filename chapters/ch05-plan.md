@@ -47,7 +47,7 @@ Chapter 4.
    happy all spring, is adopted anyway, and turns round at the gate to wave.
    A kind lie works. Eros notes it.
 3. **The takeover.** Worn: the lighthouse, Kiana's "No," her arm, "Go to
-   her," "She'll find you." All of it as experience. The same apartment by the
+   her," All of it as experience. The same apartment by the
    station. September.
 4. **Every school day again.** The same words, and he knows her answers before
    she gives them. Guilt makes him kinder than last time; she notices.
@@ -93,7 +93,7 @@ Chapter 4.
     "It doesn't matter what you did. You're Mei." Mei won't let go of him. "I'm
     sorry, Kiana-chan. No." Fallen. "I love you." The kiss. The Hyperion's
     light. She counts for him, and Kiana is the one holding his hand. He dies
-    at thirty-eight. Its voice inside hers, very softly: "She'll find you."
+    at thirty-eight.
 15. **Settlement.** Four of eight, grade A. He takes Honkai Resistance, the
     pin and the Raiden sword, and leaves Liar's Face behind.
 16. **The waking.** The pin in his hand, and a long moment with it before the

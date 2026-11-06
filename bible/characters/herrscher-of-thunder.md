@@ -64,7 +64,6 @@ names like insults.
 - "Come closer, Kaslana. I want to see your face when it breaks."
 - To Eros in Loop 2: "You. You're the one who made her small."
 - Loop 3, to Eros: "Everything dies tonight. I'm not letting it have you."
-- Its last line in Loop 4, at dawn: "She'll find you."
 
 ## How fanfic writes her
 

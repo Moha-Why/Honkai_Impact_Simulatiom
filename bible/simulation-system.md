@@ -138,6 +138,11 @@ it says, "I never said it was possible. I said it was worth a lot."
 
 ## Aftermath
 
+- **Only the last loop goes on.** When he dies in a loop that resets, that
+  loop ends with him; nothing in it continues. Only the final loop of a
+  heroine run, the one that ends the run, goes on after he leaves it (her
+  echoes, the branch in the Imaginary Tree).
+
 - After a heroine run, Eros's identity in it is treated as dead or missing.
   A later run with the same heroine continues from there.
 - Failed runs reset completely. He can retry later from a different start.
