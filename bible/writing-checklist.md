@@ -55,6 +55,11 @@ would do.
    the scene has already shown. Emotional peaks get the least explanation
    of all.
 
+## Fights
+
+Fights follow [fight-writing.md](fight-writing.md), with every fighter's kit in
+[combat-kits.md](combat-kits.md). The author sees the beat plan before the fight is written.
+
 ## Life Path runs
 
 - **After 18 it's immersive.** Once Eros takes over at 18, everything is
