@@ -17,6 +17,17 @@ the gift he drew at the start of the run, finally does what it's for.
 It's still a romance, and the action is still at the end. This time he goes
 to Mei.
 
+## Points of view
+
+Eros first person; Mei and Kiana in close third, one per scene, as in
+Chapter 4.
+
+| Who | Scenes |
+|---|---|
+| Eros | the takeover, the year, the nights he doesn't go, the roof, the settlement, the waking |
+| Mei | the bucket that doesn't fall (he's at the door first, and she can't work out how he knew); the night she gives him the pin; teaching him the sword with the doors shut; the dream |
+| Kiana | December 16 from her side, a boy at the next desk who goes white and then looks at nothing; hunting alone, wondering why the quiet one never asks where she goes; the roof before New Year; the roof, holding out her hand |
+
 ## The loop at a glance
 
 | | |

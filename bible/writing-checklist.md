@@ -30,6 +30,23 @@ Check these before planning a chapter and again before sending it.
   sum it up in a log line. A death inside a childhood log plays out as a
   full scene when the memory comes back in the white.
 
+## Points of view
+
+- **One point of view per scene,** named in its first sentence. No
+  head-hopping inside a scene; switch at a scene break.
+- **Eros is first person; everyone else is close third,** past tense.
+- **Only Eros knows about the System.** Other points of view never mention
+  it, its windows or its meters.
+- **Each scene earns its point of view** by showing what Eros can't: what
+  she feels, what she sees when he isn't there, what she decides and why.
+- **Don't tell a scene twice** from two points of view unless the second
+  shows something the first couldn't.
+- **Voices come from the profiles.** Her narration leans toward her
+  register (Mei precise and still, Kiana fast and plain), and every prose
+  rule below applies to every point of view.
+- Inside a heroine run, her scenes are as real as his. The reader knows the
+  runs are real before he does.
+
 ## Continuity
 
 - **Nobody quotes a scene that isn't on the page.** Before a character
