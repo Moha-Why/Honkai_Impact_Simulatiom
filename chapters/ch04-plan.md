@@ -32,7 +32,7 @@ before he does that the run is real.
 
 | Who | Scenes |
 |---|---|
-| Eros (first person) | the white, the log, the takeover, the confessions, the arrest at the stall, his side of the bullying, the hunts, the realization, the lighthouse after Mei runs, Monday, the roof door, his death, the white |
+| Eros (first person) | the white, the log, the takeover, the confessions, the man at the rank, the arrest at the stall, his side of the bullying, the hunts, the realization, the lighthouse after Mei runs, Monday, the roof door, his death, the white |
 | Mei | one October morning: what his confession is to her; the bucket, from inside the stall; the night she tells him about the ceiling tiles; December 16 in the corridor (five hundred centimeters and the USP); following them to the lighthouse; Monday at her desk; the east stairs the wrong way round; Kiana leaving them alone; February 3; the stairwell door on February 4 |
 | Kiana | her first morning at Chiba and the corridor from the far end; the first hunt, when she notices he isn't sick; the aftermath of the lighthouse; the hunt by the rules; cornering Mei in the toilets; the roof fight until she goes down |
 
@@ -67,23 +67,48 @@ before he does that the run is real.
    Class 3-A, Mr. Fujita, the next desk, the lift smile.
 5. **Every school day.** From his second week, at her desk at eight-twenty:
    "Raiden-san. I like you. Will you go out with me?" / "I'm sorry. No."
-   The marks in the corner of the blackboard. The class runs a book on how
+   The first day he says "Okay. I'll ask again tomorrow"; after that, just
+   "Tomorrow." The marks in the corner of the blackboard. The class runs a book on how
    long he'll last.
-6. **October, small things (Eros; one morning from Mei).** One umbrella in the rain; the library, where
-   she corrects his kanji; the walk to the station on Fridays. Her "No" gets
-   a smile in it, then a pause before it. At the crossing she asks why he
-   keeps doing it. He deflects with Emi's bet ("I can't let her down"),
-   admits it's "one of them", and when she asks for the others says
-   "Worse." No speech; he never explains himself. (Noticed, Friendly)
-7. **November 15, Friday.** At the station she says her father's coming home
-   tomorrow for the first time in a month. "No," she says that morning, and
-   very nearly laughs.
+6. **October: the man at the rank (one morning from Mei, then Eros).**
+   - Mei's morning (the second Thursday): she has counted twenty-nine. Every
+     other boy wanted something said back; he says the ten words at one
+     weight, says "Tomorrow" and sits down. She finds she looks forward to
+     it, and loses her place in her notebook.
+   - Fridays: kendo until six, the gate locked, so the car waits at the
+     taxi rank by the station. His apartment is behind the station, so the
+     hill is his way home; he stops crossing the road to avoid her.
+   - The last Friday in October (the 25th): Nozaki from Weekly Nagazora is
+     waiting at the rank. The prosecutors have been into ME Corp's head
+     office twice; has anyone been to the house; will her father be
+     arrested. Mei can't walk away from an adult asking her questions.
+   - **Lie one:** Eros tells the reporter her father's lawyer is behind the
+     car's black back windows, and she's a minor. Tanabe really is at the
+     wheel on the phone (to the house), frowning, which sells it. The
+     reporter goes.
+   - Mei, at the open car door: "There's nobody in the back of the car." /
+     "You didn't even stop to think about it." Then the real question: is
+     it true? He knows the date, and he knows from Loop 1 that the arrest
+     can't be moved, so all he can choose is what her next three weeks are
+     like. He tries true things first (the harbor master the magazine chased
+     for a month and never proved; he leaves out that the man was guilty).
+     Mei reads words: "That isn't what I asked."
+   - **Lie two:** as few words as he can. "No. It isn't true." She believes
+     him. (Noticed to Friendly.)
+   - Monday, after her no, quietly: she telephoned her father; he says it's
+     the tax office and the lawyers are dealing with it. "The real ones."
+     Her father lied to her too. Emi underlines something twice.
+7. **November 15, Friday.** Her "No" has a laugh in it. On the hill she says
+   her father's coming home tomorrow for lunch, the first time in a month;
+   she's going to make him sit down. Eros remembers telling her it wasn't
+   true. "Goodnight," for the first time.
 
 ## Part 2: After the sixteenth (November 16 to December 15)
 
 8. **November 16.** The arrest on the television at the noodle stall, Daichi
    at the end of the counter. He runs up the hill. The cars are gone; she's
-   at the gate in her coat, alone. He stands there with her until dark.
+   at the gate in her coat, alone. He stands there with her until dark. She
+   never brings up what he told her at the rank.
 9. **Monday.** Natsumi moves her desk first. "Criminal's daughter" on her
    desk in marker. Sayaka's line. Every other boy has stopped. He says it
    anyway, and her "I'm sorry. No." breaks in the middle. Nobody laughs.
@@ -172,9 +197,10 @@ before he does that the run is real.
     still, looks over her shoulder at the sea, and says "Me?" From five
     meters that's a yes. Mei runs, and a can she kicks rolls along the
     concrete. The dark comes up in her on the way home (they lied at every
-    lunch; every "tomorrow" was a lie; they'll leave her the way everyone
-    left in November), and the streetlights flicker as she passes under
-    them.
+    lunch; every "tomorrow" was a lie; at the rank in October he told her it
+    wasn't true about her father, and she believed him because she wanted
+    to; they'll leave her the way everyone left in November), and the
+    streetlights go out as she passes under them.
 20. **Kiana's answer (Eros).** He hears the can and thinks it's the wind.
     - The quiet: "Me?", very small, and her eyes go to the sea behind her as
       if he must mean someone standing in it. She's never been anyone's

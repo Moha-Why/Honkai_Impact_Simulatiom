@@ -190,11 +190,11 @@ She looked up from her book and looked at me for exactly as long as it took to b
 
 "I'm sorry," she said. "No."
 
-"All right."
+"Okay. I'll ask again tomorrow."
 
 I sat down. She went back to her book. Behind me Emi said "What," very quietly, to nobody.
 
-I did it again on Tuesday. On Wednesday, when she'd said no, a boy at the back got up, went to the blackboard and made a single small mark in chalk in the bottom corner. By Friday there were five. The duty monitor rubbed them out, and on Monday somebody put all five back.
+I did it again on Tuesday. On Wednesday, when she'd said no and I'd said "Tomorrow" and sat down, a boy at the back got up, went to the blackboard and made a single small mark in chalk in the bottom corner. By Friday there were five. The duty monitor rubbed them out, and on Monday somebody put all five back.
 
 By the end of September the class had a book on me. Emi ran it, in a notebook with a cat on the cover, with the odds written down the back page. Most of the money said Christmas. Somebody had put a hundred yen on the next day.
 
@@ -232,78 +232,136 @@ She had begun to look forward to it. She noticed this on the twenty-ninth mornin
 
 "I'm sorry," she said. "No."
 
-He nodded as if she'd told him the time. Behind him the boy at the back of the room got up to make his mark, and Mei put her pen down and straightened the edge of her notebook against the edge of her desk, and decided that she would ask him.
+He nodded as if she'd told him the time. "Tomorrow," he said, and sat down.
+
+Behind him the boy at the back of the room got up to make his mark. Mei looked down at her notebook and found she'd lost her place in it, and had to read the whole page again from the top.
 
 ---
 
-She asked me on a Friday, at the bottom of the hill.
+On Fridays she had kendo until six, and the school gate was locked at six, so on Fridays the long black car waited for her at the taxi rank by the station instead of under the walkway. My apartment was two streets behind the station. The hill was my way home whatever I did, and some time in October I stopped crossing to the other side of the road when she came out of the gate.
 
-On Fridays she had kendo until six, and the school gate closed at six, so the long black car waited for her at the taxi rank by the station instead, and some time in October I'd started walking down the hill at the same time she did, ten steps behind at first, then five, then beside her, without either of us mentioning it. It was the only time we were alone. She carried her bag in front of her in both hands, as she did on the curb, and her armor bag over one shoulder, and she never let me carry either.
+She didn't talk much on the way down. She carried her school bag in front of her in both hands and her armor bag over one shoulder, and she wouldn't let me carry either of them. Mostly I talked. Mr. Fujita's cardigan, which he'd buttoned wrong again. The history test. She answered when there was a question in it, and once or twice when there wasn't, and at the rank she said "Thank you for walking me" and got into the car.
 
-The week before, in the library, she'd leaned across the table while I was writing out a report for history and put her finger on a character. "The third stroke goes the other way," she'd said, and gone back to her own book, and I'd sat there with my pen in the air looking at the character for some time.
+On the last Friday in October there was a man waiting at the rank.
 
-The week before that it had rained, and I'd held my umbrella over her from the walkway to the car, and she'd said "Thank you" in the voice she used for teachers, and the old man in the white gloves had looked at me over the roof of the car with his eyebrows up.
+He wasn't waiting for a taxi. He was standing by the ticket machines with a camera bag on his shoulder and a paper cup in his hand, watching the bottom of the hill, and when we came round the corner he put the cup down on top of a machine and came straight over.
 
-Now she stopped at the crossing by the station with the lights on red, and didn't look at me.
+"Raiden Mei-san?" He was already holding out a card. "Sorry to stop you. Nozaki, Weekly Nagazora. Two minutes, that's all."
 
-"Why do you keep doing it?" she said. "Every morning. You know what I'll say."
+Mei stopped. She didn't take the card.
 
-"Emi's got money on Christmas," I said. "I can't let her down."
+"It's about ME Corp," he said. He talked quickly and pleasantly, like a man who did this every day. "The prosecutors have been into your father's head office twice this month. Has he said anything to you about it?"
 
-She turned her head and looked at me.
+"I don't know anything about my father's work," said Mei.
 
-"That's a terrible reason."
+"Has anyone been to the house? From the prosecutor's office?"
 
-"It's one of them."
+"I don't know."
 
-The lights changed. She didn't cross. She stood there with her bag in front of her in both hands, looking at me as though I were a sum that hadn't come out, and the lights went back to red.
+"Is your father worried he's going to be arrested?"
 
-"What are the others?"
+She didn't answer that. She stood with both hands on the handle of her bag, very straight, looking at a point somewhere past his ear, and she didn't walk away. It took me a moment to see why. She didn't know how. A grown man was asking her questions, and everything she'd been taught since she was small said that you stood still and answered him.
 
-"Worse."
+He'd got the camera out of the bag by then. He wasn't pointing it at her yet. He was holding it against his chest, ready.
 
-Something moved at the corner of her mouth and was put away. The lights changed again, and this time she crossed, and on the far side, at the rank, the old man had the door open, and she got in without saying goodbye. Then she put the window down.
+Behind him the car was waiting at the rank. Its back windows were black glass, and all you could see in them was the station and the three of us, reflected. The old man in the white gloves was at the wheel with his phone at his ear, frowning out at us.
 
-"The third stroke," she said. "You did it wrong again on Wednesday. I saw."
+"Excuse me," I said. "You know her father's lawyer is in the back of that car?"
 
-The window went up. The car pulled out into the traffic.
+Nozaki looked round at the black windows.
+
+"She's a minor," I said. "If I were you I'd go before he gets out."
+
+Nozaki looked at the car for another second. At the wheel the old man looked back at him over the top of his glasses, talking into his phone, and frowned harder.
+
+"No harm meant," said Nozaki. The camera was already going back in the bag. "I'm only doing my job. You can tell him that."
+
+"I'll tell him."
+
+He went off into the station without looking back, quickly, and the Friday crowd closed up behind him.
+
+Mei let her breath out. I don't think she'd breathed since he'd said her name.
+
+The old man was out of the car by then and coming round the front of it with the phone still in his hand. "Young lady? Who was that? I've called the house."
+
+"It's all right, Mr. Tanabe," said Mei. "A man from a magazine. He's gone."
+
+He looked at me, and at the station entrance, and back at me, and I watched him decide not to ask anything else in the street. He opened the back door for her.
+
+She didn't get in. She stood by the open door with her bag held against her chest.
+
+"There's nobody in the back of the car," she said to me.
+
+"I know."
+
+"You didn't even stop to think about it."
+
+"He was frightening you."
+
+She looked at me for a moment. Then she asked what she'd actually wanted to ask, quietly, so that Mr. Tanabe wouldn't hear.
+
+"Is it true? What he said about the prosecutors?"
+
+It was true. On the sixteenth of November, at one in the afternoon, three plain dark cars would come up the hill, and her father would come down the steps of that house with a jacket folded over his wrists. In my first file I'd tried to stop it with a laptop and a phone call and a folder of evidence, and it had happened anyway, at the same hour, and a week later a man in a gray car had found me. Nothing I said at a taxi rank was going to change it. All I could change was what the next three weeks were like for her.
+
+"That magazine went after the harbor master for a whole month last spring," I said. "Taking money from the ferry company. He was on the front page every week. He's still the harbor master."
+
+She thought about that. Mei thought about everything you said to her, every word of it, as if she'd be tested on it later.
+
+"That isn't what I asked," she said.
+
+My face didn't move. It never did when I lied. The words were the hard part, and she'd just shown me she was listening to every one of them, so I gave her as few as I could.
+
+"No," I said. "It isn't true."
+
+She looked at me a while longer. I don't know what she was looking for. Then she nodded and got into the car.
+
+"Thank you for walking me," she said, and Mr. Tanabe shut the door.
+
+The car pulled out into the traffic. He watched me in his mirror all the way to the lights.
+
+Everything I'd told her about the harbor master was true. He'd been taking the money, as it happened. Everyone at the port knew he had, and the magazine had never managed to prove it, and I'd left that part out.
 
 ```
 Raiden Mei
 Affection: Friendly
 ```
 
-[She saw,] said the System. [On Wednesday. She was looking at your homework on a Wednesday.]
+---
 
-*I noticed.*
+On Monday she was at her desk before me, as she always was, and when I stood up at eight-twenty she'd already looked up.
 
-[You're smiling. Your face isn't, but you are.]
+"Raiden-san. I like you. Will you go out with me?"
+
+"I'm sorry. No." Then, before I'd sat down, she said much more quietly, so that only the front of the room could hear it, "I telephoned my father on Saturday. He says it's the tax office. Something about the foundation's accounts. The lawyers are dealing with it." She looked down at her book. "The real ones."
+
+So he'd lied to her too. I'd wondered whether he would.
+
+"Good," I said. "Tomorrow."
+
+I sat down. Behind me Emi wrote something in the cat notebook and underlined it twice.
 
 ---
 
 On the fifteenth of November, a Friday, she said no with a laugh in it.
 
-Not much of one. A small breath through the nose, before "I'm sorry", that she caught and put away at once, so that the boy at the back paused with the chalk in his hand, not sure whether it counted. It was the sixty-fourth morning. I didn't have to count; Emi had the total written on the back page of the cat notebook, with a box drawn round it.
+Not much of one. A small breath through the nose, before "I'm sorry", that she caught and stopped at once, so that the boy at the back paused with the chalk in his hand, not sure whether it counted. It was the sixty-fourth morning. I didn't have to count; Emi had the total written on the back page of the cat notebook, with a box drawn round it.
 
-That evening at the bottom of the hill she was walking faster than usual, and I had to lengthen my stride to stay level.
+That evening on the hill she was walking faster than usual, and I had to lengthen my stride to keep up with her.
 
 "My father's coming home tomorrow," she said. "For the first time in a month. He telephoned. He said he'd be home for lunch." She heard herself and slowed down, as though she'd been caught running in a corridor. "He's very busy. He's always very busy. But he said lunch."
 
-It was the most she'd ever told me about anything at once.
+Tomorrow was the sixteenth. Three weeks ago, at the bottom of this hill, she'd asked me if it was true, and I'd told her it wasn't.
 
-I had a date in me that weighed more than anything else on that street. The sixteenth. Cars at the gate on the hill, a man brought down the steps in his overcoat with a jacket over his wrists, the house going quiet behind him. In the first file I'd tried to stop it with a laptop and a phone call and a folder of evidence, and it had happened anyway, at the same hour, and a week later a man in a gray car had found me. It was a node. It didn't move. I'd tested it with my life.
-
-My face did nothing. It was very good at nothing.
-
-"That's good," I said, and it was true, because it was good that she was happy on the fifteenth. "What's he like for lunch?"
+"That's good," I said. "What's he like at lunch?"
 
 "Terrible. He eats standing up. He reads the paper while he chews." She was nearly smiling. "I'm going to make him sit down."
 
-At the rank the old man in the white gloves opened the car door, and she stopped with one foot inside.
+At the rank Mr. Tanabe opened the car door, and she stopped with one foot inside.
 
-"Goodnight," she said. She'd never said it before. Then she looked at me as if she'd surprised herself, and got in, and the car went off up the hill toward the house with its lights on, where in fifteen hours the other cars would come.
+"Goodnight," she said. She'd never said it before. Then she looked at me as if she'd surprised herself, and got in, and the car went off up the hill toward the house.
 
-I stood at the rank a long time after it had gone. The System didn't say anything at all.
+I stood at the rank until I couldn't see it anymore, and then I walked home.
 
 ---
 
@@ -325,7 +383,7 @@ The gate was open. She was standing in it in her school coat, buttoned to the th
 
 She saw me and didn't move.
 
-I stopped beside her and didn't say anything. There wasn't anything in any of my files for this, for standing at a gate with her afterward with nothing to do.
+I stopped beside her and didn't say anything. There wasn't anything in any of my files for this, for standing at a gate with her afterward with nothing to do. Three weeks ago at the taxi rank I'd told her it wasn't true. She didn't bring that up, that day or any other.
 
 "He sat down," she said after a while. She was looking at the road. "I made him sit down. I'd made rice and the fish he likes, and he sat down at the table, and he said it was good." Her voice was perfectly level. "He'd had two mouthfuls."
 
@@ -486,7 +544,7 @@ At the crossing she unwrapped the towel to show me. It was her practice sword, t
 
 "It was my teacher's," she said. "From when I was little."
 
-She wrapped it up again very carefully and held it against her chest the rest of the way. At the station there was no car. There hadn't been a car for a week; the old man in the white gloves had been let go with the rest of the staff, and she took the bus now. She waited for it at the stop with the towel in her arms, and I waited with her, and when it came she got on without saying goodbye, and sat by the window, and didn't look out.
+She wrapped it up again very carefully and held it against her chest the rest of the way. At the station there was no car. There hadn't been a car for a week; Mr. Tanabe had been let go with the rest of the staff, and she took the bus now. She waited for it at the stop with the towel in her arms, and I waited with her, and when it came she got on without saying goodbye, and sat by the window, and didn't look out.
 
 ---
 
@@ -948,9 +1006,9 @@ Mei ran.
 
 She didn't decide to. Her feet decided, and her foot hit something in the dark behind the shack, a can, and it went rolling and clattering away along the concrete, and she didn't stop for it. She went back down the breakwater with the sea on both sides and her bag clutched against her chest, and up the harbor road, and up the hill, not running anymore but walking very fast with her face perfectly still, as she'd walked down the corridor in wet shoes.
 
-Every lunch, she thought. Every lunch on the roof. The three boxes. The best egg in Japan. All those mornings he'd stood up at her desk and said it, and she'd said no so that he'd say it again, and she'd stood at her gate on a Sunday with a bag of rice in her arms and said tomorrow to him first. And he'd stopped meaning it. He didn't even know when. He'd said so, to the sea. And he'd gone on standing up at her desk every morning in front of everyone and saying it anyway, and they'd sat on the roof together and laughed at things she didn't understand, and she had fed them.
+Every lunch, she thought. Every lunch on the roof. The three boxes. The best egg in Japan. All those mornings he'd stood up at her desk and said it, and she'd said no so that he'd say it again, and she'd stood at her gate on a Sunday with a bag of rice in her arms and said tomorrow to him first. And he'd stopped meaning it. He didn't even know when. He'd said so, to the sea. And he'd gone on standing up at her desk every morning in front of everyone and saying it anyway, and they'd sat on the roof together and laughed at things she didn't understand, and she had fed them. At the taxi rank in October she'd asked him if it was true, about her father, and he'd told her it wasn't. She'd believed him because she'd wanted to.
 
-They would go. Everyone went. In November they'd gone all at once, the girls, the club, the old man in the white gloves, her father down the steps with a jacket over his wrists. These two were only slower. They'd been lying to her at every lunch, and soon they'd stop bothering to lie, and then they'd go, together, and she'd be at the window end of the library stairs again with nobody on the bottom step.
+They would go. Everyone went. In November they'd gone all at once, the girls, the club, Mr. Tanabe, her father down the steps with a jacket over his wrists. These two were only slower. They'd been lying to her at every lunch, and soon they'd stop bothering to lie, and then they'd go, together, and she'd be at the window end of the library stairs again with nobody on the bottom step.
 
 She walked under a streetlight and it went out above her head. She walked under the next one and it went out too. She didn't look up. By the time she reached the gate on the hill, every light on that side of the road had gone dark behind her, one after another, all the way down.
 
@@ -1564,7 +1622,7 @@ I was on my knees in the white.
 
 I didn't remember getting there. I was on my knees with my hands flat on nothing, and I could still smell the burning wool, and somewhere behind my eyes Kiana was still saying *I never said I didn't like you* and Mei was still kneeling in the snow with her wrists crossed, making that sound.
 
-I reached for things. Some of them were there. The island, the seawall, the watch room. Mei at the crossing by the station, looking at me as though I were a sum that hadn't come out. Kiana on the lighthouse steps with her mouth full. Some of them weren't. Where the garage had been there was a smooth place, like a wall that's been painted over, with only the fact of it left on the surface, a garage, two days, my own hand. I reached for the walls of the apartment where I'd died the first time and found I didn't know what color they'd been. There'd been a dog. I knew there'd been a dog. I couldn't find its name.
+I reached for things. Some of them were there. The island, the seawall, the watch room. Mei on the dojo step with her hand over her mouth, laughing. Kiana on the lighthouse steps with her mouth full. Some of them weren't. Where the garage had been there was a smooth place, like a wall that's been painted over, with only the fact of it left on the surface, a garage, two days, my own hand. I reached for the walls of the apartment where I'd died the first time and found I didn't know what color they'd been. There'd been a dog. I knew there'd been a dog. I couldn't find its name.
 
 [That's Worn,] said the System. [Whole events. You'll notice the gaps more than you notice what's in them. Everyone does.]
 

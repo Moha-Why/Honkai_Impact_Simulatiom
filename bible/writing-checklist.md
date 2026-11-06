@@ -77,6 +77,17 @@ Check these before planning a chapter and again before sending it.
   Liar's Face only hides his face. A lie that works on her is built from
   true things, or is too short to read. Check every lie against how that
   character actually tests things.
+- **Talk stands on an event.** A conversation happens because something
+  just happened or is about to. If nothing on the page has made the
+  question come up, don't write the conversation; write the thing that
+  would make someone ask it.
+- **No posing.** No cryptic one-word answers or clever comebacks for effect
+  ("Worse."), and no exchanges that sound like a trailer or an imitation of
+  noir. When a character won't answer, they change the subject, make a bad
+  joke, or lie, as real people do.
+- **Characters lie.** Eros lies when it gets him what he wants or spares
+  someone. Show the lie, give his reason in one plain sentence, and let it
+  come back later.
 
 ## Staging
 
@@ -90,6 +101,11 @@ Check these before planning a chapter and again before sending it.
   room, and let Eros the fan recognize it when he would.
 - **The flat-voice test.** If a line that carries a change of mood would
   read the same in a flat voice, it needs staging.
+- **No scenery doing the feelings.** Traffic lights, weather and lamps don't
+  change on cue to mirror a mood or hold a pause. (Mei's lights going out
+  are her power waking, which is an event.)
+- **Plain over pretty.** Say what happened, in order, in ordinary words. A
+  simile has to make a thing clearer, not make the sentence sound written.
 - **Changes in Eros happen on the page.** When he changes how he plays
   (warm to cold, a new method, a line he swore he wouldn't cross), show the
   moment he decides, with its reason, as a scene in the white or in the
