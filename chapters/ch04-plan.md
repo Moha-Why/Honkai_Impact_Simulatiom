@@ -227,8 +227,11 @@ before he does that the run is real.
     "It's a secret!" Eros: "Shifts."
 17. **He realizes.** Mid-January, in the tunnel, she throws herself on a thing
     that's got him by the coat, and they come up out of the water laughing.
-    The first-life memory, once: she was his first love, a loading screen on
-    a late train, and he missed his stop. He tries not to, and loses.
+    Shown, not said: he takes a strand of weed off her cheek before he can
+    stop himself and his fingers stay a second too long; the first-life
+    memory comes as one picture (a loading screen on a late train, the doors
+    closing on his stop); Kiana stops laughing. "What's that face?" "Half the
+    drain." He takes his hand back. [Oh dear.]
 18. **Mei notices.** The bruises, the jokes she isn't in, the evenings.
     "Shifts" doesn't say where, and people who work shifts tell you where.
 
@@ -258,8 +261,9 @@ before he does that the run is real.
     - The punch, hard enough to sit him down on the concrete: "That's from
       Mei-senpai."
     - She sits beside him, legs over the edge, and for a while says nothing.
-      Then she bumps his shoulder with hers. "And this is from me. No." She
-      can't lie, so she never says she doesn't like him. He notices.
+      Then she bumps his shoulder with hers. "And this is from me. No." He
+      says it out loud: "You didn't say you don't like me." She can't lie, so
+      she doesn't answer; she stands up.
     - The cold drop: she stands; her voice goes down and her sentences go
       short. "Monday, you say it to her. Like always." "Kiana..." "And you
       mean it this time." She walks back past the empty bait shack and
@@ -271,16 +275,15 @@ before he does that the run is real.
     already down, and is angry at herself for the wasted rounds; the stinky
     old man would have had her doing push-ups for that. On top of a container
     she eats the salmon onigiri he gave her at dusk, because she doesn't
-    waste food. She's honest with herself, because she can't be anything
-    else: she liked him a little, maybe more than a little, the first person
-    in this town who didn't run. That's why it was no. Mei-senpai has two
-    people. You don't take one of somebody's two people, and you don't leave
-    without saying so; she decided that a long time ago, about a man who
-    did. She takes out the notebook of things to tell her father when she
-    finds him and writes: "A boy confessed to me. I said no. You'd have
-    laughed." She crosses out the last part and writes "You'd have punched
-    him. I did it for you." Across the water there's one light on in the big
-    house on the hill. She thinks Mei-senpai is studying.
+    waste food. She counts Mei-senpai's people on her fingers (him, herself)
+    and looks at the two fingers for a long time. In the notebook of things
+    to tell her father when she finds him she writes: "A boy confessed to me.
+    I said no. You'd have laughed." She crosses out the last part and writes
+    "You'd have punched him. I did it for you." Under it she writes "I liked"
+    and crosses it out until the pen goes through. Across the water there's
+    one light on in the big house on the hill. She thinks Mei-senpai is
+    studying. (No narration explains her reasons; the fingers and the
+    notebook carry them.)
 22. **Where they stand.** Two wrong secrets. Eros and Kiana think Mei is upset
     about the evenings they disappear, so they think the secret is the
     hunting. Mei is upset about the lighthouse. Kiana can't lie, and would
@@ -343,8 +346,10 @@ before he does that the run is real.
     down the stairs. Kiana stands there with her fists still closed.
 29. **Kiana leaves them alone (Mei).** Kiana starts going away at lunch on
     purpose ("Toilet! Long one!"), and sends Eros to walk Mei to the station
-    café. Mei reads it exactly wrong: she's giving him back, as if he were
-    hers to give. That night from the station he sees every light on the hill
+    café. In the café: "Did Kaslana-san tell you to bring me here?" "She
+    said the cakes were good." "She's never eaten here. She can't afford the
+    tea." Then: "She's very generous, Kaslana-san." (Mei reads it exactly
+    wrong, and the line shows it; no narration explains it.) That night from the station he sees every light on the hill
     come on at once.
 30. **The wrong plan (Eros and Kiana).** On the lighthouse steps Kiana decides
     for both of them: Mei is scared because they keep vanishing, so they'll
@@ -418,8 +423,12 @@ before he does that the run is real.
     Lightning Queen making a sound nobody at Chiba ever heard her make. The
     scene ends when he stops breathing; this loop doesn't go on without him.
 40. **The white.** Worn, and what the chunk took. The System on the wrong
-    girl and the right roof. His cold choice for Loop 5, made where he can
-    still make one (see ch05-plan.md). "Loop 5."
+    girl and the right roof. "And you were going up there to tell her about
+    the guns." His choice for Loop 5 comes out in talk with the System, not
+    narration: same birth; he won't go where Kiana goes (the Homu Happy after
+    ten, the warehouses, the lighthouse); the family sword nobody's been
+    taught; "And Kiana?" and he doesn't answer. Haru: "This time he tells him
+    she's coming." "Loop 5."
 
 ## Meters (thresholds only)
 

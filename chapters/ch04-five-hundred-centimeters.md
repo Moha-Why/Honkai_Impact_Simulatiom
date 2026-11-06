@@ -218,9 +218,7 @@ Trust: Polite
 
 ---
 
-Mei counted them. She hadn't meant to. It was an old habit from a room with a great many ceiling tiles in it, and it came back whenever something happened more than once.
-
-Twenty-nine, on the second Thursday in October.
+Mei hadn't meant to count them. It was twenty-nine on the second Thursday in October.
 
 Sayaka had the class chat open under her desk before homeroom, as she always did, and she turned the phone round so that Mei could see. Somebody had taken a photo of the blackboard. The chalk marks in the corner had run out of room and gone on to a second row, and somebody had drawn a little crown over the top of them.
 
@@ -228,17 +226,15 @@ Sayaka had the class chat open under her desk before homeroom, as she always did
 
 "He's on your dad's scholarship, isn't he?" said Natsumi. She'd only just worked it out. "So your dad's basically paying him to do it."
 
-The others laughed. Mei smiled, because they expected her to. Natsumi had a point, for once.
+The others laughed. Mei smiled, because they expected her to, and turned Sayaka's phone face down on the desk.
 
-He was the ME Corp scholarship boy. Everybody knew that by now. He'd come up the hill from one of the children's homes by the port on her father's money, and in his second week he'd stood up at her desk. She didn't have to think very hard about what he wanted. Every boy who had ever stood there had wanted more or less the same thing, her father's name or the look on the other boys' faces, and this one had more reason than most. She'd expected him to give up after a week. Boys she'd turned down usually tried once more, and then went round telling people she was stuck-up. This one just kept coming, every morning at the same time, like the bus. She supposed somebody had told him that if you kept asking, girls gave in eventually.
+"He wants something," she said. "They always do. He'll stop when he works out he isn't going to get it."
 
-Mostly she minded the marks on the board, and Emi's notebook, and thirty people going quiet at eight-twenty every morning to watch her say no.
-
-She looked up before he reached her desk. She'd started doing that in September, because it was quicker. If she looked up, he said it to her face, she answered, he sat down, and it was over before Sayaka could get her phone pointed at it.
+She looked up before he reached her desk. She'd started doing that in September, because it was quicker. He said it to her face, she answered, he sat down, and it was over before Sayaka could get her phone pointed at it.
 
 "Raiden-san. I like you. Will you go out with me?"
 
-Every morning she thought about saying something else. *Please stop.* Or, *You're embarrassing both of us.* It would have been easy, and true. But it would have been a conversation, in front of everyone, and it would have been on the class chat before homeroom was over.
+*Please stop,* she nearly said. *You're embarrassing both of us.* She'd nearly said it every morning since September.
 
 "I'm sorry," she said. "No."
 
@@ -318,15 +314,13 @@ She seemed to have expected an argument. When I didn't give her one, she asked w
 
 "Is it true? What he said about the prosecutors?"
 
-It was true. On the sixteenth of November, at one in the afternoon, three plain dark cars would come up the hill, and her father would come down the steps of that house with a jacket folded over his wrists. In my first file I'd tried to stop it with a laptop and a phone call and a folder of evidence, and it had happened anyway, at the same hour, and a week later a man in a gray car had found me. Nothing I said at a taxi rank was going to change it. All I could change was what the next three weeks were like for her.
+It was true. On the sixteenth of November, at one in the afternoon, three plain dark cars would come up the hill, and her father would come down the steps of that house with a jacket folded over his wrists. In my first file I'd tried to stop it with a laptop and a phone call and a folder of evidence, and it had happened anyway, at the same hour, and a week later a man in a gray car had found me.
 
 "That magazine went after the harbor master for a whole month last spring," I said. "Taking money from the ferry company. He was on the front page every week. He's still the harbor master."
 
 She thought about that for a moment.
 
 "That isn't what I asked," she said.
-
-My face didn't move. It never did when I lied. The words were the hard part, and she'd just shown me she was listening to every one of them, so I gave her as few as I could.
 
 "No," I said. "It isn't true."
 
@@ -336,7 +330,7 @@ She looked at me a while longer. I don't know what she was looking for. Then she
 
 The car pulled out into the traffic. He watched me in his mirror all the way to the lights.
 
-Everything I'd told her about the harbor master was true. He'd been taking the money, as it happened. Everyone at the port knew he had, and the magazine had never managed to prove it, and I'd left that part out.
+Everything I'd told her about the harbor master was true. He'd been taking the money, as it happened. Everyone at the port knew it.
 
 ```
 Raiden Mei
@@ -350,8 +344,6 @@ On Monday she was at her desk before me, as she always was, and when I stood up 
 "Raiden-san. I like you. Will you go out with me?"
 
 "I'm sorry. No." Then, before I'd sat down, she said much more quietly, so that only the front of the room could hear it, "I telephoned my father on Saturday. He says it's the tax office. Something about the foundation's accounts. The lawyers are dealing with it." She looked down at her book. "The real ones."
-
-So he'd lied to her too. I'd wondered whether he would.
 
 "Good," I said. "Tomorrow."
 
@@ -367,7 +359,7 @@ That evening on the hill she was walking faster than usual, and I had to lengthe
 
 "My father's coming home tomorrow," she said. "For the first time in a month. He telephoned. He said he'd be home for lunch." She heard herself and slowed down, as though she'd been caught running in a corridor. "He's very busy. He's always very busy. But he said lunch."
 
-Tomorrow was the sixteenth. Three weeks ago, at the bottom of this hill, she'd asked me if it was true, and I'd told her it wasn't.
+Tomorrow was the sixteenth.
 
 "That's good," I said. "What's he like at lunch?"
 
@@ -425,9 +417,7 @@ In October a man at the station had asked her if her father was going to be arre
 
 ---
 
-At ten past one I watched it on the television at the noodle stall.
-
-I'd been sitting under the set since twelve with a bowl I wasn't eating. I'd known about the sixteenth since my first file. I'd tried to get in its way that time, and a week later the man in the gray car had come for me. This time I hadn't done anything. I'd told her it wasn't true, and let her go home and wait for him to come to lunch.
+At ten past one I watched it on the television at the noodle stall. I'd been sitting under the set since twelve with a bowl I wasn't eating.
 
 The picture was the gate, and the steps, and a man in a dark suit being brought down them between two others with a jacket folded over his wrists. The caption ran along the bottom. RAIDEN RYOMA, ME CORP CHIEF EXECUTIVE, DETAINED. FRAUD. The old man reached up and turned the sound on, and a reporter's voice filled the stall with words like irregularities and the foundation and ongoing.
 
@@ -447,7 +437,7 @@ He watched the screen a while longer. "His kid goes to your school, doesn't she?
 
 "Poor kid," said Daichi, and went back to his noodles.
 
-I didn't go up the hill. I thought about it most of the afternoon. But I wasn't anything to her, not family, not even a friend. I was a boy from her class who asked her out every morning in front of everyone. I didn't have her number. There would be cameras at her gate. I paid for the noodles I hadn't eaten and went home.
+The picture went back to the gate. There were cameras all along it now, and a van with a dish on its roof. I took my phone out and looked at it for a while. I didn't have her number. I'd never asked for it. I paid for the noodles I hadn't eaten and went home.
 
 ---
 
@@ -654,7 +644,7 @@ Her hands were perfectly steady, and her voice shook.
 
 She looked at me. Her mouth opened, and nothing came out of it, and she shut it again. Then her face did something I'd never seen it do in four files, all of it at once, and she put her forehead down against my shoulder, with the ice pack still pressed against my ribs between us, and cried.
 
-She didn't make much noise. The Lightning Queen didn't, even then. Her shoulders shook, and her breath came in small hard pulls, and her hand on the ice pack didn't move. I sat very still on the edge of the nurse's bed and let her, and looked at the cabinet door, where in the little mirror I could see the top of her head against my shoulder and the two pins in her hair.
+She didn't make much noise. Her shoulders shook, and her breath came in small hard pulls, and her hand on the ice pack didn't move. I sat very still on the edge of the nurse's bed and let her, and looked at the cabinet door, where in the little mirror I could see the top of her head against my shoulder and the two pins in her hair.
 
 ```
 Raiden Mei
@@ -665,7 +655,7 @@ Corruption: Bending
 
 [Look at that,] said the System.
 
-I didn't answer it. After a while she sat up and wiped her face with the back of her wrist, and was angry with herself for a moment, and then got up and put the ice pack back in the freezer.
+I didn't answer it. After a while she sat up and wiped her face hard with the back of her wrist, and got up and put the ice pack back in the freezer.
 
 "Tomorrow," she said, with her back to me. "If you're going to be stupid, you may as well be stupid on time."
 
@@ -687,13 +677,11 @@ On the twelfth the power at the house went off. The electricity company had sent
 
 Mei sat on the step of the dojo with a candle in a saucer and didn't go into the house.
 
-She didn't say she was afraid. It was the house she couldn't go into, all those rooms with nobody in them and the clocks stopped, and the dojo was one room. You could see all of it from the door. He'd sat down on the step beside her without being asked, with his collar turned up and his hands in his sleeves, and he hadn't said anything about the house or the electricity company or her father. He was looking at the candle.
-
-She didn't know why she said it. She'd never said it to anyone, not even the doctors.
+Behind her the house was dark in every window. The dojo was one room, and you could see all of it from the door. He'd sat down on the step beside her without being asked, with his collar turned up and his hands in his sleeves, and he hadn't said anything about the house or the electricity company or her father. He was looking at the candle.
 
 "When I was nine," she said, "I was in a hospital for a long time."
 
-He didn't look at her. She was grateful for that.
+He didn't look at her.
 
 "I couldn't sleep there. It was a big room, and it was never properly dark, and nobody else was ever awake. So I counted the ceiling tiles." She watched the candle. "There were a hundred and twelve. I never once got to the end. I always fell asleep somewhere around thirty-eight."
 
@@ -719,7 +707,7 @@ She'd started doing it herself, the shopping, with a list in her neat handwritin
 
 "Tomorrow," she said.
 
-It took me a second. She'd never said it before. All the mornings since September it had been my word, after her no, and now she was standing at her gate on a Sunday evening with a bag of rice in her arms, saying it first, as though she were reminding me of an appointment.
+It took me a second. All the mornings since September, that had been my word.
 
 "Tomorrow," I said.
 
@@ -890,7 +878,7 @@ On the way back down the stairs Kuroda's group was coming up. They saw Kiana and
 
 I followed Kiana for the first time on the twenty-seventh of December, in the winter break.
 
-I'd known since the gate what she did at night. Every fan of the game knew. Before the school on the hill, before anyone had heard of her, she'd been a girl alone in Nagazora with her father's pistols, hunting Honkai through the back streets. And I knew what was coming in February. In three files I hadn't lived long enough to see it. If I did this time, I wasn't going to meet it with nothing in my hands.
+I'd known since the gate what she did at night. Every fan of the game knew. Before the school on the hill, before anyone had heard of her, she'd been a girl alone in Nagazora with her father's pistols, hunting Honkai through the back streets.
 
 So when I saw her come out of the Homu Happy by the station at ten, in her coat with her backpack on and her shift cap stuffed in her pocket, and turn not left, toward the old block by the port where she rented a room, but right, toward the warehouses, I put my noodles down at the stall and went after her.
 
@@ -1026,13 +1014,11 @@ She looked at the radar on the counter. She looked at me. She looked at the old 
 
 "You're the map. That's all. I'm the gun." She pushed the radar across the counter at me. "Fix it. And don't tell Mei-senpai."
 
-I took the spring out of my pen and fixed it. She ate the rest of my noodles while I did it, without asking, and didn't say thank you, and came back for me at ten that night.
+I took the spring out of my pen. Somebody had scratched a logo off the back of the case with a knife, not quite well enough. I'd last seen it on Hamada's toolbox, on the island. I fitted the spring and put the cover back and didn't say anything. She ate the rest of my noodles while I did it, without asking, and didn't say thank you, and came back for me at ten that night.
 
 ---
 
 We hunted three nights a week after that, all through the holiday and into January.
-
-Her radar was a Schicksal field detector. I'd known it as soon as I had the back off in the warehouse. It had the same sensor head as the birds Hamada used to drive me round to on the island, in a gray case made to be carried, with a logo on the back that somebody had scratched off. Her father must have walked out of Schicksal with it in his pocket. She called it her dad's radar and had no idea what it was, and I didn't tell her. I didn't tell her anything a boy from the school on the hill couldn't have known. That first night I'd asked her what they were and let her tell me about the bad air, and my hands had shaken while I asked. I hadn't had to put that part on.
 
 A drainage tunnel under the old fish market, where the water came up to our knees and the things in it came up out of the dark with their eyes lit pink. A pachinko parlor by the ring road that had closed in the summer, with the machines still standing in rows and a smell of cigarettes and Honkai, where Kiana shot one off the top of a machine and the whole row of them lit up and played their jingles at once, and we stood in the dark in the noise of it and laughed until she had to sit down. The night ferry terminal, empty, with the departures board still turning over destinations nobody was going to.
 
@@ -1048,9 +1034,7 @@ Afterward we sat on the steps of the old lighthouse at the end of the breakwater
 
 She talked about her father there. Not much. Enough. "When I find that stinky old man," she said, with her mouth full, looking out at the dark water, "I'm going to punch him right in his stupid face. And then he can buy me dinner. A big one." She was quiet for a bit. "He taught me all this, you know. The falling and the guns. He said a Kaslana fights for everything beautiful in the world." She snorted. "Then he went off somewhere and left all the beautiful things to me."
 
-Her stinky old man was alive. In a few years she'd find him, on a day I could have told her the date of, and on the same day she'd find out she wasn't who she thought she was.
-
-I'd told a six-year-old the truth once, at a gate, because I wanted to see what it would do. I had the boy's memory of the afternoons afterward. I looked at the dark water and said nothing at all.
+I could have told her more about him than she knew. I looked at the dark water and didn't say anything.
 
 At school we were tired. We came up the hill on the first day of term with bruises on our hands and our eyes half shut, and laughed at things that weren't funny to anyone else, the pachinko machines, the ferry board, the time she'd fallen in the drainage tunnel and come up wearing a shopping bag. Mei watched us across the boxes on the roof with her chopsticks still.
 
@@ -1078,17 +1062,15 @@ She started laughing first. It went off like a firework. She laughed so hard she
 
 She pulled the bag off her head and looked at it. "It's the same bag," she said. "It's the SAME bag. It's been waiting for me."
 
-I looked at her, laughing in the dark with her hair full of drain water, and something I'd been not looking at for three weeks turned over and lay face up.
+There was a strand of something green stuck across her cheek. I reached out and took it off before I'd thought about it, and my fingers stayed against her cold face a second longer than they needed to.
 
-In my first life I'd been twenty-two, and I'd downloaded the game on a train because of an advertisement on the wall of the carriage. The loading screen had been a white-haired girl in a white suit, in the middle of a jump, with a pistol in each hand, grinning as though someone had just told her she couldn't. I'd missed my stop looking at her. That was the first one. I'd loved most of them after that, in the end, the whole cast, but every one of them had come after her.
+For that second I was on a train at eleven at night, twenty-two years old, with a game loading on my phone. On the screen a white-haired girl in a white suit was in the middle of a jump, a pistol in each hand, grinning. The doors closed. It had been my stop.
 
-And now she was here, up to her waist in a drain, with a shopping bag in her hand, real all the way through, and I'd spent three weeks at her side being careful not to know it.
-
-*No,* I told myself. *Not her.*
+Kiana had stopped laughing.
 
 "What?" she said. "What's that face? You look like you swallowed something."
 
-"I did," I said. "Half the drain."
+"I did," I said. I took my hand back. "Half the drain."
 
 She looked at me a moment longer, with her head on one side. Then she threw the bag at me and waded off down the tunnel to find the gun.
 
@@ -1096,15 +1078,13 @@ She looked at me a moment longer, with her head on one side. Then she threw the 
 
 ---
 
-Mei had noticed in the first week of January, and then she'd spent three weeks telling herself she hadn't.
-
-The bruises, first. A mark on the back of his hand, then two on his wrist, then a scrape along his jaw that he said was the bathroom door. A matching one on Kiana's chin the same morning. They came up the hill on the first day of term half asleep and laughed at things nobody else understood, a pachinko parlor, a departures board, a shopping bag, and when she asked what was funny Kiana said "Nothing!" much too fast and went red to the ears.
+Mei saw the first bruise in the first week of January, a mark on the back of his hand. Then two on his wrist, then a scrape along his jaw that he said was the bathroom door, and a matching one on Kiana's chin the same morning. They came up the hill on the first day of term half asleep and laughed at things nobody else understood, a pachinko parlor, a departures board, a shopping bag, and when she asked what was funny Kiana said "Nothing!" much too fast and went red to the ears.
 
 "Shifts," he'd said, when she asked where they went.
 
-She'd thought about that word for three weeks. Shifts where? Doing what? People who worked shifts told you where, and complained about the manager. He never had. And Kiana, when Mei had asked her on her own, at the bus stop, had looked at her with real misery and said "It's a secret, Mei-senpai, I'm sorry, it's not my secret," and Kiana could not lie. Everybody knew that by now. Kiana's face did whatever Kiana was feeling, in front of everyone, all the time.
+That week, on the way home, she looked in at the window of every convenience store between the school and the station, and the noodle stall, and the Homu Happy. He wasn't working in any of them.
 
-So it was a secret, and it was theirs, and it wasn't hers.
+She asked Kiana on her own, at the bus stop. Kiana looked at her with real misery and said, "It's a secret, Mei-senpai. I'm sorry. It's not my secret."
 
 On Saturday the twenty-fifth she went down to the market by the station to buy fish, because the fish was cheaper there on Saturday evenings, and that was true. She also knew that Kiana's shift at the Homu Happy finished at five. She stood at the fishmonger's with her purse in her hand and watched the door of the Homu Happy across the square until it opened, and the two of them came out together, Kiana pulling her cap off and stuffing it in her pocket, and him with his hands in his coat. They didn't go toward the station. They went along the harbor road.
 
@@ -1134,9 +1114,11 @@ Mei ran.
 
 She didn't decide to. Her feet decided, and her foot hit something in the dark behind the shack, a can, and it went rolling and clattering away along the concrete, and she didn't stop for it. She went back down the breakwater with the sea on both sides and her bag clutched against her chest, and up the harbor road, and up the hill, not running anymore but walking very fast with her face perfectly still, as she'd walked down the corridor in wet shoes.
 
-Every lunch, she thought. Every lunch on the roof. The three boxes. The best egg in Japan. All those mornings he'd stood up at her desk and said it, and she'd said no so that he'd say it again, and she'd stood at her gate on a Sunday with a bag of rice in her arms and said tomorrow to him first. And he'd stopped meaning it. He didn't even know when. He'd said so, to the sea. And he'd gone on standing up at her desk every morning in front of everyone and saying it anyway, and they'd sat on the roof together and laughed at things she didn't understand, and she had fed them. At the taxi rank in October she'd asked him if it was true, about her father, and he'd told her it wasn't. She'd believed him because she'd wanted to.
+*I didn't stop saying it.*
 
-They would go. Everyone went. In November they'd gone all at once, the girls, the club, Mr. Tanabe, her father down the steps with a jacket over his wrists. These two were only slower. They'd been lying to her at every lunch, and soon they'd stop bothering to lie, and then they'd go, together, and she'd be at the window end of the library stairs again with nobody on the bottom step.
+Every lunch on the roof, with the three boxes between them. The best egg in Japan. Every morning at her desk, in front of everyone. She'd stood at her own gate in December with a bag of rice in her arms and said *tomorrow* to him first. At the taxi rank in October she'd asked him if it was true, about her father, and he'd looked straight at her and told her it wasn't.
+
+In November they'd gone all at once, the girls, the club, Mr. Tanabe, her father down the steps with a jacket over his wrists. These two were only taking longer.
 
 She walked under a streetlight and it went out above her head. She walked under the next one and it went out too. She didn't look up. By the time she reached the gate on the hill, every light on that side of the road had gone dark behind her, one after another, all the way down.
 
@@ -1144,7 +1126,7 @@ She walked under a streetlight and it went out above her head. She walked under 
 
 Something rolled along the concrete behind the bait shack, clattering, and stopped. The wind, off the sea. I didn't turn round. Kiana was looking at the water.
 
-"Me?" she'd said, and that was all she'd said, and she was still looking past me at the dark sea as if there might be someone else standing out there in it that I'd meant. She'd never been anyone's first choice for anything. She didn't say so now. Kiana didn't say things like that.
+"Me?" she'd said, and that was all she'd said, and she was still looking past me at the dark sea as if there might be someone else standing out there in it that I'd meant.
 
 Then something went on over her face, quickly, like a hat, and she grinned.
 
@@ -1164,9 +1146,9 @@ After a while she bumped her shoulder against mine, gently.
 
 "And this is from me," she said. "No."
 
-I didn't say anything. I'd noticed what she'd said and what she hadn't. Kiana couldn't lie. She'd said no, and she'd said it was from her. She hadn't said she didn't like me.
+"You didn't say you don't like me."
 
-She stood up. When she spoke again her voice had dropped, and the sentences had gone short, the voice I'd heard her use in the warehouses when something was coming at us out of the dark.
+She didn't answer that. She stood up. When she spoke again her voice had dropped, and the sentences had gone short, the voice I'd heard her use in the warehouses when something was coming at us out of the dark.
 
 "Monday, you say it to her," she said. "Like always."
 
@@ -1182,23 +1164,19 @@ Kiana walked the whole length of the breakwater without hurrying, because he mig
 
 At the bottom she turned left instead of right. There was a signal in the third row of warehouses she'd been saving, a small one, for the two of them, for Tuesday. She went and did it now, on her own, without the map. She found it with the radar he'd fixed with a paperclip, and it was two of them, crew from the night boats, and she went at them faster than she needed to and meaner than she needed to, and when the second one was down she stood over it and emptied the rest of the magazine into it anyway. The sound went round and round the warehouse.
 
-Then she stood there with the gun empty in her hand and was furious with herself. Seven rounds. The stinky old man would have had her doing push-ups till midnight for that. *A Kaslana doesn't waste bullets on something that's already lying down,* he'd have said. *Who taught you that? Not me.*
+Then she stood there with the empty gun in her hand. Seven rounds. The stinky old man would have had her doing push-ups till midnight for that. *A Kaslana doesn't waste bullets on something that's already lying down,* he'd have said. *Who taught you that? Not me.*
 
 She climbed up on top of a shipping container at the edge of the yard and sat there with her knees up. She had an onigiri in her pocket. He'd given it to her at the station at five, salmon, because she'd said once that salmon was the best and he'd remembered. She looked at it for a while. Then she unwrapped it and ate it, all of it, slowly, because you didn't waste food, not ever, not for anything, and certainly not for a stupid boy.
 
-She made herself think about it properly. She was bad at lying to people and she'd never once managed it with herself.
+She held up her hand and counted Mei-senpai's people on her fingers. Him. Herself. She looked at the two fingers for a long time. Then she put the hand back in her pocket.
 
-She'd liked him. A bit. Maybe more than a bit. He'd come into a warehouse full of dead men after her with a box cutter and fixed her radar with a paperclip and never once asked her why she was alone. He was the first person in this whole town who hadn't run, except Mei-senpai, and Mei-senpai didn't count, because Mei-senpai was Mei-senpai.
-
-That was why it was no.
-
-Mei-senpai had two people. Kiana had watched her that first day on the roof, standing there with her hands folded, not knowing what to do with somebody being nice to her. She had two people, and one of them was him, and you didn't take one of somebody's two people. You didn't. And you didn't leave without saying so, either, not ever, not like that, not like someone who goes out one morning and doesn't come back and doesn't even leave a note. She'd decided that about the stinky old man a long time ago.
-
-She took her notebook out of her inside pocket. It was the one she wrote things in to tell him when she found him. There were a lot of them by now. Where she'd been. What she'd eaten. Mei-senpai's egg.
+She took her notebook out of her inside pocket. It was the one she wrote things in to tell the stinky old man when she found him. There were a lot of them by now. Where she'd been. What she'd eaten. Mei-senpai's egg.
 
 She wrote, *A boy confessed to me. I said no. You'd have laughed.*
 
 She looked at it. Then she crossed out the last part, hard, and wrote under it, *You'd have punched him. I did it for you.*
+
+Under that she wrote *I liked*, and stopped, and crossed it out until the pen went through the page.
 
 Across the water, up on the hill, there was one light on in the big dark house where Mei-senpai lived. Just the one. Kiana looked at it for a long time with the notebook on her knees.
 
@@ -1253,7 +1231,7 @@ Kiana looked at the two boxes. She looked at them for slightly too long.
 
 "I'm sorry, Kaslana-san," Mei said, without looking up. "I didn't have time this morning."
 
-It was the first lie I'd ever heard her tell. She got up at four. She'd told me so herself, in the dark, on the dojo step; she got up at four every morning and cooked by candlelight because the power was still off. She'd had time. She'd had all the time in the world.
+She got up at four every morning to cook, by candlelight, because the power was still off. She'd told me so on the dojo step.
 
 "That's okay!" said Kiana, much too brightly. "I've got bread! I always have bread." She reached across, out of habit, as she had every day since December, for my box, to steal something out of it.
 
@@ -1297,7 +1275,7 @@ She taped it up sitting on the lid of a container, with the first-aid kit out of
 
 She nearly laughed. She caught it in time and went back to the tape.
 
-He hadn't stopped liking her. It wasn't hard to tell. He'd been looking at the wrong door all night because he was trying so hard not to look at her, and now he was sitting there with his arm across her knees not liking her at the top of his lungs, very quietly, and not saying a word about it, because she'd told him not to. She let him not say it. She owed him that much.
+Every time she looked up from the tape, he was looking at something else. The crane. The warehouse door. His own knee. She went on taping.
 
 "She knows something," Kiana said, when she'd finished. "Mei-senpai. She called me Kaslana-san. In front of everyone." It still stung, saying it. "She knows where we go. She must. About the guns, and the warehouses. And she's scared, and she's angry we didn't tell her."
 
@@ -1330,8 +1308,6 @@ On Wednesday she saw the tape on my forearm where my sleeve had ridden up, a lon
 On Thursday, at the gate, she took hold of the cuff of my coat between her finger and thumb, as you'd hold the corner of a page to keep your place.
 
 "Would you tell me," she said, "if you were going to leave?"
-
-It was the easiest question anyone had asked me in that file. Kiana had said no. Kiana had told me to say it to her and mean it. I wasn't going anywhere.
 
 "I'm not going anywhere," I said.
 
@@ -1369,7 +1345,7 @@ Then she said "Excuse me," and walked past her, and Kiana had to step away from 
 
 Mei was alone on the east stairs on Monday when Kuroda's group came down them.
 
-She'd sent Kiana away. That was why. Kiana had walked down from 3-C with her every lunch since the sixteenth of December, and on Friday Mei had said "I can manage the stairs, Kaslana-san," and Kiana had looked as if she'd been slapped, and gone the other way. And he'd been kept back by Mr. Fujita again, the scholarship, the foundation's frozen accounts. So she was alone, and Kuroda saw it from the landing above, and came down.
+On Friday she'd told Kiana, "I can manage the stairs, Kaslana-san," and Kiana had looked as if she'd been slapped, and gone the other way. He'd been kept back by Mr. Fujita again, about the scholarship. Kuroda saw her from the landing above, on her own, and came down.
 
 "Hey, Queen," he said. "Lost your guard dogs?"
 
@@ -1397,7 +1373,15 @@ On Wednesday she caught Mei at the shoe lockers after school, very loud and very
 
 He took her. They sat in the window with two cups of tea and a slice of cake neither of them ate, and he talked about the history test. Mei watched him talk.
 
-She understood perfectly well what Kiana was doing. Kiana was giving him back. Leaving them alone on the roof, sending them to cafés, like someone putting a borrowed thing back on its shelf and hoping nobody had noticed it was gone. As though he had been Kiana's to give. As though Mei were supposed to take him back from her hands and be grateful.
+"Did Kaslana-san tell you to bring me here?"
+
+"She said the cakes were good."
+
+Mei looked at the cake. "She's never eaten here," she said. "She can't afford the tea."
+
+He didn't have an answer to that.
+
+"She's very generous, Kaslana-san," Mei said.
 
 She drank her tea. It had gone cold. Outside the window, in the square, the streetlights came on, one after another, and two of them went straight out again.
 
@@ -1427,7 +1411,7 @@ I didn't tell Kiana about the second thing. I meant to tell Mei both, on the roo
 
 On Monday the third of February Mei was at the shoe lockers when he came down.
 
-She'd made up her mind on Sunday night, sitting on the dojo step in the dark with no candle, because she'd run out of candles. She would ask him once, somewhere with nobody else, away from the school and the gate, and she would give him one chance, the whole of it, with nothing in the way. If he told her himself, there on his own, without Kiana, she didn't know what she'd do. She'd thought about it for a long time on the step and she still didn't know.
+She'd sat on the dojo step all Sunday night in the dark, because she'd run out of candles.
 
 "Will you come to the roof tomorrow?" she said. "At lunch?" She looked at him. "Just you."
 
@@ -1484,7 +1468,7 @@ Then she'd heard Kiana's voice on the other side of the door.
 
 Mei stood quite still behind the door.
 
-Together. Both of them, standing side by side on the roof she'd asked him to come to alone. Telling her. She knew what. She'd heard what, on the lighthouse steps, from five meters away, with the sea going in and out. They'd decided how to do it, the two of them, somewhere she wasn't. They'd decided she deserved to know, as though it were a kindness.
+She looked down at the three boxes in her arms.
 
 She went back down the stairs without a sound. She went down one flight and sat on the bottom step of it, in the half dark under the window, with the three boxes on her knees, and waited for the bell, and heard it, and heard the corridors fill and empty for fifth period, and didn't get up.
 
@@ -1492,7 +1476,7 @@ When everything was quiet she went back up.
 
 The roof was empty. They'd gone down. The wind came across it from the bay and flattened her skirt against her legs, and the sky over the sea had gone a strange heavy color, like a bruise. She went and sat by the water tank, where the three of them had sat every lunch since the sixteenth of December, and set the boxes out on the concrete in a row, and opened them, all three. Hers. His. Kiana's. The rice and the egg and the pickled radish cut into flowers.
 
-It was the first lesson she had ever missed in her life. She sat looking at the three open boxes in the cold and couldn't think of a single reason to go down.
+She sat looking at the three open boxes in the cold.
 
 At one-forty the school went off underneath her.
 
@@ -1505,8 +1489,6 @@ Something in her chest woke up.
 It had been there all her life. She'd felt it at four years old, and at nine, in the back of a van, and every night since November when the lights went on by themselves. It had always been asleep, or nearly. It wasn't asleep now. It came up through her as the blow had come up through the concrete, all at once, and it was cold and enormous and perfectly calm, and it looked out through her eyes at the three open boxes on the concrete and the purple sky and the screaming courtyard, and it didn't need anyone.
 
 *Let me,* it said. *You're tired. You've been tired since November. Let me.*
-
-Mei had been holding on to things for so long. Her back straight. Her face still. Her voice level in every room. She'd been holding on since she was nine.
 
 She let go.
 
@@ -1708,9 +1690,7 @@ Kiana looked up at her across the roof, and her face was wet, and she screamed i
 
 Mei heard it.
 
-It was the part she'd run from. She'd run before it was said, from behind a bait shack, with a can rolling away behind her in the dark, and she had built ten days on top of the place where it should have been. She heard it now, on a roof, in the snow, with her hands still sparking and him on the concrete in Kiana's lap with a hole burned through his back.
-
-She took hold of one wrist with the other hand. It was what she did. She'd done it since she was small, when she was frightened, to keep her hands still. It wasn't enough. Her fingers were still sparking. She took hold of the other wrist too, both of them, crossed in front of her, gripping so hard her nails went into her skin, because she was afraid of her own hands. She was more afraid of her own hands than she had been of anything in her life.
+She took hold of one wrist with the other hand. Her fingers were still sparking. She took hold of the other wrist too, both of them crossed in front of her, gripping so hard her nails went into her skin.
 
 She took a step toward them.
 
@@ -1718,7 +1698,7 @@ The lightning jumped off her fingers. It jumped across the concrete toward them,
 
 "Come here," said Kiana. Her voice had gone quiet. She was holding him with her one good arm and looking at Mei, and there was no anger left in her face at all. "Mei-senpai. Come here. He wants you."
 
-Mei went. She went slowly, with her wrists held together, and every time the sparks came off her she stopped and waited for them to die, and went on. She knelt down in the snow beside them, as close as she dared, which was not close enough to touch. She couldn't touch him. She looked at her hands and knew she could never touch anything again.
+Mei went. She went slowly, with her wrists held together, and every time the sparks came off her she stopped and waited for them to die, and went on. She knelt down in the snow beside them, as close as she dared, which was not close enough to touch. She couldn't touch him.
 
 "I'm sorry," she said. "I'm sorry. I'm sorry. I'm sorry."
 
@@ -1728,9 +1708,7 @@ His eyes found her. It took them a moment. They were very tired.
 
 "It was," said Mei.
 
-She said it in the voice she used for the truth, short and final, with nothing soft left in it. It was her fault. She had followed them, and she had run, and she had not stayed to hear the end, and she had stood in a kitchen at four in the morning making three boxes, and she had let go. She had let go of everything she'd been holding since she was nine, and this was what had been under it.
-
-Then it came up out of her. All of it, at once. She didn't know she could make a sound like that. Nobody at Chiba Academy had ever heard the Lightning Queen make it. She knelt in the snow on the roof with her wrists crossed against her chest and broke, completely, as a dam goes, with Kiana's arm round him and his eyes on her face.
+Then it came up out of her, all of it, at once. She didn't know she could make a sound like that. She knelt in the snow on the roof with her wrists crossed against her chest and broke, completely, as a dam goes, with Kiana's arm round him and his eyes on her face.
 
 He was still looking at her when he stopped breathing.
 
@@ -1762,19 +1740,27 @@ I stayed on my knees for a while.
 
 "And on the stairs. At lunch. She heard Kiana."
 
-[Two wrong secrets,] said the System. [You kept the guns from her, and she was never upset about the guns.] A pause. [It was very well done, really. Nobody did anything wrong for ten days, and look.]
+[And you were going up there to tell her about the guns,] said the System.
 
 I got up eventually. The map was there, hanging in front of me with its stations, and the children's home was still lit at the bottom of it by the old port.
 
-I made myself look at it.
+I put my finger on it.
 
-This was the place where I could still be cold. I'd found that out on a mattress in a room with three boys snoring in it, when the forks I'd picked here had come up into me with the weather on them. Out there, in a body, the world was too real, and I loved whoever was real in front of me, and I ran across roofs for them. In here there was only the map. So I'd do it in here, while I still could.
+[Same again?] said the System.
 
-Same birth. Same home, same box of mandarins, same desk by the window in 3-A. It had worked. She'd been In Love by the fifteenth of December. All of that had worked. What broke it came after.
+"Same again."
 
-Kiana. She'd come through that door on the sixteenth of December in every file there was; she was a node, fixed, and I couldn't move her and wouldn't if I could. So I'd move myself. I'd never follow her out of the Homu Happy. I'd never go into a warehouse. I'd never sit on the lighthouse steps. I'd never be alone with her anywhere, not once, and when we were on the roof with Mei between us I'd never look at her where Mei could see. I'd learn to fight some other way. From Mei. She had a family sword nobody had been taught in years.
+[The first half worked,] it said. [In Love by the fifteenth of December.] A pause. [And Kiana comes through that door on the sixteenth whatever you do. You can't move her.]
 
-And I'd go on loving Kiana, because that wasn't a fork on any map, and I'd keep it to myself, and lie about it if anyone asked, and my face would back me up.
+"Then I won't go where she goes. Not the Homu Happy after ten. Not the warehouses. Not the lighthouse."
+
+[You wanted to learn to fight.]
+
+"There's a family sword in that house that nobody's been taught in years."
+
+[And Kiana?] it said.
+
+I didn't answer that.
 
 [Liar's Face,] said the System, [is going to have to work for a living.]
 

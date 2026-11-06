@@ -44,6 +44,16 @@ would do.
 6. **Hostile read.** After writing, reread the scene as a suspicious
    reader. At every line ask "how does she know that?", "why would he do
    that?", "would anyone do that?", and fix it before sending.
+7. **Show, don't explain.** Feelings and reasons come out in what people
+   do and say. No narration that tells the reader what someone feels, why
+   they did something, or what a moment means ("She understood perfectly
+   well what Kiana was doing", "It was the easiest question anyone had
+   asked me", "That was why it was no"). If the reader needs the reason,
+   give it as an action, a thing in the room or a line of dialogue (Kiana
+   counting Mei's people on two fingers; "I liked" crossed out until the
+   pen goes through). Before sending, cut every sentence that explains what
+   the scene has already shown. Emotional peaks get the least explanation
+   of all.
 
 ## Life Path runs
 
