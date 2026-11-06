@@ -219,12 +219,27 @@ before he does that the run is real.
       to die. Her terms: he does what she says, every time. "You're the map.
       That's all. I'm the gun." She eats his noodles while he fixes it and
       comes for him at ten that night.
-16. **The hunts.** A drainage tunnel, a shut pachinko parlor, the night ferry
-    terminal. She teaches him to shoot and to fall; he learns the drills in a
-    week and his lungs don't. Onigiri on the lighthouse steps. The stinky old
-    man; he knows the truth about her father and says nothing. At school
-    they're tired and bruised and share jokes. "Where do you two go?" Kiana:
-    "It's a secret!" Eros: "Shifts."
+16. **The hunts.** She teaches him to fall, then the spare pistol; he learns
+    the drills in a week and his lungs don't. From the new year she carries a
+    bat to save rounds.
+    - **The pachinko parlor (fight, Eros), January 4.** The radar says three;
+      the dust says four ([Field Craft: Tracking]); she doesn't listen.
+      "Kaslana Special!" off the cashier's counter: a row of machines goes
+      down in sparks; the bat sends one over the next row (impact frame,
+      *CLANNNG*); two shots in the knees for the third. The fourth comes for
+      him from the left: [Quick Reflexes] out of his coat, [Sprinter] down
+      the aisle until his lungs close, a crate of ten thousand steel balls
+      under its feet, [Field Craft: Deer Cut] (no impact frame; he's weak).
+      It gets his ankle anyway; his thumb slips and the blade sticks; Kiana
+      ends it from the top of a machine. The shorted row lights up and plays
+      forty jingles. "There's no such thing as a Kaslana Special." "There is
+      now." Aftermath: a torn coat (a cheap new one at school, which Mei
+      notices) and finger bruises on his ankle.
+    - Before term starts: her shopping bag in the drainage tunnel, the night
+      ferry terminal. Onigiri on the lighthouse steps; the stinky old man; he
+      could tell her more about him than she knows and doesn't. At school
+      they're tired and bruised and share jokes. "Where do you two go?"
+      Kiana: "It's a secret!" Eros: "Shifts."
 17. **He realizes.** Mid-January, in the tunnel, she throws herself on a thing
     that's got him by the coat, and they come up out of the water laughing.
     Shown, not said: he takes a strand of weed off her cheek before he can
@@ -374,39 +389,55 @@ before he does that the run is real.
     the school: the burst, the purple air, the clouds coming down. The part of
     her that doesn't need anyone stands up, and its first act is a storm that
     burns every turned thing on the roof to ash.
-34. **The stairs (Eros).** Natsumi coughing blood; Mei's chair empty. He runs.
-    Kiana catches him on the stairs, and they fight up through their
-    classmates the way the hunts taught them (her pistols, his box cutter,
-    his lungs, Low D in the purple air). They come through the roof door
-    together, and that's the first thing she sees.
-35. **The warning (Eros).** The static stands their hair on end; lightning
-    melts the fences. Low and slow, never shouting: "Humanity's sins are
-    unforgivable." Then, to the two of them: "And you came up together. Even
-    now." Kiana: "Give me back my Mei!" "Your Mei?" The exchange: "She made
-    three this morning. She doesn't know why." / Kiana: "I said no! I hit him
-    for you! We were coming to tell you about the guns!" / "'We tell her
-    together.' She heard you. On the stairs." / Eros: "It was only ever me.
-    She said no." / "Then you're both liars, and one of you is better at it."
-    Turned students start up the stairs behind them; he holds the door. He
-    knows this fight from another life: the bird, then the wing.
-36. **The fight (Kiana).** The bird-shaped bolt comes down; she dives clear of
-    the crater. Her bullets burn up against the barrier, but they're cover;
-    she runs through the smoke, slides under the crescent the wing sweeps
-    across the roof, and goes for the kick. It catches her leg, and her blood
-    drinks the voltage the way it does in the game. She gets her arms round
-    it: "I don't care if you're a monster or a Herrscher! I'm not letting you
-    go, Mei!" In the game it panics. This one doesn't. Into her ear, very low:
-    "You let go of her on the twenty-fifth." Her grip slackens for half a
-    second, and it throws her into the water tank. Her arm goes. The burn.
-37. **Eros.** In the game she gets her hand on the wing. He lets the door go
-    and runs to her. "Look where he runs."
-38. **The hit (Eros).** Kiana gets up anyway: "Because I am Kiana Kaslana!" The
-    bird gathers over her: "Then die as one." He shoves her clear and takes
-    it, and it doesn't let go of him: a soul attack, taking things as it
+34. **The stairs (fight, Eros).** Natsumi coughing blood; Mei's chair empty.
+    Kiana catches him on the east stairs ("She never came back from lunch."
+    "Then come on!"). A crowd of turned classmates, so the fight escalates:
+    - First landing: the baseball-club boy (*BANG BANG*, "Sorry! Sorry,
+      sorry!"); the girl from 3-D at Kiana's back, [Field Craft: Deer Cut].
+    - Second landing, too many: "Ears!" Both magazines up the stairwell
+      (impact frame: plaster, cases in the air, the sky violet in the
+      window); the fire alarm, the sprinklers, rain in the stairwell. Last
+      magazine. "Kaslana Snowstorm!": the fire extinguisher, sprayed and
+      swung.
+    - Third landing, real danger: Emi with the cat notebook puts him into the
+      wall; [Quick Reflexes] gets the blade up and his hand stops. Kiana
+      fires past his ear. The notebook falls open at the boxed total and the
+      ink runs.
+    - His lungs are gone; up the last flight on her sleeve; the door.
+35. **The warning (Eros).** The storm comes off her; the title card
+    (Herrscher of Thunder); [Wrath of the Violet Heaven]. She talks little and
+    never explains Mei's heart: "Humanity... Your sins are unforgivable." "And
+    you came up together. Even now." "Give me back my Mei!" "Your Mei?" and a
+    look at the three boxes. Kiana: "I said no! I hit him for you! We were
+    coming to tell you about the guns!" "'We tell her together.'" Eros: "It
+    was only ever me. She said no." "Then you're both liars, and one of you is
+    better at it." Turned students on the stairs; he holds the door.
+36. **The fight (Kiana).** "Thunderbird." The bird bolt (impact frame,
+    *KRAKA-THOOM*); she's thrown clear of the crater. One pistol still
+    loaded: her bullets burn up against the barrier but cover her run; she
+    slides under the Crescent (*SHHAANG*) and goes for the kick. It catches
+    her leg, and her blood drinks the voltage. "I don't care if you're a
+    monster or a Herrscher! I'm not letting you go, Mei!" Into her ear: "You
+    let go of her on the twenty-fifth." Her grip slackens; it throws her into
+    the water tank. Her arm goes. The last thing she sees is him coming
+    across the roof.
+37. **Eros's attack.** In the game she tears the wing off at the root. He
+    goes to do it: [Sprinter] across ten meters, [Violet Sanctum] (the barrier
+    burns what's fast; a held blade is slow), the box cutter into the wing
+    root. A crack runs up the wing and it flickers; the storm stutters. No
+    impact frame; he's weak. "You." The back of her hand throws him to the
+    fence; his palm is a blister in the shape of the handle. One more push
+    would do it. He looks at Kiana by the tank and goes to her instead, half
+    walking, half falling. "Look where he runs."
+38. **The hit (Eros).** "Go to her! She's right there!" "Tell her I said no.
+    Promise me." Kiana gets up anyway: "Because I am Kiana Kaslana!" "Then die
+    as one." The finisher, new to the fight: [Purple Lightning, First Seal:
+    Heaven Strikes the Unworthy], the sky lit in a net that turns to one spot.
+    [Quick Reflexes]: he shoves her out of the spot (impact frame on her
+    move, *KRAKA-THOOOOM*) and takes it, a soul attack taking things as it
     goes. Kiana drags herself to him with one arm and gets his head into her
     lap. "Why? That one was mine! It was mine, you idiot!" "You were supposed
-    to go to her." Then, because he's dying and she can't lie: "...I never
-    said I didn't like you." "I noticed."
+    to go to her." "I never said I didn't like you." "I noticed."
 39. **The breakdown (Mei).** What her hand did tears the other personality out
     of her. She comes up into her own eyes standing in the snow, with
     lightning still running off her fingers; the horns go, the wing gutters
@@ -423,7 +454,8 @@ before he does that the run is real.
     Lightning Queen making a sound nobody at Chiba ever heard her make. The
     scene ends when he stops breathing; this loop doesn't go on without him.
 40. **The white.** Worn, and what the chunk took. The System on the wrong
-    girl and the right roof. "And you were going up there to tell her about
+    girl and the right roof ("You'd cracked the wing. One more push. And you
+    ran the other way."). "And you were going up there to tell her about
     the guns." His choice for Loop 5 comes out in talk with the System, not
     narration: same birth; he won't go where Kiana goes (the Homu Happy after
     ten, the warehouses, the lighthouse); the family sword nobody's been
@@ -441,7 +473,8 @@ January 27 Corruption Compromised. February 4, at the stairwell door, Fallen.
 ## Gifts on the page
 
 - Quick Learner: Kiana's pistol drills in a week; his lungs still give out.
-- Sprinter: ten fast meters away from a turned dockworker, then nothing.
+- Sprinter: ten fast meters away from a turned dockworker, then nothing; down
+  the pachinko aisle; across the roof to the wing root.
 - Quick Reflexes: catches Mei on the east stairs; flinches at Kiana's
   first shot.
 - Hunting and Field Craft: the box cutter in the warehouse and on the
