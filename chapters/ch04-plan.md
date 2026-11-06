@@ -32,7 +32,7 @@ before he does that the run is real.
 
 | Who | Scenes |
 |---|---|
-| Eros (first person) | the white, the log, the takeover, the confessions, the man at the rank, the arrest at the stall, his side of the bullying, the hunts, the realization, the lighthouse after Mei runs, Monday, the roof door, his death, the white |
+| Eros (first person) | the white, the log, the takeover, the confessions, the man at the rank, the arrest at the stall, his side of the bullying, the deal at the noodle stall, the hunts, the realization, the lighthouse after Mei runs, Monday, the roof door, his death, the white |
 | Mei | one October morning: what his confession is to her; November 16 at the table (two mouthfuls); the bucket, from inside the stall; the night she tells him about the ceiling tiles; December 16 in the corridor (five hundred centimeters and the USP); following them to the lighthouse; Monday at her desk; the east stairs the wrong way round; Kiana leaving them alone; February 3; the stairwell door on February 4 |
 | Kiana | her first morning at Chiba and the corridor from the far end; the first hunt, when she notices he isn't sick; the aftermath of the lighthouse; the hunt by the rules; cornering Mei in the toilets; the roof fight until she goes down |
 
@@ -199,8 +199,19 @@ before he does that the run is real.
     sensor head from Hamada's birds on the island, and doesn't tell her).
     The battery spring is gone and she's stuffed foil in, so it cuts out and
     wanders; he fixes it with a bent paperclip by the light of his phone.
-    "You fixed it with a PAPERCLIP?" "I'm on a scholarship." She keeps him:
-    he's the map, she's the gun.
+    "You fixed it with a PAPERCLIP?" "I'm on a scholarship." She doesn't keep
+    him. He's a liar who nearly got eaten in five minutes: "Thanks. Now go
+    home." She walks him out to the road by his sleeve: "Don't follow me
+    again. And don't tell Mei-senpai. Or anybody."
+    - **The deal (Eros).** The paperclip falls out when she jumps off a
+      container; with the radar dead she walks the port all night and then
+      finds three at once. On the 30th she slams it down at the noodle
+      stall: "Can you fix it or not?" A ballpoint pen spring will do it
+      properly, and he won't pick it up until she takes him along. He
+      carries the radar and finds them, she shoots, and she teaches him not
+      to die. Her terms: he does what she says, every time. "You're the map.
+      That's all. I'm the gun." She eats his noodles while he fixes it and
+      comes for him at ten that night.
 16. **The hunts.** A drainage tunnel, a shut pachinko parlor, the night ferry
     terminal. She teaches him to shoot and to fall; he learns the drills in a
     week and his lungs don't. Onigiri on the lighthouse steps. The stinky old

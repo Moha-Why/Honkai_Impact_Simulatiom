@@ -962,9 +962,57 @@ Kiana looked at the needle. She looked at him.
 
 "I'm on a scholarship."
 
-She thought about it for about as long as she thought about anything, which was not long. He was weird. He'd lied to her about something just now and she didn't know what. But he wasn't sick, and he hadn't run, and her radar hadn't pointed that straight since the stinky old man left.
+She thought about it for about as long as she thought about anything, which was not long. He was weird. He'd lied to her about something just now and she didn't know what. He'd nearly got eaten in the first five minutes. And her radar hadn't pointed that straight since the stinky old man left.
 
-"Okay," she said. "You're the map. I'm the gun." She pointed one of them at him, not quite at him. "Don't tell Mei-senpai."
+"Thanks," she said. "Now go home."
+
+"Kiana..."
+
+"I'm not joking." She took him by the sleeve and walked him back the way they'd come, past the men on the floor, out through the forced door and along the third row of warehouses to the road, where the streetlights were. "You can't run. You can't even breathe in there. Next time I won't be up on the crates." She let go of his sleeve. "Don't follow me again. And don't tell Mei-senpai. Or anybody."
+
+She watched him all the way to the rail bridge to make sure he went. Then she went back for the small one in the next warehouse, and the needle pointed at it the whole way.
+
+---
+
+She came to the noodle stall on the thirtieth, at eleven in the morning, and put the radar down on the counter in front of me hard enough to make the bowls jump.
+
+"It's broken."
+
+The tape was off the back, and the battery cover was hanging by one corner. The paperclip was gone.
+
+"It came out," she said. "When I jumped off a container. I looked for it for an hour." She didn't sit down. She stood there in her coat with her backpack on, and she looked as if she hadn't slept. "Then I walked round the port all night with it dead and found nothing, and then I found three of them at once."
+
+"Are you hurt?"
+
+"No." She looked at the radar instead of at me. "Can you fix it or not?"
+
+I could. The paperclip had been a bad fix. What it needed was a proper spring, and there was one in every ballpoint pen in the world. I had a pen in my bag.
+
+"Yes," I said. "Five minutes."
+
+"Then fix it."
+
+"Take me with you."
+
+"No."
+
+The old man had stopped stirring his pot and was listening without looking, as he always did. Kiana glared at me. I didn't pick up the radar.
+
+"You don't have to look after me," I said. "I'll carry that and tell you where they are, and you do the shooting. And you teach me how not to die, so you don't have to come back for me."
+
+"You can't run."
+
+"Then teach me that too."
+
+She looked at the radar on the counter. She looked at me. She looked at the old man, who was suddenly very busy with his pot.
+
+"You do what I say," she said. "Every time. If I say run, you run. If I say go home, you go home."
+
+"Okay."
+
+"You're the map. That's all. I'm the gun." She pushed the radar across the counter at me. "Fix it. And don't tell Mei-senpai."
+
+I took the spring out of my pen and fixed it. She ate the rest of my noodles while I did it, without asking, and didn't say thank you, and came back for me at ten that night.
 
 ---
 
