@@ -812,7 +812,7 @@ I went up after them.
 
 The roof was cold and bright and empty, with the water tank at one end and the wire fence all round and the whole of Nagazora spread out below it to the bay. The girl with the white braids was sitting on the concrete with her back against the water tank, eating rice out of the lid of the box with her fingers. Mei was standing three meters away from her, very straight, with her hands folded in front of her, looking down at her as though she'd found something in the garden and didn't know what it was.
 
-A black pistol lay on the concrete beside the girl's knee, a USP, the one from the text.
+A black pistol lay on the concrete beside the girl's knee, a USP, the one from the text. I stopped in the doorway. You don't see a gun on a school roof and keep walking.
 
 In another life, at two in the morning, I'd read this scene in a translated text somebody had posted to a forum, the girl with the gun in the corridor and the five hundred centimeters between them and the line at the end about ten hours later, and I'd sat back in my chair afterward with my hand over my mouth. Now it was happening ten meters in front of me, on the school roof, and I was in it. Not much. About as much as the water tank.
 
@@ -820,9 +820,13 @@ I don't know what my face was doing. Behind it everything I'd ever kept about th
 
 *Never Kiana,* I'd decided, years ago, on an island. *In every file.*
 
-She looked up from the rice and saw me.
+She looked up from the rice and saw me, and then saw what I was looking at. She picked the pistol up without any hurry, put it inside her jacket and zipped the jacket up to her chin.
 
-"Who's this?" she said, with her mouth full. "Your boyfriend?"
+"You didn't see that," she said, with her mouth full.
+
+"Okay."
+
+"Who's this?" she said to Mei. "Your boyfriend?"
 
 "No," said Mei.
 
@@ -918,25 +922,35 @@ It was the boy from Mei-senpai's class. Noodle guy. The one who said it every mo
 
 "What," she said, "are you doing here?"
 
-"Breathing," he said. "Give me a second."
+He didn't seem to hear her. He was looking past her at the men on the floor.
 
-She gave him a second. She used it to look at him properly.
+"What were they?" he said. "Their eyes. What was wrong with their eyes?"
 
-He wasn't coughing. That was the first thing. Everyone coughed in the bad air. She'd seen grown men from the boats go down on their knees in it, coughing up pink, and he was breathing like a man who'd run too far and that was all. His eyes were clear. And the thing by the wall, the one he'd cut first, had gone down because he'd opened the back of its knee, cleanly, in one move, like the stinky old man taking down a deer, and nobody at a school on a hill learned to do that.
+"Get up."
 
-"Why aren't you sick?" she said. "Everyone gets sick."
+"You shot them." He still hadn't got up. "They were people. They had the port coats on. They were just..."
 
-"Strong stomach."
+"They weren't people anymore." She'd said it to herself enough times that it came out flat. "Something gets into them, and then they come for you. That's all they do after that."
 
-"That's not a thing," said Kiana.
+"What gets into them?"
 
-He shrugged, as if it were.
+"The bad air. My dad called it Honkai." She looked at him properly then.
 
-"You followed me," she said.
+He wasn't coughing. That was the first thing. Everyone coughed in the bad air. She'd seen grown men from the boats go down on their knees in it, coughing up pink, and he was breathing like someone who'd run too far and that was all. His eyes were clear. And the one by the wall, the one he'd cut first, had gone down because he'd opened the back of its knee, cleanly, in one move, like the stinky old man taking down a deer, and nobody at a school on a hill learned to do that.
 
-"I followed the readings." He got up, slowly, with a hand on the crates. "The port's had blackouts for three weeks. Street lights going off in the same four streets. I wanted to see what was doing it." He looked at the men on the floor and then away from them, quickly. "I didn't think it'd be this."
+"Why aren't you sick?" she said.
 
-She didn't believe all of it. She could feel the part she didn't believe, like a stone in a shoe. But he hadn't run, and the box cutter had done what it did, and there was something else, too, which was that he was looking at the box in her hand.
+"Sick?"
+
+"Everyone gets sick in here. Big men. They cough till it comes up pink."
+
+He looked down at his own hands, as if they might know. "It tastes like batteries," he said. "That's all."
+
+"You followed me."
+
+"I followed the blackouts." He got up, slowly, with a hand on the crates. "The port's had them for three weeks. Street lights going off in the same four streets. I wanted to see what was doing it." He looked at the men on the floor again and then away from them, quickly. "I didn't think it'd be this."
+
+She didn't believe all of it. She could feel the part she didn't believe, like a stone in a shoe. But his hands had started to shake, and he hadn't run, and the box cutter had done what it did, and there was something else, too, which was that he was looking at the box in her hand.
 
 "Is that a radar?" he said.
 
@@ -1018,7 +1032,7 @@ I took the spring out of my pen and fixed it. She ate the rest of my noodles whi
 
 We hunted three nights a week after that, all through the holiday and into January.
 
-Her radar was a Schicksal field detector. I'd known it as soon as I had the back off in the warehouse. It had the same sensor head as the birds Hamada used to drive me round to on the island, in a gray case made to be carried, with a logo on the back that somebody had scratched off. Her father must have walked out of Schicksal with it in his pocket. She called it her dad's radar and had no idea what it was, and I didn't tell her.
+Her radar was a Schicksal field detector. I'd known it as soon as I had the back off in the warehouse. It had the same sensor head as the birds Hamada used to drive me round to on the island, in a gray case made to be carried, with a logo on the back that somebody had scratched off. Her father must have walked out of Schicksal with it in his pocket. She called it her dad's radar and had no idea what it was, and I didn't tell her. I didn't tell her anything a boy from the school on the hill couldn't have known. That first night I'd asked her what they were and let her tell me about the bad air, and my hands had shaken while I asked. I hadn't had to put that part on.
 
 A drainage tunnel under the old fish market, where the water came up to our knees and the things in it came up out of the dark with their eyes lit pink. A pachinko parlor by the ring road that had closed in the summer, with the machines still standing in rows and a smell of cigarettes and Honkai, where Kiana shot one off the top of a machine and the whole row of them lit up and played their jingles at once, and we stood in the dark in the noise of it and laughed until she had to sit down. The night ferry terminal, empty, with the departures board still turning over destinations nobody was going to.
 
@@ -1514,9 +1528,9 @@ Kiana caught me at the bottom of the east stairs. She came round the corner at a
 
 "She's up there!" she shouted. "Mei-senpai! The radar's gone mad, it's pointing straight up, it's HER!"
 
-"I know."
+"She never came back from lunch," I said.
 
-"How do you..." She stopped. She looked at my face. "Come on."
+"Then come on!"
 
 The stairs were full of our classmates. Some of them were still coughing, on their knees on the landings, and some of them had stopped coughing and stood up again, slowly, and turned their heads toward us with that pale pink light coming up in their eyes. A boy from the baseball club. A girl from 3-D whose name I'd never learned. Emi, with her cat notebook still in her hand.
 

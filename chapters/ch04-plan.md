@@ -179,8 +179,10 @@ before he does that the run is real.
     takes Mei up to the roof with the rescued box. Eros arrives as they go up
     the stairs and follows. The fan knows the line about five hundred
     centimeters and the USP and "ten hours later," and watches it begin with
-    himself in it. "Who's this? Your boyfriend?" "No." "Not yet." "Then I've
-    still got a chance!"
+    himself in it. Out loud he's a boy who has just found a pistol on the
+    school roof: he stops in the doorway. Kiana sees what he's looking at and
+    zips it into her jacket: "You didn't see that." "Okay." "Who's this? Your
+    boyfriend?" "No." "Not yet." "Then I've still got a chance!"
 14. **The roof at lunch, three of them.** "If he gets to, I get to!" Two
     confessions a day, the marks in pairs. Kiana and Eros compete for Mei:
     the walk home, the seat beside her, who eats more of her cooking. Mei
@@ -191,9 +193,14 @@ before he does that the run is real.
     a roof in February with nothing. The old port warehouses, a pocket of
     high Honkai, turned dockworkers. One comes for him. Forty years of knife
     work in a box cutter, eighteen-year-old thumbs; his body moves before he
-    sees the lunge; ten fast meters and then his lungs. Kiana finishes it and
-    stares. "Why aren't you sick? Everyone gets sick." "Strong stomach." His
-    cover: he followed the port's blackouts. Her radar is her father's, left
+    sees the lunge; ten fast meters and then his lungs. Kiana finishes it.
+    Out loud he's a boy from the school on the hill who has never heard of
+    Honkai (it's cover, but the shaking hands are real): "What were they?
+    What was wrong with their eyes?" "You shot them. They were people."
+    Kiana: "They weren't people anymore... My dad called it Honkai." She
+    sees he isn't coughing and that the knee cut was too clean: "Why aren't
+    you sick?" "Sick?" It tastes like batteries, that's all. His cover: he
+    followed the port's blackouts. Her radar is her father's, left
     behind with the pistols, and she doesn't know how it works. It's an old
     Schicksal field detector with the logo scratched off (Eros knows the
     sensor head from Hamada's birds on the island, and doesn't tell her).

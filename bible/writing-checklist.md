@@ -14,6 +14,37 @@ Check these before planning a chapter and again before sending it.
   the rebuild so they match the chapter.
 - Before a big rebuild, say what will change and why.
 
+## Scene logic check (every scene)
+
+Do this before writing each scene and again before sending it. Most
+mistakes so far came from writing what the author or Eros knows, or what
+the plot needs next, instead of what each person in the scene knows and
+would do.
+
+1. **Who knows what.** For each person in the scene: what do they know
+   right now, and how did they learn it? Nobody says, does or reacts to
+   anything they couldn't know.
+2. **Eros has two layers.** What he knows (the game, earlier files, the
+   System) is one thing; what he can show is another. Out loud he's an
+   ordinary eighteen-year-old in Nagazora in 2013. He has never heard of
+   Honkai, Schicksal, Herrschers or Valkyries, he asks what things are,
+   and he's frightened by what would frighten anyone (a gun on the school
+   roof, people with glowing eyes). When he slips, someone notices and he
+   has to cover it.
+3. **What would a normal person do?** For every action and line, ask what
+   an ordinary person with that background and that relationship would
+   actually do. If it isn't what the scene needs, change the scene, not the
+   person.
+4. **Skills and things come from somewhere.** Every skill, tool or piece of
+   knowledge has a source in that character's past. Kiana isn't technical
+   (her gear is her father's); Eros's knife work comes from a file.
+5. **Relationships move only on events.** Trust, partnership, closeness:
+   no step without something happening that would make a real person take
+   it.
+6. **Hostile read.** After writing, reread the scene as a suspicious
+   reader. At every line ask "how does she know that?", "why would he do
+   that?", "would anyone do that?", and fix it before sending.
+
 ## Life Path runs
 
 - **After 18 it's immersive.** Once Eros takes over at 18, everything is
