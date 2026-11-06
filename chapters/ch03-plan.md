@@ -20,9 +20,8 @@ him. The last loop is the one where he gives up control and lives a
 childhood with her for real, and then, when his memories come back at 18,
 uses it.
 
-Underneath: the thing he builds is the thing he wants. Two lives without a
-family, and he engineers someone who needs him completely. It works, and it
-feels good. That's the horror of the chapter. It isn't a punishment and it
+Underneath: the thing he builds is the thing he wants. He engineers someone
+who needs him completely. It works, and it feels good. That's the horror of the chapter. It isn't a punishment and it
 isn't a redemption.
 
 ## The rules it runs on

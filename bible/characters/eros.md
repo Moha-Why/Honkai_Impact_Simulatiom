@@ -2,7 +2,7 @@
 
 ## Basics
 
-- Named Eros in both lives. An orphan in both lives.
+- Named Eros in both lives.
 - **Earth:** software engineer and die-hard HI3 fan, of both the characters
   and the power system and lore; died of overwork at
   32 during a crunch, with an HI3 event still running on his second monitor.
@@ -58,7 +58,7 @@ St. Freya is two hours south; he goes there only for simulator work.
   "Engineers have deadlines."), then go back to talking about Mr. Yang. He
   keeps it polite and distant; they're schoolgirls and he's staff.
 - **Solitude by choice:** the island lets him live. He's often alone because
-  he's preparing, and because he has never had anyone to visit.
+  he's preparing.
 
 ## Personality arc
 
@@ -95,8 +95,6 @@ each other for the whole story:
   he would never call it love.
 - **Harmless on the surface:** easygoing, polite, a little lazy-looking at
   work. People underestimate him, which suits his plan to stay invisible.
-- **Lonely:** two lives without a family. He would never admit he wants
-  anyone to need him.
 
 ## Flaws
 
