@@ -1,7 +1,8 @@
 # Chapter 4 plan: Five Hundred Centimeters (Loop 4)
 
-Status: plan v6, rebuilt from the user's outline. A romance first; the
-action comes at the end. Replaces "White Comet" (v5) and the eight-loop
+Status: written (plan v6, about 24,000 words in
+[ch04-five-hundred-centimeters.md](ch04-five-hundred-centimeters.md)). A
+romance first; the action comes at the end. Replaces "White Comet" (v5) and the eight-loop
 Chapter 4 (in [../archive/mei-run-eight-loops/](../archive/mei-run-eight-loops/)).
 Spine and rules for the whole run: [ch03-plan.md](ch03-plan.md).
 
@@ -59,7 +60,9 @@ before he does that the run is real.
    the pencils (keep both).
 3. **The takeover.** The boy's eighteen years arrive as his own, and the
    forks with them, with everything the boy felt. The apartment two minutes
-   from the station. September.
+   from the station. September. Before school starts he thanks Daichi at the
+   noodle stall, the first words between them in four years ("The Kobe place
+   was all right. They had a pool table.").
 4. **The gate and the next desk.** The fan's lurch at Frayed, delighted.
    Class 3-A, Mr. Fujita, the next desk, the lift smile.
 5. **Every school day.** From his second week, at her desk at eight-twenty:
@@ -137,10 +140,12 @@ before he does that the run is real.
     high Honkai, turned dockworkers. One comes for him. Forty years of knife
     work in a box cutter, eighteen-year-old thumbs; his body moves before he
     sees the lunge; ten fast meters and then his lungs. Kiana finishes it and
-    stares. "Why aren't you sick? Everyone gets sick." His cover: he mapped
-    the port's blackouts and odd readings from public data, the same thing
-    he built on a dormitory laptop in another life. "You found them with
-    MATH?" She keeps him: he's the map, she's the gun.
+    stares. "Why aren't you sick? Everyone gets sick." "Strong stomach." His
+    cover: he followed the port's blackouts. Her homemade radar (a gutted
+    game console, a copper coil, a meter needle) drifts because the cranes'
+    motors swamp the coil; he fixes it with his phone and one of Mei's
+    hairgrips. "You fixed it with a phone and a HAIRGRIP?" "I'm on a
+    scholarship." She keeps him: he's the map, she's the gun.
 16. **The hunts.** A drainage tunnel, a shut pachinko parlor, the night ferry
     terminal. She teaches him to shoot and to fall; he learns the drills in a
     week and his lungs don't. Onigiri on the lighthouse steps. The stinky old
