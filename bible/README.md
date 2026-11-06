@@ -18,8 +18,6 @@
 | [gift-catalog.md](gift-catalog.md) | Every gift, experience package and item that has appeared |
 | [soul-and-fate.md](soul-and-fate.md) | What deaths cost, stages of the soul, Fate Deviation |
 | [image-prompts.md](image-prompts.md) | Detailed image generation prompts for the important characters |
-| [image-prompts-world.md](image-prompts-world.md) | Image prompts for the adult women in the world's fashion |
-| [world-fashion.md](world-fashion.md) | The world's vulgar/kinky fashion for adult women: rules, ages, Eros's eye |
 | [future-arcs.md](future-arcs.md) | Planned arcs beyond the current chapters (Tsugumi, the Shiomi outbreak) |
 
 Chapter plans and chapters are in [../chapters/](../chapters/).

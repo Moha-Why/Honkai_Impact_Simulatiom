@@ -115,9 +115,13 @@ each other for the whole story:
 - Keeps the whole canon timeline in an encrypted file, written in code
   nobody else would think to read.
 - Lives on instant noodles.
-- **How he looks at women:** a pervert, but in his own voice. Precise,
-  dry, a fan's references and an engineer's metaphors, never a thug's
-  catcalling. In the Mei run it tracks his soul (see world-fashion.md).
+- **How he looks at women:** as a fan, never a lech. He sees the character
+  he loved for ten years before he sees the person: the design, the canon
+  details, which wiki page got her wrong, the scene he replayed at 3 a.m.
+  Dry and specific, a fan's references and an engineer's metaphors. In the
+  Mei run it tracks his soul: delighted and half in love in Loop 1, taking
+  stock in the middle loops, and by Torn the fan who loved the drawing is
+  the one thing in him nobody has managed to take.
 - **Loop 1 of the Mei run is the fan at his warmest:** he confesses to her
   every school day, honestly, and never uses game knowledge on her. She
   doesn't move until her father's arrest leaves him the only one still

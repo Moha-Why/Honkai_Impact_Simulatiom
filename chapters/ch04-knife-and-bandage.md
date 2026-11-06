@@ -143,7 +143,7 @@ The kendo club practiced in a hall behind the gym with a wooden floor that had b
 
 "Everybody says that." She looked over her shoulder at the far end of the hall. "Captain! We've got a manager!"
 
-Mei was at the far end in her practice armor, which in this world meant the armor and nothing under it. A black lacquered chest protector strapped on over her bare body, covering her front, its cords crossing a completely bare back, and below it the waist armor, five stiff black panels hanging from a belt over a white fundoshi, no hakama at all, her helmet off and her hair tied back in a long tail, and she was standing in front of a first-year with a bamboo sword in both hands, adjusting the first-year's grip with two fingers. She looked up at Rin's voice. Then she looked at me, all the way down the hall, and it was the look the Lightning Queen gave everything, a long cool once-over from someone who'd been looked at all her life and had got into the habit of looking first.
+Mei was at the far end in her practice armor, the black lacquered chest protector over an indigo jacket and stiff indigo hakama, the waist panels hanging over them, her helmet off and her hair tied back in a long tail, and she was standing in front of a first-year with a bamboo sword in both hands, adjusting the first-year's grip with two fingers. She looked up at Rin's voice. Then she looked at me, all the way down the hall, and it was the look the Lightning Queen gave everything, a long cool once-over from someone who'd been looked at all her life and had got into the habit of looking first.
 
 "Can you count?" she said.
 
@@ -153,7 +153,7 @@ Mei was at the far end in her practice armor, which in this world meant the armo
 
 That was the whole interview.
 
-I took the job for the record book and the access. I kept it for the bench, which was eight meters from where she warmed up, and for what those armor panels did when she stepped in for a cut, which was fly up and show me her bare ass in that fundoshi, every single time. I taped forty wrists that autumn. I never once looked at a wrist.
+I took the job for the record book and the access. I kept it for the bench, which was eight meters from where she warmed up, and for her men, the cut to the head she'd won the regional with, which I'd watched a thousand times as an animation on a phone in another life and which was faster than the animation every single time. I taped forty wrists that autumn and never once looked at what I was taping.
 
 The job was tape and paper. I taped the first-years' wrists before practice, sitting on an upturned crate with the roll in my teeth while they held their hands out one after another, and I fixed broken shinai at the bench with a knife and a spool of cord, splitting out the cracked slat and binding in a new one. My hands had forty years of a knife in them from a forest in Hokkaido, and a split slat of bamboo took them about a minute. My fingers were eighteen and had never held one, and by the end of the first week the cord had taken the skin off both thumbs. Nobody thanked me, as Rin had promised. On the third Friday she came over to the bench at the end of practice with the tournament folder in both hands and a face like somebody who'd been told her exam had been cancelled.
 
@@ -392,7 +392,7 @@ On Monday the class did what it had done in the other file. The three girls went
 
 She found it at eight-ten. She looked at it for a while. Then she took a packet of tissues out of her bag and a small bottle of water and cleaned it, slowly and thoroughly, the whole desk and not only the word, and put the dirty tissues in a plastic bag and the plastic bag in her bag, and sat down.
 
-At lunch she went to the window with her box, the lacquered one, and sat by herself. The tailor had stopped coming. She was in the black latex with the violet stone again, the second day running, and one of the straps had cracked at the buckle and she'd tied it with ribbon. By December it would be ribbon everywhere, and safety pins, and much more of her than there had ever been. I picked up my bread and my milk and went and sat down across from her.
+At lunch she went to the window with her box, the lacquered one, and sat by herself. The violet stone was gone from the clasp of her ribbon, and there was a crease in her blazer sleeve where somebody had always pressed it out before. By December she'd be pressing it herself, and sewing her own buttons back on in thread that didn't match. I picked up my bread and my milk and went and sat down across from her.
 
 She didn't look up. "Please don't sit here."
 
@@ -463,7 +463,7 @@ Nobody at the table said anything for a long moment. Then Sayaka's eyes filled, 
 
 "I'm sorry, I'm so sorry, my mother said..." She stopped. "No. I'm sorry. Of course I am."
 
-At lunch she took her tray over to the window, red-eyed, and sat down across from Mei in my chair before I'd got up from my desk. I stayed where I was. My desk was next to Mei's, and I could hear every word. Sayaka was in the set she'd turned up in on the Monday, white latex and gold chain, so new it creaked when she sat down, and across the desk from it Mei's cracked strap was still tied with ribbon. I looked at the chain for longer than I looked at the ribbon, and then I looked at my bread.
+At lunch she took her tray over to the window, red-eyed, and sat down across from Mei in my chair before I'd got up from my desk. I stayed where I was. My desk was next to Mei's, and I could hear every word. Sayaka's new coat was over the back of her chair, white wool with gold buttons, bought the week of the arrest, and across the desk from it was the empty setting on Mei's ribbon where the violet stone had been. I looked at the coat, and at the setting, and then I looked at my bread.
 
 Sayaka put her phone face up beside her tray, as she always did, and talked.
 
@@ -770,7 +770,7 @@ Kiana Kaslana enrolled on the sixteenth of December.
 
 She was put in class 3-C, because the school had to put her somewhere and 3-C had a broken chair nobody had replaced, and she turned up at our door at lunch on her first day with her braids coming undone and a cowlick sticking straight up off the top of her head, and stood in the doorway looking for something.
 
-I'd known she was coming. I'd known, and I'd gone over it in my head every night that week, and it was still like having the floor go out from under me to see her standing there. White hair. Blue eyes. Silver duct tape, and nearly nothing else. Two wide crosses of it over her tits, a strip of it between her legs running up over each hip, more of it wound round her bare thighs like bandages, cut-offs falling off her on one suspender, a bell on her collar and a cardboard tag that said KIANA, and a pair of trainers held together with more tape. The roll was hanging off her belt loop. She looked so exactly like the girl on the loading screen of my first life, from the neck up, that for a second I forgot what I was doing. From the neck down the loading screen had been lying to me for years.
+I'd known she was coming. I'd known, and I'd gone over it in my head every night that week, and it was still like having the floor go out from under me to see her standing there. White hair. Blue eyes. A Chiba uniform that had belonged to somebody a size bigger, the blazer sleeves rolled twice and the ribbon tied in a knot instead of a bow, and a pair of trainers held together with silver duct tape. The roll was hanging off her belt loop. She looked so exactly like the girl on the loading screen of my first life that for a second I forgot what I was doing, and for that second I was only a man who'd spent ten years with her on a phone, seeing her for the first time.
 
 She saw Mei by the window, alone, and her whole face lit up.
 
@@ -996,7 +996,7 @@ The door to the roof was open. Snow was blowing in through it, and with the snow
 
 She was standing at the far end of the roof, by the railing. Her hair had come down. It was moving around her, longer than it had been, lifting and drifting in a wind that wasn't blowing anything else, and there was light crawling over it, purple and white, and over the concrete under her feet, and over the railing where her hand rested on it, so that the railing glowed and hissed. When she turned her head, there were horns.
 
-The lightning had burned her clothes off, and the lightning was her clothes now. Living bands of it coiled over her bare body, purple and white, thickest and brightest over her tits and between her legs so I couldn't see a thing through the glare, and thin everywhere else, so that when she moved it flickered and showed me bare skin, and when she lifted her arm it peeled away from her side altogether. A black collar with broken chain hanging off it. I was going to die on that roof, and some part of me that had spent years on forums arguing about her Herrscher design took a long look and filed a correction. The official art had been wrong. It was worse than they'd drawn it, and better.
+Her uniform was gone, burned away, and what she wore now was the Herrscher's, a long black robe edged in violet with the lightning moving through it like water, its hem lifting and settling in a wind that wasn't blowing anything else. I was going to die on that roof, and some part of me that had spent years on forums arguing about her Herrscher design took a long look and filed a correction. The official art had been wrong. It was worse than they'd drawn it, and better.
 
 Kiana was halfway across the roof with a pistol in each hand. I didn't know where she'd been keeping them.
 
@@ -1147,7 +1147,7 @@ I didn't go over. Not in this file. I'd decided before I came in that this one w
 
 At school I didn't go near her.
 
-I sat at my desk by the window in 3-A and learned the shape of the class instead, who sat with whom, who laughed at whose jokes, which of the three girls was the one the other two watched. Mei was at the next desk, in the black patent and the violet stone, and every morning she gave me the lift smile and every afternoon she got into the long black car at the walkway, and I didn't so much as lend her a pen. On the second Wednesday of October a boy from 3-D stopped her in the corridor outside our door, with the door open and the whole class listening.
+I sat at my desk by the window in 3-A and learned the shape of the class instead, who sat with whom, who laughed at whose jokes, which of the three girls was the one the other two watched. Mei was at the next desk, with the violet stone in the clasp of her ribbon, and every morning she gave me the lift smile and every afternoon she got into the long black car at the walkway, and I didn't so much as lend her a pen. On the second Wednesday of October a boy from 3-D stopped her in the corridor outside our door, with the door open and the whole class listening.
 
 "Raiden-san. I've liked you since the entrance ceremony. Please go out with me."
 
@@ -1193,7 +1193,7 @@ In the last file she'd come into the room on the sixteenth of December and stood
 
 I found her on the ninth.
 
-I'd known she'd be sleeping rough. The codex and the side stories in my first life had made a joke of it, the broken Kaslana heir living in a park and eating whatever people left on benches. It was a lot less funny at two in the afternoon in Nagazora in December with the wind coming off the bay. She was asleep on a bench in the little park below the station with her school bag under her head and a sheet of cardboard over her legs, and she'd tied her braids together under her chin to keep her ears warm. She was in an enormous thrifted sweater, a cream turtleneck knit with the sleeves pulled down over her hands, and it was open down the back to the base of her spine and down both sides from her armpits to her hips, and there was nothing under it but a thong. Lying on her side like that, the open side of it had fallen away and showed me the whole curve of one tit and her bare hip and the goosebumps running down her bare back. A collar with a bell on it, and a cardboard tag that said KIANA in marker. I sat there looking at her legs in the cold and thinking about what I'd do to get her somewhere warm, and none of it was charity.
+I'd known she'd be sleeping rough. The codex and the side stories in my first life had made a joke of it, the broken Kaslana heir living in a park and eating whatever people left on benches. It was a lot less funny at two in the afternoon in Nagazora in December with the wind coming off the bay. She was asleep on a bench in the little park below the station with her school bag under her head and a sheet of cardboard over her legs, and she'd tied her braids together under her chin to keep her ears warm. She was in an enormous thrifted sweater, a cream turtleneck with the sleeves pulled down over her hands and a hole at each elbow, over a school skirt and two pairs of tights, and she'd pulled her knees up inside it. A three-legged cat was asleep on her hip. I sat there in the cold and thought about what it would take to get her somewhere warm.
 
 I sat down on the other end of the bench and opened a cup of instant noodles and waited.
 

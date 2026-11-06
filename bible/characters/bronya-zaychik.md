@@ -74,9 +74,9 @@ sister.
   with a hard face and healthy legs ("You're bad at this"); floors an older
   boy for him ("He's ours. Mine and Seele's"). Sin Mal breaks her legs in
   November 2012 while the boy says nothing; in hospital she won't let the
-  doctors near until both of them are there. In 2013, at 18, she wears the
-  chapel harness with a cast; watches the two of them like two doors; "I've
-  got a different list now. Work it out." When Seele is gone she knows Eros
+  doctors near until both of them are there. In 2013, at 18, she's in a gray
+  hoodie with ink boxes drawn on her cast; watches the two of them like two
+  doors; "I've got a different list now. Work it out." When Seele is gone she knows Eros
   knew, and holds his hand across the bunker anyway. In the Sea of Quanta
   Seele sends her back to him ("he promised me he would look after you. So
   go back and let him"). Afterward she follows him everywhere ("Subject Eros

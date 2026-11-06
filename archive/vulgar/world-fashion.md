@@ -49,7 +49,7 @@ normally.
 
 - **Mei:** five outfits (school, dawn dojo, home and formal, the mended one
   after November 16, the Herrscher). See image-prompts-world.md.
-- **Mei in the Collar loop (shelved for now, chapters/the-collar-plan.md):** the
+- **Mei in the Collar loop (shelved for now, the-collar-plan.md):** the
   receiver takes her tailored sets, and Eros chooses everything she wears,
   cheap, from the shops by the station and mostly made for dogs. Outside
   the gate, a pet shop dog harness caging her, dog-bone pasties, dog collars

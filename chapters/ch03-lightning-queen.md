@@ -6,7 +6,7 @@ Somebody in the watch room had put it up on the big wall display at the end of t
 
 Yoon was in the watch room when I went down at ten with a calibration I didn't need to do. She had her feet up on the desk and her headset around her neck, and she was eating dried squid out of a packet without looking at it.
 
-She was in her secretary set, black latex and patent. A high-collared bodysuit with a keyhole cut from the collar to her navel, a long bare stripe of skin down between her tits that the keyhole was doing nothing at all to hide, and a patent hobble skirt laced up the back that she'd hitched to her thighs to get her feet onto the desk, so the front slit was showing me seamed stockings to the very top. Her wrists were cuffed together on a short chain, and she was eating squid around it. Five years I'd been coming down to this room for calibrations I didn't need to do. Not all of them had been about the firmware. Yoon Seo-yeon was thirty-four and could take a man apart with one look over her reading glasses, and I'd jerked off about that look and that chain more times than I'd filed bug reports.
+She was in her usual gray cardigan over a white blouse, her reading glasses pushed down her nose, her shoes off under the desk and her feet up on it, eating dried squid out of the bag with a pencil behind her ear. Five years I'd been coming down to this room for calibrations I didn't need to do. Not all of them had been about the firmware. Yoon Seo-yeon was thirty-four and could take a man apart with one look over her reading glasses, and I'd invented more calibrations for that look than I'd filed bug reports.
 
 "You again," she said.
 
@@ -18,7 +18,7 @@ She was in her secretary set, black latex and patent. A high-collared bodysuit w
 
 Yoon knew who I meant. Everybody on the island said "she" now and meant the principal. "Twice. She asked if the two birds outside the city were healthy. They're healthy. They're the healthiest birds in Japan." She chewed. "Then she asked me if I'd ever seen a line do that, and I said no, and she said thank you, and hung up."
 
-I thought about the principal on the other end of that phone, a meter and a half of S-rank in what was left of a nun's habit, the veil and the sleeves and two little blue latex crosses over her tits, a padlock on her collar and one more little blue cross between her legs, the rosary running down between her breasts like a leash, sucking a strawberry candy while she asked about birds. Five years she'd been my boss, and five years I'd been very careful never to think about her in front of anybody who could read faces. Then I made myself think about the line.
+I thought about the principal on the other end of that phone, a meter and a half of S-rank in a frilly white habit with blue trim, sucking a strawberry candy while she asked about birds. Five years she'd been my boss, and five years I'd been very careful never to fanboy in front of anybody who could read faces. Then I made myself think about the line.
 
 I watched the line for a while. Five point one. Five point three. Ten was where the people inside it would stop being people.
 
@@ -30,7 +30,7 @@ Asami found me at lunch, eating instant noodles at my desk.
 
 "You look like a man who's been told his pet died," she said, and sat on the edge of the desk and took one of my chopsticks to stir my noodles, which she did when she thought I wasn't eating them. "Is it the Nagazora thing?"
 
-She was in the nurse's uniform again, if you could call it that. A little white latex cap with a red cross, and a white latex dress that was open from her throat to below her navel and held shut by one red-cross zip pull at the bottom, the edges barely hanging on over her tits, and a skirt that stopped at the top of her thighs and was split to the waist on both sides. A stethoscope round her neck, a pistol on each hip, the hoodie shoved down to her elbows. Sitting on the edge of my desk like that, the split had fallen open over her hip about six inches from my lunch. Asami had been sitting on my desk like that for five years. Five years of a pistol on each hip and an ass in the corner of my eye while I tried to debug. Half the bugs I'd shipped in 2010 were her fault.
+She was in her medevac kit again, a white flight suit with a red cross on the shoulder, unzipped and tied round her waist by the sleeves, a gray T-shirt, the hoodie shoved down to her elbows. A stethoscope round her neck, a pistol on each hip. Sitting on the edge of my desk like that, her boot was about six inches from my lunch. Asami had been sitting on my desk like that for five years. Five years of a pistol on each hip in the corner of my eye while I tried to debug. Half the bugs I'd shipped in 2010 were her fault.
 
 "It's a lot of things."
 
@@ -503,15 +503,15 @@ She got out of it, and ten years of fan art turned out to have been conservative
 
 I'd spent the whole night telling myself it was a save file. That lasted until her second foot touched the curb.
 
-She was taller than I'd expected, taller than most of the boys getting out of the cars, and she stood very straight, with her bag held in front of her in both hands and her hair, which really did go all the way down to the backs of her thighs, falling over one shoulder in a dark wave with a blue sheen to it. Two pins held part of it up. And she was in black. Black patent latex, shining as if she'd been dipped in it. A high collar with a violet stone at the throat, and straps running down from it to two little lacquered panels that had been designed by somebody who hated panels. Everyone who plays a game like that for long enough ends up with a folder. Mine had been eleven gigabytes, sorted by artist, and every artist in it had undersold her. Nothing in it had prepared me for what the corset strap did to her waist, or for the skirt, two scraps of sheer violet that fell open to the hip when she stepped up onto the walkway and showed me one thin strap holding the whole line on its own. I counted how many times it opened between the car and the end of the walkway, because I count things. Four. I'd have paid real money for a fifth. I'd paid real money for her before, on a limited banner at three in the morning, and that had only been a drawing.
+She was taller than I'd expected, taller than most of the boys getting out of the cars, and she stood very straight, with her bag held in front of her in both hands and her hair, which really did go all the way down to the backs of her thighs, falling over one shoulder in a dark wave with a blue sheen to it. Two pins held part of it up. She was in the Chiba uniform, worn exactly right, the navy blazer buttoned, the ribbon at her collar tied as if somebody had measured it, a small violet stone in its clasp. Everyone who plays a game like that for long enough ends up with a folder. Mine had been eleven gigabytes, sorted by artist, and every artist in it had undersold her. Nothing in it had prepared me for how still she was. She stood on that curb as if somebody had told her at six that the whole school was watching, and she'd never once found a reason to doubt it. I counted her steps from the car to the walkway, because I count things. Nine. I'd paid real money for her before, on a limited banner at three in the morning, and that had only been a drawing.
 
-The fan in me wanted to ask for her autograph. The rest of me wanted to bend her over the bonnet of that limousine and find out whether the Lightning Queen had ever once in her life said please. I let the two of them argue it out. My face didn't do anything. It stayed pleasant and a little bored, a transfer student watching a rich girl get out of a car.
+The fan in me wanted to ask for her autograph. The rest of me wanted to know whether the Lightning Queen had ever once in her life been told no. I let the two of them argue it out. My face didn't do anything. It stayed pleasant and a little bored, a transfer student watching a rich girl get out of a car.
 
-She said something to the driver, and he smiled at her and looked ten years younger, and then she turned and walked under the covered walkway with three girls falling into step around her as though they'd been waiting. Two of them were in latex and lace. The third was still in the school blazer, because she wouldn't be eighteen till January, and between the other two she looked as if she'd come to the wrong party. A woman from the school office went past with a clipboard, in white lace and a leash she'd clipped to her own belt, and I watched her to the doors with the attention I used to save for a crash log. Nobody else looked twice. None of it was strange to anyone on that hill except me.
+She said something to the driver, and he smiled at her and looked ten years younger, and then she turned and walked under the covered walkway with three girls falling into step around her as though they'd been waiting, all three of them laughing a little too much at whatever she'd said. A woman from the school office went past with a clipboard and said good morning to her by name, and to nobody else.
 
-In the game she'd worn a navy blazer buttoned to the neck. I'd put that in the column of things this world did its own way years ago, next to Theresa's face and Bianka's age. Best column I had. Some nights it bothered me, a whole planet that had agreed this was ordinary, and nobody I could ask when they'd agreed.
+In the game she'd worn a navy blazer buttoned to the neck, and here it was, buttoned to the neck. I kept a column, in the code nobody else would think to read, of the things this world did its own way, Theresa's face and Bianka's age and the rest of it, and I'd added to it every month for five years. I had nothing to add for her. She looked exactly as drawn.
 
-Tonight it wasn't going to bother me. Tonight I had ten years of her fan art in my head and, for the first time, a reference image.
+And I had ten years of her fan art in my head and, for the first time, a reference image.
 
 [Your heart rate's up,] said the System.
 
@@ -539,7 +539,7 @@ Her voice was lower than in the game. The voice actress had played her bright. I
 
 I sat down beside her. She turned her head and gave me a polite, finished smile, the smile you'd give a stranger in a lift, and turned back to the front.
 
-The desk next to hers was the best seat in Nagazora, and I'd have given it five stars in a review. When she leaned forward to write I could see down the side of the lacquered panel to where the strap gave up, and when she crossed her legs under the desk the skirt slid off her thigh and she never once fixed it, because in this world nobody fixed it. I sat through the whole of first period with my bag on my lap, eighteen again in every way a body can be, and didn't take a single note.
+The desk next to hers was the best seat in Nagazora, and I'd have given it five stars in a review. When she leaned forward to write, a strand of her hair slid off her shoulder onto my side of the gap between the desks, and she put it back without looking, and somewhere in another life there was a character story that said she'd done that since she was small and hated it. I sat through the whole of first period with my pen in my hand, eighteen again and ten years a fan, and didn't take a single note.
 
 ```
 Raiden Mei
@@ -577,7 +577,7 @@ I was thinking it. I'd been thinking it since the gate.
 
 In my first life I'd been thirty-two and had never once confessed to anybody. There'd never been time, and then there'd been a second monitor, and the girl on it had been better company than anyone at work and had never asked me to come home earlier. I'd loved her for ten years, as you love something that can't hear you. Now she could. She was sitting a meter from my desk, and there were rules for this, the same in every school in Japan, and I'd learned them from about four hundred hours of other people's games.
 
-Every one of those twelve boys had wanted something. Her name, her father's money, the look on the other boys' faces afterward. She'd seen it in each of them in under a minute and shut the door. I wanted something too. I wanted her, badly, in every way the gate had reminded me of. But I'd wanted her for so long and from so far away that most of what was left was wanting to stand in front of her and say it out loud, once, to her face instead of to a screen.
+Every one of those twelve boys had wanted something. Her name, her father's money, the look on the other boys' faces afterward. She'd seen it in each of them in under a minute and shut the door. I wanted something too. I wanted her, badly. But I'd wanted her for so long and from so far away that most of what was left was wanting to stand in front of her and say it out loud, once, to her face instead of to a screen.
 
 I made myself one rule before I'd even decided. I wasn't going to tell her anything I had from the game. Every fan knows that one. You don't walk up to the real thing and tell her her own birthday.
 
@@ -704,7 +704,7 @@ I told him what I'd found, and only that. A research program with a budget and a
 
 The line went dead. I put together a folder, with printouts from my father's laptop and a page in my own handwriting explaining what they meant, and I took it to a freelance reporter called Hoshino Kei, who wrote about ME Corp for a business weekly and had, according to her own blog, been told twice by her editor to stop.
 
-She met me in a coffee shop near the station in a man's raincoat a size too big, hanging open, and under it she was wearing a newspaper. Body paint, columns and headlines and stock prices painted over her bare skin from her collarbones to her knees, a headline about a corporate scandal running across her stomach, and two little black pasties and a black strip between her legs painted over so they almost disappeared into the print. Ink on her fingers. Shorthand in real ink all down one forearm. A phone that kept dying. She was thirty-four and tired and hadn't slept. I read the headline on her stomach, and then the stock prices under it, column by column, and in my defense ME Corp was in there, down four points, so it was research. Then I made myself look at the folder. She read the folder twice while her coffee went cold.
+She met me in a coffee shop near the station in a man's raincoat a size too big, hanging open over a sweater with a coffee stain on it, a press card on a lanyard she'd forgotten to take off. Ink on her fingers. Shorthand in real ink all down one forearm. A phone that kept dying. She was thirty-four and tired and hadn't slept. The morning paper was folded on the table, and I read the headline upside down, and then the stock prices under it, column by column, and ME Corp was in there, down four points. Then I pushed the folder across the table. She read it twice while her coffee went cold.
 
 "Who gave you this?" she said.
 
@@ -741,7 +741,7 @@ On Monday, the class noticed.
 
 I'd known it was going to happen, and I'd known roughly how, and it was still something to watch. The three girls didn't sit with her at lunch. They didn't say anything about it. They just went to a different table, with their trays, laughing about something, and she sat by the window with her lacquered box, and nobody else sat down. By Wednesday Natsumi had moved her desk six inches further away. By Friday somebody had written something on the desk in marker, and she'd found it before anyone else came in and scrubbed it off with a wet tissue, and the smell of the cleaning fluid was still in the room at nine. Kuroda told me at lunch who'd written it, grinning, and waited for me to laugh, and I looked at the black ink on the side of his hand and didn't.
 
-Her clothes went next. The family tailor stopped coming the week of the arrest, and by December she was wearing the same two outfits in turns, and they were starting to go. One of the lacquered panels on her chest cracked across, and she cut both of them away and tied two strips of black ribbon over her breasts instead, in small careful knots, and the ribbon covered about half of what the panels had. The bottom panel went the same week and became one more ribbon, knotted at her hip. The latex split up her side from her ribs to her hip, and she closed it with three safety pins over bare skin. She tore the front of the skirt off when it ripped and hemmed what was left, so there was only the back panel now. The violet stone was gone from her collar, and there was an empty ring at her throat. She'd lost the tailor and half her clothes, and she was showing more of herself in that classroom than any girl in it, and she sat at her desk as straight as she ever had, as if she were still wearing all of it. Sayaka turned up the Tuesday after the arrest in a new set, white latex and gold chain, and the girl who'd turned eighteen in September had one to match by Thursday, and you could see their new table from across the room by the shine. Natsumi was still in her blazer. She'd have to wait till January to match. I looked at Mei's ribbons every day. I'm not going to pretend I didn't. The knots, the pins, the bare line of her side between them, and how little one tug on one bow would do. It was the filthiest thing in that room and she was the only one in it who didn't know. The worst of it was that she'd tied every one of those knots herself, carefully, at a kitchen table in a house that was too big for two people, and I knew that, and I looked anyway.
+Her clothes went next. The housekeeper who'd pressed her uniform every night for twelve years left the week of the arrest, and by December Mei was pressing it herself, at a kitchen table in a house that was too big for two people, and it showed. A button came off her blazer and she sewed it back on in thread that didn't quite match. Her tights laddered, and she stopped the ladders with clear nail varnish and wore them. The violet stone was gone from the clasp of her ribbon, and there was an empty setting at her throat. She sat at her desk as straight as she ever had, as if nothing about her had changed. Sayaka turned up the Tuesday after the arrest in a new coat, white wool with gold buttons, and the girl who'd sat on Mei's other side had one to match by Thursday, and you could see their new table from across the room by the shine of the buttons. I watched Mei's sleeve every day. I'm not going to pretend I didn't. The thread that didn't match, the crease she'd ironed in twice, the varnish on the ladder. The worst of it was that she'd done every bit of it herself, carefully, alone, and I knew that, and there was nothing in any wiki that told me what to do about it.
 
 Through all of it I went on crossing the courtyard at twenty to one.
 
@@ -804,11 +804,11 @@ She looked at me for a long moment, reading it. Then she got into the car, and t
 
 [No,] it said. [That's what I mean.]
 
-On the eighth of December Cocolia was on the television in my father's kitchen, at a podium with the ME Corp logo behind her, in her general's greatcoat, worn open and pushed back off her shoulders, and under it nothing but gold. Heavy gold chains from an eagle collar down between her breasts and round her ribs, two gold medals with red ribbons where her nipples were, a peaked cap, and below the podium the camera wouldn't go. A riding crop. She tapped it on her palm while she talked, and the journalists wrote it all down and nobody looked at anything but their notes. Interim chief executive. She had wavy blonde hair and eyes the color of the egg-shaped earrings she wore, and when she answered a question she looked straight down the camera as if she could see who was watching.
+On the eighth of December Cocolia was on the television in my father's kitchen, at a podium with the ME Corp logo behind her, in her general's greatcoat with the gold epaulettes, buttoned to the throat, an officer's cap under her arm. She tapped a pen on her palm while she talked, and the journalists wrote it all down. Interim chief executive. She had wavy blonde hair and eyes the color of the egg-shaped earrings she wore, and when she answered a question she looked straight down the camera as if she could see who was watching.
 
 "ME Corp will honor every contract," she said. "Nothing about our mission has changed."
 
-My father watched her with the expression of a man calculating whether he still had a job. I watched her because she'd been in my first life for years, as an icon on a menu, and in the boy's life since he was six, on page nine of the Book of Bad Days, in a greatcoat at a gate with a child holding each of her hands. I'd never seen her look at anything. Forties, built like a recruitment poster, wearing about a kilo of gold and a crop, and I sat two meters from my father and wondered, with real professional interest, which of the men in that boardroom she used it on.
+My father watched her with the expression of a man calculating whether he still had a job. I watched her because she'd been in my first life for years, as an icon on a menu, and in the boy's life since he was six, on page nine of the Book of Bad Days, in a greatcoat at a gate with a child holding each of her hands. I'd never seen her look at anything. Forties, built like a recruitment poster, and I sat two meters from my father and wondered, with real professional interest, how many of the men in that boardroom she'd already bought.
 
 Hoshino Kei had stopped answering her phone the week before.
 
@@ -1119,7 +1119,7 @@ September / October
 [2013, October. Trust: Wary.]
 ```
 
-She'd opened the door in her mother's jewels and not much else. Fine gold chains over her bare skin in loops, round her tits and her ribs and her hips, two gold plum blossoms set with amethysts where her nipples were, one more jeweled piece of gold between her legs, and a sheer black haori open off her shoulders that covered nothing, and she'd stood in the doorway in it looking at me for a long time before she said no. The boy in me wanted to apologize. The rest of me was counting amethysts. Every morning after that I rode in the front seat with her behind my uncle, out of the mirror, and every morning I shifted in the seat until I could see one bare knee and the edge of a garter in the side of the glass, and every morning that knee was the best part of my day and the only part of her that would look at me.
+She'd opened the door in her mother's kimono, the formal one with plum blossoms on the sleeves, too long in the sleeves for her, with an amethyst comb in her hair, because there were guests that evening and somebody had to receive them, and she'd stood in the doorway in it looking at me for a long time before she said no. The boy in me wanted to apologize. The rest of me was counting the plum blossoms. Every morning after that I rode in the front seat with her behind my uncle, out of the mirror, and every morning I shifted in the seat until I could see her hands folded on her bag in the side of the glass, and every morning those hands were the best part of my day and the only part of her that would face me.
 
 I tried everything. I tried being the boy, and she could tell I was being him. I tried being sorry, and I was sorry, as the boy's memories were sorry, and she could tell that it was five years too late. I tried the bench at the kendo club, and she changed the time of her practice. I didn't use anything I knew from the game. I didn't have to. Everything I knew about her that mattered, the boy had known, and he'd spent it.
 
@@ -1409,9 +1409,9 @@ August was four months away. In August a machine in the bunker under this house 
 
 Breakfast in that house was porridge and black bread and forty children, and matushka at the head of the table in her greatcoat with her coffee, reading reports from Moscow while the little ones fought over the jam. She looked up when I came in and smiled at me as if I were the best thing that had happened to her all week, and the boy in me went warm right through, and I let him.
 
-Bronya was at the end of the table where she'd always sat, in the wheelchair, with a cast on her left leg from the hip to the ankle. The doctors in Irkutsk had broken it again in March to set it straight. She'd turned eighteen in February, and this house had done what every house in this world did when a girl turned eighteen, and she sat there eating porridge in a harness of white straps and very little else, a pair of white bunny ears on a band in her hair and a fluffy white tail, and three small boxes drawn in black ink on her bare thigh above the cast, two of them ticked. Seele was beside her, buttering her bread for her. She'd turned eighteen in March and was still working out how to sit in hers. It was a hand-me-down from one of the older girls, a harness of faded blue rope tied in diamonds over her ribs, two blue satin cups, a white lace thong with a ribbon at the hip, and over all of it an enormous knitted cardigan that she kept pulling shut, and a book held against her chest because the cardigan wouldn't stay shut on its own.
+Bronya was at the end of the table where she'd always sat, in the wheelchair, with a cast on her left leg from the hip to the ankle. The doctors in Irkutsk had broken it again in March to set it straight. She'd turned eighteen in February. She sat there eating porridge in a gray hoodie two sizes too big, with the sleeves rolled to her wrists, and three small boxes drawn in black ink on the cast above her knee, two of them ticked. Seele was beside her, buttering her bread for her. She'd turned eighteen in March, and she was in a faded blue dress handed down from one of the older girls, with an enormous knitted cardigan over it that she kept pulling shut, and a book held against her chest because the cardigan wouldn't stay shut on its own.
 
-The boy had grown up with them. He'd seen them both change on their birthdays, and kept his eyes on his plate, and thought nothing about it he'd have been ashamed of. I wasn't the boy. I took the inventory before I'd sat down, the rope on Seele's ribs, the ticked boxes on Bronya's thigh, what the white straps did when she leaned forward for the salt, and the boy in me stared at his porridge so hard that he nearly put his spoon through the bowl. So I looked at my porridge too, mostly. In four months one of the girls at that end of the table would be gone, and the other would come back without most of her face, and some part of me that wasn't the boy didn't want to spend the four months looking at their straps.
+The boy had grown up with them. He'd watched them both turn eighteen in a house that had nothing to celebrate with and celebrated anyway, and he kept his eyes on his plate at that table because that was where they'd always been. I wasn't the boy. I'd loved them both for years on a screen in another life, Bronya most of all, and I knew what that table was going to lose. In four months one of the girls at that end of it would be gone, and the other would come back without most of her face, and I sat down and looked at my porridge for a while before I could look at either of them.
 
 "You're late," Bronya said, without looking up. "Bronya ate your bread."
 
@@ -1653,7 +1653,7 @@ I didn't say anything.
 
 I understood the shape of it then, and I said yes anyway, before the System could say anything at all. I had a route in Nagazora, sanctioned, paid for. I had Mei at the next desk and the whole of the operation behind me. I put the rest where it belonged.
 
-Bronya was at the gate on the morning I left, on the white legs, in a heavy gray coat over the harness, with snow on her shoulders. She'd been there since five. Nobody had told her what time the car was coming.
+Bronya was at the gate on the morning I left, on the white legs, in a heavy gray coat buttoned to the chin, with snow on her shoulders. She'd been there since five. Nobody had told her what time the car was coming.
 
 "Subject Eros will be here tomorrow," she said.
 
@@ -1695,7 +1695,7 @@ Then she hung up.
 
 Mr. Fujita introduced me to class 3-A on a Monday in October as a scholarship transfer from a school in Hokkaido, which was what the papers in my bag said, and put me by the window, because it was the only empty desk. It was always the only empty desk.
 
-She was at the next one, in black patent latex, the violet stone at her throat, the two little lacquered panels and the skirt that fell open every time she crossed her legs. Third file, third first morning. My body still did what it had done at the gate in Malmö's file, and I let it, for about as long as it took to sit down. Then I put it away. I had a sanctioned route and a man in a garage expecting a report, and I wasn't going to waste either on the side of a lacquered panel.
+She was at the next one, in the uniform worn exactly right, with the violet stone in the clasp of her ribbon. Third file, third first morning. The fan in me still did what he'd done at the gate in Malmö's file, the small stupid lurch of *That's Mei*, and I let him, for about as long as it took to sit down. Then I put him away. I had a sanctioned route and a man in a garage expecting a report, and I wasn't going to waste either on the line of her profile against a window.
 
 She gave me the smile she gave strangers in lifts.
 
@@ -1902,7 +1902,7 @@ It was the best route I'd ever had.
 
 On the eighth of December, Cocolia gave her first press conference as interim head of ME Corp, and that evening the man in the plain coat drove me to a hotel above the bay and took me up in a lift to the top floor.
 
-She was sitting by the window in the greatcoat from the press conference, open over the gold chains, with the cap over the back of her chair and the whole city lit up below her, eating soup.
+She was sitting by the window in the greatcoat from the press conference, unbuttoned now, with the cap over the back of her chair and the whole city lit up below her, eating soup.
 
 "Eros," she said, and put the spoon down and held out both hands.
 
@@ -1910,7 +1910,7 @@ I went to her. It was what the boy would have done. She took my face in her hand
 
 "Cecilia's boy," she said, very quietly, as she always had when nobody else could hear.
 
-She smelled of soup and wool. The boy in me had loved her as a mother for thirteen years. The rest of me had been looking down the fronts of things for two lives, and it looked now, at the gold on her chest while she held my face, out of pure habit. The boy was so ashamed of me that for a second I was ashamed too.
+She smelled of soup and wool. The boy in me had loved her as a mother for thirteen years. The rest of me had been a fan of hers for ten years before that, on the far side of a screen, and even now, lying to her face, it was quietly delighted to be in a room with Cocolia. The boy was so ashamed of me that for a second I was ashamed too.
 
 "Sit," she said. "Eat something. You're too thin. They don't feed you in this country."
 
@@ -1940,7 +1940,7 @@ She looked at me for a long time. Then she smiled and patted my cheek and picked
 
 I didn't pull back.
 
-On the second of January the old shrine below the hill was full of families in their good coats, queuing to ring the bell for the new year, and Mei and I queued with them, because she'd said she'd never gone without her father and didn't want to go without anyone. She wore her mended set under a long black coat that wasn't hers, a man's coat, her father's, I thought, too big in the shoulders, with the black ribbons over her breasts in their small careful knots and the safety pins down her side, and the empty ring at her throat where the violet stone had been. I looked, because I always looked. Then I stood next to her in the cold and let her hold my sleeve in the crowd.
+On the second of January the old shrine below the hill was full of families in their good coats, queuing to ring the bell for the new year, and Mei and I queued with them, because she'd said she'd never gone without her father and didn't want to go without anyone. She wore her uniform under a long black coat that wasn't hers, a man's coat, her father's, I thought, too big in the shoulders, and the empty setting on her ribbon where the violet stone had been. I looked, because I always looked, as you look at the last page of a chapter you know is going to hurt. Then I stood next to her in the cold and let her hold my sleeve in the crowd.
 
 She rang the bell, and clapped twice, and stood with her eyes closed for a long time.
 
@@ -1980,7 +1980,7 @@ On the twelfth of January, there was a knock at the door of my apartment at nine
 
 It was Bronya.
 
-She was smaller than I'd remembered, even knowing. She came up to my chest. She had her hair in its two long twisted tails and a school bag on her back and a face with nothing in it at all, and under a heavy gray coat hanging open she was wearing a gray latex catsuit, glossy, skin-tight from her ankles to her throat and unzipped from the collar to below her navel, the two edges of it pulling apart over her bare chest and stomach and hanging on to her breasts only at the sides. The zip pull swung just above her crotch. Bunny ears on a band. A fluffy white tail just showing under the hem of the coat, a sniper's holster on her thigh. By the lake I'd mostly kept my eyes on my porridge, because the boy wouldn't let me do anything else. In Nagazora there was nobody to stop me, and I looked at that zip pull, and at the two inches it had left to go, and only then at her face.
+She was smaller than I'd remembered, even knowing. She came up to my chest. She had her hair in its two long twisted tails and a school bag on her back and a face with nothing in it at all, and under a heavy gray coat hanging open she was in a plain gray tracksuit zipped to the chin, with a long hard case on a strap over one shoulder that anyone else would have taken for a cello she was too small to carry. By the lake I'd mostly kept my eyes on my porridge, because the boy wouldn't let me do anything else. In Nagazora there was nobody to stop me, and I looked at the case, and at the white knuckles on its strap, and only then at her face.
 
 Something moved in it. Very briefly. In that whole house it had only ever moved for two people, and one of them was in the Sea of Quanta.
 

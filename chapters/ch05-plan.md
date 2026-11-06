@@ -1,7 +1,8 @@
 # Chapter 5 plan: The Pin (Mei's run, part 3 of 3)
 
-Shelved for now: a possible new loop between Loops 7 and 8, "The Collar"
-(see the-collar-plan.md). If it ever goes in, "The Pin" becomes Loop 9.
+Archived for now: a possible new loop between Loops 7 and 8, "The Collar"
+(see ../archive/vulgar/the-collar-plan.md). If it ever goes in, "The Pin"
+becomes Loop 9.
 
 Status: written and rechecked (the pass after Loop 4). The v4 notes for
 these loops were only partly used; this is what the chapter now does. Spine,

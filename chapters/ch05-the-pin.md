@@ -33,11 +33,11 @@ The rules were still there, in their groove. Don't use it on her. Don't be the k
 
 I went over the wall on the fourth morning.
 
-I didn't actually go over it. I went round by the street and stood at the open gate of the Raidens' side garden in the dark, where there was a gap in the hedge, and the dojo was right there, a small wooden building with its doors slid open and a single lamp lit inside, and she was in the middle of the floor in her kendo armor and nothing under it, the black lacquered chest protector strapped over her bare body with its cords crossing her bare back, the stiff waist panels hanging over a white fundoshi, a white hachimaki round her forehead, her hair tied back, striking a post wrapped in straw. Over and over. The same cut. Her breath smoked in the cold.
+I didn't actually go over it. I went round by the street and stood at the open gate of the Raidens' side garden in the dark, where there was a gap in the hedge, and the dojo was right there, a small wooden building with its doors slid open and a single lamp lit inside, and she was in the middle of the floor in her kendo armor over an indigo jacket and hakama, a white hachimaki round her forehead, her hair tied back, striking a post wrapped in straw. Over and over. The same cut. Her breath smoked in the cold.
 
 She saw me on the forty-third stroke. I'd been counting.
 
-I'd been counting something else for the first forty-two. Every time she stepped in for the cut the waist panels flew up and there was her ass, bare round that white fundoshi, and every time she brought the sword down the cords pulled tight across her bare back and the chest plate lifted off her ribs, and I stood at the gap in the hedge at five in the morning with frost on my shoes and went over all of it, stroke by stroke, as I'd once read patch notes, for anything that had changed since the last file. Nothing had. That was its own kind of good.
+I'd been counting something else for the first forty-two. Every time she stepped in for the cut her back foot pushed and didn't step, and the hakama snapped round her ankles, and the sword came down on the same line to the width of a straw, and I stood at the gap in the hedge at five in the morning with frost on my shoes and went over all of it, stroke by stroke, as I'd once read patch notes, for anything that had changed since the last file. Nothing had. That was its own kind of good.
 
 She didn't stop. She finished the cut, and the next one, and the next, and then she lowered the sword and turned her head and looked at me through the open doors, and it was the Lightning Queen's look, the one that had been taking people's measure since primary school.
 
@@ -371,7 +371,7 @@ I went over the wall that time. I went straight over it in my bare feet with my 
 
 She was standing in the middle of the floor where she'd always stood, with the sword lying at her feet on the boards, and the lightning was coming off her in long slow strands, purple and white, crawling up the walls and over the ceiling and out through the open doors into the garden, where the frost on the grass was hissing. Her hair was down. It had grown. It was moving, all of it, lifting and drifting around her like weed in a current. When she turned her head, there were horns.
 
-The armor had burned off her. What she wore now was lightning, living bands of it coiled over her bare body, blazing over her tits and between her legs and thin enough everywhere else that I could see her skin flicker through it, and heavy black cuffs on her wrists with shattered chain hanging off them and floating in the static. I was standing in the Raidens' garden in my pajamas about to be killed by the girl I'd knelt behind on those boards every morning since September, and I spent my last second looking at her, all of her, as you take a screenshot before a crash. It was the last thing I did with my own eyes in that file.
+The armor had burned off her, and what she wore now was the Herrscher's, a long black robe edged in violet with the lightning pouring through it, its hem floating in the static, and heavy black cuffs on her wrists with shattered chain hanging off them. I was standing in the Raidens' garden in my pajamas about to be killed by the girl I'd knelt behind on those boards every morning since September, and I spent my last second looking at her, all of her, as you take a screenshot before a crash. It was the last thing I did with my own eyes in that file.
 
 "She's gone to sleep," it said.
 
@@ -705,7 +705,7 @@ The Lightning Queen. Taller than most of the boys, very straight, her bag held i
 
 Only one. There was a small bare place on the other side, above her left ear, where the second one had been for six years.
 
-She was in the school set, the black patent, and from the bottom of the walkway the straps and the panels and that skirt hit me as they had in every file. I was Torn. I had the island as a list and my own life as a door with no handle, and I couldn't have told you what I felt about anything. My body could. It had its own copy of her, older than the island, from the folder on a second monitor in another life, and it read her off the curb from the collar down in the time it took her to stand up, and wanted her, plainly, at full speed. It was the one process in me that still ran like that. I let it run. It didn't need a dataset.
+She was in the uniform worn exactly right, and from the bottom of the walkway she hit me as she had in every file. I was Torn. I had the island as a list and my own life as a door with no handle, and I couldn't have told you what I felt about anything. Something in me could. It had its own copy of her, older than the island, from the folder on a second monitor in another life, and it knew her off the curb in the time it took her to stand up and said *That's Mei*, as it always had, the small stupid lurch of a man who'd loved a drawing. It was the one process in me that still ran like that. I let it run. It didn't need a dataset.
 
 She saw me.
 
@@ -772,7 +772,7 @@ She looked up then, and her eyes were very bright, and she looked down again bef
 
 ---
 
-I went to the gap in the hedge at five on the fourth morning, and she was in the dojo in her armor with sweat on her bare back, and she saw me through the open doors and lowered the sword.
+I went to the gap in the hedge at five on the fourth morning, and she was in the dojo in her armor with sweat darkening the back of her jacket, and she saw me through the open doors and lowered the sword.
 
 "You're staying next door," she said. "With Mrs. Okada. Of course you are." She almost smiled. "Sit properly, if you're going to watch. You always sat like a sack of rice."
 
@@ -944,7 +944,7 @@ Affection: In Love
 
 Kiana Kaslana came through the door of 3-A at lunch on the sixteenth of December with her braids coming undone, and saw my instant noodles before she saw anything else.
 
-I saw the rest of her. Silver duct tape. Two wide crosses of it over her tits, one of them peeling up at the corner, which I noticed and went on noticing, a strip of it between her legs running up over each hip, more of it wound round her bare thighs, cut-offs hanging off her on one suspender, and a collar with a bell and a cardboard tag that said KIANA in marker, like a dog somebody was going to find in a park and bring home. Something in me noted that I could. I had a room at Mrs. Okada's and a cupboard full of noodles, and she'd follow anyone who fed her, and she'd thank me for it, and it would all be very easy. In another file I'd have wanted that so badly I'd have hated myself for it. Now I only noted it, like the corner of the tape, and kept the note.
+I saw the rest of her. A Chiba uniform that had belonged to somebody a size bigger, the blazer sleeves rolled twice, the ribbon tied in a knot instead of a bow, and trainers held together with silver duct tape, one strip of it peeling up at the toe, which I noticed and went on noticing. She looked as if she hadn't eaten since yesterday, which was the most Kiana thing I'd seen in two lives, and I noted that too, like the corner of the tape, and kept the note.
 
 "Are you going to eat that?"
 
@@ -1126,7 +1126,7 @@ I waited.
 
 On the morning of the fourth of February there was a small gray-haired woman on the roof of the office building across the road from the school gate.
 
-I saw her as I came up the hill with Mei and Kiana, a little shape against the white sky with her hair in two long twisted tails, standing very still at the parapet, looking down at the gate. Bunny ears, long white latex sleeves and white stockings to her hips and nothing at all between them, her whole bare torso to the wind, two little cyan hearts glowing on her tits, a cable running from her collar into something large folded down behind the parapet. Even from the street I looked at the hearts. In another file she'd sat across a table from me every night for a year and a half, and then come to my door. Nobody else looked up. I kept walking. I wasn't on any list she had.
+I saw her as I came up the hill with Mei and Kiana, a little shape against the white sky with her hair in two long twisted tails, standing very still at the parapet, looking down at the gate. A fitted white combat suit with lines of cyan glowing at the seams, a cable running from her collar into something large folded down behind the parapet. Even from the street I knew the suit. I'd seen it on a loading screen a thousand times. In another file she'd sat across a table from me every night for a year and a half, and then come to my door. Nobody else looked up. I kept walking. I wasn't on any list she had.
 
 I couldn't see any readings in that city. There were no screens in Chiba Academy that showed the Honkai. But I had the island as a list, and one of the lines on it was a woman in a watch room saying, two birds, both outside, and another was the principal saying, anything over ten, you call me, at any hour. Corruption had been feeding the thing in Mei all winter. Whatever came off her today was going to come off her bigger than it had in the game, and somewhere two hundred kilometers south a phone was going to ring, and a ship that had been sitting at two hours' notice for a week was going to stop waiting.
 
@@ -1152,7 +1152,7 @@ The door to the roof was open. Snow was blowing in through it, and with the snow
 
 She was at the far end, by the railing, and the lightning was coming off her in great slow sheets and crawling over the concrete and up the railing and away into the white sky. Her hair was down and longer and lifting. There were horns. The single pin was still in it, above her right ear, glowing where the lightning touched it.
 
-Her clothes had burned away into the Herrscher's, which were lightning. Living bands of it coiled over her bare body, blazing over her tits and between her legs and flickering thin everywhere else, broken chain hanging from her collar and her wrists. I was Torn, and the air was eating my lungs, and I looked anyway, because that was the one thing in me nobody had managed to take.
+Her uniform had burned away into the Herrscher's robe, long and black and edged in violet, the lightning pouring through it, broken chain hanging from her wrists. I was Torn, and the air was eating my lungs, and I looked anyway, because the fan who'd loved that design in another life was the one thing in me nobody had managed to take.
 
 Kiana was already there, halfway across the roof with a pistol in each hand and her uniform torn at the shoulder.
 
@@ -1512,7 +1512,7 @@ I got dressed and went down.
 
 The technical center was lit up from top to bottom at half past five in the morning, every window, and there were people running in the corridors, which I'd never seen on the island in five years. Somebody had taken the weather off the big display at the end of the corridor and put up a map of Nagazora with a red stain spreading out from the middle of it. I went down the stairs to the watch room.
 
-Yoon was there. She looked as if she'd been there all night. Her keyhole had twisted half off-center over one tit and she hadn't noticed, and the chain between her cuffs was caught on the headset cord, and on any other morning in five years I'd have stared until she threw a mug at me. I looked, and then I looked at the screen. Her headset was on her head for once, and she was talking into it in Korean very fast, and when she saw me in the doorway, she took one ear off and pointed at the main screen without saying anything.
+Yoon was there. She looked as if she'd been there all night. Her cardigan was buttoned wrong and her reading glasses were pushed up into her hair and she hadn't noticed, and the headset cord was wound twice round her wrist, and on any other morning in five years I'd have said something and had a mug thrown at me. I looked, and then I looked at the screen. Her headset was on her head for once, and she was talking into it in Korean very fast, and when she saw me in the doorway, she took one ear off and pointed at the main screen without saying anything.
 
 ```
 NAGAZORA (EXTERIOR, 2 STATIONS)
