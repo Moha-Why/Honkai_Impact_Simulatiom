@@ -32,8 +32,8 @@ before he does that the run is real.
 | Who | Scenes |
 |---|---|
 | Eros (first person) | the white, the log, the takeover, the confessions, the arrest at the stall, his side of the bullying, the hunts, the realization, the lighthouse after Mei runs, Monday, the roof door, his death, the white |
-| Mei | one October morning: what his confession is to her; the bucket, from inside the stall; the night she tells him about the ceiling tiles; December 16 in the corridor (five hundred centimeters and the USP); following them to the lighthouse; Monday at her desk; the stairwell door on February 4 |
-| Kiana | her first morning at Chiba and the corridor from the far end; the first hunt, when she notices he isn't sick; the aftermath of the lighthouse; the roof fight until she goes down |
+| Mei | one October morning: what his confession is to her; the bucket, from inside the stall; the night she tells him about the ceiling tiles; December 16 in the corridor (five hundred centimeters and the USP); following them to the lighthouse; Monday at her desk; the east stairs the wrong way round; Kiana leaving them alone; February 3; the stairwell door on February 4 |
+| Kiana | her first morning at Chiba and the corridor from the far end; the first hunt, when she notices he isn't sick; the aftermath of the lighthouse; the hunt by the rules; cornering Mei in the toilets; the roof fight until she goes down |
 
 ## Rules this loop runs on
 
@@ -202,57 +202,107 @@ before he does that the run is real.
     laughed." She crosses out the last part and writes "You'd have punched
     him. I did it for you." Across the water there's one light on in the big
     house on the hill. She thinks Mei-senpai is studying.
-22. **Monday (Mei, then Eros).** At her desk at eight-twenty he says it, like
-    always. Mei has heard him say he stopped meaning it, and he says it
-    anyway, with his face perfect. For the first time since September she
-    says nothing at all. The person at the back doesn't know how to mark it.
-    Kiana watches from the doorway, waiting to see if he means it. (Eros:
-    Corruption Compromised, two steps in a night. [Two steps in one night.
-    What did you do?] "Nothing.")
-23. **The week.** Mei stops making Kiana's box ("I didn't have time," the
-    first lie she's told him) and makes his more carefully. She waits at the
-    gate every morning and at the shoe lockers every afternoon. She asks where
-    he was each night; he says "Shifts," and she knows. Kiana: "Did I do
-    something? Tell me! I can't read minds!" Mei: "No. You can't." From the
-    station at two in the morning he sees every light on the hill come on. He
-    and Kiana guess it's the hunting. Neither guesses the lighthouse.
-24. **February 3.** At the shoe lockers: "Will you come to the roof tomorrow,
-    at lunch? Just you." He says yes. He decides to tell her the truth there.
+22. **Where they stand.** Two wrong secrets. Eros and Kiana think Mei is upset
+    about the evenings they disappear, so they think the secret is the
+    hunting. Mei is upset about the lighthouse. Kiana can't lie, and would
+    answer honestly if Mei asked her straight out, so Mei never asks straight
+    out: she's too proud to hear them lie to her face, and too afraid of the
+    answer.
+    - **Eros** respects Kiana's no and still loves her. He tries to do what she
+      told him and mean it with Mei, and doesn't know whether he does.
+    - **Kiana** holds everything together by force: the lunches (she does the
+      talking), the hunts (strictly business now: "You're the map. No walking
+      me home."), and her morning confession to Mei, louder than ever. She
+      pushes Eros and Mei together, clumsily.
+    - **Mei** holds on to him (he was hers first) and goes cold on Kiana (the
+      thief). She tests them both, never directly.
+23. **Monday morning (Mei, then Eros).** At eight-twenty he says it, like
+    always, with his face perfect, and she has heard him say he stopped
+    meaning it. For the first time since September she says nothing at all.
+    Then Kiana, from the doorway: "Mei-senpai! I love you! Go out with me!" Mei:
+    "I'm sorry, Kaslana-san. No." Kiana flinches at the surname. The person at
+    the back makes one mark and doesn't know what to do about the other.
+    (Eros: Corruption Compromised. [Two steps in one night. What did you do?]
+    "Nothing.")
+24. **Monday lunch (Eros).** Two boxes, not three. "I'm sorry, Kaslana-san. I
+    didn't have time." It's the first lie he's ever heard her tell; she cooks
+    at four in the morning. Kiana laughs it off and reaches for his box; Mei's
+    hand stops hers: "That one's his." Kiana eats convenience-store bread and
+    talks for all three of them. When she bumps his shoulder out of habit,
+    the light over the stairwell door buzzes and goes out.
+25. **Tuesday night (Kiana).** The hunt, by the rules. He's slow, and a turned
+    dockworker opens his forearm. She tapes it on a container lid: "Don't make
+    that face. You'll make it weird." He hasn't stopped liking her, and she
+    lets him not say so. She decides Mei must know about the guns, and is
+    scared for them both.
+26. **The walks (Eros).** Mei waits at the gate every morning and at the shoe
+    lockers every afternoon: "Walk me home." At her gate she asks where he
+    goes at night. "Shifts." She thanks him for walking her. On Wednesday she
+    sees the tape on his arm and asks nothing. On Thursday, holding his
+    sleeve: "Would you tell me, if you were going to leave?" "I'm not going
+    anywhere." It's true for him, and she hears a lie. "That's what everyone
+    says." [She asks a lot of questions for someone who isn't curious.]
+27. **Kiana asks (Kiana, then Mei).** In the girls' toilets Kiana corners her:
+    "Did I do something? Tell me! I can't read minds!" "No. You can't." Then
+    Mei's one near-question: "You'd tell me, wouldn't you, Kaslana-san, if
+    you'd taken something of mine?" Kiana, thinking of food: "Is it the egg
+    thing on Friday? I'm sorry! I'll make you one!" Mei walks out. Kiana's
+    honesty never gets the question it would have answered.
+28. **The corridor again (Mei).** With Kiana pushed away, Kuroda's group finds
+    Mei alone on the east stairs, and it's December 16 the wrong way round.
+    Kiana arrives and they scatter. "I didn't ask you to," Mei says, and goes
+    down the stairs. Kiana stands there with her fists still closed.
+29. **Kiana leaves them alone (Mei).** Kiana starts going away at lunch on
+    purpose ("Toilet! Long one!"), and sends Eros to walk Mei to the station
+    café. Mei reads it exactly wrong: she's giving him back, as if he were
+    hers to give. That night from the station he sees every light on the hill
+    come on at once.
+30. **The wrong plan (Eros and Kiana).** On the lighthouse steps Kiana decides
+    for both of them: Mei is scared because they keep vanishing, so they'll
+    tell her about the hunting, the guns, all of it, together. "She deserves
+    to know." He agrees. He means to tell her the other thing too, and doesn't
+    say so.
+31. **February 3 (Mei, then Eros).** At the shoe lockers: "Will you come to the
+    roof tomorrow, at lunch? Just you." Her last test: if he tells her himself,
+    alone, she doesn't know what she'll do. He says yes.
 
 ## Part 5: The roof (February 4)
 
-25. **Lunch (Eros, then Mei at the stairwell door).** He goes up. Mei isn't there yet; Kiana is ("You're going to
-    tell her. Good. I'm staying.") He can't make her leave. In the stairwell
-    door, unseen, Mei sees the two of them on the roof she asked him to come
-    to alone.
-26. **One-forty (Eros).** Bronya on the roof across the road; the air changes
+32. **Lunch (Eros, then Mei at the stairwell door).** He goes up. Mei isn't
+    there yet; Kiana is: "We tell her together. Both of us. She deserves to
+    know." He can't make her leave. In the stairwell door, unseen, Mei sees
+    the two of them on the roof she asked him to come to alone, and hears
+    "We tell her together." She goes back down without a sound.
+33. **One-forty (Eros).** Bronya on the roof across the road; the air changes
     in fifth period; Mei's chair is empty. He runs for the roof. Turned
     students on the stairs (the box cutter, his body, his lungs, the Eruption
     air on Low D). He gets the roof door shut behind him and holds it.
-27. **The Herrscher (Kiana).** It goes for her first, with no soft spot for her
+34. **The Herrscher (Kiana).** It goes for her first, with no soft spot for her
     at all. It sees them both as traitors, and since Eros was Mei's first,
     Kiana is the one who stole him. She's immune and fast, and it's like
     fighting the weather. It calls her a thief in Mei's voice. Less than a
     minute: into the water tank, an arm gone, the burn. The last thing she
     sees standing is Eros leaving the door.
-28. **Eros.** He sees her go down, stops fighting, lets the door go, and runs
+35. **Eros.** He sees her go down, stops fighting, lets the door go, and runs
     across the open roof to her.
-29. **The three of them (Eros).** The Herrscher, in Mei's voice, lower and
+36. **The three of them (Eros).** The Herrscher, in Mei's voice, lower and
     slower, tells him she was five meters away behind the shack and heard
-    him say he stopped meaning it. Kiana: "I said no! I hit him for you! I
-    told him to say it to you Monday and mean it!" The Herrscher: "He said it
-    Monday." And to him: "Did you mean it?" He can't answer. "You came up with
-    her." It watches him kneel by Kiana. "Look where he runs."
-30. **Eros and Kiana.** "What are you doing? Go to her! She's right there!" /
+    him say he stopped meaning it, and on the stairs heard "We tell her
+    together." Kiana: "I said no! I hit him for you! I told him to say it to
+    you Monday and mean it! We were going to tell you about the guns!" The
+    Herrscher: "He said it Monday." And to him: "Did you mean it?" He can't
+    answer. "You came up with her." It watches him kneel by Kiana. "Look where
+    he runs."
+37. **Eros and Kiana.** "What are you doing? Go to her! She's right there!" /
     "You're hurt." / "I'm immune, dummy." / "Did she see? At the
     lighthouse?" / "Tell her I said no. Promise you'll tell her." / "...The egg
     thing with the seaweed was really good. Tell her that too." / "Run,
     idiot." He doesn't. (Open: whether she says "I never said I didn't like
     you.")
-31. **The death.** It lifts him off her with lightning crawling up his coat
+38. **The death.** It lifts him off her with lightning crawling up his coat
     and doesn't hurry. The soul attack takes things as it goes. Kiana screams
     his name. Its last line, in Mei's own voice: "She'll find you."
-32. **The white.** Worn, and what the chunk took. The System on the wrong
+39. **The white.** Worn, and what the chunk took. The System on the wrong
     girl and the right roof. His cold choice for Loop 5, made where he can
     still make one (see ch05-plan.md). "Loop 5."
 
@@ -260,7 +310,7 @@ before he does that the run is real.
 
 September Noticed, Polite. October Friendly. November 18 Trust Open; early
 December Confides, Affection Fond, Corruption Bending; December 15 In Love.
-January 27 Corruption Compromised. February 4, on the roof, Fallen.
+January 27 Corruption Compromised. February 4, at the stairwell door, Fallen.
 
 ## Gifts on the page
 
