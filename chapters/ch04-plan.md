@@ -71,8 +71,10 @@ before he does that the run is real.
    long he'll last.
 6. **October, small things (Eros; one morning from Mei).** One umbrella in the rain; the library, where
    she corrects his kanji; the walk to the station on Fridays. Her "No" gets
-   a smile in it, then a pause before it. She asks why he keeps doing it.
-   "Because you answer." (Noticed, Friendly)
+   a smile in it, then a pause before it. At the crossing she asks why he
+   keeps doing it. He deflects with Emi's bet ("I can't let her down"),
+   admits it's "one of them", and when she asks for the others says
+   "Worse." No speech; he never explains himself. (Noticed, Friendly)
 7. **November 15, Friday.** At the station she says her father's coming home
    tomorrow for the first time in a month. "No," she says that morning, and
    very nearly laughs.
@@ -165,8 +167,8 @@ before he does that the run is real.
     and heard "Shifts" too often. From the station she follows them along the
     port to the breakwater at dusk and stands behind the bait shack, five
     meters from the lighthouse steps. She hears him tell Kiana he likes her,
-    and the part that damns him: he meant it with Mei once, and somewhere in
-    January he stopped meaning it and didn't stop saying it. Kiana goes
+    and the part that damns him: he meant it with Mei once, he doesn't know
+    when he stopped meaning it, and he didn't stop saying it. Kiana goes
     still, looks over her shoulder at the sea, and says "Me?" From five
     meters that's a yes. Mei runs, and a can she kicks rolls along the
     concrete. The dark comes up in her on the way home (they lied at every
@@ -179,7 +181,7 @@ before he does that the run is real.
       first choice, and she doesn't say so.
     - The mask, lightly: a grin goes on like a hat. "Huh. That's a first."
     - Then the strength: "You said it to Mei-senpai every morning. I was
-      there for thirty-one of them. You don't get to make me the one who
+      there for seventeen of them. You don't get to make me the one who
       wrecked it."
     - The punch, hard enough to sit him down on the concrete: "That's from
       Mei-senpai."

@@ -236,7 +236,7 @@ He nodded as if she'd told him the time. Behind him the boy at the back of the r
 
 ---
 
-She asked him on a Friday, at the bottom of the hill.
+She asked me on a Friday, at the bottom of the hill.
 
 On Fridays she had kendo until six, and the school gate closed at six, so the long black car waited for her at the taxi rank by the station instead, and some time in October I'd started walking down the hill at the same time she did, ten steps behind at first, then five, then beside her, without either of us mentioning it. It was the only time we were alone. She carried her bag in front of her in both hands, as she did on the curb, and her armor bag over one shoulder, and she never let me carry either.
 
@@ -248,21 +248,21 @@ Now she stopped at the crossing by the station with the lights on red, and didn'
 
 "Why do you keep doing it?" she said. "Every morning. You know what I'll say."
 
-"Because you answer."
+"Emi's got money on Christmas," I said. "I can't let her down."
 
-The lights changed. She didn't cross.
+She turned her head and looked at me.
 
-"Everyone answers," she said.
+"That's a terrible reason."
 
-"No, they don't." I'd watched them do it for three files. "They answer the name. The class, the hill, your father. You answer me. You look up before I've got to your desk now. You stop between the two halves, as if you're checking it. Nobody else in that building has said anything to me since September that took them half a second to decide."
+"It's one of them."
 
-She looked at me then. It was a long look, the one I'd seen her give the boy from 3-D in the courtyard, the one that went in through the words looking for the thing underneath, and I stood at the crossing and let her look.
+The lights changed. She didn't cross. She stood there with her bag in front of her in both hands, looking at me as though I were a sum that hadn't come out, and the lights went back to red.
 
-"That's a very strange reason," she said at last.
+"What are the others?"
 
-"I'm a very strange boy. Mr. Fujita says so."
+"Worse."
 
-"Mr. Fujita said you were clever. Probably." Something moved at the corner of her mouth and was put away. The lights changed again, and this time she crossed, and on the far side, at the rank, the old man had the door open, and she got in without saying goodbye. Then she put the window down.
+Something moved at the corner of her mouth and was put away. The lights changed again, and this time she crossed, and on the far side, at the rank, the old man had the door open, and she got in without saying goodbye. Then she put the window down.
 
 "The third stroke," she said. "You did it wrong again on Wednesday. I saw."
 
@@ -553,7 +553,7 @@ Trust: Confides
 Corruption: Bending
 ```
 
-[Look at that,] said the System, very softly.
+[Look at that,] said the System.
 
 I didn't answer it. After a while she sat up and wiped her face with the back of her wrist, and was angry with herself for a moment, and then got up and put the ice pack back in the freezer.
 
@@ -593,17 +593,13 @@ The candle flame bent in the draft from under the dojo door and stood up again.
 
 He was quiet for a while.
 
-"Twenty-four," he said. "In those stalls. I counted them once when I was waiting for you to come out of class."
+"Sixty-one," he said.
 
-She turned and looked at him. He had a cut taped shut over one eyebrow and a bruise going green along his jaw, and he was looking at the candle as though it were a perfectly normal thing to have counted the tiles in the girls' toilets. Something came up in her chest that she didn't have a name for, and went on coming up, and she looked back at the candle quickly, before he could see it on her face.
+She looked at him.
 
-"That's a very strange thing to know," she said.
+"From the toilet door to the door of 3-A. The corridor." He was still looking at the candle. "I counted them while I was waiting for you to come out."
 
-"I'm a very strange boy."
-
-"Mr. Fujita said clever."
-
-"Probably," he said, and she laughed, out loud, the first time since the sixteenth, alone in the dark on the step of her father's dojo with the house black behind them. It surprised her so much that she put her hand over her mouth.
+She stared at him. He had a cut taped shut over one eyebrow and a bruise going green along his jaw, and he had stood in the corridor with his PE jacket over his arm counting the floor while she counted it on the other side of the door. Something came up in her chest, and she looked back at the candle quickly, before he could see it on her face, and then she laughed, out loud, the first time since the sixteenth, alone in the dark on the step of her father's dojo with the house black behind them. It surprised her so much that she put her hand over her mouth.
 
 ---
 
@@ -884,7 +880,7 @@ Mei looked at me. She didn't say anything. She picked up her chopsticks again.
 
 It happened in the drainage tunnel, in the middle of January, on a Wednesday.
 
-There was more of them than the radar had said. One came up out of the black water behind me and got me by the back of the coat and pulled, and I went over backward into the water with my mouth full of it and something heavy on my chest holding me under, and the map and the gun went somewhere I couldn't reach. I had about four seconds to think it was going to be a very stupid way to die, in a drain, in January, in a file I'd thought I was doing right.
+There were more of them than the radar had said. One came up out of the black water behind me and got me by the back of the coat and pulled, and I went over backward into the water with my mouth full of it and something heavy on my chest holding me under, and the map and the gun went somewhere I couldn't reach. I had about four seconds to think it was going to be a very stupid way to die, in a drain, in January, in a file I'd thought I was doing right.
 
 Then Kiana landed on it.
 
@@ -902,7 +898,7 @@ In my first life I'd been twenty-two, and I'd downloaded the game on a train bec
 
 And now she was here, up to her waist in a drain, with a shopping bag in her hand, real all the way through, and I'd spent three weeks at her side being careful not to know it.
 
-*No,* I told myself. *Not her. Never her. You decided.*
+*No,* I told myself. *Not her.*
 
 "What?" she said. "What's that face? You're making a face. You never make faces."
 
@@ -910,7 +906,7 @@ And now she was here, up to her waist in a drain, with a shopping bag in her han
 
 She looked at me a moment longer, with her head on one side. Then she threw the bag at me and waded off down the tunnel to find the gun.
 
-[Oh dear,] said the System, very quietly.
+[Oh dear,] said the System.
 
 ---
 
@@ -930,15 +926,17 @@ She didn't buy the fish. She'd never done anything like it in her life, but she 
 
 They were sitting on the lighthouse steps with their backs to her, looking at the sea.
 
-"Kiana," he said. His voice was different. She'd heard it say ten words every morning since September at exactly the same weight, and it wasn't at that weight now. "I need to say something, and I need you to let me say all of it."
+"Kiana," he said. His voice was different. She'd heard it say ten words every morning since September at exactly the same weight, and it wasn't at that weight now.
 
-"Okay," said Kiana. Her voice was small, which it never was.
+Kiana looked round at him. "What?"
 
-"I like you." He said it to the sea. "Not as a friend. I've been trying not to for weeks, and I can't. I like you."
+He didn't say anything for a while. He picked at the tape on his knuckles.
+
+"I like you," he said, to the sea.
 
 Mei didn't breathe.
 
-"I know what it looks like," he said. "I've said it to Mei every morning since September. I meant it, at the start. Somewhere in January I stopped meaning it, and I didn't stop saying it. That isn't fair to her, and it isn't fair to you, and I couldn't sit on these steps one more time without telling you."
+"Not as a friend. I tried not to." He was still looking at the water. "I say it to Mei every morning. I meant it in September. I don't know when I stopped. I didn't stop saying it."
 
 Kiana didn't move. She sat very still on the step with her hands between her knees, and then she turned her head and looked over her shoulder, past Mei, at the sea behind them, as if there might be someone standing in it he'd meant instead.
 
@@ -950,7 +948,7 @@ Mei ran.
 
 She didn't decide to. Her feet decided, and her foot hit something in the dark behind the shack, a can, and it went rolling and clattering away along the concrete, and she didn't stop for it. She went back down the breakwater with the sea on both sides and her bag clutched against her chest, and up the harbor road, and up the hill, not running anymore but walking very fast with her face perfectly still, as she'd walked down the corridor in wet shoes.
 
-Every lunch, she thought. Every lunch on the roof. The three boxes. The best egg in Japan. All those mornings he'd stood up at her desk and said it, and she'd said no so that he'd say it again, and she'd stood at her gate on a Sunday with a bag of rice in her arms and said tomorrow to him first. And he'd stopped meaning it in January. He'd said so. And he'd gone on standing up at her desk every morning in front of everyone and saying it anyway, and they'd sat on the roof together and laughed at things she didn't understand, and she had fed them.
+Every lunch, she thought. Every lunch on the roof. The three boxes. The best egg in Japan. All those mornings he'd stood up at her desk and said it, and she'd said no so that he'd say it again, and she'd stood at her gate on a Sunday with a bag of rice in her arms and said tomorrow to him first. And he'd stopped meaning it. He didn't even know when. He'd said so, to the sea. And he'd gone on standing up at her desk every morning in front of everyone and saying it anyway, and they'd sat on the roof together and laughed at things she didn't understand, and she had fed them.
 
 They would go. Everyone went. In November they'd gone all at once, the girls, the club, the old man in the white gloves, her father down the steps with a jacket over his wrists. These two were only slower. They'd been lying to her at every lunch, and soon they'd stop bothering to lie, and then they'd go, together, and she'd be at the window end of the library stairs again with nobody on the bottom step.
 
@@ -960,7 +958,7 @@ She walked under a streetlight and it went out above her head. She walked under 
 
 Something rolled along the concrete behind the bait shack, clattering, and stopped. The wind, off the sea. I didn't turn round. Kiana was looking at the water.
 
-"Me?" she'd said, and that was all she'd said, and she was still looking past me at the dark sea as if there might be someone else standing out there in it that I'd meant. She'd never been anyone's first choice for anything. I'd seen it in the warehouse, in how she looked at her own radar when I'd asked about it. She didn't say so now. Kiana didn't say things like that.
+"Me?" she'd said, and that was all she'd said, and she was still looking past me at the dark sea as if there might be someone else standing out there in it that I'd meant. She'd never been anyone's first choice for anything. She didn't say so now. Kiana didn't say things like that.
 
 Then something went on over her face, quickly, like a hat, and she grinned.
 
@@ -968,11 +966,7 @@ Then something went on over her face, quickly, like a hat, and she grinned.
 
 "Kiana..."
 
-"No. Shut up. My turn." The grin stayed on, but her eyes had changed under it. "You said it to Mei-senpai every morning. Every single morning. I was there for thirty-one of them, I counted, I was standing right there in the doorway. You did it in front of everyone when they were throwing her books in the pool. You did it with your face all taped up." She stood up. "And I was jealous of you, you know that? I thought, that's the real thing. That's what it looks like when somebody means it. I was trying so hard to beat you."
-
-"I know."
-
-"You don't get to make me the one who wrecked it."
+"No. Shut up. My turn." The grin stayed on, but her eyes had changed under it. "You said it to Mei-senpai every morning. I was there for seventeen of them." She stood up. "You don't get to make me the one who wrecked it."
 
 She hit me in the shoulder, a short straight punch with her whole weight behind it, as she hit things in the warehouses, and my legs went and I sat down hard on the concrete at the bottom of the steps with my arm gone numb to the fingers.
 
@@ -1036,7 +1030,7 @@ At eight-twenty he stood up at her desk.
 
 "Raiden-san," he said. "I like you. Will you go out with me?"
 
-His face was perfect. It was exactly the face it had been every morning since September, and his voice was exactly the voice, every word at the same weight, and she had heard him on Saturday, on the lighthouse steps, with the sea going in and out, say that he'd stopped meaning it in January.
+His face was perfect. It was exactly the face it had been every morning since September, and his voice was exactly the voice, every word at the same weight, and she had heard him on Saturday, on the lighthouse steps, with the sea going in and out, say that he'd stopped meaning it and didn't know when.
 
 She looked up at him. She didn't say anything.
 
@@ -1207,7 +1201,7 @@ Kiana stood on the step above her, breathing hard, with her fists closed.
 
 "I didn't ask you to," said Mei.
 
-She went down the stairs without looking back. Behind her, she heard nothing at all from the step above for a long time, not a sound, and then she heard Kiana's fists open, the small sound of fingers uncurling, and Kiana go back up the way she'd come.
+She went down the stairs without looking back. Behind her there was no sound from the step above for a long time. Then she heard Kiana go back up the way she'd come, one step at a time, slowly, which Kiana never did.
 
 ---
 
@@ -1231,7 +1225,7 @@ I'd been lying awake. I'd got up for water, and the trains had stopped, and the 
 
 Then it went dark again.
 
-I stood at the sink with the glass in my hand. I'd never seen it in any file. I didn't need to have. It belonged to February, and it had come early.
+I stood at the sink with the glass in my hand. I'd never seen it in any file, and I didn't need to. It belonged to February, and it had come early.
 
 [Pretty,] said the System.
 
@@ -1243,7 +1237,7 @@ I looked at the sea too. There was a second thing Mei deserved to know, and it w
 
 "All right," I said. "We tell her."
 
-I didn't tell Kiana about the second thing. I meant to tell Mei both. I thought there'd be time for both.
+I didn't tell Kiana about the second thing. I meant to tell Mei both, on the roof, the guns first and then mine.
 
 ---
 
@@ -1384,11 +1378,11 @@ Then it looked at us. At the two of us, side by side in the doorway.
 
 "Your Mei?" The thing tilted its head, very slightly, as though she'd said something in a language it had only partly learned. "She made three this morning. Did you see?" It looked down at the boxes by the water tank. "She doesn't know why. She stood in the kitchen at four in the morning in the dark and made yours, Kaslana. The egg with the seaweed round it."
 
-Kiana's hands shook. "I said no!" she shouted. "At the lighthouse! I said no, Mei-senpai! I hit him for you! We were coming to tell you about the guns!"
+Kiana's hands shook. "I said no!" she shouted. "I hit him for you! We were coming to tell you about the guns!"
 
 "'We tell her together,'" said the thing in Mei's voice. "She heard you. On the stairs. She was standing behind the door with three boxes in her arms."
 
-I took a step forward. "Mei. It was only ever me. Listen to me. It was me, on the steps, and she said no. She said no to me."
+I took a step forward. "Mei. It was only ever me. She said no."
 
 The pink eyes came round to me, and rested there, and something in them was very nearly amused.
 
@@ -1396,7 +1390,7 @@ The pink eyes came round to me, and rested there, and something in them was very
 
 Behind us, down the stairwell, something was coming up. A lot of somethings. I could hear them on the stairs, the shuffle and the dragging feet. I put my back to the door and held it.
 
-I knew this fight. I'd watched it in another life more times than I could count, on a phone on the night bus, frame by frame. It went like this. She sent the bird. Then the wing. Then Kiana got close.
+I'd watched this fight in another life more times than I could count, on a phone on the night bus, frame by frame. She sent the bird first, and then the wing, and that was when Kiana got close.
 
 ---
 
@@ -1436,9 +1430,7 @@ The last thing she saw before it stopped turning was the door. He'd been holding
 
 ---
 
-In the game she gets her hand on the wing.
-
-I'd watched it a hundred times. She gets her hand on it and pulls, and it breaks off in her fist like a branch, and the storm stalls and the horns go and Mei comes back into her own eyes and says Kiana's name. That was how the fight went, every time I'd watched it.
+In the game she gets her hand on the wing and pulls, and it breaks off in her fist like a branch, and the storm stalls and the horns go and Mei comes back into her own eyes and says Kiana's name.
 
 Kiana was lying at the foot of the water tank with her arm under her, not moving.
 
@@ -1464,11 +1456,9 @@ Kiana was moving when I got to her. She'd got her good hand under her and was pu
 
 "Yes."
 
-"Oh," said Kiana. "Oh no." She shut her eyes for a second. Then she opened them and grabbed my coat with her good hand. "Tell her I said no. You tell her. Promise me you'll tell her I said no."
+"Oh," said Kiana. "Oh no." She shut her eyes for a second. Then she opened them and grabbed my coat with her good hand. "Tell her I said no. Promise me."
 
 "I'll tell her."
-
-"And tell her the egg thing with the seaweed was really good." Her voice cracked. "Tell her that too. I never said. I just ate them."
 
 Behind me the air was changing. I felt the static climb the back of my neck.
 
@@ -1482,7 +1472,7 @@ The thing by the railing looked at her.
 
 "Then die as one," it said.
 
-The bird came together over her head. I saw it gather, out of the purple cloud, white and enormous, the wings folding back, and I'd seen that frame before too, in another life, and I knew exactly where it was going to land.
+The bird came together over her head. I saw it gather, out of the purple cloud, white and enormous, the wings folding back, and I saw where it was going to land.
 
 My body moved before I'd told it anything, as it always had.
 
@@ -1502,13 +1492,11 @@ Kiana. She was dragging herself across the concrete toward me with one arm. She 
 
 "Why?" she said. "Why did you do that? That one was MINE! It was mine, you idiot, it was supposed to be me!"
 
-"I know where it was going."
+"I know."
 
 "You were supposed to go to her!" She was crying. She was furious and crying at the same time, with her face screwed up. "She's right there! You were supposed to go to her!"
 
 I couldn't answer that. I didn't have the breath. She held my head in her lap and looked down at me, and the anger went out of her face all at once, and what was under it was something I'd never seen there.
-
-She couldn't lie. She never had been able to.
 
 "I never said I didn't like you," she said.
 
@@ -1536,7 +1524,7 @@ Kiana looked up at her across the roof, and her face was wet, and she screamed i
 
 Mei heard it.
 
-It was the part she'd run from. She'd run before it was said, from behind a bait shack, with a can rolling away behind her in the dark, and she had built a whole week on top of the place where it should have been. She heard it now, on a roof, in the snow, with her hands still sparking and him on the concrete in Kiana's lap with a hole burned through his back.
+It was the part she'd run from. She'd run before it was said, from behind a bait shack, with a can rolling away behind her in the dark, and she had built ten days on top of the place where it should have been. She heard it now, on a roof, in the snow, with her hands still sparking and him on the concrete in Kiana's lap with a hole burned through his back.
 
 She took hold of one wrist with the other hand. It was what she did. She'd done it since she was small, when she was frightened, to keep her hands still. It wasn't enough. Her fingers were still sparking. She took hold of the other wrist too, both of them, crossed in front of her, gripping so hard her nails went into her skin, because she was afraid of her own hands. She was more afraid of her own hands than she had been of anything in her life.
 
@@ -1558,7 +1546,7 @@ His eyes found her. It took them a moment. They were very tired.
 
 She said it in the voice she used for the truth, short and final, with nothing soft left in it. It was her fault. She had followed them, and she had run, and she had not stayed to hear the end, and she had stood in a kitchen at four in the morning making three boxes, and she had let go. She had let go of everything she'd been holding since she was nine, and this was what had been under it.
 
-Then it came up out of her. All of it, at once. She didn't know she could make a sound like that. Nobody at Chiba Academy had ever heard the Lightning Queen make it, and nobody ever would. She knelt in the snow on the roof with her wrists crossed against her chest and broke, completely, as a dam goes, with Kiana's arm round him and his eyes on her face.
+Then it came up out of her. All of it, at once. She didn't know she could make a sound like that. Nobody at Chiba Academy had ever heard the Lightning Queen make it. She knelt in the snow on the roof with her wrists crossed against her chest and broke, completely, as a dam goes, with Kiana's arm round him and his eyes on her face.
 
 He was still looking at her when he stopped breathing.
 
@@ -1576,7 +1564,7 @@ I was on my knees in the white.
 
 I didn't remember getting there. I was on my knees with my hands flat on nothing, and I could still smell the burning wool, and somewhere behind my eyes Kiana was still saying *I never said I didn't like you* and Mei was still kneeling in the snow with her wrists crossed, making that sound.
 
-I reached for things. Some of them were there. The island, the seawall, the watch room. Mei at the crossing by the station, looking at me as though I were a strange reason. Kiana on the lighthouse steps with her mouth full. Some of them weren't. Where the garage had been there was a smooth place, like a wall that's been painted over, with only the fact of it left on the surface, a garage, two days, my own hand. I reached for the walls of the apartment where I'd died the first time and found I didn't know what color they'd been. There'd been a dog. I knew there'd been a dog. I couldn't find its name.
+I reached for things. Some of them were there. The island, the seawall, the watch room. Mei at the crossing by the station, looking at me as though I were a sum that hadn't come out. Kiana on the lighthouse steps with her mouth full. Some of them weren't. Where the garage had been there was a smooth place, like a wall that's been painted over, with only the fact of it left on the surface, a garage, two days, my own hand. I reached for the walls of the apartment where I'd died the first time and found I didn't know what color they'd been. There'd been a dog. I knew there'd been a dog. I couldn't find its name.
 
 [That's Worn,] said the System. [Whole events. You'll notice the gaps more than you notice what's in them. Everyone does.]
 
@@ -1590,7 +1578,7 @@ I stayed on my knees for a while.
 
 "And on the stairs. At lunch. She heard Kiana."
 
-[Two wrong secrets,] said the System. [You kept the guns from her, and she was never upset about the guns.] A pause. [It was very well done, really. Nobody did anything wrong for a whole week, and look.]
+[Two wrong secrets,] said the System. [You kept the guns from her, and she was never upset about the guns.] A pause. [It was very well done, really. Nobody did anything wrong for ten days, and look.]
 
 I got up eventually. The map was there, hanging in front of me with its stations, and the children's home was still lit at the bottom of it by the old port.
 
@@ -1628,4 +1616,4 @@ The System was quiet for a moment.
 
 "Loop 5."
 
-The map went out, station by station, until only the home was left at the bottom by the old port, and somewhere down there in the dark of it a box of mandarins was waiting on a step at four in the morning, and a girl on a roof had made three lunches without knowing why, and none of them remembered any of it but me.
+The map went out, station by station, until only the home was left at the bottom by the old port, and somewhere down there in the dark of it a box of mandarins was waiting on a step at four in the morning.
