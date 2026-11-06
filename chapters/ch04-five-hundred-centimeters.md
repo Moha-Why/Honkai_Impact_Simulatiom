@@ -742,7 +742,7 @@ The chair wobbled. Kiana didn't mind. She'd sat on worse things than a chair wit
 
 What she minded was that it was nine in the morning and lunch was at twelve-thirty, and the last thing she'd eaten was half a Homu burger at ten the night before, at the end of her shift, which the manager had written down in his little book and was going to take out of her pay. She sat through maths with her stomach making noises like a radiator and her radar in the inside pocket of her jacket, where it had buzzed twice since she'd come up the hill.
 
-It was a good radar. She'd built it herself out of a broken game console and a coil of copper wire and a needle off an old meter, and it was mostly right, and when it was wrong it was only wrong by a street or two. Last night, from the roof of her building by the port, she'd watched the needle swing round toward the hill and stay there. Something on the hill. Something near this school, maybe. She'd check after classes, when nobody was looking. The USP was in the other pocket, the heavy one, and the girl at the next desk had looked at the shape of it twice and decided it was a phone.
+It was a good radar. It had been the stinky old man's, like the guns, and like the guns he'd left it behind when he went. She didn't know how it worked. She knew it buzzed near Honkai and the needle pointed, and that it was mostly right, and that when it was wrong it was only wrong by a street or two. Last night, from the roof of her building by the port, she'd watched the needle swing round toward the hill and stay there. Something on the hill. Something near this school, maybe. She'd check after classes, when nobody was looking. The USP was in the other pocket, the heavy one, and the girl at the next desk had looked at the shape of it twice and decided it was a phone.
 
 People looked at her as they always did in a new place. The hair first, then the tape on the trainers, then the uniform, which had belonged to somebody bigger, then back to the hair. She grinned at a few of them. Two grinned back. One turned away. It was about normal.
 
@@ -886,7 +886,7 @@ On the way back down the stairs Kuroda's group was coming up. They saw Kiana and
 
 I followed Kiana for the first time on the twenty-seventh of December, in the winter break.
 
-I'd known since the gate what she did at night. Every fan of the game knew. Before the school on the hill, before anyone had heard of her, she'd been a girl alone in Nagazora with a homemade radar, hunting Honkai signals through the back streets. And I knew what was coming in February. In three files I hadn't lived long enough to see it. If I did this time, I wasn't going to meet it with nothing in my hands.
+I'd known since the gate what she did at night. Every fan of the game knew. Before the school on the hill, before anyone had heard of her, she'd been a girl alone in Nagazora with her father's pistols, hunting Honkai through the back streets. And I knew what was coming in February. In three files I hadn't lived long enough to see it. If I did this time, I wasn't going to meet it with nothing in my hands.
 
 So when I saw her come out of the Homu Happy by the station at ten, in her coat with her backpack on and her shift cap stuffed in her pocket, and turn not left, toward the old block by the port where she rented a room, but right, toward the warehouses, I put my noodles down at the stall and went after her.
 
@@ -920,7 +920,7 @@ It was the boy from Mei-senpai's class. Noodle guy. The one who said it every mo
 
 "Breathing," he said. "Give me a second."
 
-She gave him a second. She used it to look at him properly. She was good at that. She'd had to get good at it.
+She gave him a second. She used it to look at him properly.
 
 He wasn't coughing. That was the first thing. Everyone coughed in the bad air. She'd seen grown men from the boats go down on their knees in it, coughing up pink, and he was breathing like a man who'd run too far and that was all. His eyes were clear. And the thing by the wall, the one he'd cut first, had gone down because he'd opened the back of its knee, cleanly, in one move, like the stinky old man taking down a deer, and nobody at a school on a hill learned to do that.
 
@@ -928,7 +928,9 @@ He wasn't coughing. That was the first thing. Everyone coughed in the bad air. S
 
 "Strong stomach."
 
-He said it with a completely flat face. She looked at the face. It didn't tell her anything, which was strange in itself, because faces always told her something.
+"That's not a thing," said Kiana.
+
+He shrugged, as if it were.
 
 "You followed me," she said.
 
@@ -938,25 +940,37 @@ She didn't believe all of it. She could feel the part she didn't believe, like a
 
 "Is that a radar?" he said.
 
-"It's MY radar." She held it to her chest. "I made it."
+"It's MY radar." She held it to her chest. "It was my dad's."
 
-"It's drifting." He held out his hand. After a moment, because nobody had ever asked about the radar before, she gave it to him. He turned it over and looked at the coil and at the needle, and then he looked up at the cranes through the high window. "Those have electric motors. When they run at night, the field swamps your coil. That's why it jumps a street sometimes." He took his phone out, and a hairgrip out of his pocket that she was pretty sure was Mei-senpai's, and did something to the back of the radar for about two minutes, while she watched with both guns forgotten in her hands. Then he gave it back. The needle sat still as a stone and pointed straight at the next warehouse along.
+"It's drifting." He held out his hand. After a moment, because nobody had ever asked about the radar before, she gave it to him. He turned it over and looked at the back, where the battery cover was held on with tape, and his eyebrows went up, as if he'd bumped into somebody he knew.
+
+"Where did your dad get this?"
+
+"Don't know. He had loads of stuff."
+
+He peeled the tape back and shone his phone into the battery compartment. "The spring's gone. Somebody's stuffed foil in here."
+
+"Me. It kept switching off."
+
+"It still does. Every time you move, it loses power for a second and the needle wanders. That's why it's a street out sometimes." He took a paperclip off some folded papers in his coat pocket, bent it into a little coil with his fingers and fitted it in where the foil had been, while she watched with both guns forgotten in her hands. Then he pressed the tape back down and gave it to her. The needle sat still as a stone and pointed straight at the next warehouse along.
 
 "There's another one in there," he said. "Smaller."
 
 Kiana looked at the needle. She looked at him.
 
-"You fixed it," she said. "With a phone and a HAIRGRIP?"
+"You fixed it," she said. "With a PAPERCLIP?"
 
 "I'm on a scholarship."
 
-She thought about it for about as long as she thought about anything, which was not long. He was weird. He had a face like a shut door. He'd lied to her about something just now and she didn't know what. But he wasn't sick, and he hadn't run, and her radar had never once pointed that straight in its life.
+She thought about it for about as long as she thought about anything, which was not long. He was weird. He'd lied to her about something just now and she didn't know what. But he wasn't sick, and he hadn't run, and her radar hadn't pointed that straight since the stinky old man left.
 
 "Okay," she said. "You're the map. I'm the gun." She pointed one of them at him, not quite at him. "Don't tell Mei-senpai."
 
 ---
 
 We hunted three nights a week after that, all through the holiday and into January.
+
+Her radar was a Schicksal field detector. I'd known it as soon as I had the back off in the warehouse. It had the same sensor head as the birds Hamada used to drive me round to on the island, in a gray case made to be carried, with a logo on the back that somebody had scratched off. Her father must have walked out of Schicksal with it in his pocket. She called it her dad's radar and had no idea what it was, and I didn't tell her.
 
 A drainage tunnel under the old fish market, where the water came up to our knees and the things in it came up out of the dark with their eyes lit pink. A pachinko parlor by the ring road that had closed in the summer, with the machines still standing in rows and a smell of cigarettes and Honkai, where Kiana shot one off the top of a machine and the whole row of them lit up and played their jingles at once, and we stood in the dark in the noise of it and laughed until she had to sit down. The night ferry terminal, empty, with the departures board still turning over destinations nobody was going to.
 
@@ -1104,7 +1118,7 @@ She walked away down the breakwater without looking back, past the empty bait sh
 
 Kiana walked the whole length of the breakwater without hurrying, because he might be watching, and she wasn't going to give him that.
 
-At the bottom she turned left instead of right. There was a signal in the third row of warehouses she'd been saving, a small one, for the two of them, for Tuesday. She went and did it now, on her own, without the map. She found it with the radar he'd fixed with Mei-senpai's hairgrip, and it was two of them, crew from the night boats, and she went at them faster than she needed to and meaner than she needed to, and when the second one was down she stood over it and emptied the rest of the magazine into it anyway. The sound went round and round the warehouse.
+At the bottom she turned left instead of right. There was a signal in the third row of warehouses she'd been saving, a small one, for the two of them, for Tuesday. She went and did it now, on her own, without the map. She found it with the radar he'd fixed with a paperclip, and it was two of them, crew from the night boats, and she went at them faster than she needed to and meaner than she needed to, and when the second one was down she stood over it and emptied the rest of the magazine into it anyway. The sound went round and round the warehouse.
 
 Then she stood there with the gun empty in her hand and was furious with herself. Seven rounds. The stinky old man would have had her doing push-ups till midnight for that. *A Kaslana doesn't waste bullets on something that's already lying down,* he'd have said. *Who taught you that? Not me.*
 
@@ -1112,7 +1126,7 @@ She climbed up on top of a shipping container at the edge of the yard and sat th
 
 She made herself think about it properly. She was bad at lying to people and she'd never once managed it with herself.
 
-She'd liked him. A bit. Maybe more than a bit. He'd come into a warehouse full of dead men after her with a box cutter and fixed her radar with a hairgrip and never once asked her why she was alone. He was the first person in this whole town who hadn't run, except Mei-senpai, and Mei-senpai didn't count, because Mei-senpai was Mei-senpai.
+She'd liked him. A bit. Maybe more than a bit. He'd come into a warehouse full of dead men after her with a box cutter and fixed her radar with a paperclip and never once asked her why she was alone. He was the first person in this whole town who hadn't run, except Mei-senpai, and Mei-senpai didn't count, because Mei-senpai was Mei-senpai.
 
 That was why it was no.
 

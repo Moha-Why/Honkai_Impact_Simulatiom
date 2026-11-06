@@ -193,11 +193,14 @@ before he does that the run is real.
     work in a box cutter, eighteen-year-old thumbs; his body moves before he
     sees the lunge; ten fast meters and then his lungs. Kiana finishes it and
     stares. "Why aren't you sick? Everyone gets sick." "Strong stomach." His
-    cover: he followed the port's blackouts. Her homemade radar (a gutted
-    game console, a copper coil, a meter needle) drifts because the cranes'
-    motors swamp the coil; he fixes it with his phone and one of Mei's
-    hairgrips. "You fixed it with a phone and a HAIRGRIP?" "I'm on a
-    scholarship." She keeps him: he's the map, she's the gun.
+    cover: he followed the port's blackouts. Her radar is her father's, left
+    behind with the pistols, and she doesn't know how it works. It's an old
+    Schicksal field detector with the logo scratched off (Eros knows the
+    sensor head from Hamada's birds on the island, and doesn't tell her).
+    The battery spring is gone and she's stuffed foil in, so it cuts out and
+    wanders; he fixes it with a bent paperclip by the light of his phone.
+    "You fixed it with a PAPERCLIP?" "I'm on a scholarship." She keeps him:
+    he's the map, she's the gun.
 16. **The hunts.** A drainage tunnel, a shut pachinko parlor, the night ferry
     terminal. She teaches him to shoot and to fall; he learns the drills in a
     week and his lungs don't. Onigiri on the lighthouse steps. The stinky old

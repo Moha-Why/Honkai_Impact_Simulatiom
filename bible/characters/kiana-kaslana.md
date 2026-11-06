@@ -117,6 +117,13 @@ matter what your father did. You're Mei."
 corruption, so she's the only one who can go toe to toe with the Herrscher.
 In the run she carries the roof fight.
 
+**Her gear (story):** everything she fights with was her father's. Siegfried
+left the two pistols and an old handheld Honkai detector behind when he went
+in 2010. The detector is a Schicksal field unit with the logo scratched off;
+she calls it her radar, knows it buzzes and points at Honkai, and has no idea
+how it works or what Schicksal is. She isn't technical: when it breaks she
+stuffs foil in it.
+
 **More lines:**
 
 - "Mei-senpai! I mean Mei! We're the same year, I keep forgetting!"
