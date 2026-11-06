@@ -208,14 +208,22 @@ before he does that the run is real.
     answer honestly if Mei asked her straight out, so Mei never asks straight
     out: she's too proud to hear them lie to her face, and too afraid of the
     answer.
-    - **Eros** respects Kiana's no and still loves her. He tries to do what she
-      told him and mean it with Mei, and doesn't know whether he does.
-    - **Kiana** holds everything together by force: the lunches (she does the
-      talking), the hunts (strictly business now: "You're the map. No walking
-      me home."), and her morning confession to Mei, louder than ever. She
-      pushes Eros and Mei together, clumsily.
-    - **Mei** holds on to him (he was hers first) and goes cold on Kiana (the
-      thief). She tests them both, never directly.
+    - **Eros acts normal.** Kiana told him "like always," and he does it to the
+      letter, with Liar's Face. He respects her no and still loves her, and
+      doesn't know whether he means it with Mei.
+    - **Kiana can't.** She can't lie, so her body can't fake normal either.
+      She still shows up for everything (the lunches, the hunts, her morning
+      confession, louder now), but around him she gives herself away: she
+      stops stealing his food, the loudest tell there is, because she steals
+      everyone's; she sits on Mei's far side; she jumps when their fingers
+      touch over the thermos; she looks at the sea when he talks; once she
+      calls him "Eros-san" and shouts "EROS" to cover it. She pushes him and
+      Mei together, clumsily. [She's terrible at this. You're wonderful.]
+    - **Mei reads them backwards.** Kiana can't lie; everyone knows it. So
+      when Kiana can't look at him, that's the truth, and when he looks at
+      Kiana as he always has, that's the lie. She holds on to him (he was
+      hers first), goes cold on Kiana (the thief), and tests them both, never
+      directly.
 23. **Monday morning (Mei, then Eros).** At eight-twenty he says it, like
     always, with his face perfect, and she has heard him say he stopped
     meaning it. For the first time since September she says nothing at all.
@@ -228,11 +236,13 @@ before he does that the run is real.
     didn't have time." It's the first lie he's ever heard her tell; she cooks
     at four in the morning. Kiana laughs it off and reaches for his box; Mei's
     hand stops hers: "That one's his." Kiana eats convenience-store bread and
-    talks for all three of them. When she bumps his shoulder out of habit,
-    the light over the stairwell door buzzes and goes out.
+    talks for all three of them, from Mei's far side, and doesn't touch his
+    box. He steals a piece of her bread, as he always has, and she flinches.
+    The light over the stairwell door buzzes and goes out.
 25. **Tuesday night (Kiana).** The hunt, by the rules. He's slow, and a turned
     dockworker opens his forearm. She tapes it on a container lid: "Don't make
-    that face. You'll make it weird." He hasn't stopped liking her, and she
+    that face. You'll make it weird." "I'm not making a face." "Yes you
+    are... no you're not. That's worse." He hasn't stopped liking her, and she
     lets him not say so. She decides Mei must know about the guns, and is
     scared for them both.
 26. **The walks (Eros).** Mei waits at the gate every morning and at the shoe
@@ -285,24 +295,32 @@ before he does that the run is real.
     sees standing is Eros leaving the door.
 35. **Eros.** He sees her go down, stops fighting, lets the door go, and runs
     across the open roof to her.
-36. **The three of them (Eros).** The Herrscher, in Mei's voice, lower and
-    slower, tells him she was five meters away behind the shack and heard
-    him say he stopped meaning it, and on the stairs heard "We tell her
-    together." Kiana: "I said no! I hit him for you! I told him to say it to
-    you Monday and mean it! We were going to tell you about the guns!" The
-    Herrscher: "He said it Monday." And to him: "Did you mean it?" He can't
-    answer. "You came up with her." It watches him kneel by Kiana. "Look where
-    he runs."
-37. **Eros and Kiana.** "What are you doing? Go to her! She's right there!" /
+36. **Eros and Kiana (as he reaches her).** "What are you doing? Go to her! She's right there!" /
     "You're hurt." / "I'm immune, dummy." / "Did she see? At the
     lighthouse?" / "Tell her I said no. Promise you'll tell her." / "...The egg
     thing with the seaweed was really good. Tell her that too." / "Run,
-    idiot." He doesn't. (Open: whether she says "I never said I didn't like
-    you.")
-38. **The death.** It lifts him off her with lightning crawling up his coat
-    and doesn't hurry. The soul attack takes things as it goes. Kiana screams
-    his name. Its last line, in Mei's own voice: "She'll find you."
-39. **The white.** Worn, and what the chunk took. The System on the wrong
+    idiot." He doesn't.
+37. **The three of them (Eros).** The Herrscher, in Mei's voice, lower and
+    slower, tells him she was five meters away behind the shack and heard
+    him say he stopped meaning it, and on the stairs heard "We tell her
+    together." Why Kiana went first: "He's very good at this. You aren't.
+    That's how she knew which of you to start with." Kiana: "I said no! I hit
+    him for you! I told him to say it to you Monday and mean it! We were going
+    to tell you about the guns!" The Herrscher: "He said it Monday." And to
+    him: "Did you mean it?" He can't answer. It watches him kneel by Kiana.
+    "Look where he runs."
+38. **The question (Eros).** It lifts him off her with lightning crawling up
+    his coat. Then it turns to Kiana and asks the question Mei never could:
+    "She never asked you. She was afraid of what you'd say. I'm not." / "Tell
+    him you don't want him, Kaslana. Say it, and he can go." Kiana would say
+    anything to save him. Her instincts tell her it's a trap, and she can't
+    lie anyway. She looks for words that aren't a lie and aren't a
+    confession, and the only true ones are: "...I never said I didn't like
+    you." / "No," it says. "You didn't."
+39. **The death.** It doesn't hurry. The soul attack takes things as it goes.
+    Kiana screams his name. Its last line, in Mei's own voice: "She'll find
+    you."
+40. **The white.** Worn, and what the chunk took. The System on the wrong
     girl and the right roof. His cold choice for Loop 5, made where he can
     still make one (see ch05-plan.md). "Loop 5."
 
