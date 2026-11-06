@@ -60,7 +60,8 @@ each run writes a branch into the Imaginary Tree.
   success instead of resetting it.
 - **Each heroine run also has a set end,** the point where her arc closes.
   If he's still alive then, the run ends there. Mei's run ends when the
-  Hyperion arrives over Nagazora.
+  Hyperion arrives over Nagazora, three or four days after the Eruption
+  (canon). No loop has ever kept him alive that long.
 
 ## Life Path (heroine runs)
 

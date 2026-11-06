@@ -100,3 +100,42 @@ author's approval.
 - **The wing root** is her weak point (canon: Kiana tears the wing off).
 - Her lightning is a soul attack (see
   [soul-and-fate.md](soul-and-fate.md)).
+
+## Eros, Mei run, Loop 5 (proposed, awaiting the author's approval)
+
+**Rating: Civilian.** The same body, the same gifts and the same Field Craft
+as Loop 4, but no hunts and no gun: he never goes where Kiana goes. What's
+new is a sword, learned in two steps: the kendo club from October, then the
+Raiden family forms from Mei at dawn from January. Quick Learner makes him
+fast to learn; it does nothing for his arms. By February 4 he has the forms
+in his head and five weeks of them in his body.
+
+| Move | What it is | Looks like / sound | Limit |
+|---|---|---|---|
+| [Kendo: Men], [Kendo: Kote] | Club basics: the head strike and the wrist strike | Clumsy, loud, a beginner's stamp. *PAK* | A beginner's. Good for learning, useless against anything that doesn't stop when hit |
+| [Raiden, First Form: Shiden] | One straight cut, the fastest thing in the style | A single line, almost no wind-up. *SHFF* | Fast for him, not fast. One cut; if it misses he's open |
+| [Raiden, Second Form: Raimei] | The parry: meets the blow and turns it aside along the blade | The other thing's force goes past him. *KNNG* | Turns a blow; doesn't stop one. Each one costs his wrists, and his weapon |
+| [Raiden, Third Form: Inazuma] | The wrist strike that takes a weapon out of a hand | Down across the wrist, then away. *TAK* | Needs the opening Raimei makes. Against a pipe, he takes the hit first |
+
+- **Weapons:** an umbrella when that's what he has; from January a practice
+  sword in a cloth bag, carried every day. Wood: it splinters, and it burns.
+- **Still:** Quick Reflexes, Field Craft (no box cutter at school), Sprinter
+  for one burst, and his weak body. Mei's forms are names he can say and
+  shapes he can make, not power.
+
+## Kiana Kaslana, Loop 5 (alone)
+
+The same kit as Loop 4, with nobody to be the map. Her father's radar still
+has the foil in it, so it cuts out and the needle wanders. She carries the
+bat from the new year as before.
+
+## The Herrscher of Thunder, Loop 5 (proposed, awaiting the author's approval)
+
+The same newborn kit as Loop 4 (Wrath of the Violet Heaven, Thunderbird,
+Violet Sanctum, Crescent, the catch), plus:
+
+| Move | What it is | Looks like / sound | What gets past it |
+|---|---|---|---|
+| Shiden (Novel) | Her body remembers the Raiden style: she becomes the lightning, crosses ten meters and cuts with her hand | A white streak. *ZZRAK* | It's the girl's first form, and he has learned it: he can see where it's going |
+| The Queen's word | One spoken word that lands as a blow ("Kneel." The static pushes down like a hand on the back of the neck) | The air thickens; knees buckle | Walking anyway |
+| Mine | The finisher in Loop 5: her hand into his chest | Her hand through his coat, lit from inside | Nothing. Only Mei, from inside |

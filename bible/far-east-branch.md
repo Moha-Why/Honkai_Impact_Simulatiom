@@ -160,6 +160,7 @@ without HQ asking why and Anti-Entropy noticing. Nobody from Schicksal is
 inside Nagazora before the Third Eruption, which Cocolia triggers
 artificially and suddenly. Schicksal responds once it starts (canon: the
 Hyperion is sent after the spike, and Himeko "responded to the 3rd
-Eruption"). Theresa's only precaution is the Hyperion on two hours'
+Eruption"). It reaches Nagazora three or four days after the Eruption
+begins, once HQ clears it. Theresa's only precaution is the Hyperion on two hours'
 standby. Himeko is a St. Freya instructor and isn't sent anywhere
 beforehand.

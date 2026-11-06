@@ -57,7 +57,8 @@ the run. It isn't a punishment and it isn't a redemption.
   Eruption at Chiba Academy in February, his place in Mei's class. Canon's
   2004 kidnapping of Mei is fixed too, though the screen doesn't say so.
 - **Schicksal** doesn't enter Nagazora before the Eruption.
-- **The run ends** when the Hyperion arrives over Nagazora.
+- **The run ends** when the Hyperion arrives over Nagazora, three or four days
+  after the Eruption (canon), if he's still alive by then.
 
 
 ## The Life Path (as written)
@@ -107,7 +108,7 @@ Five attempts. Each tries a different door into her life.
 | 2 | Reroll | Wake at 18 | Tanabe's nephew from birth | "You're not him." He resets himself. | Frayed |
 | 3 | The Inside Man | Wake at 18 | Siberia, Cocolia's orphanage | Self: kept in the ME Corp tower, he goes over the terrace rail (ordinary) | Frayed, close to Worn |
 | 4 | Five Hundred Centimeters | Wake at 18 | The port children's home; daily confessions; Kiana, the hunts, the lighthouse | Herrscher lightning, after he runs to Kiana | **Worn** |
-| 5 | Liar's Face | Wake at 18 | The same birth; the same year, played as a lie | The wound, as the Hyperion arrives | **Torn** (the hand) |
+| 5 | Liar's Face | Wake at 18 | The same birth; the same year, played as a lie | The wound, on the roof, as the purple goes out of the sky | **Torn** (the hand) |
 
 ### Loop 1: "The Lightning Rod" (about 6k words)
 
