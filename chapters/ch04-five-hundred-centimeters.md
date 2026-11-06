@@ -381,9 +381,11 @@ I stood at the rank until I couldn't see it anymore, and then I walked home.
 
 ---
 
-The noodle stall had a television on a bracket over the counter, turned to the news with the sound down, and at ten past one on the sixteenth it showed the house on the hill.
+The noodle stall had a television on a bracket over the counter, turned to the news with the sound down. I'd been sitting under it since twelve on the sixteenth with a bowl I wasn't eating.
 
-I knew the gate before I knew what I was looking at. Then the camera found the steps, and the cars, three of them, plain and dark, and a man in an overcoat being brought down the steps between two others with a jacket folded over his wrists. The caption ran along the bottom. RAIDEN RYOMA, ME CORP CHIEF EXECUTIVE, DETAINED. FRAUD. The old man reached up and turned the sound on, and a reporter's voice filled the stall with words like irregularities and the foundation and ongoing.
+I couldn't be anywhere near the house when it happened. The last time I'd tried to get in its way, the man in the gray car had come for me a week later. So I sat at the stall and watched the news with the sound off, and at ten past one it showed the house on the hill.
+
+The camera found the gate, and the steps, and the cars, three of them, plain and dark, and a man in an overcoat being brought down the steps between two others with a jacket folded over his wrists. The caption ran along the bottom. RAIDEN RYOMA, ME CORP CHIEF EXECUTIVE, DETAINED. FRAUD. The old man reached up and turned the sound on, and a reporter's voice filled the stall with words like irregularities and the foundation and ongoing.
 
 At the end of the counter Daichi had stopped eating.
 
@@ -391,7 +393,11 @@ At the end of the counter Daichi had stopped eating.
 
 "Yes."
 
-"His kid goes to your school. The girl." He looked at me, and whatever he saw made him put his chopsticks down. "Go on, then. I'll pay."
+"His kid goes to your school. The girl."
+
+"She's in my class." I was already off the stool, putting coins down on the counter.
+
+Daichi pushed them back at me with two fingers. "Go on, then," he said. "I'll pay."
 
 It was twenty-five minutes up the hill. I did it in fifteen, the first half running and the second half walking with my hands on my knees every hundred meters, and when I came round the last bend the cars had gone.
 

@@ -112,8 +112,12 @@ before he does that the run is real.
 
 ## Part 2: After the sixteenth (November 16 to December 15)
 
-8. **November 16.** The arrest on the television at the noodle stall, Daichi
-   at the end of the counter. He runs up the hill. The cars are gone; she's
+8. **November 16.** He waits at the noodle stall on purpose: he can't be
+   anywhere near the house when it happens (Loop 1, the gray car). The
+   arrest comes on the television at ten past one, Daichi at the end of the
+   counter. "His kid goes to your school. The girl." "She's in my class." He's
+   already off the stool; Daichi pushes his coins back: "Go on, then. I'll
+   pay." He runs up the hill. The cars are gone; she's
    at the gate in her coat, alone. He stands there with her until dark. She
    never brings up what he told her at the rank.
 9. **Monday.** Natsumi moves her desk first. "Criminal's daughter" on her
