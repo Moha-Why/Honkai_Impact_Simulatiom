@@ -1592,7 +1592,7 @@ Heat first, a coin of it under her breastbone. Then a second heartbeat, slower a
 
 *Let me,* it said.
 
-It wasn't a voice. It was her own thoughts, in her own words, said in a way she had never once let herself say them.
+It was her own thoughts, in her own words, said in a way she had never once let herself say them.
 
 "No," said Mei.
 

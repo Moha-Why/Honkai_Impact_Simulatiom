@@ -118,7 +118,7 @@ power behind it, the same forms are lightning.
 | Fourth Form: Hekireki (Thunderclap) | Three cuts in one step: throat, wrist, thigh. One sound made of three | Mei's. *KRAK* |
 | The last form | Her father never finished teaching it to her | |
 
-## Eros, Mei run, Loop 5 (proposed, awaiting the author's approval)
+## Eros, Mei run, Loop 5
 
 **Rating: Civilian.** The same body, the same gifts and the same Field Craft
 as Loop 4, but no hunts and no gun: he never goes where Kiana goes. What's
@@ -147,7 +147,7 @@ The same kit as Loop 4, with nobody to be the map. Her father's radar still
 has the foil in it, so it cuts out and the needle wanders. She carries the
 bat from the new year as before.
 
-## The Herrscher of Thunder, Loop 5 (proposed, awaiting the author's approval)
+## The Herrscher of Thunder, Loop 5
 
 The same newborn kit as Loop 4 (Wrath of the Violet Heaven, Thunderbird,
 Violet Sanctum, Crescent, the catch), plus:

@@ -1,6 +1,6 @@
 # Chapter 5 plan: Liar's Face (Loop 5)
 
-Status: plan v7, rebuilt after the Chapter 4 rewrite. Replaces v6 and the
+Status: plan v7, written as [ch05-liars-face.md](ch05-liars-face.md) (about 14,400 words). Rebuilt after the Chapter 4 rewrite. Replaces v6 and the
 old "The Pin" (archived in
 [../archive/mei-run-eight-loops/](../archive/mei-run-eight-loops/)). Spine
 and rules: [ch03-plan.md](ch03-plan.md). Fights follow
