@@ -1,191 +1,191 @@
-# Chapter 4 plan: The Knife and the Bandage (Mei's run, part 2 of 3)
+# Chapter 4 plan: White Comet (Mei's run, part 2 of 3)
 
-Status: written to plan v4 (Loop 4 about 12k words, the six stages below);
-Loops 5 and 6 as before. Spine, rules and continuity: ch03-plan.md.
-Dialogue pass: every conversation that was only reported is now played as a
-scene (the assembly, Sayaka's lunch, Rin and the letter, Natsumi, the
-thunderstorm, Kiana's heater, the lunches, the school-office call), and the
-Monday lunch Eros quotes on the Thursday is now on the page.
+Status: rebuilt from scratch (plan v5). Replaces the old Chapter 4 (Loops
+4 to 6, "The Knife and the Bandage", "The Fixed Node", "Nine"), which is in
+[../archive/mei-run-eight-loops/](../archive/mei-run-eight-loops/). Spine,
+rules and continuity for the whole run: [ch03-plan.md](ch03-plan.md).
 
-## Why Loop 4 is being rebuilt
+## What this loop is built on
 
-Loop 4 reads as a scoreboard: Eros says the right line, a meter goes up,
-repeat. Five causes:
+- **The menu and the body.** Before 18 the childhood is a log, and Eros
+  picks its forks from the white. It's a menu, so he can be cold there.
+  At the takeover the boy's eighteen years arrive as his own memories, and
+  from then on the world is too real to play coldly. He plans a knife in
+  the white and never gets to use it.
+- **Kiana was his first love.** In his first life she was the first of
+  them he loved, the reason he kept playing. In this file she walks into
+  the Homu Happy by the station two weeks before she walks into Chiba
+  Academy, and he leaves Mei's route for her.
+- **Mei kills him for it.** Her other personality is the part of her that
+  doesn't need anyone, and it won't let anything else have Kiana. It wakes
+  on the fixed date and kills him on the roof. Herrscher lightning, Worn.
+- **Never Kiana still holds.** He never moves against her: no lies about
+  her, nothing done to her, nowhere sent. He knows whose she is and that
+  someone is watching her. Loving her anyway is the divergence.
 
-1. Every scene is a turning point, so none of them feels like one. There's
-   no slow build between them.
-2. Mei has no life of her own. She never tries to fix anything herself, so
-   the meters seem to move on their own.
-3. His moves never cost or fail. The one stretch with resistance (Trust
-   stuck at Open) gets two paragraphs.
-4. The meter windows narrate the change instead of her behavior showing it.
-5. Eight loops in one chapter leaves each loop 5k to 8k words. The lesson
-   loops (2, 5, 6) can live with that. The two full romances (4, 8) can't.
+## The loop at a glance
 
-## Rules for the full loops (4, 7, 8)
+| | |
+|---|---|
+| Name | White Comet |
+| Birth | the Sakura-no-Ie children's home by the old port (chosen at the end of Chapter 3) |
+| Start | wake at 18 on April 13, 2013; every fork before that is his, from the white |
+| Soul | Frayed in, Worn out (Herrscher lightning, February 4) |
+| Objectives | none complete |
+| Unlocks | a birth at the ME Corp hospital, to a night nurse in the children's ward, from Mei's ceiling tiles |
+| Length | about 15,000 words |
 
-- **Each meter step takes several scenes,** in this order: what Eros tries;
-  how Mei resists, tests him or goes her own way; something that backfires
-  or costs him; something in her own life he doesn't control; and only then
-  the shift.
-- **Mei always wants something of her own** and acts on it. Eros has to
-  work round her, not just talk at her.
-- **At least one failed move per stage.** Corruption is work he's doing.
-- **Meter windows only at real thresholds,** four or five per loop. Between
-  them, the change shows in what she does: saving a seat, waiting at the
-  gate, flinching when he's kind, not asking where he's been.
-- **Ordinary days.** Some scenes don't turn anything. A lunch where nothing
-  happens. A walk in the rain. They're what make the turns feel earned.
+## Beats
 
-## Loop 4: "The Knife and the Bandage" (about 13k words, as written)
+1. **The white.** Status (three loops, Frayed). What the three files took.
+   His rules, and the new one he hasn't said out loud: no operation this
+   time, whatever is done to her he does with his own hands. In the white
+   the System's lie is easy to believe. [Loop 4. Be patient. You hate being
+   patient.]
+2. **The childhood log.** Every fork cold, each with a one-line reason.
+   - 1995: found in a mandarin box at the port; Mrs. Hōjō names him from
+     the hospital band.
+   - 1997: the Okadas. Hide under the long table (a boy with a family on
+     the hill is a name on somebody's list).
+   - 2002: once a year Mrs. Hōjō takes the month's birthday children to the
+     Homu Happy by the station. He orders the same thing every year and
+     makes it last. (No fork.)
+   - 2003: Ryoma in a plain suit. Wrong on purpose. "My daughter does that
+     at kendo when she's bored."
+   - 2004: the girl on the hill taken, on the common-room television.
+   - 2006: Daichi takes the little ones' dinners. Tell Mrs. Hōjō.
+   - 2009: Haru at the gate. The truth, early. Haru stops waiting, is
+     adopted, never speaks to him again.
+   - 2009: Daichi back at the port. Serve him and say nothing. Daichi pays
+     for his noodles every Saturday for four years.
+   - 2012: the scholarship exam. Keep both pencils.
+   - 2013: he passes; Mrs. Hōjō cries; the noodle man tells him about
+     Daichi.
+3. **The takeover.** The boy's eighteen years arrive whole, and the forks
+   are memories now, with everything the boy felt in them: Haru at the
+   gate, the paper boat, Daichi's back going into the Kobe van. The world
+   is real by breakfast. [You made him that way. Fork by fork.] He takes
+   the apartment two minutes from the station. September.
+4. **September.** Daichi at the noodle stall; Eros thanks him, the first
+   word between them in four years. Class 3-A, the next desk; desk
+   neighbors share day duty, so every other week he and Mei keep the class
+   journal. Her line every day: "Fine weather. No absences." His jokes get
+   erased ("Mr. Fujita reads it"). (Noticed, Polite)
+5. **October.** He watches, as the plan says. On a Tuesday the car is late
+   and she stands under the walkway checking her watch, very straight, and
+   he sees Haru at the gate. He tells her the coast road is closed; it's
+   true. The System sells November.
+6. **November 16.** The arrest on the television at the noodle stall,
+   Daichi at the end of the counter. The node holds; it held in the first
+   file too.
+7. **November 18, the turn (a scene).** Natsumi moves her desk first.
+   Sayaka's line. It's their duty week, and someone has written "criminal's
+   daughter" across the blackboard. The plan's first cut is in his mouth
+   ("They were never your friends"). He picks up the other eraser instead,
+   because Haru at the gate is his memory now and the world won't stay a
+   menu. The journal: "Fine weather. No absences." [You had a line ready.]
+   [You said with your own hands.] [Okay.]
+8. **The end of November.** The receiver freezes the ME Corp foundation and
+   the scholarship stops paying his rent; the school lets him finish the
+   year. Mrs. Hōjō offers the bed back; he takes evening shifts at the Homu
+   Happy instead. Mr. Ōno and his book of deductions. The last duty day of
+   the month: two weeks of him erasing the board without a word, and Mei,
+   unprompted, says she hasn't slept since Saturday, and that at nine, in
+   a hospital, she counted the ceiling tiles at night, a hundred and
+   twelve, because nobody else was awake. (Friendly, Open)
+9. **December 6, Kiana.** A new girl at the counter in the yellow cap with
+   the felt ears, eating a fry from the warmer while Ōno writes it down.
+   The first-love memory, once. "Are you going to eat that?" (his staff
+   noodles). "I can eat the rest. I'm very good at eating the rest." Her
+   name; the face holds and the hands don't. Never Kiana, and the rent.
+   [Wrong banner, Eros.]
+10. **The shifts.** Closing at eleven, her change wrong, Ōno's book. The
+    walk to her room by the port, a week behind on the rent. The stinky
+    old man. He has the truth about her father and the girl she is, and
+    says nothing; he told a six-year-old the truth once. The woman in the
+    gray coat at the window seat who never touches her tea and leaves when
+    Kiana leaves.
+11. **December 16, the combined first meeting (school half).** Kuroda from
+    3-B: "Hey, Queen. Who's paying for your lunch now?" The box on the
+    floor; Mei stands and takes it. Kiana, new that day, looking for
+    "noodle guy," deals with him, then: "That looked really good! If you're
+    not going to eat it, give it to me! And from now on, you're making me
+    lunch every day!" Mei: "Please don't. It's better for you if you
+    don't." The fan watches the scene from the game with himself in it as
+    furniture.
+12. **December lunches.** The window table: the criminal's daughter, the
+    transfer with taped trainers, the scholarship boy and his noodles. Mei
+    cooks for Kiana, badly and then less badly. Kiana loves Mei-senpai out
+    loud. Eros watches Kiana. [You're looking at the wrong one.]
+13. **Christmas Eve, his choice (a scene).** The Christmas rush; Ōno bins
+    the unsold cakes ("That's garbage. Garbage isn't stock."). The back
+    step by the station. Kiana asks why he looks at her as if she's going
+    to disappear. He chooses her: the first thing in two lives he's wanted
+    that isn't on anyone's list, the System's lie working for him for once,
+    and a world that feels real anyway. [Okay.] Then silence.
+14. **New Year.** The shrine on the hill at midnight (in the first file a
+    gun found him behind it). Her prayer out loud. The kiss, hers, brief.
+15. **January 7, first day of term and Kiana's birthday.** Mei has made her
+    a birthday box. Kiana tells the window table about the shrine because
+    she can't not ("Is that allowed? Is there a rule?"). Mei holds one wrist
+    with the other hand. The light over the desk flickers. [Jealousy isn't
+    a meter. I checked.]
+16. **January.** Mei goes on cooking for Kiana and stops looking at him.
+    From the port at two in the morning he sees every light in the house on
+    the hill come on at once. The woman at the window seat writes something
+    down. He goes on.
+17. **February 4.** Bronya on the roof across the road. One-forty, the air
+    changes. He runs for 3-C, not 3-A; Kiana is already running for the
+    roof. The stairs (Sprinter and its lungs), a box cutter from the duty
+    cupboard (forty years of knife work, eighteen-year-old thumbs), the
+    Eruption air (Low D). The roof: the Herrscher, "Give Mei back!" It sees
+    him behind Kiana: she watched them every lunch; nothing else gets to
+    have her. It throws Kiana aside, and the lightning comes all at once
+    across the concrete. The full death, Kiana holding him. Its last line,
+    in Mei's voice: "She'll find you."
+18. **The white.** Worn, and what the chunk took (the apartment of his
+    first death, the night clerk, the dog at Willow Street, most of the
+    garage file). The System: she was never on the banner; files don't come
+    back; she has her own banner, not yet. The new birth from the ceiling
+    tiles. His cold choice, made where he can still make one: the body loves
+    whoever is real in front of it, so he'll build a body that has loved
+    Mei since it was nine and give the run to that boy. [Eighteen years in a
+    box. Things fade in boxes. You'll come out a stage thinner.] "The night
+    nurse." [Finally.] ♪
 
-**Chapter opening:** a short passage in the white after Loop 3. Status
-window (Frayed, three loops), what the three deaths took, the rules, and his
-plan: this time nobody does it for him.
+## Meters (windows only at thresholds)
 
-Born at the port children's home. Scholarship, the apartment by the
-station, kendo club manager, September. He breaks her down himself. Meters:
-Noticed and Polite (Stage 1), Friendly (Stage 2), Trust Open on the Monday
-after the arrest, Close and Bending (Stage 3), Compromised (Stage 4). Trust
-then sticks at Open.
+- September: Noticed, Polite.
+- November 29: Friendly, Open.
+- After Christmas: nothing moves, and the System says so.
 
-**Rule for this loop (from the user's notes on the first draft):** Mei is
-the Lightning Queen and gives nothing away for free. She never confides in
-one exchange. Eros learns most private things by watching, not by being
-told. His lies have to survive her, and she reads words, not faces, so the
-lies that work are true things put side by side, or one bare word.
+## Gifts on the page
 
-### Stage 1: the bench (September)
-- The Queen: a second-year's letter at the shoe lockers ("Thank you. I am
-  not looking for anything of that kind."). Polite to everyone, warm to no
-  one in the school.
-- The hall, the job, the forms. Rin tells him about the dawn practice (five
-  in the morning since she was six) while he tapes her wrist.
-- The first-years' cords: twenty laps, "learn to do it right." Tomo: "She
-  made a second-year cry last spring."
-- **His mistake:** a page in the record book on the captain alone. "What
-  do you want?" "A reason to be somewhere." The far end of the bench.
-- **The correction:** he writes pages for all thirty-one girls. Rin admits
-  Mei asked her to watch him and shows Mei the pages. "Come back to your
-  end. The draft's bad down here." (Noticed, Polite)
-- She laughs only with Tanabe, at the car.
+- Quick Learner: the register, the fryer timings and Ōno's shorthand in one
+  shift; the fryer basket still blisters his fingers.
+- Quick Reflexes: catches the tray of drinks Kiana knocks off the counter;
+  flinches every time Ōno lifts his pencil.
+- Sprinter: the first two flights of the east stairs in one breath; the
+  third takes his lungs.
+- Hunting and Field Craft: the box cutter in a turned student's throat;
+  forty years in the hands, eighteen-year-old thumbs.
+- Honkai Resistance: hours in the Eruption air.
+- Liar's Face: the first time Kiana says "Kaslana," his face holds and his
+  hands drop the chopsticks.
 
-### Stage 2: the corridor (October)
-- Footwork in the corridor ("If you're going to do it in my corridor, do
-  it properly").
-- The October assembly announces her father's scholarship and makes him
-  stand. "Did he send you? To watch me?" He tells the truth, the 2003
-  test. "Did he say anything else?" "No." She gives nothing back. The next
-  evening she leaves her side open on purpose in a bout and looks at the
-  bench: a joke.
-- She asks her father to the Kobe match; the empty seat; twenty minutes of
-  silence on the steps; her hand on his shoulder. (Friendly)
+## New characters
 
-### Stage 3: the bandage (November)
-- The arrest; Monday; "Please." (Trust Open)
-- He sees her at the station with an accountant's file box and a law firm's
-  envelope; she says nothing. He goes to the accountant's office himself and
-  reads the notice on the glass. She goes back to the lawyer on Monday.
-- Thursday, the steps: "They were never your friends." She doesn't believe
-  him and asks Sayaka on Friday; Sayaka sits with her at lunch (the TV
-  drama, the class chat turned face down, "You'll have to watch it with
-  me." "I would like that."). Monday, a rumor to Emi about the police;
-  Tuesday, Sayaka leaves again. Natsumi heard him.
-- The board letter in Rin's copy; the vote; the resignation, handed to Rin
-  at her classroom door ("I'd have voted for you." "I know you would have.
-  So it's better that you don't have to."). "Mei. You may as well use it."
-  (Close, Bending)
+- **Ōno Masaru,** manager of the Homu Happy by Nagazora Station (profile).
+- **The woman at the window seat,** unnamed: Schicksal's eye on K-423, never
+  confirmed (noted in kiana-kaslana.md).
 
-### Stage 4: the knife (December)
-- The receiver: staff gone, the car gone. Tanabe rings every evening; the
-  voice with the laugh in it.
-- The rainy lunch: convenience-store rice balls laid in the lacquered box.
-  "That was nice."
-- Tanabe: rehired by ME Corp's car pool. Eros puts two true things side by
-  side and says "Go and look." She watches the old man open a door for a new
-  director. (Compromised; "You didn't even lie.")
-- The visit, alone. "How was he?" "Thin." Then, "Do you want something from
-  me?" "No." One word with nothing in it to read.
-- The days away and her messages. The snow ("There's something wrong with
-  me"), the house blazing at 2 a.m.
-- Natsumi tells Mei the truth at the shoe lockers; Mei: "Please don't come
-  closer now to tell me who else I should stay away from."
-- The thunderstorm story, told the evening after her storm: "Why are you
-  telling me this?" "You told me yours." "I didn't ask you for anything for
-  it." She won't take it as a trade. Trust stuck, and he doesn't know why.
+## Continuity
 
-### Stage 5: the wall (December 16 to January)
-- Kiana; the corridor; the park warning backfires (Mei gives her the summer
-  house); the call he doesn't make; Mei cooking for Kiana.
-- **January (what tips her early):** two boxes on the desk and his bread;
-  the meters haven't moved since December. He finds a true thing at Monday
-  lunch, alone with Kiana while Mei gets the tea: she'll go wherever her
-  father goes ("Nobody here ever asks about him." "I'm asking."). Thursday:
-  "Ask her." Kiana: "Punch him... And then go wherever he's going, I guess." The
-  light over the desk flickers. Mei starts checking on Kiana every day, and
-  holds Eros's sleeve ("You'd tell me. If you were going anywhere."). The
-  streetlights go out down the hill. The System: "Frightened's a meter too."
-
-### Stage 6: the roof (late January)
-- The death, in full. **The white:** the System tells him what Ryoma said
-  through the glass ("Anyone who comes close now wants something") and why
-  Trust never moved. "Then she can't see me want anything."
-
-## Loops 5 and 6 (short)
-
-- **Loop 5** stays about 3k to 4k, as now: Mrs. Okada, the arrest through
-  the window, Kiana in the park, the snow, the call to the school office
-  (anonymous, "My daughter's in her year"), the truck. It works as a short
-  consequence.
-- **Loop 6** stays about 3.5k, as now: the childhood log and the last
-  minute in the white.
-
-
-## Gifts on the page (Chapter 4)
-
-- Quick Learner: the footwork in two weeks, the lungs at forty seconds
-  (Loop 4); the boy learns the sword faster than any child but Mei (Loop 6
-  log).
-- Sprinter: up the stairwell before anyone has looked up, four flights and
-  the lungs give out (Loop 4).
-- Quick Reflexes: a hand's width from the lightning (Loop 4); a little out
-  of the truck's way (Loop 5).
-- Hunting and Field Craft: forty years of a knife on a split slat of bamboo,
-  and eighteen-year-old thumbs (Loop 4).
-- Honkai Resistance: hours of Eruption air on the roof stairs (Loop 4).
-  Liar's Face: the lie about Siegfried (Loop 5).
-
-## Loops 4 to 6 as first planned
-
-#### Loop 4: "The Knife and the Bandage" (about 6k words)
-
-As written (scholarship, station, kendo manager; he breaks her down himself;
-Kiana, "You're the one who makes her sad"; the persona, "You're the one who
-made her small"). **Unlocks:** the house next door. **Lesson:** be the cure,
-never the knife.
-
-#### Loop 5: "The Fixed Node" (about 1.5k words)
-
-As written (Kiana, the snow, the truck on the ice). **Lesson:** a fixed node
-can't be stopped; what comes after it can be moved.
-
-#### Loop 6: "Nine" (about 3k words, mostly log lines)
-
-- **Nodes:** live it. The Raidens' housekeeper's son, Mr. HOMU's other
-  student at six, there when she's taken at nine.
-- The first time he gives up control. A real child lives it: a boy raised on
-  the estate, who learns the sword beside her from a man in a Homu
-  mascot suit, and who is in the back of the car with her and Mr. Tanabe one day in
-  2004.
-- **The kidnapping** is fixed. The child does what a brave, stupid nine-year-
-  old does with a bokken against grown men. He dies on the road. The log
-  lines are short and the scene is offscreen.
-- **The white:** he gets it all back at once, nine years of a childhood he
-  lived, and the last of it. The first time in the run he can't keep his
-  voice level.
-- **Lessons:** a lived history is real, and he can't steer the child who
-  lives it. The kidnapping can't be touched. But the three years after it
-  are a door.
-- **Unlocks:** a patient at the ME Corp institution.
-- **The System:** "He was very brave. You'd never have done that."
-
+- Fixed nodes hold: his place in her class, the arrest on November 16,
+  Kiana enrolling on December 16 (in 3-C), the Eruption at Chiba Academy on
+  February 4.
+- Ages: Mei 18 from April 13, 2013; Kiana 18 all autumn and 19 on January
+  7, 2014. Nothing romantic before the takeover.
+- Mei's ceiling tiles are her own in this file. In Loop 5 the boy counts
+  them with her.
+- Kuroda is the bully from 3-B in this file; he never knew Eros.
