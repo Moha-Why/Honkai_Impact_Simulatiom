@@ -505,7 +505,7 @@ I'd spent the whole night telling myself it was a save file. That lasted until h
 
 She was taller than I'd expected, taller than most of the boys getting out of the cars, and she stood very straight, with her bag held in front of her in both hands and her hair, which really did go all the way down to the backs of her thighs, falling over one shoulder in a dark wave with a blue sheen to it. Two pins held part of it up. She was in the Chiba uniform, worn exactly right, the navy blazer buttoned, the ribbon at her collar tied as if somebody had measured it, a small violet stone in its clasp. Everyone who plays a game like that for long enough ends up with a folder. Mine had been eleven gigabytes, sorted by artist, and every artist in it had undersold her. Nothing in it had prepared me for how still she was. She stood on that curb as if somebody had told her at six that the whole school was watching, and she'd never once found a reason to doubt it. I counted her steps from the car to the walkway, because I count things. Nine. I'd paid real money for her before, on a limited banner at three in the morning, and that had only been a drawing.
 
-The fan in me wanted to ask for her autograph. The rest of me wanted to know whether the Lightning Queen had ever once in her life been told no. I let the two of them argue it out. My face didn't do anything. It stayed pleasant and a little bored, a transfer student watching a rich girl get out of a car.
+The fan in me wanted to ask for her autograph. The rest of me wanted to know whether the Lightning Queen had ever once in her life been told no. I let the two of them argue it out. I kept my face pleasant and a little bored, a transfer student watching a rich girl get out of a car.
 
 She said something to the driver, and he smiled at her and looked ten years younger, and then she turned and walked under the covered walkway with three girls falling into step around her as though they'd been waiting, all three of them laughing a little too much at whatever she'd said. A woman from the school office went past with a clipboard and said good morning to her by name, and to nobody else.
 
@@ -772,7 +772,7 @@ Corruption: Untouched
 
 [You're saying them now,] said the System. [In October everybody said things to her. Now you're the only one who does. She doesn't read faces, Eros. She reads what people say, and who's still saying it.] A pause. [Your grandmother could have told you that.]
 
-I watched her through all of it with my perfect face, and somewhere around the first Thursday in December I caught myself thinking a sentence, all the way to the end, before I noticed what it was.
+I watched her through all of it, and somewhere around the first Thursday in December I caught myself thinking a sentence, all the way to the end, before I noticed what it was.
 
 The arrest was the best thing that was ever going to happen to my route.
 
@@ -1534,7 +1534,7 @@ Bronya found out at breakfast.
 
 There was nothing to find. There was an empty place beside the wheelchair and nobody buttering her bread, and forty children not saying anything, and she looked at the empty place, and then at matushka at the head of the table, and then at me. She looked at me for a long time. I was the one who'd have known. I was the one Seele would have told.
 
-I looked back at her with my perfect face, and her own face came apart.
+I looked back at her as if I didn't know either, and her own face came apart.
 
 By nine she was in the bunker. I don't know how she got the chair down the stairs. I found her at the bottom of them, at the door of the room with the egg in it, with a knife from the kitchen held against her own throat in a hand that wasn't shaking at all, and matushka in front of her with both hands up, as if Bronya were a sniper on a ridge in the snow again.
 

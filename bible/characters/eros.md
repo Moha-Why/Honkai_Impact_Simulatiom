@@ -105,6 +105,17 @@ each other for the whole story:
 - **Physically ordinary:** knows he dies easily and plays it safe until the
   System changes that.
 
+## How others see him
+
+- To the people around him he's an ordinary boy of his type: in the Mei run
+  the scholarship boy from the port homes, the new kid, the one who
+  confesses every morning. Nobody finds him mysterious. They put him in the
+  obvious box until something he does on the page doesn't fit it, and the
+  heroines start out thinking he's like any other boy.
+- His face is a normal face. Liar's Face only stops it giving away a lie;
+  the rest of the time it shows what he feels, and people read it like
+  anyone's. He misreads people as often as they misread him.
+
 ## Voice and habits
 
 - Narrates in first person: dry and sardonic, full of programmer and gamer

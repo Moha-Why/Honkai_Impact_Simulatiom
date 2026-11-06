@@ -73,10 +73,11 @@ Check these before planning a chapter and again before sending it.
   she knows of him by then. Most of what Eros learns about a guarded
   heroine, he learns by watching. If she would never tell him, he finds out
   another way, or not at all.
-- **Lies have to survive the listener.** Mei reads words, not faces, so
-  Liar's Face only hides his face. A lie that works on her is built from
-  true things, or is too short to read. Check every lie against how that
-  character actually tests things.
+- **Lies have to survive the listener.** Liar's Face only hides his face,
+  so a lie still has to get past what he says. A sharp listener like Mei
+  notices a question that wasn't answered, as anyone sharp would. A lie
+  that works on her is built from true things, or is short and plain.
+  Check every lie against how that character actually tests things.
 - **Talk stands on an event.** A conversation happens because something
   just happened or is about to. If nothing on the page has made the
   question come up, don't write the conversation; write the thing that
@@ -88,6 +89,34 @@ Check these before planning a chapter and again before sending it.
 - **Characters lie.** Eros lies when it gets him what he wants or spares
   someone. Show the lie, give his reason in one plain sentence, and let it
   come back later.
+
+## How people see each other
+
+- **Nobody is Johan.** Nobody in this story is unreadable, and nobody sees
+  through people like a detective. That goes for Eros, Mei, Kiana and
+  everyone else.
+- **First impressions are ordinary.** People size Eros up the way they'd
+  size up anyone in his place (the scholarship boy, the new kid, the weird
+  one who confesses every morning, the kid who told on Daichi), put him in
+  that box, and treat him that way. They change their minds only because
+  of something that happens on the page, and even then they try the
+  ordinary explanation first.
+- **Heroines start out thinking he's like any other boy.** Mei assumes he
+  wants what every boy who confessed to her wanted (her father's name, the
+  bragging rights) and expects him to give up. She never wonders why she
+  "can't see through him"; she thinks she already has.
+- **Sharp isn't psychic.** A perceptive character notices ordinary things
+  (a question that wasn't answered, a bruise, a job nobody names) and draws
+  ordinary conclusions, which are often wrong. Nobody has "never once been
+  wrong" about people, and nobody "can always tell".
+- **His face is a normal face.** Liar's Face hides a lie and nothing else.
+  The rest of the time he smiles, winces, goes red, looks tired, and people
+  read it as they'd read anyone's. Never describe his face as blank,
+  perfect, closed or doing nothing, and nobody says he "never makes faces".
+- **Eros misreads people too.** Game knowledge tells him what people did in
+  canon, not what they're thinking now. Let him read a sign wrong and find
+  out later (in Loop 4 he takes Mei looking up in September as a good sign;
+  she was getting it over with faster).
 
 ## Staging
 

@@ -78,6 +78,9 @@ writes her)
   untouchable heiress of the school. Not cruel, but her grades, manners and
   status make other students feel small. Polite and razor-sharp; a
   rejection is a door closed without hurry and without a crack left open.
+  She reads the boys who confess the ordinary way: they want her father's
+  name or the bragging rights, and she expects each one to give up after
+  a try or two. She has no special sense for liars.
   The school legend is that on Valentine's Day in her first year she turned
   down twelve boys before lunch (a fan detail, not confirmed in canon; the
   canon alias "Queen of Thunder" comes from her standing at school).

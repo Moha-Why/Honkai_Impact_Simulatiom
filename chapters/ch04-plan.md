@@ -71,10 +71,15 @@ before he does that the run is real.
    "Tomorrow." The marks in the corner of the blackboard. The class runs a book on how
    long he'll last.
 6. **October: the man at the rank (one morning from Mei, then Eros).**
-   - Mei's morning (the second Thursday): she has counted twenty-nine. Every
-     other boy wanted something said back; he says the ten words at one
-     weight, says "Tomorrow" and sits down. She finds she looks forward to
-     it, and loses her place in her notebook.
+   - Mei's morning (the second Thursday): she has counted twenty-nine.
+     Sayaka shows her the class chat (the chalk marks with a crown drawn
+     over them); Natsumi works out that he's on her father's scholarship,
+     "so your dad's basically paying him to do it." Mei thinks he's like any
+     other boy who confessed to her: he wants her father's name or the
+     bragging rights, and he has more reason than most. She expected him to
+     quit after a week. What she minds is the show. She looks up early only
+     to get it over with, and every morning nearly says "Please stop" (the
+     pause Eros took for a good sign). Sayaka's phone clicks.
    - Fridays: kendo until six, the gate locked, so the car waits at the
      taxi rank by the station. His apartment is behind the station, so the
      hill is his way home; he stops crossing the road to avoid her.
@@ -87,12 +92,14 @@ before he does that the run is real.
      wheel on the phone (to the house), frowning, which sells it. The
      reporter goes.
    - Mei, at the open car door: "There's nobody in the back of the car." /
-     "You didn't even stop to think about it." Then the real question: is
+     "You didn't even stop to think about it." She still reads him as the
+     scholarship boy: "If it's for my father, I won't tell him." He doesn't
+     argue. Then the real question: is
      it true? He knows the date, and he knows from Loop 1 that the arrest
      can't be moved, so all he can choose is what her next three weeks are
      like. He tries true things first (the harbor master the magazine chased
      for a month and never proved; he leaves out that the man was guilty).
-     Mei reads words: "That isn't what I asked."
+     She notices he hasn't answered: "That isn't what I asked."
    - **Lie two:** as few words as he can. "No. It isn't true." She believes
      him. (Noticed to Friendly.)
    - Monday, after her no, quietly: she telephoned her father; he says it's
@@ -112,6 +119,9 @@ before he does that the run is real.
 9. **Monday.** Natsumi moves her desk first. "Criminal's daughter" on her
    desk in marker. Sayaka's line. Every other boy has stopped. He says it
    anyway, and her "I'm sorry. No." breaks in the middle. Nobody laughs.
+   This is where she starts to change her mind about him: her father can't
+   do anything for anyone now, and the scholarship boy is still standing
+   there. The falling starts here, not before.
 10. **The bullying, each a scene, two or three days apart:**
     - her indoor shoes in the boys' toilet, then full of thumbtacks;
     - her textbooks in the pool;
@@ -183,8 +193,8 @@ before he does that the run is real.
     that's got him by the coat, and they come up out of the water laughing.
     The first-life memory, once: she was his first love, a loading screen on
     a late train, and he missed his stop. He tries not to, and loses.
-18. **Mei notices.** The bruises, the jokes she isn't in, the evenings. "Shifts"
-    is one word, and she reads words.
+18. **Mei notices.** The bruises, the jokes she isn't in, the evenings.
+    "Shifts" doesn't say where, and people who work shifts tell you where.
 
 ## Part 4: Five hundred centimeters (late January)
 
@@ -377,8 +387,10 @@ before he does that the run is real.
 
 ## Meters (thresholds only)
 
-September Noticed, Polite. October Friendly. November 18 Trust Open; early
-December Confides, Affection Fond, Corruption Bending; December 15 In Love.
+September Noticed, Polite. October Friendly (gratitude after the rank, no
+more; nothing past Friendly before November 16). November 18 Trust Open;
+early December Confides, Affection Close, Corruption Bending; December 15
+In Love.
 January 27 Corruption Compromised. February 4, at the stairwell door, Fallen.
 
 ## Gifts on the page

@@ -220,21 +220,31 @@ Trust: Polite
 
 Mei counted them. She hadn't meant to. It was an old habit from a room with a great many ceiling tiles in it, and it came back whenever something happened more than once.
 
-Twenty-nine, on the second Thursday in October. She looked up before he reached her desk, as she'd started doing without deciding to, and watched him stop in the place he always stopped, half a pace from the corner of her desk, where he wouldn't be standing over her.
+Twenty-nine, on the second Thursday in October.
+
+Sayaka had the class chat open under her desk before homeroom, as she always did, and she turned the phone round so that Mei could see. Somebody had taken a photo of the blackboard. The chalk marks in the corner had run out of room and gone on to a second row, and somebody had drawn a little crown over the top of them.
+
+"Day twenty-nine," said Sayaka. "Emi says if he makes it to Christmas she's buying everyone cake."
+
+"He's on your dad's scholarship, isn't he?" said Natsumi. She'd only just worked it out. "So your dad's basically paying him to do it."
+
+The others laughed. Mei smiled, because they expected her to. Natsumi had a point, for once.
+
+He was the ME Corp scholarship boy. Everybody knew that by now. He'd come up the hill from one of the children's homes by the port on her father's money, and in his second week he'd stood up at her desk. She didn't have to think very hard about what he wanted. Every boy who had ever stood there had wanted more or less the same thing, her father's name or the look on the other boys' faces, and this one had more reason than most. She'd expected him to give up after a week. Boys she'd turned down usually tried once more, and then went round telling people she was stuck-up. This one just kept coming, every morning at the same time, like the bus. She supposed somebody had told him that if you kept asking, girls gave in eventually.
+
+Mostly she minded the marks on the board, and Emi's notebook, and thirty people going quiet at eight-twenty every morning to watch her say no.
+
+She looked up before he reached her desk. She'd started doing that in September, because it was quicker. If she looked up, he said it to her face, she answered, he sat down, and it was over before Sayaka could get her phone pointed at it.
 
 "Raiden-san. I like you. Will you go out with me?"
 
-Every boy who had ever stood there had wanted something said back. She'd learned at nine to hear it under the words, and she'd never once been wrong about it. They wanted her father, or the look on the other boys' faces, or to be the one who'd done it. They leaned on the "you" as though it were a door they'd been told was locked. He didn't lean on anything. He said all ten words at the same weight, as the radio said the tide tables, and then he waited, and when she'd answered, he sat down and took out his maths and never once looked round to see who'd been watching.
-
-He hadn't brought anything. No letter, no chocolates from the station, no story about her match in the spring. He'd never said her father's name. In twenty-nine mornings he'd never asked her why.
-
-She had begun to look forward to it. She noticed this on the twenty-ninth morning, with her pen above her notebook, and it frightened her a little, because she couldn't remember the last time she had looked forward to anything at school that she couldn't win.
+Every morning she thought about saying something else. *Please stop.* Or, *You're embarrassing both of us.* It would have been easy, and true. But it would have been a conversation, in front of everyone, and it would have been on the class chat before homeroom was over.
 
 "I'm sorry," she said. "No."
 
-He nodded as if she'd told him the time. "Tomorrow," he said, and sat down.
+"Tomorrow," he said, and sat down.
 
-Behind him the boy at the back of the room got up to make his mark. Mei looked down at her notebook and found she'd lost her place in it, and had to read the whole page again from the top.
+Behind him the boy at the back of the room got up to make his mark. Sayaka's phone made its little camera noise. Mei opened her book and looked at the same page until the bell went.
 
 ---
 
@@ -298,7 +308,13 @@ She didn't get in. She stood by the open door with her bag held against her ches
 
 "He was frightening you."
 
-She looked at me for a moment. Then she asked what she'd actually wanted to ask, quietly, so that Mr. Tanabe wouldn't hear.
+She looked at me for a moment.
+
+"If it's for my father," she said, "I won't tell him. You don't have to do things like that."
+
+"Okay."
+
+She seemed to have expected an argument. When I didn't give her one, she asked what she'd actually wanted to ask, quietly, so that Mr. Tanabe wouldn't hear.
 
 "Is it true? What he said about the prosecutors?"
 
@@ -306,7 +322,7 @@ It was true. On the sixteenth of November, at one in the afternoon, three plain 
 
 "That magazine went after the harbor master for a whole month last spring," I said. "Taking money from the ferry company. He was on the front page every week. He's still the harbor master."
 
-She thought about that. Mei thought about everything you said to her, every word of it, as if she'd be tested on it later.
+She thought about that for a moment.
 
 "That isn't what I asked," she said.
 
@@ -764,7 +780,7 @@ A black pistol lay on the concrete beside the girl's knee, a USP, the one from t
 
 In another life, at two in the morning, I'd read this scene in a translated text somebody had posted to a forum, the girl with the gun in the corridor and the five hundred centimeters between them and the line at the end about ten hours later, and I'd sat back in my chair afterward with my hand over my mouth. Now it was happening ten meters in front of me, on the school roof, and I was in it. Not much. About as much as the water tank.
 
-My face did nothing. Behind it everything I'd ever kept about that girl came up at once. K-423. Otto's. The clone the world would call Kiana Kaslana, with a dead Herrscher's core asleep in her chest, and a man in white robes in Europe who knew where she was every hour of every day, and someone in this city whose job was to write down everyone she spoke to.
+I don't know what my face was doing. Behind it everything I'd ever kept about that girl came up at once. K-423. Otto's. The clone the world would call Kiana Kaslana, with a dead Herrscher's core asleep in her chest, and a man in white robes in Europe who knew where she was every hour of every day, and someone in this city whose job was to write down everyone she spoke to.
 
 *Never Kiana,* I'd decided, years ago, on an island. *In every file.*
 
@@ -958,9 +974,9 @@ And now she was here, up to her waist in a drain, with a shopping bag in her han
 
 *No,* I told myself. *Not her.*
 
-"What?" she said. "What's that face? You're making a face. You never make faces."
+"What?" she said. "What's that face? You look like you swallowed something."
 
-"Nothing," I said. "Cold."
+"I did," I said. "Half the drain."
 
 She looked at me a moment longer, with her head on one side. Then she threw the bag at me and waded off down the tunnel to find the gun.
 
@@ -974,7 +990,7 @@ The bruises, first. A mark on the back of his hand, then two on his wrist, then 
 
 "Shifts," he'd said, when she asked where they went.
 
-She'd turned the word over for three weeks. It was one word. He'd chosen it, and he'd chosen to stop there, and she had been reading what people chose to say since she was nine years old. Shifts where? At what? He'd never said. And Kiana, when Mei had asked her on her own, at the bus stop, had looked at her with real misery and said "It's a secret, Mei-senpai, I'm sorry, it's not my secret," and Kiana could not lie. Everybody knew that by now. Kiana's face did whatever Kiana was feeling, in front of everyone, all the time.
+She'd thought about that word for three weeks. Shifts where? Doing what? People who worked shifts told you where, and complained about the manager. He never had. And Kiana, when Mei had asked her on her own, at the bus stop, had looked at her with real misery and said "It's a secret, Mei-senpai, I'm sorry, it's not my secret," and Kiana could not lie. Everybody knew that by now. Kiana's face did whatever Kiana was feeling, in front of everyone, all the time.
 
 So it was a secret, and it was theirs, and it wasn't hers.
 
@@ -984,7 +1000,7 @@ She didn't buy the fish. She'd never done anything like it in her life, but she 
 
 They were sitting on the lighthouse steps with their backs to her, looking at the sea.
 
-"Kiana," he said. His voice was different. She'd heard it say ten words every morning since September at exactly the same weight, and it wasn't at that weight now.
+"Kiana," he said. His voice was different. She'd heard him say ten words to her every morning since September, and he'd never once sounded like that.
 
 Kiana looked round at him. "What?"
 
@@ -1088,11 +1104,11 @@ At eight-twenty he stood up at her desk.
 
 "Raiden-san," he said. "I like you. Will you go out with me?"
 
-His face was perfect. It was exactly the face it had been every morning since September, and his voice was exactly the voice, every word at the same weight, and she had heard him on Saturday, on the lighthouse steps, with the sea going in and out, say that he'd stopped meaning it and didn't know when.
+He looked the same as he did every morning, and he sounded the same, and she had heard him on Saturday, on the lighthouse steps, with the sea going in and out, say that he'd stopped meaning it and didn't know when.
 
 She looked up at him. She didn't say anything.
 
-She didn't say "I'm sorry." She didn't say "No." She looked at his perfect face for a long moment, and he stood there and waited, and the whole room waited, and the silence went on so long that people began to look up from their phones. Then she looked down at her book again.
+She didn't say "I'm sorry." She didn't say "No." She looked at him for a long moment, and he stood there and waited, and the whole room waited, and the silence went on so long that people began to look up from their phones. Then she looked down at her book again.
 
 He sat down.
 
@@ -1157,7 +1173,7 @@ On Tuesday night Kiana made the rules before they'd even got to the warehouses.
 
 "All right."
 
-She'd half expected him to argue. He didn't. He just nodded, with that face, and took the radar out of her hands to check it, and gave it back, and they went.
+She'd half expected him to argue. He didn't. He just nodded and took the radar out of her hands to check it, and gave it back, and they went.
 
 He was slow that night in his head, a beat behind, looking at the wrong door. His legs were always slow after ten meters, and she was used to that; this was something else. In the second warehouse a dockworker came round a pallet he should have heard and opened his forearm from the wrist to the elbow before Kiana could shoot it.
 
@@ -1165,13 +1181,11 @@ She taped it up sitting on the lid of a container, with the first-aid kit out of
 
 "Don't make that face," she said. "You'll make it weird."
 
-"I'm not making a face."
+"It's my arm," he said. "I'm allowed a face."
 
-She looked up. He wasn't. His face was doing absolutely nothing, as usual, like a closed door.
+She nearly laughed. She caught it in time and went back to the tape.
 
-"Yes you are," she said, and then, "No you're not." She went back to the tape. "That's worse."
-
-He hadn't stopped liking her. She could tell. She could always tell things about people, it was the one thing she'd always been good at besides shooting. He was sitting there with his arm across her knees not liking her at the top of his lungs, very quietly, and not saying a word about it, because she'd told him not to. She let him not say it. She owed him that much.
+He hadn't stopped liking her. It wasn't hard to tell. He'd been looking at the wrong door all night because he was trying so hard not to look at her, and now he was sitting there with his arm across her knees not liking her at the top of his lungs, very quietly, and not saying a word about it, because she'd told him not to. She let him not say it. She owed him that much.
 
 "She knows something," Kiana said, when she'd finished. "Mei-senpai. She called me Kaslana-san. In front of everyone." It still stung, saying it. "She knows where we go. She must. About the guns, and the warehouses. And she's scared, and she's angry we didn't tell her."
 
@@ -1195,7 +1209,7 @@ It wasn't a question. I walked her home. On the second evening, at her gate, she
 
 "Shifts."
 
-She looked at me. She looked at the word. I could see her doing it, turning it over, reading the front of it and the back.
+She waited, as if there was going to be more. I didn't give her any more.
 
 "Thank you for walking me," she said, in the voice she used for teachers, and went in.
 
@@ -1305,7 +1319,7 @@ She'd made up her mind on Sunday night, sitting on the dojo step in the dark wit
 
 "Will you come to the roof tomorrow?" she said. "At lunch?" She looked at him. "Just you."
 
-He looked back at her for a moment with that face of his, that never did anything. Then something happened behind it. She couldn't read faces, she'd never been able to. But she saw his hand close on the strap of his bag.
+He looked surprised. Then he looked down at the floor for a second, and she saw his hand close on the strap of his bag.
 
 "Yes," he said. "Just me."
 
@@ -1648,7 +1662,7 @@ Same birth. Same home, same box of mandarins, same desk by the window in 3-A. It
 
 Kiana. She'd come through that door on the sixteenth of December in every file there was; she was a node, fixed, and I couldn't move her and wouldn't if I could. So I'd move myself. I'd never follow her out of the Homu Happy. I'd never go into a warehouse. I'd never sit on the lighthouse steps. I'd never be alone with her anywhere, not once, and when we were on the roof with Mei between us I'd never look at her where Mei could see. I'd learn to fight some other way. From Mei. She had a family sword nobody had been taught in years.
 
-And I'd go on loving Kiana, because that wasn't a fork on any map, and I'd keep it behind a face that didn't do anything.
+And I'd go on loving Kiana, because that wasn't a fork on any map, and I'd keep it to myself, and lie about it if anyone asked, and my face would back me up.
 
 [Liar's Face,] said the System, [is going to have to work for a living.]
 

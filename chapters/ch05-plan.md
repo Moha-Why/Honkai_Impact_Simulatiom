@@ -64,12 +64,13 @@ Chapter 4.
 7. **December 16.** He knows the corridor and the minute. He's beside her when
    Kuroda knocks the box out of her hands, and he moves, and Kiana is faster
    (the meeting holds). The USP, the line, "Follow me," the roof. His first
-   love walks past him close enough to touch and doesn't know him. His face
-   holds. [You've stopped breathing.]
+   love walks past him close enough to touch and doesn't know him. He looks
+   at the floor until she's gone. [You've stopped breathing.]
 8. **The three of them, again.** Kiana's rival confessions; the marks in
    pairs; the third box. He laughs at the right moments and never looks at her
-   when Mei can see. Kiana: "You're kind of creepy. Your face doesn't do
-   anything. But you didn't leave her. That counts."
+   when Mei can see. Kiana notices that much, as anyone would: "You never
+   look at me. Do you hate me or something?" "No." "Okay. Weird. But you
+   didn't leave her. That counts."
 9. **The nights he doesn't go.** Kiana slips away after dark; he knows where.
    He doesn't follow. One night she asks him outright to come and see
    something at the port. He says no in front of Mei. That night Mei takes one
@@ -81,7 +82,8 @@ Chapter 4.
     In PE kendo she breaks Kuroda's wrist with a kote and says it slipped, and
     lets him see it didn't. (Compromised)
 12. **Kiana on the roof before New Year.** "Do you like her? Actually like
-    her?" "Yes." It's the best lie he's ever told and the face does nothing.
+    her?" "Yes." It's the best lie he's ever told, and his face doesn't give
+    it away.
     "You want her to need you. I want her to be okay."
 13. **The dream.** Mei dreams she killed him on a roof. [The runs leave marks.]
 14. **February 4.** The roof. Kiana fights the Herrscher, and this time it
