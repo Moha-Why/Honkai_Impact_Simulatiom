@@ -2,8 +2,8 @@
 
 Status: written. Mei's run is three chapters and five loops (plan v5):
 Chapter 3 is the opening and Loops 1 to 3; [ch04-plan.md](ch04-plan.md) is
-Loop 4 (White Comet); [ch05-plan.md](ch05-plan.md) is Loop 5 (The Pin), the
-settlement and the waking. The spine, rules, Life Path, continuity checks,
+Loop 4 (Five Hundred Centimeters); [ch05-plan.md](ch05-plan.md) is Loop 5
+(Liar's Face), the settlement and the waking. The spine, rules, Life Path, continuity checks,
 canon facts and fork pass below apply to all three. The eight-loop version
 (plan v4) is in [../archive/mei-run-eight-loops/](../archive/mei-run-eight-loops/).
 
@@ -25,13 +25,17 @@ between the two places.
 
 - **Loops 1 to 3:** the fan at his warmest, then a reroll, then Cocolia's
   operative. He dies in each.
-- **Loop 4 (White Comet):** he plans a knife in the white and can't use it
-  in the body. Then Kiana, his first love, walks into the fast-food place by
-  the station, and he leaves Mei's route for her. Mei's other personality
-  kills him for it.
-- **Loop 5 (The Pin):** he uses the menu one last time, coldly, to build a
-  boy who has loved Mei since he was nine, and gives the run to him. At 18
-  the boy leads, and it works.
+- **Loop 4 (Five Hundred Centimeters):** a romance. He says it at her desk
+  every school day and stands next to her through the bullying until he's
+  the most important person in her life. Then Kiana walks in with a USP and
+  takes Mei's lunch, and he falls for his first love on night hunts at the
+  port. He confesses to Kiana at the lighthouse; Mei, five meters away,
+  runs before Kiana says no. On the roof Mei's other personality breaks
+  Kiana first, then kills him when he runs to her.
+- **Loop 5 (Liar's Face):** the same year played as a lie. He never follows
+  Kiana, never looks at her where Mei can see, learns the sword from Mei,
+  and on the roof walks to Mei instead of Kiana. Liar's Face does its job,
+  and it works.
 
 Underneath: the thing he builds is the thing he wants. He engineers someone
 who needs him completely. It works, and it feels good. That's the horror of
@@ -48,10 +52,6 @@ the run. It isn't a punishment and it isn't a redemption.
 - **Death resets the loop.** Herrscher lightning is a soul attack and drops
   him a whole stage. Ordinary deaths cost a scattered detail each; enough of
   them wear on him, but they don't drop a stage by themselves.
-- **A lived childhood costs a stage.** In a loop he lives with his memories
-  sealed, the sealed years fade what he brings back: he takes over at 18 one
-  stage lower than he went in (Loop 5, Worn to Torn). The System mentions it
-  only once he's chosen.
 - **Corruption feeds the Herrscher.** The System never mentions it.
 - **Fixed:** the arrest on November 16, Kiana enrolling in December, the
   Eruption at Chiba Academy in February, his place in Mei's class. Canon's
@@ -71,14 +71,12 @@ up where they change. See simulation-system.md, Life Path.
 
 **Immersion.** At the takeover the boy's eighteen years arrive as Eros's own
 memories, with everything the boy felt in them. The forks he chose coldly
-from the white come back as things he did. In a lived loop (Loop 5) it runs
-the other way: the boy has lived every year, and Eros's own memories come
-back into him at 18, faded by the seal.
+from the white come back as things he did.
 
 Births on offer: Malmö (an ME Corp man), the port children's home,
 Mr. Tanabe's sister, a Siberian village, the Raidens' staff cottage (never
-taken), the ME Corp hospital (a night nurse; unlocked in Loop 4 by Mei's
-ceiling tiles), and Willow Street as the System's joke.
+taken), and Willow Street as the System's joke. Loops 4 and 5 both use the
+port children's home.
 
 Loop 2's failure is now a fork: at thirteen he has the nephew tell Ryoma
 about Mei's bursting lights, breaking a promise, and she never forgives
@@ -91,15 +89,15 @@ him.
 | Chapter | Title | Contains |
 |---|---|---|
 | 3 | The Lightning Queen | Opening, gifts, Loops 1 to 3 |
-| 4 | White Comet | Loop 4 |
-| 5 | The Pin | Loop 5, settlement, waking |
+| 4 | Five Hundred Centimeters | Loop 4 |
+| 5 | Liar's Face | Loop 5, settlement, waking |
 
 - **Chapter 3** ends in the white after Loop 3: the hotel file, the staff
   cottage ("Not yet"), "The children's home."
 - **Chapter 4** opens in the white with no recap and ends in the white after
-  Loop 4, on the choice of the night nurse.
-- **Chapter 5** opens on the Loop 5 log and runs to the waking and the watch
-  room.
+  Loop 4, on his choice for Loop 5.
+- **Chapter 5** opens on the Loop 5 log ("The same as the fourth file") and
+  runs to the waking and the watch room.
 
 Five attempts. Each tries a different door into her life.
 
@@ -108,8 +106,8 @@ Five attempts. Each tries a different door into her life.
 | 1 | The Lightning Rod | Wake at 18 | ME Corp manager's son | The gray car (ordinary) | Frayed |
 | 2 | Reroll | Wake at 18 | Tanabe's nephew from birth | "You're not him." He resets himself. | Frayed |
 | 3 | The Inside Man | Wake at 18 | Siberia, Cocolia's orphanage | Self: kept in the ME Corp tower, he goes over the terrace rail (ordinary) | Frayed, close to Worn |
-| 4 | White Comet | Wake at 18 | The port children's home, the apartment by the station, the Homu Happy, Kiana | Herrscher lightning, for Kiana | **Worn** |
-| 5 | The Pin | **Live it** | Nurse's son, the institution at 9, Osaka at 12, comes back | The wound, as the Hyperion arrives | **Torn** (the seal) |
+| 4 | Five Hundred Centimeters | Wake at 18 | The port children's home; daily confessions; Kiana, the hunts, the lighthouse | Herrscher lightning, after he runs to Kiana | **Worn** |
+| 5 | Liar's Face | Wake at 18 | The same birth; the same year, played as a lie | The wound, as the Hyperion arrives | **Torn** (the hand) |
 
 ### Loop 1: "The Lightning Rod" (about 6k words)
 
@@ -241,13 +239,13 @@ matters, with its limit:
 
 ## Continuity checks
 
-- Nothing romantic before 18 in any childhood, lived or watched.
+- Nothing romantic before 18 in any childhood.
 - Soul: Frayed in; Loops 1 to 3 ordinary; Loop 4 Worn (Herrscher); Loop 5
-  Torn at the takeover (the seal), and on the roof a wound, not a soul
-  attack, because she pulls the lightning out.
+  Torn on the roof (the hand takes a stage before she pulls the lightning
+  out; the wound is what kills him).
 - No objective completes before Loop 5.
 - Never Kiana: in no file does he move against her. In Loop 4 he loves her
-  anyway.
+  anyway; in Loop 5 he still does, and hides it.
 - Cocolia meets Eros in person in Loop 3.
 - The rest as before: ages, Kiana enrolling on December 16, no Schicksal
   before the Eruption, the ♪ budget, gifts shown with their limits, the HW
@@ -255,9 +253,8 @@ matters, with its limit:
 
 ## Before writing
 
-- **Rules:** Life Path in simulation-system.md (immersion; the seal's cost).
-- **Minor profiles:** Loop 5's mother (Kanda Yūko, an ME Corp night nurse);
-  Loop 4's Homu Happy manager (Ōno Masaru).
+- **Rules:** Life Path in simulation-system.md (immersion at the takeover).
+- **Minor profiles:** none new for Loops 4 and 5.
 - **Updates after each rebuild:** Mei, Kiana, the Herrscher, the System,
   Tanabe, Ryoma, the Chiba classmates, the childhoods, the tracker.
 
@@ -293,14 +290,11 @@ later. See mei-run-childhoods.md for the full list.
   in the adult half.
 - **Loop 4:** hiding from the Okadas (a name on nobody's list), Ryoma in a
   plain suit (wrong on purpose), Daichi's dinners (he tells), Haru at the
-  gate (the truth, early; the start of the knife), Daichi at the noodle
-  stall (he says nothing), the pencils (he keeps both). At the takeover
-  every one of them is his own memory.
-- **Loop 5:** the porter decides (stay), Ren (Liar's Face used soft), the
-  girl who doesn't sleep (sit with her), Ryoma ("I'm keeping something
-  asleep. Like you."), Osaka and the pin, Dr. Matsuda (the fork that's only
-  manners), keep writing (the boy is the lock), the 2010 nationals ("You
-  weren't there"), the porter's funeral (she counts the cars for him, every
-  red one four), the scholarship (unannounced).
+  gate (the truth, early), Daichi at the noodle stall (he says nothing), the
+  pencils (he keeps both). At the takeover every one of them is his own
+  memory.
+- **Loop 5:** the same forks, except Haru: this time the boy tells him his
+  mother is coming. Haru waits happy all spring, is adopted anyway, and
+  waves at the gate.
 - **Objectives:** no childhood fork completes a hidden objective, so the
   lock-in never starts early.
