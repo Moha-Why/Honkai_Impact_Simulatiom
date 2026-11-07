@@ -78,7 +78,7 @@ Say nothing / Say good evening / Ask him why he's always tired
 
 ```
 [2005, October. "Why are you always tired?" you ask. He looks at you. "Because I'm keeping something asleep," he says. "Like you." He watches her sleep for another ten minutes, and goes.]
-[2005, December. You're ten. On the last night of the year the night nurses tease you both until she goes red to the ears and tells them you haven't even asked her out. When they've gone, you ask, at the window. "No," she says, still counting. "Ask again tomorrow night. It'll be no every time." You ask what the point is, then. She counts a red one. "So you'll have to keep coming back." You promise you will.]
+[2005, December. You're ten. On the last night of the year the night nurses tease you both until she goes red to the ears and tells them you haven't even asked her out. When they've gone, you ask, at the window. "No," she says, still counting. The next night you forget. At eleven, without looking round from the window, she says, "You didn't ask." You ask. She says no. You promise you won't forget again.]
 [2006, February. She teaches you the first three cuts of the sword her teacher taught her, with two rolled-up magazines, in the corridor at midnight. A night nurse catches you and laughs so hard she has to sit down on the floor.]
 [2006, May. Her father puts his hand on your head on his way out and says, "Thank you for looking after her." You don't know what he means. You were only counting.]
 [2006. She starts sleeping through the night. She still asks for the second pillow. Every night you're there you still ask at the window, and she still says no.]

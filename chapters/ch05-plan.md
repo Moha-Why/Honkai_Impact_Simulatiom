@@ -90,9 +90,9 @@ Cold choices from the white; past each fork he can't steer the boy.
    more minutes"; the van, told once with her back to the radiator ("You're
    the only one who didn't say sorry"); Ryoma "keeping something asleep";
    New Year's Eve, when the nurses tease them and she says he hasn't even
-   asked: he asks at the window ("No. Ask again tomorrow night. It'll be no
-   every time." "So you'll have to keep coming back."), and asks every
-   night he's there after that; the first three cuts with rolled-up magazines in the corridor at
+   asked: he asks at the window and she says no; the next night he
+   forgets, and at eleven she says "You didn't ask"; he promises he won't
+   forget again, and asks every night he's there after that; the first three cuts with rolled-up magazines in the corridor at
    midnight, and the night nurse sitting down on the floor laughing.
 5. **Osaka (2007).** "Go with her," for the gap with letters in it. On the
    floor under the window she takes out one of her two pins: "So you'll
