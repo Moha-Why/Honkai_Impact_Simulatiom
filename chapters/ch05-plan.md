@@ -3,8 +3,8 @@
 Status: plan v8, written as [ch05-liars-face.md](ch05-liars-face.md) (about
 17,200 words). Rebuilt on the ward childhood from the old "The Pin"
 (archived in [../archive/mei-run-eight-loops/](../archive/mei-run-eight-loops/)),
-keeping v7's year as a lie, its fights and its roof. Replaces v7. Spine and
-rules: [ch03-plan.md](ch03-plan.md). Fights follow
+keeping v7's year as a lie, its fights and its roof. Replaces v7. Run spine:
+[ch03-plan.md](ch03-plan.md); the rules are the bible's. Fights follow
 [../bible/fight-writing.md](../bible/fight-writing.md); kits are in
 [../bible/combat-kits.md](../bible/combat-kits.md).
 
@@ -42,9 +42,10 @@ and smiles at her with her hand in his chest.
 - **Out loud he's never heard of Honkai.** What he knows from Loop 4 shows
   only in where he stands and what he does, and when it shows, someone
   notices.
-- **Nothing romantic before 18.** The ward is a friendship: tiles, cars,
-  the cuts, the pin. Nobody in it talks about going out. The asking starts
-  in 2013, and it's his.
+- **The log doesn't foreshadow.** A childhood beat comes out of what's
+  happening that night and means what it means then. If it rhymes with
+  2013, that's because the boy kept it, not because the child saw it
+  coming.
 - **Repeated days don't get retold.** When a day repeats, write the one
   thing that's different and let the rest go by in a line.
 - **Fights:** anime style, kits first, beat plans approved before writing.
@@ -88,7 +89,10 @@ Cold choices from the white; past each fork he can't steer the boy.
 4. **The ward years.** The car game; the second pillow; Nurse Kanda's "Ten
    more minutes"; the van, told once with her back to the radiator ("You're
    the only one who didn't say sorry"); Ryoma "keeping something asleep";
-   the first three cuts with rolled-up magazines in the corridor at
+   New Year's Eve, when the nurses tease them and she says he hasn't even
+   asked: he asks at the window ("No. Ask again tomorrow night. It'll be no
+   every time." "So you'll have to keep coming back."), and asks every
+   night he's there after that; the first three cuts with rolled-up magazines in the corridor at
    midnight, and the night nurse sitting down on the floor laughing.
 5. **Osaka (2007).** "Go with her," for the gap with letters in it. On the
    floor under the window she takes out one of her two pins: "So you'll
@@ -114,7 +118,7 @@ Cold choices from the white; past each fork he can't steer the boy.
    back." He holds up the pin; she crosses in front of the whole line of
    cars and holds on. "You didn't tell me." "I wanted to see your face."
    (Fond.)
-10. **The confessions.** "Raiden-san." "You've never once called me that." She laughs,
+10. **The confessions.** "You're late." She laughs,
     then "I'm sorry. No." "Tomorrow, then." The marks on the board; Emi's
     money on a yes by Christmas. "That's nineteen." "Twenty." "You're
     counting." "So are you."
@@ -188,7 +192,7 @@ Cold choices from the white; past each fork he can't steer the boy.
 
 29. **The roof at lunch (Mei).** His box on her knees, the first lesson she's
     ever missed, because he said he'd come back up. The voice in her own
-    words: two mouthfuls; "He went to Osaka." "He came back." "He didn't
+    words: "He's late"; two mouthfuls; "He went to Osaka." "He came back." "He didn't
     come to Tokyo." She has no answer to Tokyo. The rice on the concrete;
     "Yes." Her last pin leaves her hair.
 30. **The stairs (Eros, fight).** The staff room windows; Natsumi; Kiana's

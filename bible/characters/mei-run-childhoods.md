@@ -154,6 +154,11 @@ letters and one photograph of Kuroda with his dog, Leo.
   2009. He's kind, and dull, and calls the boy "young man."
 - **Ryoma in the ward:** in 2005 the boy asks him why he's always tired.
   "Because I'm keeping something asleep."
+- **New Year's Eve 2005:** the night nurses tease them until she says he
+  hasn't even asked her out. He asks at the window. "No. Ask again tomorrow
+  night. It'll be no every time." What's the point, then? "So you'll have
+  to keep coming back." He asks every night he's on the ward until Osaka.
+  In 2013 she answers the first one at her desk with "You're late."
 - **The 2010 nationals:** she asks him to come to Tokyo; he doesn't. She
   loses the final by one point, a kote, and writes "You weren't there."
   The next letter is normal. On February 4 the voice in her chest uses it.

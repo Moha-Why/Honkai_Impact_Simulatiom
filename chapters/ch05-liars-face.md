@@ -78,9 +78,10 @@ Say nothing / Say good evening / Ask him why he's always tired
 
 ```
 [2005, October. "Why are you always tired?" you ask. He looks at you. "Because I'm keeping something asleep," he says. "Like you." He watches her sleep for another ten minutes, and goes.]
+[2005, December. You're ten. On the last night of the year the night nurses tease you both until she goes red to the ears and tells them you haven't even asked her out. When they've gone, you ask, at the window. "No," she says, still counting. "Ask again tomorrow night. It'll be no every time." You ask what the point is, then. She counts a red one. "So you'll have to keep coming back." You promise you will.]
 [2006, February. She teaches you the first three cuts of the sword her teacher taught her, with two rolled-up magazines, in the corridor at midnight. A night nurse catches you and laughs so hard she has to sit down on the floor.]
 [2006, May. Her father puts his hand on your head on his way out and says, "Thank you for looking after her." You don't know what he means. You were only counting.]
-[2006. She starts sleeping through the night. She still asks for the second pillow.]
+[2006. She starts sleeping through the night. She still asks for the second pillow. Every night you're there you still ask at the window, and she still says no.]
 [2007, February. Your mother is offered a post at the ME Corp clinic in Osaka. More money, day shifts, a flat with two rooms. You're nearly twelve. She asks you what you want.]
 Go with her / Stay in Nagazora with your aunt / Ask the girl's father if you can stay
 ```
@@ -253,7 +254,7 @@ On the second morning I stood up at her desk at eight-twenty, with the whole cla
 
 She looked up from her book. The room went quiet, thirty people deciding to listen without looking as though they were.
 
-"Raiden-san," she said. "You've never once called me that."
+"You're late," she said.
 
 Then she laughed. It surprised her as much as anyone. It came out of her all at once, and she put her hand over her mouth, and her eyes were wet, and she was still laughing behind her hand.
 
