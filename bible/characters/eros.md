@@ -2,7 +2,7 @@
 
 ## Basics
 
-- Named Eros in both lives. An orphan in both lives.
+- Named Eros in both lives.
 - **Earth:** software engineer and die-hard HI3 fan, of both the characters
   and the power system and lore; died of overwork at
   32 during a crunch, with an HI3 event still running on his second monitor.
@@ -58,7 +58,7 @@ St. Freya is two hours south; he goes there only for simulator work.
   "Engineers have deadlines."), then go back to talking about Mr. Yang. He
   keeps it polite and distant; they're schoolgirls and he's staff.
 - **Solitude by choice:** the island lets him live. He's often alone because
-  he's preparing, and because he has never had anyone to visit.
+  he's preparing.
 
 ## Personality arc
 
@@ -95,8 +95,6 @@ each other for the whole story:
   he would never call it love.
 - **Harmless on the surface:** easygoing, polite, a little lazy-looking at
   work. People underestimate him, which suits his plan to stay invisible.
-- **Lonely:** two lives without a family. He would never admit he wants
-  anyone to need him.
 
 ## Flaws
 
@@ -107,6 +105,19 @@ each other for the whole story:
 - **Physically ordinary:** knows he dies easily and plays it safe until the
   System changes that.
 
+## How others see him
+
+- To the people around him he's an ordinary boy of his type: in the Mei run
+  the scholarship boy from the port homes, the new kid, the one who
+  confesses every morning. Nobody finds him mysterious. They put him in the
+  obvious box until something he does on the page doesn't fit it, and the
+  heroines start out thinking he's like any other boy. Nobody assumes he's
+  close to a heroine until they've seen it, and he doesn't act closer than
+  he is (a classmate doesn't go to her house in a family crisis).
+- His face is a normal face. Liar's Face only stops it giving away a lie;
+  the rest of the time it shows what he feels, and people read it like
+  anyone's. He misreads people as often as they misread him.
+
 ## Voice and habits
 
 - Narrates in first person: dry and sardonic, full of programmer and gamer
@@ -115,12 +126,21 @@ each other for the whole story:
 - Keeps the whole canon timeline in an encrypted file, written in code
   nobody else would think to read.
 - Lives on instant noodles.
-- **How he looks at women:** a pervert, but in his own voice. Precise,
-  dry, a fan's references and an engineer's metaphors, never a thug's
-  catcalling. In the Mei run it tracks his soul (see world-fashion.md).
+- **How he looks at women:** as a fan, never a lech. He sees the character
+  he loved for ten years before he sees the person: the design, the canon
+  details, which wiki page got her wrong, the scene he replayed at 3 a.m.
+  Dry and specific, a fan's references and an engineer's metaphors. In the
+  Mei run it tracks his soul: delighted and half in love in Loop 1, taking
+  stock in the middle loops, and by Torn the fan who loved the drawing is
+  the one thing in him nobody has managed to take.
 - **Loop 1 of the Mei run is the fan at his warmest:** he confesses to her
   every school day, honestly, and never uses game knowledge on her. She
   doesn't move until her father's arrest leaves him the only one still
   asking. He dies for trying to stop that arrest.
 - **Moral line:** dark. Whatever gets him stronger and keeps him alive is
   on the table; he only holds back when it would cost him more than it gains.
+- **Never Kiana.** He knows from the game that she's Otto's: K-423, the
+  vessel for the Void core, watched by Schicksal wherever she goes. Anything
+  he did to her would land on Otto's desk with his name on it. So in every
+  file he keeps his hands off her, and at most works on the people around
+  her.

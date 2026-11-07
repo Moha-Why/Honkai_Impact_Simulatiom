@@ -9,7 +9,7 @@ pushes her down a flight of stairs in return.
 
 **Age (story):** born 1997. She's 15 in 2012, her only year on the page,
 and always under 18. She appears only in the childhood log, never with the
-adult Eros, and is never described in the world's fashion.
+adult Eros.
 
 **In Chapter 3 (Loop 3):** Seele's shadow since they were small. In autumn
 2012 she stops speaking to Seele and watches Bronya and Seele on the

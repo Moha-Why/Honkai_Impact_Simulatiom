@@ -23,7 +23,12 @@ bishop's. A smile that stays on his mouth and never reaches his eyes.
 - Theresa is his creation and calls him grandfather. They're at odds in
   2009, and he had an island built for her school anyway (2006 to 2008), two hours
   south of the Far East Branch's technical center.
-- Made K-423, the clone the world will know as Kiana.
+- Made K-423, the clone the world will know as Kiana. Kept the real Kiana
+  and let Siegfried get away with K-423. Knows where she is at all times and
+  lets her run, because her human self is part of his plan for the Void
+  core inside her; Schicksal keeps eyes on her wherever she goes. (Fan
+  sources say he let Siegfried go on purpose, and name Fu Hua as his watcher
+  in Nagazora; open.)
 - Doctor to the amnesiac Bianka (Durandal) since she was small, and truly
   gentle with her, in his way.
 
@@ -46,6 +51,8 @@ gentle questions that are really orders.
   give him a reason to look twice.
 - If a run ever touches Otto's past, Otto will remember Eros (see
   [../simulation-system.md](../simulation-system.md)).
+- K-423 is his project and under his eye, so Eros never moves against
+  Kiana, in any file (see [eros.md](eros.md)).
 
 **In Chapter 2:**
 

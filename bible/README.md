@@ -12,14 +12,14 @@
 | [power-scale.md](power-scale.md) | Combat Rating, Valkyrie ranks, Honkai Adaptability, how Eros gets stronger, gear |
 | [far-east-branch.md](far-east-branch.md) | The branch's two islands, its technology level, and why daily life is kept ordinary |
 | [honkai-beasts.md](honkai-beasts.md) | What Honkai beasts are, their classes, canon examples |
+| [fight-writing.md](fight-writing.md) | How fights are planned and written: anime style, shape scaled to the enemy, power honesty, hole checklist |
+| [combat-kits.md](combat-kits.md) | What each fighter can do in a written chapter, how it looks, and what stops it |
 | [simulation-system.md](simulation-system.md) | Simulation types, starts, meters, objectives, aftermath, entering a run |
 | [system-interface.md](system-interface.md) | The System's panel and voice, Eros's starting panel, starter pack |
 | [gifts-and-rewards.md](gifts-and-rewards.md) | Gift colors, settlement grades, reward types, shop |
 | [gift-catalog.md](gift-catalog.md) | Every gift, experience package and item that has appeared |
 | [soul-and-fate.md](soul-and-fate.md) | What deaths cost, stages of the soul, Fate Deviation |
 | [image-prompts.md](image-prompts.md) | Detailed image generation prompts for the important characters |
-| [image-prompts-world.md](image-prompts-world.md) | Image prompts for the adult women in the world's fashion |
-| [world-fashion.md](world-fashion.md) | The world's vulgar/kinky fashion for adult women: rules, ages, Eros's eye |
 | [future-arcs.md](future-arcs.md) | Planned arcs beyond the current chapters (Tsugumi, the Shiomi outbreak) |
 
 Chapter plans and chapters are in [../chapters/](../chapters/).

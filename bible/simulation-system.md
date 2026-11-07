@@ -14,13 +14,23 @@ each run writes a branch into the Imaginary Tree.
 
 ## Starts
 
-- Every heroine run gives Eros an identity and a starting point that is
-  normal or bad, usually with a hidden route toward the heroine.
-- **Immediate start:** he arrives in his identity with his memories intact.
+- Every heroine run gives Eros a starting point that is normal or bad,
+  usually with a hidden route toward the heroine.
+- **Immediate start:** he's sent in his own body, with his memories intact.
+  Usually the run gives him an identity (a name, papers, a past the people
+  around him remember). Sometimes it gives him none, and he arrives as
+  nobody, with no papers and no one who knows him. Which one depends on the
+  run. Pre-era runs work this way: his own body, with an identity or
+  without one.
 - **Childhood start:** he's born into the run. His memories stay sealed until
   the heroine turns 18, and a real child lives the years. The childhood is
   told as detailed log lines, like a normal run, with full scenes at the
   moments that matter. Nothing romantic happens before 18.
+- **The birth doesn't always change.** In most heroine runs the birth
+  condition is locked: every loop starts from the same birth, and only the
+  forks after it change. Mei's run was unusual. The System offered a menu of
+  births that grew loop by loop, and even then he went back to the same one
+  (the port children's home) for Loops 4, 5 and 7.
 - Meters and objectives only activate once the heroine is 18 or older.
 - **Age rule for the run's cast:** every girl the adult Eros meets in a
   heroine run is already 18 when he takes over. In the Mei run, Mei turns
@@ -50,7 +60,8 @@ each run writes a branch into the Imaginary Tree.
   success instead of resetting it.
 - **Each heroine run also has a set end,** the point where her arc closes.
   If he's still alive then, the run ends there. Mei's run ends when the
-  Hyperion arrives over Nagazora.
+  Hyperion arrives over Nagazora, three or four days after the Eruption
+  (canon). No loop has ever kept him alive that long.
 
 ## Life Path (heroine runs)
 
@@ -61,8 +72,8 @@ with forks.
   person, year by year, as in a normal run: family, school, the people
   around him, what happens to him. Full scenes at the moments that matter.
   Not a summary.
-- **Forks:** many of them. Birth, then every moment that matters in that
-  life (Loop 1 of Mei's run has eleven; most of her loops have six to ten;
+- **Forks:** many of them. Birth (when the run offers a choice of births;
+  most lock it), then every moment that matters in that life (Loop 1 of Mei's run has eleven; most of her loops have six to ten;
   a life that ends at nine has six). The System stops the log and offers
   options, usually three, sometimes two or four, in the log format:
 
@@ -127,6 +138,11 @@ a large reward to tempt him into poking the fixed node. Asked about it later
 it says, "I never said it was possible. I said it was worth a lot."
 
 ## Aftermath
+
+- **Only the last loop goes on.** When he dies in a loop that resets, that
+  loop ends with him; nothing in it continues. Only the final loop of a
+  heroine run, the one that ends the run, goes on after he leaves it (her
+  echoes, the branch in the Imaginary Tree).
 
 - After a heroine run, Eros's identity in it is treated as dead or missing.
   A later run with the same heroine continues from there.

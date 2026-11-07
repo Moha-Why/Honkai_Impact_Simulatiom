@@ -14,6 +14,52 @@ Check these before planning a chapter and again before sending it.
   the rebuild so they match the chapter.
 - Before a big rebuild, say what will change and why.
 
+## Scene logic check (every scene)
+
+Do this before writing each scene and again before sending it. Most
+mistakes so far came from writing what the author or Eros knows, or what
+the plot needs next, instead of what each person in the scene knows and
+would do.
+
+1. **Who knows what.** For each person in the scene: what do they know
+   right now, and how did they learn it? Nobody says, does or reacts to
+   anything they couldn't know.
+2. **Eros has two layers.** What he knows (the game, earlier files, the
+   System) is one thing; what he can show is another. Out loud he's an
+   ordinary eighteen-year-old in Nagazora in 2013. He has never heard of
+   Honkai, Schicksal, Herrschers or Valkyries, he asks what things are,
+   and he's frightened by what would frighten anyone (a gun on the school
+   roof, people with glowing eyes). When he slips, someone notices and he
+   has to cover it.
+3. **What would a normal person do?** For every action and line, ask what
+   an ordinary person with that background and that relationship would
+   actually do. If it isn't what the scene needs, change the scene, not the
+   person.
+4. **Skills and things come from somewhere.** Every skill, tool or piece of
+   knowledge has a source in that character's past. Kiana isn't technical
+   (her gear is her father's); Eros's knife work comes from a file.
+5. **Relationships move only on events.** Trust, partnership, closeness:
+   no step without something happening that would make a real person take
+   it.
+6. **Hostile read.** After writing, reread the scene as a suspicious
+   reader. At every line ask "how does she know that?", "why would he do
+   that?", "would anyone do that?", and fix it before sending.
+7. **Show, don't explain.** Feelings and reasons come out in what people
+   do and say. No narration that tells the reader what someone feels, why
+   they did something, or what a moment means ("She understood perfectly
+   well what Kiana was doing", "It was the easiest question anyone had
+   asked me", "That was why it was no"). If the reader needs the reason,
+   give it as an action, a thing in the room or a line of dialogue (Kiana
+   counting Mei's people on two fingers; "I liked" crossed out until the
+   pen goes through). Before sending, cut every sentence that explains what
+   the scene has already shown. Emotional peaks get the least explanation
+   of all.
+
+## Fights
+
+Fights follow [fight-writing.md](fight-writing.md), with every fighter's kit in
+[combat-kits.md](combat-kits.md). The author sees the beat plan before the fight is written.
+
 ## Life Path runs
 
 - **After 18 it's immersive.** Once Eros takes over at 18, everything is
@@ -29,6 +75,23 @@ Check these before planning a chapter and again before sending it.
   what it feels like, through to the end. Never cut away just before it or
   sum it up in a log line. A death inside a childhood log plays out as a
   full scene when the memory comes back in the white.
+
+## Points of view
+
+- **One point of view per scene,** named in its first sentence. No
+  head-hopping inside a scene; switch at a scene break.
+- **Eros is first person; everyone else is close third,** past tense.
+- **Only Eros knows about the System.** Other points of view never mention
+  it, its windows or its meters.
+- **Each scene earns its point of view** by showing what Eros can't: what
+  she feels, what she sees when he isn't there, what she decides and why.
+- **Don't tell a scene twice** from two points of view unless the second
+  shows something the first couldn't.
+- **Voices come from the profiles.** Her narration leans toward her
+  register (Mei precise and still, Kiana fast and plain), and every prose
+  rule below applies to every point of view.
+- Inside a heroine run, her scenes are as real as his. The reader knows the
+  runs are real before he does.
 
 ## Continuity
 
@@ -56,10 +119,57 @@ Check these before planning a chapter and again before sending it.
   she knows of him by then. Most of what Eros learns about a guarded
   heroine, he learns by watching. If she would never tell him, he finds out
   another way, or not at all.
-- **Lies have to survive the listener.** Mei reads words, not faces, so
-  Liar's Face only hides his face. A lie that works on her is built from
-  true things, or is too short to read. Check every lie against how that
-  character actually tests things.
+- **Lies have to survive the listener.** Liar's Face only hides his face,
+  so a lie still has to get past what he says. A sharp listener like Mei
+  notices a question that wasn't answered, as anyone sharp would. A lie
+  that works on her is built from true things, or is short and plain.
+  Check every lie against how that character actually tests things.
+- **Talk stands on an event.** A conversation happens because something
+  just happened or is about to. If nothing on the page has made the
+  question come up, don't write the conversation; write the thing that
+  would make someone ask it.
+- **No posing.** No cryptic one-word answers or clever comebacks for effect
+  ("Worse."), and no exchanges that sound like a trailer or an imitation of
+  noir. When a character won't answer, they change the subject, make a bad
+  joke, or lie, as real people do.
+- **Characters lie.** Eros lies when it gets him what he wants or spares
+  someone. Show the lie, give his reason in one plain sentence, and let it
+  come back later.
+
+## How people see each other
+
+- **Nobody is Johan.** Nobody in this story is unreadable, and nobody sees
+  through people like a detective. That goes for Eros, Mei, Kiana and
+  everyone else.
+- **First impressions are ordinary.** People size Eros up the way they'd
+  size up anyone in his place (the scholarship boy, the new kid, the weird
+  one who confesses every morning, the kid who told on Daichi), put him in
+  that box, and treat him that way. They change their minds only because
+  of something that happens on the page, and even then they try the
+  ordinary explanation first.
+- **Heroines start out thinking he's like any other boy.** Mei assumes he
+  wants what every boy who confessed to her wanted (her father's name, the
+  bragging rights) and expects him to give up. She never wonders why she
+  "can't see through him"; she thinks she already has.
+- **Sharp isn't psychic.** A perceptive character notices ordinary things
+  (a question that wasn't answered, a bruise, a job nobody names) and draws
+  ordinary conclusions, which are often wrong. Nobody has "never once been
+  wrong" about people, and nobody "can always tell".
+- **People act inside the relationship they actually have.** Nobody does or
+  assumes more than the relationship on the page allows. A classmate who
+  asks her out every morning isn't family or a close friend, so he doesn't
+  turn up at her house when something happens to her family, and nobody
+  (Daichi, the class, her staff) assumes he's close to her unless they've
+  seen it. Status gaps are real: nobody expects the scholarship boy from the
+  port homes to be friends with the ME Corp heiress.
+- **His face is a normal face.** Liar's Face hides a lie and nothing else.
+  The rest of the time he smiles, winces, goes red, looks tired, and people
+  read it as they'd read anyone's. Never describe his face as blank,
+  perfect, closed or doing nothing, and nobody says he "never makes faces".
+- **Eros misreads people too.** Game knowledge tells him what people did in
+  canon, not what they're thinking now. Let him read a sign wrong and find
+  out later (in Loop 4 he takes Mei looking up in September as a good sign;
+  she was getting it over with faster).
 
 ## Staging
 
@@ -73,6 +183,17 @@ Check these before planning a chapter and again before sending it.
   room, and let Eros the fan recognize it when he would.
 - **The flat-voice test.** If a line that carries a change of mood would
   read the same in a flat voice, it needs staging.
+- **No scenery doing the feelings.** Traffic lights, weather and lamps don't
+  change on cue to mirror a mood or hold a pause. (Mei's lights going out
+  are her power waking, which is an event.)
+- **Hype, not plain.** These chapters should make the reader want to get up
+  and run thirty miles. Big moments get build-up, motion and sound: strong
+  verbs, sentences that speed up when things speed up, the camera moving
+  (close on a hand, then the whole sky), a struggle before anything breaks,
+  and a payoff the reader can see. An awakening, a death, a fight or a
+  confession is never over in two lines. Quiet scenes can be quiet, but
+  nothing is flat. A simile earns its place by making the picture bigger or
+  clearer. (Still no explaining, no posing dialogue, no AI tics.)
 - **Changes in Eros happen on the page.** When he changes how he plays
   (warm to cold, a new method, a line he swore he wouldn't cross), show the
   moment he decides, with its reason, as a scene in the white or in the

@@ -13,8 +13,8 @@ the Sea of Quanta.
 
 **Age rule:** in the childhood log (2010 to April 2013) she's under 18
 until March 2013 and written as an ordinary teenage girl. In Loop 3's adult
-half (April to August 2013) she's 18 and the world's fashion applies: a
-hand-me-down set from the older girls (see image-prompts-world.md).
+half (April to August 2013) she's 18, in a faded blue dress and a
+cardigan handed down from the older girls.
 
 **Appearance (canon):** short dark blue hair, blue eyes, small and slight.
 Holds books against her chest.

@@ -23,7 +23,7 @@ Gifts that have appeared in the story, in order of first appearance.
 | Pain Tolerance | Blue | Pain still arrives, but it doesn't stop you. | Ch 2, Run 4 (kept for the run; lost to the grade cap) |
 | Loud Voice | White | Can be heard clearly over almost anything. | Ch 2, Run 4 draw |
 | Honkai Resistance | Blue | His body withstands Honkai energy at Low D: hours in Eruption-level air. A ceiling, not power. | Ch 3, Mei run draw (held for the run, then kept permanently) |
-| Liar's Face | Green | His face doesn't give away a lie, even under stress. Does nothing for his voice or his words. | Ch 3, Mei run draw (held for the run; not kept) |
+| Liar's Face | Green | His face doesn't give away a lie, even under stress. Only while he's lying; the rest of the time his face shows what he feels, like anyone's. Does nothing for his voice or his words. | Ch 3, Mei run draw (held for the run; not kept) |
 
 ## Experience packages
 

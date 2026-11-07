@@ -49,6 +49,19 @@ normally.
 
 - **Mei:** five outfits (school, dawn dojo, home and formal, the mended one
   after November 16, the Herrscher). See image-prompts-world.md.
+- **Mei in the Collar loop (shelved for now, the-collar-plan.md):** the
+  receiver takes her tailored sets, and Eros chooses everything she wears,
+  cheap, from the shops by the station and mostly made for dogs. Outside
+  the gate, a pet shop dog harness caging her, dog-bone pasties, dog collars
+  for cuffs, and the leash. For school, a secondhand white vinyl bodysuit
+  he cuts down to a collar, one strip and a band, with tape crosses over
+  her nipples, a small dog's choke chain from her tag to the strip, and his
+  name cut out of the band (EROS reads as a rude word in Japanese, so
+  nobody reads it as a name).
+  For cooking, the noodle stall apron cut down to a bib, with the leash tied
+  off to the oven. For waiting at the gate, a clear raincoat over the
+  harness, kneeling in the snow. His brass tag is on the empty ring of her
+  choker in all of them. Image prompts 6 to 9.
 - **Kiana:** two thrifted outfits, worn in turns.
 - **Bronya:** a gray coat over the unzipped sniper catsuit; the field reverse bunny.
 - **Bronya and Seele at the house by Lake Baikal (Loop 3, April to August

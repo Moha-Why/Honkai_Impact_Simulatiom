@@ -31,6 +31,10 @@ smells of ozone and burnt metal.
 
 ## Personality (story version, built on canon)
 
+- **She's still Mei.** Not a stranger in her body: Mei's other
+  personality, the side of her that doesn't need anyone. When it talks
+  about Mei as "her", that's its pride, not the truth. What it chooses,
+  Mei chooses.
 - **Regal and contemptuous.** People are insects, scum, beneath notice.
 - **Possessive of Mei.** It sees itself as the part of her that doesn't need
   anyone. "She's mine. She was always mine. You only rented her."
@@ -60,7 +64,6 @@ names like insults.
 - "Come closer, Kaslana. I want to see your face when it breaks."
 - To Eros in Loop 2: "You. You're the one who made her small."
 - Loop 3, to Eros: "Everything dies tonight. I'm not letting it have you."
-- Its last line in Loop 4, at dawn: "She'll find you."
 
 ## How fanfic writes her
 

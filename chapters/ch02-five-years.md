@@ -1590,7 +1590,7 @@ I did it properly, like a requirements document. A waterproof backpack, dark gra
 
 The last thing was a satellite phone. I ordered it through supply, and in the box for a reason I wrote FIELD TESTING, NEW FIRMWARE, which was nearly true, because I tested the firmware on it, and the supply officer stamped it. If the networks went down, and in an Eruption the networks always went down, a satellite phone was the only thing that would still talk to anything.
 
-I knew what all of it meant. I wasn't stupid. I had a good job, and friends, and a flat with a view of the sea, and a boy in Hangzhou who sent me math problems, and a girl in Shiomi who sent me games, and I'd spent a month quietly building myself a way to leave all of it in the middle of the night. Two lives without a family had taught me that people went away, and things ended, and you'd better have your shoes on when they did.
+I knew what all of it meant. I wasn't stupid. I had a good job, and friends, and a flat with a view of the sea, and a boy in Hangzhou who sent me math problems, and a girl in Shiomi who sent me games, and I'd spent a month quietly building myself a way to leave all of it in the middle of the night. I'd already died once at a desk because I'd ignored the warnings, and it had taught me that things ended, and you'd better have your shoes on when they did.
 
 Asami saw it the first time she came up after that, and stopped in the doorway and looked at it.
 

@@ -10,8 +10,7 @@
 
 ## What the chapter has to do
 
-- Show the fan. He's warm, funny and a lore nerd, and he's lonely without
-  ever saying so.
+- Show the fan. He's warm, funny and a lore nerd.
 - Plant the dark undertone: the people who died in Siberia, a draft that
   isn't really a choice, and an orphan nobody will look for.
 - Set the power floor: Civilian, Honkai Adaptability F, and he's a man in a

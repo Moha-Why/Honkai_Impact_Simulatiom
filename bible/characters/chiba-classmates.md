@@ -14,17 +14,28 @@ hear.
   about that family."
 - **Natsumi:** follows Sayaka. Laughs a beat after everyone else. Is the one
   who moves her desk away from Mei's first.
-- **Birthdays (world fashion):** Sayaka May 20, 1995 (18 from May 2013; a
-  new white latex and gold chain set after November 16). The third girl in
-  Mei's circle turns 18 in September 2013 and matches Sayaka within the
-  week. Natsumi is born January 9, 1996, so she wears the ordinary blazer
-  until January 2014. Hayashi Rin is born February 2, 1996 (17 all autumn,
-  ordinary kendo gear). Under-18 students are never described in the
-  world's fashion.
+- **Birthdays:** Sayaka May 20, 1995 (18 from May 2013; after November 16
+  she turns up in a new white wool coat with gold buttons). The third girl
+  in Mei's circle turns 18 in September 2013. Natsumi is born January 9,
+  1996, and Hayashi Rin February 2, 1996 (both 17 all autumn).
 
 **In Chapter 3:** Loop 7, Eros lets Sayaka see what she wants to see. Loop
 8, he knows when they'll say it in the corridor and makes sure he's beside
 Mei when she hears it, and does nothing to stop it.
+
+**In Chapter 4 (Loop 4):** Mei asks Sayaka outright, in front of the class,
+whether she's still her friend. Sayaka cries ("I'm sorry, I'm so sorry, my
+mother said...") and sits with her at lunch for one day, chattering about a
+TV drama (a clinic, a younger brother back from Osaka who, in Mei's words,
+"has a face like a wet dog"), with the class chat turned face down: "You'll
+have to watch it with me." Eros's police rumor, planted with Emi, sends her
+back to the vending-machine table the next Tuesday. Natsumi sits behind Emi
+and hears him plant it. In December she tells Mei at the shoe lockers, and
+Mei sends her away ("Please don't come closer now to tell me who else I
+should stay away from.").
+
+- **Emi:** Sayaka's best friend. Sits behind Eros in maths and never liked
+  Mei. The ear he puts the rumor in.
 
 ## Kuroda Shun
 
@@ -77,6 +88,17 @@ then can't look at her.
 
 - "It's not personal, Raiden-san. The parents are asking questions."
 
+**Loop 4:** apologizes by reflex, nearly cries when Eros takes the manager's
+job, and tells him most things while he tapes her wrist. Keeps the club's
+correspondence in the back of the record book and signs Mei's letter to the
+board. Mei resigns before the vote and hands her the letter at her classroom
+door: "I'd have voted for you." "I know you would have. So it's better that
+you don't have to." Brings Mei's armor to 3-A in a bag.
+
+- **Tomo:** a round-faced kendo first-year. Reties Eros's hachimaki ("You've
+  tied that like a bandage") and warns him the captain once made a
+  second-year cry.
+
 ## Mr. Fujita
 
 **Role:** homeroom teacher of class 3-A. Tired, decent, close to
@@ -87,3 +109,17 @@ nothing about the bullying and knows it.
 - "Please make our new classmate welcome. He's here on a scholarship, so
   he's very clever. Probably."
 - "Kuroda. Sit down. Please."
+
+## School staff
+
+- **The principal:** unnamed. Proud of the school's ME Corp patrons and
+  reads the foundation scholarships aloud at the October assembly every
+  year, through a microphone that whistles on every s. "Every year I have
+  the honor of reading this list, and every year, I'm happy to say, it is
+  much the same list." In Loop 4 he names Raiden Ryoma from the stage and
+  makes Eros stand.
+- **The caretaker:** does the evening round with his keys. "Raiden-san.
+  I'm locking up."
+- **The night secretary:** unnamed, in the school office. Takes Eros's
+  anonymous call about Kiana on December 18 in Loop 5 ("I'll put it on the
+  principal's desk tonight"). He dies on the hill the same night.
