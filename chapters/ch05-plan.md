@@ -42,6 +42,9 @@ and smiles at her with her hand in his chest.
 - **Out loud he's never heard of Honkai.** What he knows from Loop 4 shows
   only in where he stands and what he does, and when it shows, someone
   notices.
+- **Nothing romantic before 18.** The ward is a friendship: tiles, cars,
+  the cuts, the pin. Nobody in it talks about going out. The asking starts
+  in 2013, and it's his.
 - **Repeated days don't get retold.** When a day repeats, write the one
   thing that's different and let the rest go by in a line.
 - **Fights:** anime style, kits first, beat plans approved before writing.
@@ -85,8 +88,7 @@ Cold choices from the white; past each fork he can't steer the boy.
 4. **The ward years.** The car game; the second pillow; Nurse Kanda's "Ten
    more minutes"; the van, told once with her back to the radiator ("You're
    the only one who didn't say sorry"); Ryoma "keeping something asleep";
-   the promise at ten ("No. Every time. So you'll have to keep coming
-   back."); the first three cuts with rolled-up magazines in the corridor at
+   the first three cuts with rolled-up magazines in the corridor at
    midnight, and the night nurse sitting down on the floor laughing.
 5. **Osaka (2007).** "Go with her," for the gap with letters in it. On the
    floor under the window she takes out one of her two pins: "So you'll
@@ -112,7 +114,7 @@ Cold choices from the white; past each fork he can't steer the boy.
    back." He holds up the pin; she crosses in front of the whole line of
    cars and holds on. "You didn't tell me." "I wanted to see your face."
    (Fond.)
-10. **The confessions.** "Like you promised when we were ten." She laughs,
+10. **The confessions.** "Raiden-san." "You've never once called me that." She laughs,
     then "I'm sorry. No." "Tomorrow, then." The marks on the board; Emi's
     money on a yes by Christmas. "That's nineteen." "Twenty." "You're
     counting." "So are you."

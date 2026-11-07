@@ -78,7 +78,6 @@ Say nothing / Say good evening / Ask him why he's always tired
 
 ```
 [2005, October. "Why are you always tired?" you ask. He looks at you. "Because I'm keeping something asleep," he says. "Like you." He watches her sleep for another ten minutes, and goes.]
-[2005, December. You're ten. On the last night of the year, counting cars at the window, she tells you that if you ever go away and come back, you're allowed to ask her to go out with you. You ask what she'll say. "No," she says. "Every time. So you'll have to keep coming back." You promise you will.]
 [2006, February. She teaches you the first three cuts of the sword her teacher taught her, with two rolled-up magazines, in the corridor at midnight. A night nurse catches you and laughs so hard she has to sit down on the floor.]
 [2006, May. Her father puts his hand on your head on his way out and says, "Thank you for looking after her." You don't know what he means. You were only counting.]
 [2006. She starts sleeping through the night. She still asks for the second pillow.]
@@ -254,9 +253,9 @@ On the second morning I stood up at her desk at eight-twenty, with the whole cla
 
 She looked up from her book. The room went quiet, thirty people deciding to listen without looking as though they were.
 
-"Like you promised when we were ten," I said. "If I ever came back."
+"Raiden-san," she said. "You've never once called me that."
 
-She laughed. It surprised her as much as anyone. It came out of her all at once, and she put her hand over her mouth, and her eyes were wet, and she was still laughing behind her hand.
+Then she laughed. It surprised her as much as anyone. It came out of her all at once, and she put her hand over her mouth, and her eyes were wet, and she was still laughing behind her hand.
 
 "I'm sorry," she said, when she could. "No."
 
