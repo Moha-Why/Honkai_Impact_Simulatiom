@@ -28,7 +28,9 @@ Soul damage: a scattered detail
 ## Eros talking to the System
 
 He can talk out loud or in his head. Out loud uses normal quotation marks.
-In his head uses italics with no quotation marks.
+In his head uses italics with no quotation marks. His other thoughts in the
+moment are italics too, since the System hears those as well (see
+writing-checklist.md, Point of view).
 
 ## Panels
 

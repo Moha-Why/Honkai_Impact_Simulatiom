@@ -3,7 +3,7 @@
 | File | Contents |
 |---|---|
 | [style.md](style.md) | Language, narration, tone |
-| [writing-checklist.md](writing-checklist.md) | Continuity, dialogue logic, pre-chapter steps, prose check |
+| [writing-checklist.md](writing-checklist.md) | How to edit, point of view, talk and voices, his knowledge, loops and runs, logic, power, technology, continuity, content, prose check |
 | [formatting.md](formatting.md) | How System notices, panels and run logs look on the page |
 | [content-rules.md](content-rules.md) | Rules on romance involving minors and on sexual content |
 | [timeline.md](timeline.md) | Canon dates with this story's changes |
